@@ -1,0 +1,3510 @@
+{
+  "draftDetail": {
+    "drafted": true,
+    "inProgress": false
+  },
+  "gameId": 1,
+  "id": 924923029,
+  "members": [
+    {
+      "displayName": "ESPNFAN2292152926",
+      "firstName": "Keith",
+      "id": "{00DA8318-CC72-48B0-A40D-9BF91DBFFFCE}",
+      "lastName": "Strege Jr",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "7cdcbc79-2035-304b-8e75-aa700fe2bcf5",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "7e39b15b-e56d-3fc4-863d-b24334129738",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "67539354-0dea-343d-992e-78a955eb42d7",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "0d83b138-0ccf-3459-8355-4ec3e117cf95",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "c12171cd-f366-38eb-bd99-a649470bfa5c",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "afa99193-d544-3a20-88bb-bcfad6233c3a",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "18585bec-6fd8-32df-a5e5-362104a232e0",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "c7b8ffb5-849c-380c-9cb3-f9418d928478",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "e6fa2676-d98e-3223-ba26-f48c41cff916",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "4c2fe9aa-ce90-3c20-81b6-4330d6d3a1fe",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "3a887574-a1af-3541-be11-8833256585fb",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "aecb74f1-8d5f-3cc4-8a99-8118e5680e9f",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "928b9834-dce7-3ed7-a081-a8a66281f46a",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 9,
+          "id": "ff863898-475f-3cb0-b627-8ea8e2280e62",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 9,
+          "id": "080afc54-6806-371f-8df4-a7e28c7ead3a",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "JacobSpitzley",
+      "firstName": "Jacob",
+      "id": "{014C4C19-1441-432F-9905-83396C8651FF}",
+      "lastName": "Spitzley",
+      "notificationSettings": [
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "560f0cdb-49a9-3f2b-8a7b-6da90a46933d",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "f44c88b9-eb89-3cf8-8d46-40035c6b2fa5",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "8ac47634-eacf-38b9-9c52-b85e9ee53a41",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "2736ba9d-4dfa-31a0-a576-7b840d25b6ab",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "4a02021f-23cb-3f67-b4ed-065b6ecd0151",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "6f723216-f095-313c-adfa-5062431fee51",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "7f4c0e51-e5c8-3c03-b660-a09048fbaef8",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "59153079-cd52-3366-9437-77295be2608a",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "97ee39eb-d315-3740-a674-c302f8e6a5f0",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "9f73aec0-6da8-3a3a-a0bc-9f91a8be7c81",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "88132dd9-90e5-3a78-b1da-543780f665a4",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "66b80d71-7c6f-3d54-8a2b-608835e989a8",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "280dc09a-8cf0-3e9c-a1d9-456b3bc0d670",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "2750e25a-47f3-3048-a5c0-773ceed6fdf5",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 12,
+          "id": "06fc1059-0f5f-3d1e-b235-3b6c41db1459",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN2062204722",
+      "firstName": "Sylvia",
+      "id": "{114004BB-48F0-4353-BE33-AE44E40BD5DA}",
+      "lastName": "Davis",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "cfece095-eb21-3ae9-a8f7-02229275d9cb",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "5c656943-3603-35b6-8658-83393851b907",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "37e65ea5-ae3d-3b15-9998-84bd84da75eb",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "f82eeb16-5081-31f9-bfce-1dc42b78712d",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "2c6a7296-5395-3a5f-bbef-daf39d5c226b",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "0900d01d-5a10-324b-b759-4120133a6ae1",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "4062921f-2d5f-3a25-9fc6-78783204f364",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "aeddf131-8860-3ec5-b815-23e45e175246",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "c736e16a-59b1-3aac-a9b5-a5b30b7f28f4",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "a88036fd-3ede-3521-beea-76bd1d70d60c",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "2275f341-cecc-3025-86fd-e57ffcbf624e",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "36e6f9b8-1800-3cdf-8dab-9f5ec735b8a5",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "91541e91-4af1-310d-a8f7-c4241b6afbdc",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "e62b13b2-7d56-3f55-add6-5acb73e12a7e",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 11,
+          "id": "caceb2f7-3809-3ec1-82f5-08ab0a0611ba",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN0434753885",
+      "firstName": "Shilo",
+      "id": "{631B84AB-DCA4-4009-B2F8-E7A347498923}",
+      "lastName": "Reyes",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "4f80ecc9-91e6-3a80-84ba-0a80a678f924",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "60380a4c-156c-3384-a938-cb79559568e9",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "abd328ff-9dda-3698-8205-a3f1b5c81067",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "88b6f2fb-bda9-349b-933c-6d4f1a4c3775",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "3ab88179-b946-3db7-82ac-75ae4d7efe7c",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "e3ae3d30-82be-3c04-b81c-7b631c35701b",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "f8922daf-2f74-3049-9ac4-834b0de60961",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "8913795c-73d1-3ddb-806e-86b5ba2b2213",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "6dbffe35-dc9a-31be-a110-2d258760a90c",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "921e132f-c111-3860-baa6-7a1a9d9d1c5b",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "d4638e0a-ee68-39ea-a4fc-e54da4d02077",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "3607f415-96bd-3fe9-91c0-d8b5222a1b57",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "578beb12-3aa0-3091-968f-8eb3d8fa020e",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "c2bc81bc-5f2c-3a85-9cae-8d127b164880",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 4,
+          "id": "bfeb9fd6-8ed0-3b1c-8b0b-c8b0d18434f9",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN8560508228",
+      "firstName": "Austin",
+      "id": "{63F2CC2E-EF2C-44E3-B0D6-58BE64214A41}",
+      "lastName": "Lenhardt",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "d3c05fca-9da0-397a-b61e-1beeb26899f2",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "49a2c3dc-741e-3dfb-a30d-f17dd9eabdc9",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "a351812e-d2dc-3c81-a0dd-9c11bf024b27",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "0920ebf5-8e86-3551-8b3c-20861dc68525",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "6d99e3ec-ead8-3a79-beaa-3612c9c5f148",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "544629a5-4c19-3828-b442-7466af78eb2d",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "ba46e2e8-8340-3415-8b5d-ae614ce5c185",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "3fd6a718-04bb-376a-86f9-d6abeb3c89f1",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "ead5e492-8161-3c4e-a2b4-544143586f80",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "9c5c5d49-db97-37ac-8cfa-0afd47baff88",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "f9ad3082-5030-30e7-9150-3f2b7fb0ddb9",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "b62a440c-1cfe-3774-af24-4c05c7246c61",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "fd2a73e2-1cd8-3a2e-baec-7d8a05ea112e",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 2,
+          "id": "37813c9d-cae6-3cdc-84e9-6cac4178678d",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 2,
+          "id": "852c867c-5ec5-3ed0-9527-989745173a7f",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "espnfan4861138971",
+      "firstName": "Noel",
+      "id": "{6BBD4090-20CC-496D-B7B7-51DC200D9570}",
+      "lastName": "Taves",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "0cdaa668-edce-33ef-9306-81b7638378bb",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "9c9e6365-c2fc-3e52-a3a0-eb0cfbf563d6",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "d1c2086d-df86-3c12-b44a-825dbba4bd93",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "66441eac-36e6-3e1b-93f5-074aea58b723",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "d08b5a41-63d7-3a60-b1ae-8323f18fc6d7",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "f0ad5eee-d169-3c13-ae37-a78a05a620b6",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "43c57d77-fa07-3e25-b3fc-3b65d06aaa05",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "f5cfa45b-131f-38ee-8de9-53ba83e882e3",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "a1949a18-d8b5-32a2-ac76-64ebeb8a54a7",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "cda3dcbf-54c2-3be6-b551-f1806205548c",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "90de5904-1906-3a71-8773-f88b0cc1ec34",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "33d83672-5abc-35ac-b1a6-fd817a1d0cff",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "4e71f063-ed8c-386f-b7ec-253c9fd8a9cf",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 7,
+          "id": "2ff2d781-3142-39a4-bcf9-63940bac8036",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 7,
+          "id": "86186a64-4c1a-3fd4-a1a2-c69330b68f50",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "espnfan9374352917",
+      "firstName": "Cole",
+      "id": "{805B68B2-CED8-4680-ACC4-0526FC3E00CB}",
+      "lastName": "Piepgras",
+      "notificationSettings": [
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "1aa4d957-861b-3d68-88ff-d99dbe5cf901",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "4489722a-5e68-35d8-bcab-e5a2874900c5",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "4a92cfa0-5e9d-36bd-8940-91a370f64866",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "4b5272a6-5b0a-3ffa-924e-18e4e737cb45",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "5bd67f29-f7ae-3730-b066-92e3bf06c2d9",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": false,
+          "forId": 13,
+          "id": "69b64837-6644-3169-98dd-8b2d0d463b1e",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "a449855f-fd10-3bce-86e5-ec12eebf73ce",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "bbf27887-6677-32bf-a684-0df6cb478b07",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "c5f0bfb6-0c7a-39df-ab4f-9ce3c96b2416",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "c7208b74-6c98-3416-9892-cbd94a0dfb81",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "de096913-b90b-38cb-80ec-62eee0b3aae6",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "e982e144-782d-37bc-9a15-309183c39fa1",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "ea6685b3-e001-393e-a837-09690ed0c09c",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "eaccf5c6-7797-318d-a8d0-aa7fd216e801",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": false,
+          "forId": 12,
+          "id": "f6e4f15b-5429-3093-aba9-b2b1a77e71ef",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "37a1dfcf-8ebf-3969-a08e-23eacba63cba",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "9a99c0ae-b216-3b35-9218-0ada0bdfae5f",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "b271aa19-1886-35d1-bc77-a2a3b1347389",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "d2224e91-367a-3dd4-8cfb-e4cf49a71ca1",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "5adb499b-c96f-3115-a1f4-fda924811fca",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "e749059f-fc50-357a-b0b7-edaf5d5d22b7",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "5a31eff6-f921-35e7-a7ac-5ff9366bc7cb",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "10220db4-70c0-39ff-bbe0-6acbf9b6e683",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "6e8c656a-dc05-36f1-91f6-ecc32e0bea4b",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "51603ccd-a282-352e-bbca-bca4ebaf4901",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "c1d38c23-9004-3507-be73-4ca8a10c276c",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "e305760e-f040-3acf-a235-ea348afddea9",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "3a7fe2f0-5984-39de-8032-084634d1af1d",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 13,
+          "id": "55de5439-ef3b-33de-ac9b-a878cb7e54bf",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN7232574303",
+      "firstName": "Clayton",
+      "id": "{8DC0E1A4-3B77-4131-B3A9-92012E167696}",
+      "lastName": "Schrumpf",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "05a4c1eb-e680-3540-a598-e7dd1a32da70",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "cf51f910-5a3d-3dde-a845-d7efeb65eb48",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "36ea3959-22c1-3389-95af-2b45a1229ea2",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "597c8a34-7197-36a9-9948-e83d2b2ea8f1",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "8ff07e6d-ed61-341e-aada-3433e1a53962",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "cb423206-cce2-3461-9806-10d8b4788304",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "6fc72d9a-7def-3ab2-9a5f-93bd3b338c32",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "015b2f24-6877-3a13-889c-de8481f406b2",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "570dbbf2-8c65-3947-aeb7-e62c5d894f9a",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "4299fd0a-a918-3283-b0f0-179f0bc4d529",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "7e7ec72d-c799-375b-9616-f2d431493226",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "6c398213-74ba-3826-a126-2a3253ae1a32",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "a520d71a-3bb2-38df-abfa-c373026a787f",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 14,
+          "id": "0cbd6ea8-a134-3503-a313-7f5ef57e746a",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 14,
+          "id": "b273105a-7435-3bad-a965-b4401c861cf0",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN1744805458",
+      "firstName": "Ozzie",
+      "id": "{926F67AE-FEC3-4D8E-ABE8-B244555FE241}",
+      "lastName": "Reeves",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "8699d71a-9ef2-364e-98b3-dd07c0a5574a",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "192fde9d-9960-390a-9e19-86d02527885e",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "6713ed1f-43bb-35d7-a6f0-563ea87a8319",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "25e0fee1-0c65-30de-a253-4c1239953120",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "591c9050-d8da-3f20-b67b-026267d4b6b6",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "af01715c-0c24-36e7-971a-343a2664c955",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "b4d38fd3-7d0b-3faa-9356-ef527af63172",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "3127b5da-a3e9-3754-ad78-203ed092c22b",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "a0becee9-f291-3e7e-a2dd-11108c7f9264",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "ef80db25-5623-39ec-b9ce-dbf852c5445b",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "e7d923d4-03d1-347b-bc2a-23980f1bc36b",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "f5365b36-4c1f-3ae8-8c6f-97d2b4bef87e",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "10065458-1cdf-34b2-9501-80ccc4a5b6f4",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 5,
+          "id": "be28007c-ba8b-3df6-9b05-1f6cbad7add1",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 5,
+          "id": "4ecbc375-0051-35b1-b6e3-44c374addc86",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN1517162992",
+      "firstName": "jennifer",
+      "id": "{BEA35299-05CE-47B7-B00D-9DA298A35D1C}",
+      "lastName": "strege",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "63b514a3-c776-3696-afe1-f1a327b42267",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "6afef205-a7ea-3244-b780-40ec36a08c63",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "b144c252-bad9-3078-8c1c-475bdc9fbb82",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "d0e28b4f-bd9d-3e63-8362-e9b4ec16fccc",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "67e4de15-d20d-3d61-a51c-dbca1e380d5b",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "a0924890-dd2f-3334-b3f9-bfafac0a6a11",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "7b0cfaa2-9c2f-38bb-97ab-17750341bccc",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "626f125b-2c40-3b93-9509-4074505ce7e9",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "4d7acdb7-56b8-36d8-9ef9-b3e47bf9a820",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "8c7fea05-8ed6-3b2c-9d15-a1c9321801bd",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "bb0bd1f0-af04-3ac6-9e7b-a5953702779b",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "5ba0a3c9-5795-35a5-b4ad-dc4444a40ee1",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "0562d654-581f-31f9-8476-be5821d00735",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 8,
+          "id": "8dad2d6a-8bf6-30fc-8556-5871389eb4b3",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 8,
+          "id": "39ced783-348e-330e-9472-649821e35b59",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN0247714691",
+      "firstName": "Conrad",
+      "id": "{CEF3F0DA-C95C-4FF3-8B65-49828ED50BF9}",
+      "lastName": "Reeves",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "6071c792-da3b-302f-a4a4-b344fa210f23",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "dec519d0-9dba-39d0-a89d-99a980a1f6ae",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "718f61f7-463d-3b2c-b4e6-720bb3761221",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "a72d3ce9-b024-3bbc-842a-6c4d4a4922c6",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "8cff9e79-d76f-37a0-b203-ea1e49681730",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "afb3c8b0-0048-36c8-b939-9fa41d9c85cb",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "6c395885-c157-3e7a-afd6-b72240ae9cdd",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "8bae893f-f604-3d3c-b033-eb7925e026fc",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "aeab2f69-1d34-3daa-b5d9-37078d006f37",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "24989f62-4e8f-36c3-b785-bb73bed133e6",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "3149c4cd-1bd1-3f04-a3bb-2dca58272dd4",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "99c47ad9-e736-3d2b-8ba5-f27b6ce66e87",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "f2992c12-1c5f-3d2a-aee2-3cb15fc26548",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 1,
+          "id": "29a9efd3-060f-3d72-8c4a-0d1ff49ddae9",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 1,
+          "id": "fe09587d-8ba9-3d2a-a175-2ca9d3f4667d",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "Austin27234",
+      "firstName": "Austin",
+      "id": "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}",
+      "lastName": "Piepgras",
+      "notificationSettings": [
+        {
+          "enabled": false,
+          "forId": 3,
+          "id": "4776922a-3b5a-347c-9fa8-ceee895773bc",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "2c56fa73-a270-3516-b746-4bee4b5bfcba",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "c9034a85-9dec-3386-a0ff-2039d817cd78",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "1937ded7-a264-33ae-ab68-f3246c70b93a",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "2867bbcd-eb98-3721-af2d-fce2546c74f8",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "bdebd33b-2631-357c-b8bb-be65451aa93c",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "dcbbca98-4093-387c-a647-7b0377bf55f7",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "270689a8-5cc3-3dbd-bfd7-9972b3262edd",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "c0df7d96-8f6c-32eb-a8f5-9b7f57d61d1b",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "1ccff712-3a87-3afc-a373-7f15dfc13251",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "9107f244-2d10-3311-93e0-919d9cfed459",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "4db2c5e5-45d9-3d5a-a6fb-b4edc6aef26a",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "2d5ea8e9-60e1-3956-8904-bd13203987ce",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "af67a23d-b4b9-3f58-8284-c7e2a7d74602",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 3,
+          "id": "ae882499-489b-34ba-93f1-3a455e553d6c",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    },
+    {
+      "displayName": "espnfan2053769594",
+      "firstName": "Eric",
+      "id": "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}",
+      "lastName": "Young",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "55cf548f-3f4c-352d-8964-201d54f57d8a",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "4ce9b88d-f1d5-3749-b98d-65680ba9b2d8",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "f9c3a7dd-1792-3fd9-8f67-5e464abd39dc",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "f6ccc0d2-ffc6-3b23-963b-1f69c69b7b22",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "a3ee1df3-9b18-397e-be08-6d4212208d4b",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "d917ad32-31b7-3cee-9e58-ea1be4835199",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "db4ccefb-7108-3663-bddd-ed02446cf9b7",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "31b589c5-ec07-3149-a442-e12e947a500f",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "b60b6557-b7fa-30da-9c3d-13095c7c2663",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "96fe0c43-b58e-34a2-9da1-6ed7e648de84",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "7c12fcc2-9513-3d2b-a6d7-2538b3c7d95e",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "77bc44a4-bb2f-3609-b4b8-2551be275e66",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "0bb87e3e-9c47-3d7a-bae6-25f1faa8eee0",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 6,
+          "id": "7d10f2e3-f146-33bb-8de8-30c3765e2a78",
+          "type": "CELEBRATION_SHARE"
+        },
+        {
+          "enabled": false,
+          "forId": 6,
+          "id": "141f6ec6-469c-390d-89ff-9ffa7b4e2b6a",
+          "type": "TEAM_LIVE_ACTIVITY"
+        }
+      ]
+    },
+    {
+      "displayName": "ESPNFAN9872974090",
+      "firstName": "Dylan",
+      "id": "{E22844FD-FE14-4501-8B93-6B011BEB0A75}",
+      "lastName": "Roberts",
+      "notificationSettings": [
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "2e2d48fc-ca05-35d9-b528-4af9b8931e0b",
+          "type": "TEAM_LIVE_ACTIVITY"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "aa1dc399-47ef-3b9a-9783-c99253fd2ebb",
+          "type": "TEAM_PLAYER_INJURY"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "37fa4e0e-e03a-30d3-a04e-fce960c2378d",
+          "type": "TEAM_PLAYER_AVAILABILITY"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "ac410886-7c5f-38c2-85db-07d258f178cc",
+          "type": "TEAM_PLAYER_NEWS"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "77d7f55f-e55b-325d-9bc3-2400ea5713fa",
+          "type": "TEAM_PLAYER_STARTBENCH"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "50b4cdfc-e007-3529-8e10-97949339ec16",
+          "type": "TEAM_TRADE_OFFER"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "cb8e4ed9-c3d3-3599-a6bf-4f90de7121c0",
+          "type": "DRAFT"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "a6578cef-bf97-3a83-888d-3e7b41610211",
+          "type": "TEAM_MATCHUP_SCORE"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "ba873f8b-0251-3d50-b97f-c44501aec0d0",
+          "type": "KEY_PLAY"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "36076f8f-4fc3-3ebf-bd8c-70249634b0a3",
+          "type": "ACHIEVEMENT"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "3a07cfa7-c3a0-3271-9636-2ae14db991ff",
+          "type": "REDZONE"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "54992df1-9425-3ac1-8a7f-07c78480c8a3",
+          "type": "ADD_DROP"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "e60e1b69-cc6d-3ded-b0ed-d5a490e1adea",
+          "type": "WEEKLY_RECAP"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "da29cc4c-385c-344c-91d4-1e155ab48965",
+          "type": "WAIVERS"
+        },
+        {
+          "enabled": true,
+          "forId": 10,
+          "id": "80985ad7-84af-3b69-b594-d5a5d4c91667",
+          "type": "CELEBRATION_SHARE"
+        }
+      ]
+    }
+  ],
+  "scoringPeriodId": 10,
+  "seasonId": 2026,
+  "segmentId": 0,
+  "status": {
+    "activatedDate": 1784734858330,
+    "createdAsLeagueType": 3,
+    "currentLeagueType": 0,
+    "currentMatchupPeriod": 10,
+    "finalScoringPeriod": 17,
+    "firstScoringPeriod": 1,
+    "isActive": true,
+    "isExpired": false,
+    "isFull": true,
+    "isPlayoffMatchupEdited": false,
+    "isToBeDeleted": false,
+    "isViewable": false,
+    "isWaiverOrderEdited": false,
+    "latestScoringPeriod": 10,
+    "previousSeasons": [
+      2024,
+      2025
+    ],
+    "standingsUpdateDate": 1794297865254,
+    "teamsJoined": 14,
+    "transactionScoringPeriod": 10,
+    "waiverLastExecutionDate": 1794297864655,
+    "waiverProcessStatus": {
+      "2026-08-23T07:03:06.755+00:00": 2,
+      "2026-09-16T07:17:44.258+00:00": 4,
+      "2026-09-18T07:48:23.475+00:00": 1,
+      "2026-09-23T07:11:09.282+00:00": 7,
+      "2026-09-25T07:16:54.193+00:00": 1,
+      "2026-09-30T07:17:10.761+00:00": 11,
+      "2026-10-01T07:31:46.313+00:00": 2,
+      "2026-10-02T07:42:49.766+00:00": 1,
+      "2026-10-07T07:03:31.659+00:00": 10,
+      "2026-10-08T07:42:26.479+00:00": 2,
+      "2026-10-14T07:35:09.307+00:00": 9,
+      "2026-10-18T07:02:20.537+00:00": 1,
+      "2026-10-21T07:37:58.084+00:00": 6,
+      "2026-10-23T07:09:52.375+00:00": 2,
+      "2026-10-25T07:22:09.725+00:00": 1,
+      "2026-10-28T07:13:00.408+00:00": 5,
+      "2026-10-29T08:10:50.170+00:00": 2,
+      "2026-11-04T08:59:25.647+00:00": 8
+    }
+  },
+  "teams": [
+    {
+      "abbrev": "SBS",
+      "currentProjectedRank": 3,
+      "divisionId": 0,
+      "draftDayProjectedRank": 2,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 1,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_04.svg",
+      "logoType": "VECTOR",
+      "name": "Sandbaggers ",
+      "owners": [
+        "{CEF3F0DA-C95C-4FF3-8B65-49828ED50BF9}"
+      ],
+      "playoffSeed": 3,
+      "points": 1110.18,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{CEF3F0DA-C95C-4FF3-8B65-49828ED50BF9}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 6
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.8,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 4
+        },
+        "overall": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 988.48,
+          "pointsFor": 1110.18,
+          "streakLength": 2,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 6
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 17,
+        "drops": 17,
+        "matchupAcquisitionTotals": {
+          "3": 5,
+          "4": 4,
+          "5": 3,
+          "7": 2,
+          "8": 2,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 54,
+        "moveToIR": 4,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 2
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 4.0,
+        "3": 2202.0,
+        "4": 18.0,
+        "132": 3.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 4.0,
+        "135": 0.0,
+        "72": 6.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 3.0,
+        "206": 0.0,
+        "80": 2.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 6.0,
+        "85": 6.0,
+        "86": 30.0,
+        "24": 1437.0,
+        "25": 15.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 2.0,
+        "92": 1.0,
+        "93": 0.0,
+        "95": 6.0,
+        "96": 2.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 17.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 2824.0,
+        "43": 15.0,
+        "44": 1.0,
+        "53": 261.0,
+        "123": 1.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 12
+    },
+    {
+      "abbrev": "BL",
+      "autoPilotStatus": {
+        "enabled": false,
+        "type": "NONE"
+      },
+      "currentProjectedRank": 2,
+      "divisionId": 0,
+      "draftDayProjectedRank": 13,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 2,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/core/OldTimeMickeyAndFriends/Football_Mickey.svg",
+      "logoType": "VECTOR",
+      "name": "Beginners Luck ",
+      "owners": [
+        "{63F2CC2E-EF2C-44E3-B0D6-58BE64214A41}"
+      ],
+      "playoffSeed": 2,
+      "points": 1017.2800000000001,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{63F2CC2E-EF2C-44E3-B0D6-58BE64214A41}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        },
+        "division": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.7777777777777778,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 7
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 0,
+          "percentage": 1.0,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 3,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.7777777777777778,
+          "pointsAgainst": 899.5400000000001,
+          "pointsFor": 1017.2800000000001,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 7
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 5,
+        "drops": 4,
+        "matchupAcquisitionTotals": {
+          "5": 1,
+          "6": 2,
+          "7": 2
+        },
+        "misc": 0,
+        "moveToActive": 19,
+        "moveToIR": 1,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 1.0,
+        "3": 2692.0,
+        "4": 27.0,
+        "132": 2.0,
+        "133": 2.0,
+        "134": 1.0,
+        "198": 1.0,
+        "135": 0.0,
+        "72": 8.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 8.0,
+        "206": 0.0,
+        "80": 8.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 7.0,
+        "85": 0.0,
+        "86": 26.0,
+        "24": 1182.0,
+        "25": 16.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 1.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 5.0,
+        "96": 6.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 30.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 2274.0,
+        "43": 9.0,
+        "44": 0.0,
+        "53": 210.0,
+        "123": 2.0,
+        "124": 1.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 13
+    },
+    {
+      "abbrev": "TUG",
+      "currentProjectedRank": 4,
+      "divisionId": 0,
+      "draftDayProjectedRank": 9,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 3,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://i.pinimg.com/originals/84/29/94/8429942830ee706352fa51d1af23d503.jpg",
+      "logoType": "CUSTOM_VALID",
+      "name": "The Unextraordinary Gentleman ",
+      "owners": [
+        "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}"
+      ],
+      "playoffSeed": 5,
+      "points": 899.16,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.6,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "division": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 6
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.75,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 3,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 874.94,
+          "pointsFor": 899.16,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 6
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 28,
+        "drops": 28,
+        "matchupAcquisitionTotals": {
+          "2": 3,
+          "3": 3,
+          "4": 7,
+          "5": 3,
+          "6": 4,
+          "7": 2,
+          "8": 4,
+          "9": 2
+        },
+        "misc": 0,
+        "moveToActive": 34,
+        "moveToIR": 2,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 1.0,
+        "130": 4.0,
+        "3": 2374.0,
+        "4": 16.0,
+        "132": 1.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 1.0,
+        "135": 0.0,
+        "72": 3.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 3.0,
+        "206": 0.0,
+        "80": 10.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 9.0,
+        "85": 4.0,
+        "86": 20.0,
+        "24": 1104.0,
+        "25": 7.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 4.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 7.0,
+        "96": 4.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 22.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 1.0,
+        "104": 0.0,
+        "42": 2158.0,
+        "43": 10.0,
+        "44": 1.0,
+        "53": 206.0,
+        "123": 1.0,
+        "124": 1.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 10
+    },
+    {
+      "abbrev": "MGGA",
+      "autoPilotStatus": {
+        "enabled": false,
+        "type": "NONE"
+      },
+      "currentProjectedRank": 10,
+      "divisionId": 0,
+      "draftDayProjectedRank": 1,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 4,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/12.svg",
+      "logoType": "VECTOR",
+      "name": "Make Gronk Great Again",
+      "owners": [
+        "{631B84AB-DCA4-4009-B2F8-E7A347498923}"
+      ],
+      "playoffSeed": 11,
+      "points": 941.6000000000001,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{631B84AB-DCA4-4009-B2F8-E7A347498923}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.2,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 3,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 1
+        },
+        "overall": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 980.7599999999999,
+          "pointsFor": 941.6000000000001,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 3,
+        "drops": 2,
+        "matchupAcquisitionTotals": {
+          "5": 1,
+          "7": 1,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 16,
+        "moveToIR": 1,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 2.0,
+        "130": 2.0,
+        "3": 2065.0,
+        "4": 13.0,
+        "132": 2.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 2.0,
+        "135": 0.0,
+        "72": 6.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 3.0,
+        "206": 0.0,
+        "80": 2.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 5.0,
+        "85": 1.0,
+        "86": 17.0,
+        "24": 1615.0,
+        "25": 14.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 4.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 4.0,
+        "96": 8.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 20.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 2045.0,
+        "43": 15.0,
+        "44": 1.0,
+        "53": 185.0,
+        "123": 3.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 4
+    },
+    {
+      "abbrev": "RSB",
+      "currentProjectedRank": 6,
+      "divisionId": 0,
+      "draftDayProjectedRank": 7,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 5,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/ShieldsOfGlory-LDopa/ShieldsOfGlory-05.svg",
+      "logoType": "VECTOR",
+      "name": "Rattlesnakes ",
+      "owners": [
+        "{926F67AE-FEC3-4D8E-ABE8-B244555FE241}"
+      ],
+      "playoffSeed": 6,
+      "points": 1051.7600000000002,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{926F67AE-FEC3-4D8E-ABE8-B244555FE241}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 3,
+          "percentage": 0.4,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 2.0,
+          "losses": 4,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 5
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.75,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 2.0,
+          "losses": 4,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 896.5200000000001,
+          "pointsFor": 1051.7600000000002,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 5
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 11,
+        "drops": 13,
+        "matchupAcquisitionTotals": {
+          "2": 1,
+          "3": 1,
+          "4": 2,
+          "5": 2,
+          "6": 1,
+          "7": 2,
+          "9": 2
+        },
+        "misc": 0,
+        "moveToActive": 43,
+        "moveToIR": 1,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 1.0,
+        "130": 2.0,
+        "3": 1769.0,
+        "4": 9.0,
+        "132": 2.0,
+        "133": 2.0,
+        "134": 1.0,
+        "198": 4.0,
+        "135": 1.0,
+        "72": 6.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 7.0,
+        "206": 0.0,
+        "80": 11.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 7.0,
+        "85": 0.0,
+        "86": 18.0,
+        "24": 1782.0,
+        "25": 20.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 2.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 6.0,
+        "96": 4.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 19.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 2178.0,
+        "43": 19.0,
+        "44": 2.0,
+        "53": 210.0,
+        "123": 2.0,
+        "124": 1.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 9
+    },
+    {
+      "abbrev": "TBT",
+      "currentProjectedRank": 8,
+      "divisionId": 0,
+      "draftDayProjectedRank": 8,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 6,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/CreepShow-ToddDetwiler/CreepShow-09b.svg",
+      "logoType": "VECTOR",
+      "name": "The Worstish Team",
+      "owners": [
+        "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}"
+      ],
+      "playoffSeed": 9,
+      "points": 994.04,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 4
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 3,
+          "percentage": 0.4,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
+        },
+        "overall": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 1024.1000000000001,
+          "pointsFor": 994.04,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 4
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 12,
+        "drops": 11,
+        "matchupAcquisitionTotals": {
+          "4": 3,
+          "5": 1,
+          "6": 2,
+          "7": 2,
+          "8": 3,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 42,
+        "moveToIR": 4,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 4.0,
+        "3": 2321.0,
+        "4": 12.0,
+        "132": 2.0,
+        "133": 2.0,
+        "134": 0.0,
+        "198": 4.0,
+        "135": 0.0,
+        "72": 2.0,
+        "136": 0.0,
+        "201": 1.0,
+        "77": 5.0,
+        "206": 0.0,
+        "80": 5.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 5.0,
+        "85": 4.0,
+        "86": 25.0,
+        "24": 974.0,
+        "25": 10.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 1.0,
+        "92": 2.0,
+        "93": 0.0,
+        "95": 4.0,
+        "96": 5.0,
+        "97": 1.0,
+        "98": 1.0,
+        "99": 18.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 2558.0,
+        "43": 20.0,
+        "44": 1.0,
+        "53": 212.0,
+        "123": 1.0,
+        "124": 2.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 6
+    },
+    {
+      "abbrev": "TiR",
+      "currentProjectedRank": 1,
+      "divisionId": 0,
+      "draftDayProjectedRank": 10,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 7,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/Referee-MartinLaksman/referee-14.svg",
+      "logoType": "VECTOR",
+      "name": "The Injured Reserve",
+      "owners": [
+        "{6BBD4090-20CC-496D-B7B7-51DC200D9570}"
+      ],
+      "playoffSeed": 1,
+      "points": 1152.78,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{6BBD4090-20CC-496D-B7B7-51DC200D9570}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.8,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 4,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        },
+        "division": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.7777777777777778,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 7
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.75,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.7777777777777778,
+          "pointsAgainst": 1012.14,
+          "pointsFor": 1152.78,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 7
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 13,
+        "drops": 11,
+        "matchupAcquisitionTotals": {
+          "2": 2,
+          "3": 3,
+          "4": 1,
+          "5": 1,
+          "6": 3,
+          "7": 1,
+          "9": 2
+        },
+        "misc": 0,
+        "moveToActive": 39,
+        "moveToIR": 5,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 2
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 1.0,
+        "130": 1.0,
+        "3": 1487.0,
+        "4": 8.0,
+        "132": 3.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 8.0,
+        "135": 0.0,
+        "72": 8.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 8.0,
+        "206": 0.0,
+        "80": 5.0,
+        "209": 0.0,
+        "19": 2.0,
+        "20": 3.0,
+        "85": 5.0,
+        "86": 12.0,
+        "24": 2277.0,
+        "25": 20.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 2.0,
+        "92": 1.0,
+        "93": 0.0,
+        "95": 8.0,
+        "96": 2.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 26.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 1.0,
+        "104": 0.0,
+        "42": 2576.0,
+        "43": 18.0,
+        "44": 0.0,
+        "53": 215.0,
+        "123": 1.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 14
+    },
+    {
+      "abbrev": "LTC",
+      "autoPilotStatus": {
+        "enabled": false,
+        "type": "NONE"
+      },
+      "currentProjectedRank": 5,
+      "divisionId": 0,
+      "draftDayProjectedRank": 11,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 8,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://ih1.redbubble.net/image.3176395113.4847/st,small,507x507-pad,600x600,f8f8f8.u1.jpg",
+      "logoType": "CUSTOM_VALID",
+      "name": "Los Tacos Club",
+      "owners": [
+        "{BEA35299-05CE-47B7-B00D-9DA298A35D1C}"
+      ],
+      "playoffSeed": 4,
+      "points": 984.8599999999999,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{BEA35299-05CE-47B7-B00D-9DA298A35D1C}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.75,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "division": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 6
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.6,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 1.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 920.9599999999999,
+          "pointsFor": 984.8599999999999,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 6
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 6,
+        "drops": 5,
+        "matchupAcquisitionTotals": {
+          "2": 2,
+          "3": 1,
+          "5": 1,
+          "6": 1,
+          "7": 1
+        },
+        "misc": 0,
+        "moveToActive": 19,
+        "moveToIR": 4,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 2
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 2.0,
+        "3": 2069.0,
+        "4": 13.0,
+        "132": 6.0,
+        "133": 0.0,
+        "134": 1.0,
+        "198": 1.0,
+        "135": 0.0,
+        "72": 4.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 5.0,
+        "206": 0.0,
+        "80": 9.0,
+        "209": 0.0,
+        "19": 1.0,
+        "20": 2.0,
+        "85": 2.0,
+        "86": 11.0,
+        "24": 1495.0,
+        "25": 9.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 0.0,
+        "91": 1.0,
+        "92": 3.0,
+        "93": 0.0,
+        "95": 8.0,
+        "96": 4.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 26.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 1.0,
+        "104": 0.0,
+        "42": 2506.0,
+        "43": 15.0,
+        "44": 0.0,
+        "53": 199.0,
+        "123": 1.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 11
+    },
+    {
+      "abbrev": "KTT",
+      "currentProjectedRank": 7,
+      "divisionId": 0,
+      "draftDayProjectedRank": 6,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 9,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/CrazyHelmets-ToddDetwiler/Helmets_04.svg",
+      "logoType": "VECTOR",
+      "name": "Keith's Top-Notch Team",
+      "owners": [
+        "{00DA8318-CC72-48B0-A40D-9BF91DBFFFCE}"
+      ],
+      "playoffSeed": 7,
+      "points": 1161.1000000000001,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{00DA8318-CC72-48B0-A40D-9BF91DBFFFCE}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 1,
+          "percentage": 0.75,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "division": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.2,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 4,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 1
+        },
+        "overall": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 1083.1799999999998,
+          "pointsFor": 1161.1000000000001,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        }
+      },
+      "tradeBlock": {
+        "players": {
+          "4686728": "NORMAL"
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 2,
+        "drops": 1,
+        "matchupAcquisitionTotals": {
+          "6": 1,
+          "7": 1
+        },
+        "misc": 0,
+        "moveToActive": 11,
+        "moveToIR": 2,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 1.0,
+        "130": 4.0,
+        "3": 2315.0,
+        "4": 14.0,
+        "132": 0.0,
+        "133": 2.0,
+        "134": 1.0,
+        "198": 1.0,
+        "135": 0.0,
+        "72": 3.0,
+        "136": 0.0,
+        "201": 1.0,
+        "77": 5.0,
+        "206": 0.0,
+        "80": 8.0,
+        "209": 0.0,
+        "19": 1.0,
+        "20": 7.0,
+        "85": 7.0,
+        "86": 22.0,
+        "24": 1085.0,
+        "25": 14.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 2.0,
+        "93": 0.0,
+        "95": 8.0,
+        "96": 3.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 31.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 3160.0,
+        "43": 22.0,
+        "44": 3.0,
+        "53": 262.0,
+        "123": 1.0,
+        "124": 2.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 8
+    },
+    {
+      "abbrev": "THs",
+      "currentProjectedRank": 9,
+      "divisionId": 0,
+      "draftDayProjectedRank": 12,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 10,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/core/TeamMascots-RobbHarskamp/Team_Mascots-07.svg",
+      "logoType": "VECTOR",
+      "name": "Thousand sunny ",
+      "owners": [
+        "{E22844FD-FE14-4501-8B93-6B011BEB0A75}"
+      ],
+      "playoffSeed": 8,
+      "points": 1000.68,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{E22844FD-FE14-4501-8B93-6B011BEB0A75}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 3,
+          "percentage": 0.4,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 3,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
+        },
+        "overall": {
+          "gamesBack": 3.0,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 1024.9,
+          "pointsFor": 1000.68,
+          "streakLength": 3,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 4
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 11,
+        "drops": 11,
+        "matchupAcquisitionTotals": {
+          "2": 2,
+          "4": 3,
+          "5": 1,
+          "7": 2,
+          "8": 2,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 17,
+        "moveToIR": 0,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 0
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 2.0,
+        "3": 2392.0,
+        "4": 17.0,
+        "132": 4.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 6.0,
+        "135": 0.0,
+        "72": 5.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 4.0,
+        "206": 0.0,
+        "80": 6.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 8.0,
+        "85": 3.0,
+        "86": 24.0,
+        "24": 1919.0,
+        "25": 25.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 1.0,
+        "91": 2.0,
+        "92": 1.0,
+        "93": 0.0,
+        "95": 5.0,
+        "96": 9.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 29.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 1.0,
+        "104": 0.0,
+        "42": 1631.0,
+        "43": 7.0,
+        "44": 0.0,
+        "53": 160.0,
+        "123": 0.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 7
+    },
+    {
+      "abbrev": "SAS",
+      "currentProjectedRank": 13,
+      "divisionId": 0,
+      "draftDayProjectedRank": 4,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 11,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/core/StadiumFoods-ESPN/stadium-foods_pizza.svg",
+      "logoType": "VECTOR",
+      "name": "Sacks and Snacks",
+      "owners": [
+        "{114004BB-48F0-4353-BE33-AE44E40BD5DA}"
+      ],
+      "playoffSeed": 13,
+      "points": 856.76,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{114004BB-48F0-4353-BE33-AE44E40BD5DA}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.2,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 1
+        },
+        "division": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        },
+        "overall": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1013.72,
+          "pointsFor": 856.76,
+          "streakLength": 2,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 13,
+        "drops": 13,
+        "matchupAcquisitionTotals": {
+          "3": 3,
+          "4": 2,
+          "5": 1,
+          "6": 1,
+          "7": 4,
+          "8": 1,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 31,
+        "moveToIR": 2,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 2
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 2.0,
+        "130": 3.0,
+        "3": 1874.0,
+        "4": 12.0,
+        "132": 1.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 6.0,
+        "135": 0.0,
+        "72": 2.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 5.0,
+        "206": 1.0,
+        "80": 9.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 5.0,
+        "85": 2.0,
+        "86": 16.0,
+        "24": 891.0,
+        "25": 7.0,
+        "89": 1.0,
+        "26": 1.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 15.0,
+        "96": 4.0,
+        "97": 1.0,
+        "98": 0.0,
+        "99": 14.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 1.0,
+        "42": 1877.0,
+        "43": 13.0,
+        "44": 0.0,
+        "53": 179.0,
+        "123": 0.0,
+        "124": 1.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 2
+    },
+    {
+      "abbrev": "UT",
+      "currentProjectedRank": 14,
+      "divisionId": 0,
+      "draftDayProjectedRank": 5,
+      "draftStrategy": {
+        "keeperPlayerIds": []
+      },
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 12,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/logo-packs/ffl/OldeTymeFootball-AndrewJanik/Warriors_01.svg",
+      "logoType": "VECTOR",
+      "name": "Unc Tua",
+      "owners": [
+        "{014C4C19-1441-432F-9905-83396C8651FF}"
+      ],
+      "playoffSeed": 14,
+      "points": 824.0200000000001,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{014C4C19-1441-432F-9905-83396C8651FF}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 3,
+          "percentage": 0.25,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 1
+        },
+        "division": {
+          "gamesBack": 5.0,
+          "losses": 7,
+          "percentage": 0.2222222222222222,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.2,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 4,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 1
+        },
+        "overall": {
+          "gamesBack": 5.0,
+          "losses": 7,
+          "percentage": 0.2222222222222222,
+          "pointsAgainst": 1093.6200000000001,
+          "pointsFor": 824.0200000000001,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 2
+        }
+      },
+      "tradeBlock": {},
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 8,
+        "drops": 10,
+        "matchupAcquisitionTotals": {
+          "2": 1,
+          "5": 2,
+          "6": 2,
+          "7": 1,
+          "9": 2
+        },
+        "misc": 0,
+        "moveToActive": 35,
+        "moveToIR": 1,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 0.0,
+        "130": 2.0,
+        "3": 2283.0,
+        "4": 14.0,
+        "132": 1.0,
+        "133": 1.0,
+        "134": 1.0,
+        "198": 5.0,
+        "135": 0.0,
+        "72": 7.0,
+        "136": 0.0,
+        "201": 1.0,
+        "77": 4.0,
+        "206": 0.0,
+        "80": 7.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 5.0,
+        "85": 4.0,
+        "86": 19.0,
+        "24": 978.0,
+        "25": 8.0,
+        "89": 0.0,
+        "26": 1.0,
+        "90": 1.0,
+        "91": 0.0,
+        "92": 1.0,
+        "93": 0.0,
+        "95": 5.0,
+        "96": 3.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 24.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 1.0,
+        "42": 1859.0,
+        "43": 16.0,
+        "44": 1.0,
+        "53": 148.0,
+        "123": 2.0,
+        "124": 2.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 1
+    },
+    {
+      "abbrev": "CCT",
+      "currentProjectedRank": 11,
+      "divisionId": 0,
+      "draftDayProjectedRank": 14,
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 13,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/20.svg",
+      "logoType": "VECTOR",
+      "name": "Cole's Competitive Team",
+      "owners": [
+        "{805B68B2-CED8-4680-ACC4-0526FC3E00CB}"
+      ],
+      "playoffSeed": 12,
+      "points": 884.8199999999999,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{805B68B2-CED8-4680-ACC4-0526FC3E00CB}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.0,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 4,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 0
+        },
+        "division": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.6,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1010.18,
+          "pointsFor": 884.8199999999999,
+          "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 3
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 6,
+        "drops": 5,
+        "matchupAcquisitionTotals": {
+          "1": 1,
+          "2": 2,
+          "3": 1,
+          "4": 1,
+          "9": 1
+        },
+        "misc": 0,
+        "moveToActive": 13,
+        "moveToIR": 2,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 3.0,
+        "130": 4.0,
+        "3": 1803.0,
+        "4": 11.0,
+        "132": 1.0,
+        "133": 0.0,
+        "134": 0.0,
+        "198": 4.0,
+        "135": 0.0,
+        "72": 6.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 4.0,
+        "206": 0.0,
+        "80": 10.0,
+        "209": 0.0,
+        "19": 2.0,
+        "20": 11.0,
+        "85": 1.0,
+        "86": 23.0,
+        "24": 1175.0,
+        "25": 9.0,
+        "89": 0.0,
+        "26": 1.0,
+        "90": 2.0,
+        "91": 2.0,
+        "92": 1.0,
+        "93": 0.0,
+        "95": 8.0,
+        "96": 5.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 21.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 0.0,
+        "104": 0.0,
+        "42": 1932.0,
+        "43": 15.0,
+        "44": 0.0,
+        "53": 177.0,
+        "123": 1.0,
+        "124": 0.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 3
+    },
+    {
+      "abbrev": "RMH",
+      "currentProjectedRank": 12,
+      "divisionId": 0,
+      "draftDayProjectedRank": 3,
+      "eliminated": false,
+      "eliminationMatchupPeriod": 0,
+      "id": 14,
+      "isActive": false,
+      "isTransactionLocked": false,
+      "logo": "https://g.espncdn.com/lm-static/ffl/images/default_logos/1.svg",
+      "logoType": "VECTOR",
+      "name": "RollicMaHollic",
+      "owners": [
+        "{8DC0E1A4-3B77-4131-B3A9-92012E167696}"
+      ],
+      "playoffSeed": 10,
+      "points": 985.6,
+      "pointsAdjusted": 0.0,
+      "pointsDelta": 0.0,
+      "primaryOwner": "{8DC0E1A4-3B77-4131-B3A9-92012E167696}",
+      "rankCalculatedFinal": 0,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.5,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
+        },
+        "division": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        },
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 4,
+          "percentage": 0.2,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 1,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 1
+        },
+        "overall": {
+          "gamesBack": 4.0,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1041.6000000000001,
+          "pointsFor": 985.6,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 3
+        }
+      },
+      "tradeBlock": {
+        "players": {
+          "4426338": "ON_THE_BLOCK",
+          "4426515": "UNTOUCHABLE",
+          "4569987": "UNTOUCHABLE",
+          "4890973": "UNTOUCHABLE"
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 8,
+        "drops": 9,
+        "matchupAcquisitionTotals": {
+          "2": 1,
+          "3": 2,
+          "7": 1,
+          "8": 1,
+          "9": 3
+        },
+        "misc": 0,
+        "moveToActive": 50,
+        "moveToIR": 1,
+        "paid": 0.0,
+        "teamCharges": 0.0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "128": 0.0,
+        "129": 1.0,
+        "130": 4.0,
+        "3": 1950.0,
+        "4": 13.0,
+        "132": 2.0,
+        "133": 1.0,
+        "134": 0.0,
+        "198": 4.0,
+        "135": 0.0,
+        "72": 4.0,
+        "136": 0.0,
+        "201": 0.0,
+        "77": 4.0,
+        "206": 0.0,
+        "80": 12.0,
+        "209": 0.0,
+        "19": 0.0,
+        "20": 6.0,
+        "85": 5.0,
+        "86": 19.0,
+        "24": 1237.0,
+        "25": 7.0,
+        "89": 0.0,
+        "26": 0.0,
+        "90": 1.0,
+        "91": 1.0,
+        "92": 0.0,
+        "93": 0.0,
+        "95": 8.0,
+        "96": 4.0,
+        "97": 0.0,
+        "98": 0.0,
+        "99": 14.0,
+        "101": 0.0,
+        "102": 0.0,
+        "103": 2.0,
+        "104": 0.0,
+        "42": 2669.0,
+        "43": 11.0,
+        "44": 1.0,
+        "53": 230.0,
+        "123": 1.0,
+        "124": 1.0,
+        "125": 0.0,
+        "63": 0.0
+      },
+      "waiverRank": 5
+    }
+  ]
+}
