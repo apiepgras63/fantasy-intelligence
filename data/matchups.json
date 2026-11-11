@@ -3731,7 +3731,7 @@
         "totalPointsLive": 0.0,
         "totalProjectedPoints": 114.23836277,
         "totalProjectedPointsLive": 114.23836277,
-        "winProbability": 0.81
+        "winProbability": 0.74
       },
       "home": {
         "adjustment": 0.0,
@@ -3793,7 +3793,7 @@
               }
             },
             {
-              "lineupSlotId": 20,
+              "lineupSlotId": 23,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -3902,7 +3902,7 @@
               }
             },
             {
-              "lineupSlotId": 23,
+              "lineupSlotId": 20,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -4149,7 +4149,7 @@
               }
             },
             {
-              "lineupSlotId": 6,
+              "lineupSlotId": 20,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -4467,7 +4467,7 @@
               }
             },
             {
-              "lineupSlotId": 20,
+              "lineupSlotId": 6,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -4785,9 +4785,9 @@
         "tiebreak": 0.0,
         "totalPoints": 0.0,
         "totalPointsLive": 0.0,
-        "totalProjectedPoints": 63.57668898,
-        "totalProjectedPointsLive": 63.57668898,
-        "winProbability": 0.19
+        "totalProjectedPoints": 75.14745052,
+        "totalProjectedPointsLive": 75.14745052,
+        "winProbability": 0.26
       },
       "id": 64,
       "matchupPeriodId": 10,

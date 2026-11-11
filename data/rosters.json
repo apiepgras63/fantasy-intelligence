@@ -1592,7 +1592,7 @@
           "player_id": 4426354,
           "name": "George Pickens",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 23,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 6,
           "acquisition_type": "DRAFT"
@@ -1610,7 +1610,7 @@
           "player_id": 4360761,
           "name": "Michael Wilson",
           "position_id": 3,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "INJURY_RESERVE",
           "pro_team_id": 22,
           "acquisition_type": "DRAFT"
@@ -1646,7 +1646,7 @@
           "player_id": 4576297,
           "name": "AJ Barner",
           "position_id": 4,
-          "lineup_slot_id": 6,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 26,
           "acquisition_type": "DRAFT"
@@ -1700,7 +1700,7 @@
           "player_id": 4430802,
           "name": "Darnell Washington",
           "position_id": 4,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 6,
           "injury_status": "ACTIVE",
           "pro_team_id": 23,
           "acquisition_type": "ADD"
