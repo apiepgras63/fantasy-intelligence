@@ -3296,7 +3296,7 @@
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
         "acquisitions": 6,
-        "drops": 5,
+        "drops": 8,
         "matchupAcquisitionTotals": {
           "1": 1,
           "2": 2,
@@ -3305,7 +3305,7 @@
           "9": 1
         },
         "misc": 0,
-        "moveToActive": 13,
+        "moveToActive": 14,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
