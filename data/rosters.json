@@ -461,21 +461,21 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 4686468,
-          "name": "Seth McGowan",
-          "position_id": 2,
-          "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 11,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4869645,
           "name": "Caleb Douglas",
           "position_id": 3,
           "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 15,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4360635,
+          "name": "Chig Okonkwo",
+          "position_id": 4,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 28,
           "acquisition_type": "ADD"
         }
       ]
@@ -725,15 +725,6 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": 4241474,
-          "name": "Brian Robinson Jr.",
-          "position_id": 2,
-          "lineup_slot_id": 20,
-          "injury_status": "INJURY_RESERVE",
-          "pro_team_id": 1,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 3150744,
           "name": "Chase McLaughlin",
           "position_id": 5,
@@ -785,6 +776,15 @@
           "lineup_slot_id": 20,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 19,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 3124679,
+          "name": "Jason Sanders",
+          "position_id": 5,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 20,
           "acquisition_type": "ADD"
         }
       ]
@@ -1451,7 +1451,7 @@
           "player_id": 4259545,
           "name": "D'Andre Swift",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 3,
           "acquisition_type": "DRAFT"
@@ -1460,7 +1460,7 @@
           "player_id": 3916148,
           "name": "Tony Pollard",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 10,
           "acquisition_type": "DRAFT"
@@ -1478,7 +1478,7 @@
           "player_id": -16023,
           "name": "Steelers D/ST",
           "position_id": 16,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 16,
           "injury_status": null,
           "pro_team_id": 23,
           "acquisition_type": "DRAFT"
@@ -1487,7 +1487,7 @@
           "player_id": 2971573,
           "name": "Ka'imi Fairbairn",
           "position_id": 5,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 17,
           "injury_status": "ACTIVE",
           "pro_team_id": 34,
           "acquisition_type": "DRAFT"
@@ -1520,15 +1520,6 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 5083315,
-          "name": "Kenyon Sadiq",
-          "position_id": 4,
-          "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 20,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4599739,
           "name": "Kendre Miller",
           "position_id": 2,
@@ -1541,7 +1532,7 @@
           "player_id": 4715355,
           "name": "Darius Cooper",
           "position_id": 3,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 21,
           "acquisition_type": "ADD"
@@ -1550,7 +1541,7 @@
           "player_id": 3055899,
           "name": "Harrison Butker",
           "position_id": 5,
-          "lineup_slot_id": 17,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 12,
           "acquisition_type": "ADD"
@@ -1568,9 +1559,18 @@
           "player_id": -16018,
           "name": "Saints D/ST",
           "position_id": 16,
-          "lineup_slot_id": 16,
+          "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 18,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 3126486,
+          "name": "Deebo Samuel Sr.",
+          "position_id": 3,
+          "lineup_slot_id": 23,
+          "injury_status": "QUESTIONABLE",
+          "pro_team_id": 25,
           "acquisition_type": "ADD"
         }
       ]
@@ -1592,7 +1592,7 @@
           "player_id": 4426354,
           "name": "George Pickens",
           "position_id": 3,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 4,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 6,
           "acquisition_type": "DRAFT"
@@ -1607,19 +1607,10 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": 4360761,
-          "name": "Michael Wilson",
-          "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "INJURY_RESERVE",
-          "pro_team_id": 22,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 4241985,
           "name": "J.K. Dobbins",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
@@ -1637,7 +1628,7 @@
           "player_id": 4685720,
           "name": "Bryce Young",
           "position_id": 1,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 0,
           "injury_status": "ACTIVE",
           "pro_team_id": 29,
           "acquisition_type": "DRAFT"
@@ -1650,15 +1641,6 @@
           "injury_status": "ACTIVE",
           "pro_team_id": 26,
           "acquisition_type": "DRAFT"
-        },
-        {
-          "player_id": 4035538,
-          "name": "David Montgomery",
-          "position_id": 2,
-          "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
-          "pro_team_id": 34,
-          "acquisition_type": "TRADE"
         },
         {
           "player_id": 16800,
@@ -1679,19 +1661,10 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 4249087,
-          "name": "Matt Gay",
-          "position_id": 5,
-          "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 13,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": -16027,
           "name": "Buccaneers D/ST",
           "position_id": 16,
-          "lineup_slot_id": 16,
+          "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 27,
           "acquisition_type": "ADD"
@@ -1718,7 +1691,7 @@
           "player_id": 4360423,
           "name": "Michael Penix Jr.",
           "position_id": 1,
-          "lineup_slot_id": 0,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 1,
           "acquisition_type": "ADD"
@@ -1727,9 +1700,36 @@
           "player_id": 5081432,
           "name": "Antonio Williams",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 28,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4431431,
+          "name": "Corey Kiner",
+          "position_id": 2,
+          "lineup_slot_id": 2,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 17,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4723820,
+          "name": "Omar Cooper Jr.",
+          "position_id": 3,
+          "lineup_slot_id": 23,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 20,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": -16015,
+          "name": "Dolphins D/ST",
+          "position_id": 16,
+          "lineup_slot_id": 16,
+          "injury_status": null,
+          "pro_team_id": 15,
           "acquisition_type": "ADD"
         }
       ]
@@ -1820,15 +1820,6 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": -16017,
-          "name": "Patriots D/ST",
-          "position_id": 16,
-          "lineup_slot_id": 16,
-          "injury_status": null,
-          "pro_team_id": 17,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4432708,
           "name": "Marvin Harrison Jr.",
           "position_id": 3,
@@ -1883,12 +1874,21 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 4912274,
-          "name": "Sione Vaki",
+          "player_id": 4569682,
+          "name": "Audric Estime",
           "position_id": 2,
           "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
-          "pro_team_id": 8,
+          "pro_team_id": 18,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": -16033,
+          "name": "Ravens D/ST",
+          "position_id": 16,
+          "lineup_slot_id": 16,
+          "injury_status": null,
+          "pro_team_id": 33,
           "acquisition_type": "ADD"
         }
       ]
@@ -2022,6 +2022,15 @@
           "injury_status": "ACTIVE",
           "pro_team_id": 16,
           "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4837248,
+          "name": "Fernando Mendoza",
+          "position_id": 1,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 13,
+          "acquisition_type": "ADD"
         }
       ]
     },
@@ -2102,15 +2111,6 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": 4870795,
-          "name": "Makai Lemon",
-          "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 21,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 4361411,
           "name": "Pat Freiermuth",
           "position_id": 4,
@@ -2171,6 +2171,15 @@
           "lineup_slot_id": 16,
           "injury_status": null,
           "pro_team_id": 2,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4710855,
+          "name": "Konata Mumpfield",
+          "position_id": 3,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 14,
           "acquisition_type": "ADD"
         }
       ]
