@@ -35,15 +35,6 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": 4372016,
-          "name": "Jaylen Waddle",
-          "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
-          "pro_team_id": 7,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 4871023,
           "name": "Carnell Tate",
           "position_id": 3,
@@ -158,6 +149,15 @@
           "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 25,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4569618,
+          "name": "Garrett Wilson",
+          "position_id": 3,
+          "lineup_slot_id": 20,
+          "injury_status": "QUESTIONABLE",
+          "pro_team_id": 20,
           "acquisition_type": "ADD"
         }
       ]
@@ -2069,7 +2069,7 @@
           "player_id": 4612826,
           "name": "Ladd McConkey",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 20,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 24,
           "acquisition_type": "DRAFT"
@@ -2177,7 +2177,7 @@
           "player_id": 4360797,
           "name": "Tutu Atwell",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 4,
           "injury_status": "ACTIVE",
           "pro_team_id": 14,
           "acquisition_type": "ADD"
