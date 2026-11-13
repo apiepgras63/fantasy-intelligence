@@ -474,7 +474,7 @@
           "name": "Chig Okonkwo",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 28,
           "acquisition_type": "ADD"
         }
@@ -593,15 +593,6 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": -16012,
-          "name": "Chiefs D/ST",
-          "position_id": 16,
-          "lineup_slot_id": 16,
-          "injury_status": null,
-          "pro_team_id": 12,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 4880281,
           "name": "Jordyn Tyson",
           "position_id": 3,
@@ -635,6 +626,15 @@
           "lineup_slot_id": 17,
           "injury_status": "ACTIVE",
           "pro_team_id": 5,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": -16002,
+          "name": "Bills D/ST",
+          "position_id": 16,
+          "lineup_slot_id": 16,
+          "injury_status": null,
+          "pro_team_id": 2,
           "acquisition_type": "ADD"
         }
       ]
