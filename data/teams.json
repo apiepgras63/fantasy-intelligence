@@ -1888,7 +1888,7 @@
           "10": 1
         },
         "misc": 0,
-        "moveToActive": 36,
+        "moveToActive": 38,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2023,16 +2023,17 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 3,
-        "drops": 2,
+        "acquisitions": 4,
+        "drops": 3,
         "matchupAcquisitionTotals": {
           "5": 1,
           "7": 1,
-          "9": 1
+          "9": 1,
+          "10": 1
         },
         "misc": 0,
-        "moveToActive": 16,
-        "moveToIR": 1,
+        "moveToActive": 19,
+        "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 0
@@ -2606,8 +2607,8 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 19,
-        "moveToIR": 4,
+        "moveToActive": 21,
+        "moveToIR": 5,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 2
@@ -2748,7 +2749,7 @@
           "7": 1
         },
         "misc": 0,
-        "moveToActive": 11,
+        "moveToActive": 13,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -3166,15 +3167,15 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 10,
-        "drops": 12,
+        "acquisitions": 11,
+        "drops": 13,
         "matchupAcquisitionTotals": {
           "2": 1,
           "5": 2,
           "6": 2,
           "7": 1,
           "9": 2,
-          "10": 2
+          "10": 3
         },
         "misc": 0,
         "moveToActive": 37,
@@ -3304,7 +3305,7 @@
       },
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 7,
+        "acquisitions": 8,
         "drops": 8,
         "matchupAcquisitionTotals": {
           "1": 1,
@@ -3312,10 +3313,10 @@
           "3": 1,
           "4": 1,
           "9": 1,
-          "10": 1
+          "10": 2
         },
         "misc": 0,
-        "moveToActive": 14,
+        "moveToActive": 17,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -3461,7 +3462,7 @@
           "10": 3
         },
         "misc": 0,
-        "moveToActive": 55,
+        "moveToActive": 58,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
