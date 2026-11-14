@@ -39,7 +39,7 @@
           "name": "Carnell Tate",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 10,
           "acquisition_type": "DRAFT"
         },
@@ -534,7 +534,7 @@
           "name": "Harold Fannin Jr.",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 5,
           "acquisition_type": "DRAFT"
         },
@@ -552,7 +552,7 @@
           "name": "Jordan Addison",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 16,
           "acquisition_type": "DRAFT"
         },
@@ -693,7 +693,7 @@
           "name": "Mike Evans",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 25,
           "acquisition_type": "DRAFT"
         },
@@ -825,7 +825,7 @@
           "name": "Bhayshul Tuten",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 30,
           "acquisition_type": "DRAFT"
         },
@@ -843,7 +843,7 @@
           "name": "Jakobi Meyers",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 30,
           "acquisition_type": "DRAFT"
         },
@@ -966,7 +966,7 @@
           "name": "Kenneth Walker III",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 12,
           "acquisition_type": "DRAFT"
         },
@@ -1083,7 +1083,7 @@
           "name": "T.J. Hockenson",
           "position_id": 4,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 16,
           "acquisition_type": "ADD"
         },
@@ -1097,12 +1097,12 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 15864,
-          "name": "Geno Smith",
+          "player_id": 3924327,
+          "name": "Drew Lock",
           "position_id": 1,
           "lineup_slot_id": 0,
           "injury_status": "ACTIVE",
-          "pro_team_id": 20,
+          "pro_team_id": 26,
           "acquisition_type": "ADD"
         }
       ]
@@ -1151,7 +1151,7 @@
           "player_id": -16007,
           "name": "Broncos D/ST",
           "position_id": 16,
-          "lineup_slot_id": 16,
+          "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
@@ -1179,7 +1179,7 @@
           "name": "Hunter Henry",
           "position_id": 4,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
@@ -1188,7 +1188,7 @@
           "name": "Adonai Mitchell",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 20,
           "acquisition_type": "DRAFT"
         },
@@ -1242,17 +1242,8 @@
           "name": "Tre' Harris",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 24,
-          "acquisition_type": "ADD"
-        },
-        {
-          "player_id": 4428557,
-          "name": "Tyjae Spears",
-          "position_id": 2,
-          "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
-          "pro_team_id": 10,
           "acquisition_type": "ADD"
         },
         {
@@ -1262,6 +1253,15 @@
           "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 29,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": -16011,
+          "name": "Colts D/ST",
+          "position_id": 16,
+          "lineup_slot_id": 16,
+          "injury_status": null,
+          "pro_team_id": 11,
           "acquisition_type": "ADD"
         }
       ]
@@ -1461,7 +1461,7 @@
           "name": "Tony Pollard",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 10,
           "acquisition_type": "DRAFT"
         },
@@ -1569,7 +1569,7 @@
           "name": "Deebo Samuel Sr.",
           "position_id": 3,
           "lineup_slot_id": 23,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 25,
           "acquisition_type": "ADD"
         }
@@ -1593,7 +1593,7 @@
           "name": "George Pickens",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 6,
           "acquisition_type": "DRAFT"
         },
@@ -1815,7 +1815,7 @@
           "name": "Marvin Harrison Jr.",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
         },
@@ -1974,7 +1974,7 @@
           "name": "Chris Rodriguez Jr.",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 30,
           "acquisition_type": "DRAFT"
         },
@@ -1992,7 +1992,7 @@
           "name": "Rashod Bateman",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 33,
           "acquisition_type": "DRAFT"
         },
@@ -2010,7 +2010,7 @@
           "name": "Woody Marks",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
         },
@@ -2019,7 +2019,7 @@
           "name": "Carson Wentz",
           "position_id": 1,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 16,
           "acquisition_type": "ADD"
         },
@@ -2097,7 +2097,7 @@
           "name": "Dalton Kincaid",
           "position_id": 4,
           "lineup_slot_id": 23,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 2,
           "acquisition_type": "DRAFT"
         },
