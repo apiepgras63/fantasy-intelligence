@@ -14076,7 +14076,7 @@
         "totalPointsLive": 0.0,
         "totalProjectedPoints": 108.70784701,
         "totalProjectedPointsLive": 108.70784701,
-        "winProbability": 0.48
+        "winProbability": 0.46
       },
       "home": {
         "adjustment": 0.0,
@@ -14415,7 +14415,7 @@
               }
             },
             {
-              "lineupSlotId": 20,
+              "lineupSlotId": 23,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -14828,7 +14828,7 @@
               }
             },
             {
-              "lineupSlotId": 23,
+              "lineupSlotId": 20,
               "playerPoolEntry": {
                 "player": {
                   "stats": [
@@ -15424,9 +15424,9 @@
         "tiebreak": 0.0,
         "totalPoints": 0.0,
         "totalPointsLive": 0.0,
-        "totalProjectedPoints": 112.87614384,
-        "totalProjectedPointsLive": 112.87614384,
-        "winProbability": 0.52
+        "totalProjectedPoints": 115.1352796,
+        "totalProjectedPointsLive": 115.1352796,
+        "winProbability": 0.54
       },
       "id": 68,
       "matchupPeriodId": 10,
@@ -21390,10 +21390,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1794558831996,
+    "standingsUpdateDate": 1794646022472,
     "teamsJoined": 14,
     "transactionScoringPeriod": 10,
-    "waiverLastExecutionDate": 1794558831849,
+    "waiverLastExecutionDate": 1794646022363,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,

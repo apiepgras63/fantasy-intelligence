@@ -842,7 +842,7 @@
           "player_id": 3916433,
           "name": "Jakobi Meyers",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 23,
           "injury_status": "ACTIVE",
           "pro_team_id": 30,
           "acquisition_type": "DRAFT"
@@ -887,7 +887,7 @@
           "player_id": 2991662,
           "name": "Mack Hollins",
           "position_id": 3,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 17,
           "acquisition_type": "ADD"

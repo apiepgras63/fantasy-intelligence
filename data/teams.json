@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1794558831996,
+    "standingsUpdateDate": 1794646022472,
     "teamsJoined": 14,
     "transactionScoringPeriod": 10,
-    "waiverLastExecutionDate": 1794558831849,
+    "waiverLastExecutionDate": 1794646022363,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -2320,7 +2320,7 @@
           "10": 1
         },
         "misc": 0,
-        "moveToActive": 42,
+        "moveToActive": 43,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
