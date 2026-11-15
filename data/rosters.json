@@ -84,7 +84,7 @@
           "name": "Amon-Ra St. Brown",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 8,
           "acquisition_type": "TRADE"
         },
@@ -1311,7 +1311,7 @@
           "name": "Rhamondre Stevenson",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
@@ -1434,7 +1434,7 @@
           "name": "Drake Maye",
           "position_id": 1,
           "lineup_slot_id": 0,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
@@ -2070,7 +2070,7 @@
           "name": "A.J. Brown",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
