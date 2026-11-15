@@ -851,7 +851,7 @@
           "player_id": 4373626,
           "name": "Tyler Allgeier",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 22,
           "acquisition_type": "DRAFT"
@@ -941,7 +941,7 @@
           "player_id": 4819231,
           "name": "Kaleb Johnson",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 9,
           "acquisition_type": "ADD"
@@ -965,8 +965,8 @@
           "player_id": 4567048,
           "name": "Kenneth Walker III",
           "position_id": 2,
-          "lineup_slot_id": 2,
-          "injury_status": "QUESTIONABLE",
+          "lineup_slot_id": 20,
+          "injury_status": "OUT",
           "pro_team_id": 12,
           "acquisition_type": "DRAFT"
         },
@@ -1028,7 +1028,7 @@
           "player_id": 4832955,
           "name": "Emmett Johnson",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 12,
           "acquisition_type": "ADD"
@@ -1134,7 +1134,7 @@
           "name": "TreVeyon Henderson",
           "position_id": 2,
           "lineup_slot_id": 21,
-          "injury_status": "OUT",
+          "injury_status": "INJURY_RESERVE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
@@ -1310,7 +1310,7 @@
           "player_id": 4569173,
           "name": "Rhamondre Stevenson",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
@@ -1409,7 +1409,7 @@
           "player_id": 4249836,
           "name": "Pierre Strong Jr.",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 9,
           "acquisition_type": "ADD"
@@ -1584,7 +1584,7 @@
           "name": "Travis Etienne Jr.",
           "position_id": 2,
           "lineup_slot_id": 21,
-          "injury_status": "INJURY_RESERVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 18,
           "acquisition_type": "DRAFT"
         },
@@ -1887,7 +1887,7 @@
           "name": "David Montgomery",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
         }
@@ -2115,7 +2115,7 @@
           "name": "Pat Freiermuth",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 23,
           "acquisition_type": "DRAFT"
         },
