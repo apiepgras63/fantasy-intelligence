@@ -4324,7 +4324,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 107.64,
         "totalProjectedPoints": 113.9784838,
-        "totalProjectedPointsLive": 107.83398591,
+        "totalProjectedPointsLive": 107.74686649,
         "winProbability": 0.01
       },
       "home": {
@@ -6059,7 +6059,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 114.7,
         "totalProjectedPoints": 96.02503457,
-        "totalProjectedPointsLive": 114.98691705,
+        "totalProjectedPointsLive": 114.85806209,
         "winProbability": 0.99
       },
       "id": 64,
@@ -7864,8 +7864,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 74.06,
         "totalProjectedPoints": 100.20979713,
-        "totalProjectedPointsLive": 90.25109224,
-        "winProbability": 0.26
+        "totalProjectedPointsLive": 90.00881292,
+        "winProbability": 0.24
       },
       "home": {
         "adjustment": 0.0,
@@ -8526,8 +8526,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -9765,7 +9764,7 @@
         "totalPointsLive": 95.52,
         "totalProjectedPoints": 114.99273748,
         "totalProjectedPointsLive": 95.52,
-        "winProbability": 0.74
+        "winProbability": 0.76
       },
       "id": 65,
       "matchupPeriodId": 10,
@@ -12561,8 +12560,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -14453,7 +14451,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 78.98,
         "totalProjectedPoints": 98.3578983,
-        "totalProjectedPointsLive": 80.14252833,
+        "totalProjectedPointsLive": 79.62043477,
         "winProbability": 0.01
       },
       "home": {
@@ -17310,8 +17308,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -17872,7 +17869,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 71.12,
         "totalProjectedPoints": 108.7792187,
-        "totalProjectedPointsLive": 78.43070607,
+        "totalProjectedPointsLive": 78.24379903,
         "winProbability": 0.01
       },
       "home": {
@@ -19232,9 +19229,9 @@
                         "100": 6.0,
                         "106": 1.0,
                         "107": 16.0,
-                        "108": 34.0,
-                        "109": 50.0,
-                        "110": 16.0,
+                        "108": 37.0,
+                        "109": 53.0,
+                        "110": 17.0,
                         "111": 10.0,
                         "112": 3.0,
                         "113": 6.0,
@@ -19246,7 +19243,7 @@
                         "122": 0.0,
                         "123": 0.0,
                         "124": 0.0,
-                        "127": 205.0,
+                        "127": 220.0,
                         "128": 0.0,
                         "129": 0.0,
                         "130": 1.0,
@@ -19689,7 +19686,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 103.44,
         "totalProjectedPoints": 113.04578958,
-        "totalProjectedPointsLive": 103.70462316,
+        "totalProjectedPointsLive": 103.58578042,
         "winProbability": 0.99
       },
       "id": 68,
@@ -21624,7 +21621,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 196.66,
         "totalProjectedPoints": 136.77218759,
-        "totalProjectedPointsLive": 211.95747594,
+        "totalProjectedPointsLive": 211.63751061,
         "winProbability": 0.99
       },
       "home": {
@@ -22329,8 +22326,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -23549,7 +23545,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 105.56,
         "totalProjectedPoints": 102.9185357,
-        "totalProjectedPointsLive": 106.19550448,
+        "totalProjectedPointsLive": 105.91009828,
         "winProbability": 0.01
       },
       "id": 69,
@@ -25201,7 +25197,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 134.02,
         "totalProjectedPoints": 105.96268069,
-        "totalProjectedPointsLive": 143.21498084,
+        "totalProjectedPointsLive": 142.64940229,
         "winProbability": 0.01
       },
       "home": {
@@ -27056,7 +27052,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 178.72,
         "totalProjectedPoints": 119.21615426,
-        "totalProjectedPointsLive": 179.07310539,
+        "totalProjectedPointsLive": 178.91452513,
         "winProbability": 0.99
       },
       "id": 70,

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:21:57.337271+00:00",
+  "updated_at_utc": "2026-11-16T04:25:01.536298+00:00",
   "scoring_format": "ESPN league scoring",
   "player_count": 771,
   "methodology": {
@@ -15019,6 +15019,36 @@
       }
     },
     {
+      "player_id": 4428119,
+      "name": "Lew Nichols",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks_with_records": 7,
+      "total_points": 6.0,
+      "average": 0.86,
+      "median": 0.0,
+      "standard_deviation": 1.87,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 5.4,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "weeks_at_or_above_average": 1,
+      "weeks_below_10_points": 7,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.6,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 5.4
+      }
+    },
+    {
       "player_id": 2972515,
       "name": "Cooper Rush",
       "position": "QB",
@@ -15936,36 +15966,6 @@
         "8": 0.0,
         "9": 0.0,
         "10": 6.08
-      }
-    },
-    {
-      "player_id": 4428119,
-      "name": "Lew Nichols",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks_with_records": 7,
-      "total_points": 4.3,
-      "average": 0.61,
-      "median": 0.0,
-      "standard_deviation": 1.28,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 3.7,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "weeks_at_or_above_average": 1,
-      "weeks_below_10_points": 7,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.6,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 3.7
       }
     },
     {
@@ -17920,6 +17920,38 @@
       }
     },
     {
+      "player_id": 3116407,
+      "name": "Mason Rudolph",
+      "position": "QB",
+      "position_id": 1,
+      "team_id": 23,
+      "weeks_with_records": 9,
+      "total_points": 1.04,
+      "average": 0.12,
+      "median": 0.0,
+      "standard_deviation": 0.32,
+      "lowest_recorded_week": -0.2,
+      "highest_recorded_week": 0.94,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "weeks_at_or_above_average": 2,
+      "weeks_below_10_points": 9,
+      "position_threshold": 20,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.3,
+        "3": 0.0,
+        "4": 0.0,
+        "5": -0.2,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.94
+      }
+    },
+    {
       "player_id": 4383429,
       "name": "Jacob Saylors",
       "position": "RB",
@@ -18197,38 +18229,6 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "10": 0.0
-      }
-    },
-    {
-      "player_id": 3116407,
-      "name": "Mason Rudolph",
-      "position": "QB",
-      "position_id": 1,
-      "team_id": 23,
-      "weeks_with_records": 9,
-      "total_points": 0.1,
-      "average": 0.01,
-      "median": 0.0,
-      "standard_deviation": 0.12,
-      "lowest_recorded_week": -0.2,
-      "highest_recorded_week": 0.3,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "weeks_at_or_above_average": 1,
-      "weeks_below_10_points": 9,
-      "position_threshold": 20,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.3,
-        "3": 0.0,
-        "4": 0.0,
-        "5": -0.2,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
         "10": 0.0
       }
     },
