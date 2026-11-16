@@ -1,0 +1,2856 @@
+{
+  "season": "2026",
+  "updated_at_utc": "2026-11-16T04:33:19.072471+00:00",
+  "total_players": 1062,
+  "total_stored_stat_entries": 10665,
+  "valid_weekly_scoring_entries": 6552,
+  "other_stat_entries": 4113,
+  "duplicate_player_week_records": [],
+  "scores_on_scheduled_byes": [
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 1,
+      "points": 8.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 2,
+      "points": 3.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 3,
+      "points": 10.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 4,
+      "points": 9.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 5,
+      "points": 12.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 6,
+      "points": 1.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 7,
+      "points": 11.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 8,
+      "points": -1.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 9,
+      "points": 4.0
+    },
+    {
+      "player_id": 14880,
+      "name": "Kirk Cousins",
+      "team_id": "16",
+      "week": 6,
+      "points": 18.52
+    },
+    {
+      "player_id": 15683,
+      "name": "Justin Tucker",
+      "team_id": "12",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 15818,
+      "name": "Keenan Allen",
+      "team_id": "25",
+      "week": 8,
+      "points": 13.7
+    },
+    {
+      "player_id": 16760,
+      "name": "Jimmy Garoppolo",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 16760,
+      "name": "Jimmy Garoppolo",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 1,
+      "points": 6.3
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.6
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 3,
+      "points": 7.4
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 1,
+      "points": 5.72
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 2,
+      "points": -0.56
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 5,
+      "points": 4.2
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 1,
+      "points": 5.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 2,
+      "points": 13.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 3,
+      "points": 3.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 4,
+      "points": 5.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 5,
+      "points": 1.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 6,
+      "points": 13.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 7,
+      "points": 3.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 3127306,
+      "name": "Dante Pettis",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3914151,
+      "name": "Josiah Deguara",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3914151,
+      "name": "Josiah Deguara",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916071,
+      "name": "Gary Jennings",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 6,
+      "points": 3.7
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 7,
+      "points": -2.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 7,
+      "points": 2.4
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.2
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 7,
+      "points": 5.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 8,
+      "points": 3.7
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 9,
+      "points": 2.6
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.6
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 3,
+      "points": 5.2
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 4,
+      "points": 3.0
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 5,
+      "points": 2.4
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.2
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372716,
+      "name": "Nikko Remigio",
+      "team_id": "34",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.7
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 5,
+      "points": 7.7
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4569682,
+      "name": "Audric Estime",
+      "team_id": "18",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 3,
+      "points": -2.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 1,
+      "points": 1.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 2,
+      "points": 3.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 3,
+      "points": 16.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 4,
+      "points": 6.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 5,
+      "points": 2.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 8,
+      "points": -2.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 1,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 3,
+      "points": 3.9
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 4,
+      "points": 1.9
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 5,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 6,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 7,
+      "points": 5.8
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 3,
+      "points": 1.8
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 8,
+      "points": 1.9
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4688813,
+      "name": "Josh Downs",
+      "team_id": "12",
+      "week": 5,
+      "points": 7.7
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4708486,
+      "name": "Jimmy Horn Jr.",
+      "team_id": "0",
+      "week": 1,
+      "points": -2.0
+    },
+    {
+      "player_id": 4714365,
+      "name": "Carson Steele",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4714365,
+      "name": "Carson Steele",
+      "team_id": "0",
+      "week": 6,
+      "points": 1.4
+    },
+    {
+      "player_id": 4892576,
+      "name": "Jamaal Pritchett",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4892576,
+      "name": "Jamaal Pritchett",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 5151317,
+      "name": "Robert Henry Jr.",
+      "team_id": "28",
+      "week": 7,
+      "points": 0.0
+    }
+  ],
+  "scoring_records_without_final_games": [],
+  "unknown_team_ids": [
+    {
+      "player_id": 9614,
+      "name": "Marcedes Lewis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0"
+    },
+    {
+      "player_id": 11122,
+      "name": "Matt Prater",
+      "team_id": "0"
+    },
+    {
+      "player_id": 12460,
+      "name": "Graham Gano",
+      "team_id": "0"
+    },
+    {
+      "player_id": 14881,
+      "name": "Russell Wilson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 14993,
+      "name": "Greg Zuerlein",
+      "team_id": "0"
+    },
+    {
+      "player_id": 15795,
+      "name": "DeAndre Hopkins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 15807,
+      "name": "Cordarrelle Patterson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 15880,
+      "name": "Robert Woods",
+      "team_id": "0"
+    },
+    {
+      "player_id": 15965,
+      "name": "Dustin Hopkins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 16140,
+      "name": "Ryan Griffin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 16760,
+      "name": "Jimmy Garoppolo",
+      "team_id": "0"
+    },
+    {
+      "player_id": 16763,
+      "name": "Jordan Matthews",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2310331,
+      "name": "Tyler Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2468609,
+      "name": "Taysom Hill",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2508256,
+      "name": "MyCole Pruitt",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2511109,
+      "name": "Trevor Siemian",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2511973,
+      "name": "Eric Tomlinson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2565969,
+      "name": "Taylor Heinicke",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2574511,
+      "name": "Brandon Allen",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2574576,
+      "name": "C.J. Uzomah",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2574630,
+      "name": "Jeff Driskel",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2574808,
+      "name": "Robbie Chosen",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2576414,
+      "name": "Raheem Mostert",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2576716,
+      "name": "Jamison Crowder",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2577327,
+      "name": "Tyler Lockett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2578533,
+      "name": "Chris Conley",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2579604,
+      "name": "Phillip Dorsett II",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2971618,
+      "name": "Nelson Agholor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2977800,
+      "name": "Alex Erickson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2978109,
+      "name": "Zach Pascal",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2980453,
+      "name": "Jamaal Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3040569,
+      "name": "Trent Taylor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3045144,
+      "name": "Tyler Boyd",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3045169,
+      "name": "Tim Boyle",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3046704,
+      "name": "Geoff Swaim",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3049698,
+      "name": "Anthony Firkser",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3049899,
+      "name": "Younghoe Koo",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3050487,
+      "name": "Anthony Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3051381,
+      "name": "Mike White",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3051392,
+      "name": "Ezekiel Elliott",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3051926,
+      "name": "Gus Edwards",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3052056,
+      "name": "River Cracraft",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3052177,
+      "name": "John Ross",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3059915,
+      "name": "Kareem Hunt",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3061612,
+      "name": "Jamal Agnew",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115255,
+      "name": "Brandon Powell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115306,
+      "name": "Josh Reynolds",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115349,
+      "name": "Jakob Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115378,
+      "name": "Russell Gage Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115394,
+      "name": "DJ Chark",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3116385,
+      "name": "Joe Mixon",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3116406,
+      "name": "Tyreek Hill",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3116593,
+      "name": "Dalvin Cook",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3119195,
+      "name": "Chase Edmonds",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3120303,
+      "name": "Ross Dwelley",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3120348,
+      "name": "JuJu Smith-Schuster",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3121409,
+      "name": "Noah Brown",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3121427,
+      "name": "Curtis Samuel",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3122154,
+      "name": "Khari Blasingame",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3122976,
+      "name": "Jeff Wilson Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3123052,
+      "name": "Michael Badgley",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3124092,
+      "name": "John Wolford",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3125116,
+      "name": "D'Onta Foreman",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3126115,
+      "name": "Cody Thompson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3127292,
+      "name": "Will Dissly",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3127306,
+      "name": "Dante Pettis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3128390,
+      "name": "Allen Lazard",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3128444,
+      "name": "Matthew Wright",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3128452,
+      "name": "Jordan Akins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3128720,
+      "name": "Nick Chubb",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3135321,
+      "name": "Hunter Renfrow",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3139033,
+      "name": "Mike Boone",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3139602,
+      "name": "D'Ernest Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3144991,
+      "name": "Parker Hesse",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3722362,
+      "name": "Brett Rypien",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3728262,
+      "name": "Ray-Ray McCloud III",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3821683,
+      "name": "Austin Seibert",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3886809,
+      "name": "Andre Baccellia",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3886812,
+      "name": "Jake Browning",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3886818,
+      "name": "Myles Gaskin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3910176,
+      "name": "Kristian Wilkerson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3910544,
+      "name": "Joshua Kelley",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3912092,
+      "name": "Donald Parham Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3914151,
+      "name": "Josiah Deguara",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3914307,
+      "name": "Maurice Alexander",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3914397,
+      "name": "Scotty Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3915381,
+      "name": "John Kelly Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3915821,
+      "name": "Tony Brown",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916071,
+      "name": "Gary Jennings",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916204,
+      "name": "James Proche II",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916430,
+      "name": "Nyheim Hines",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916564,
+      "name": "Tyree Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916587,
+      "name": "Tyler Mabry",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916749,
+      "name": "Giovanni Ricci",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3917612,
+      "name": "Ke'Shawn Vaughn",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3917849,
+      "name": "Lawrence Cager",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3917960,
+      "name": "Steven Sims",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3918639,
+      "name": "Gerald Everett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3923392,
+      "name": "Mitchell Wilcox",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3924365,
+      "name": "Hayden Hurst",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3928925,
+      "name": "JaMycal Hasty",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3929637,
+      "name": "Dan Chisena",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3931391,
+      "name": "Trenton Irwin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3932442,
+      "name": "Equanimeous St. Brown",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3932905,
+      "name": "Diontae Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3975763,
+      "name": "Greg Joseph",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4027873,
+      "name": "Samori Toure",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4034704,
+      "name": "Michael Bandy",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4034946,
+      "name": "Kyle Trask",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035004,
+      "name": "Mecole Hardman Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035115,
+      "name": "Albert Okwuegbunam Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035170,
+      "name": "Marquez Callaway",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035222,
+      "name": "Trayveon Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035312,
+      "name": "Anthony Brown Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035426,
+      "name": "Stephen Sullivan",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035676,
+      "name": "Zack Moss",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4035776,
+      "name": "Kendric Pryor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4036026,
+      "name": "Dez Fitzpatrick",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4036211,
+      "name": "DJ Turner",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4036335,
+      "name": "Cedrick Wilson Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4036431,
+      "name": "Darrynton Evans",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4036448,
+      "name": "Jalen Virgil",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4039043,
+      "name": "Collin Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4039274,
+      "name": "Jonathan Ward",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4039358,
+      "name": "Patrick Taylor Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4039607,
+      "name": "J.J. Taylor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4040774,
+      "name": "Harrison Bryant",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4040980,
+      "name": "Irv Smith Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4043016,
+      "name": "Dee Eskridge",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4044111,
+      "name": "Chris Oladokun",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4045163,
+      "name": "Miles Sanders",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4046676,
+      "name": "Tony Jones Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4046715,
+      "name": "Trishton Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4047422,
+      "name": "Tanner Conner",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4048244,
+      "name": "Alexander Mattison",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4048259,
+      "name": "Avery Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4051167,
+      "name": "Parker Romo",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4057082,
+      "name": "Mason Kinsey",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4239086,
+      "name": "Desmond Ridder",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240021,
+      "name": "Cam Akers",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240069,
+      "name": "Malik Cunningham",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240350,
+      "name": "Xazavian Valladay",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240573,
+      "name": "Ihmir Smith-Marsette",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240600,
+      "name": "Kadarius Toney",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240750,
+      "name": "Mohamed Ibrahim",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240858,
+      "name": "Hendon Hooker",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4240911,
+      "name": "Jacob Kibodi",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4241588,
+      "name": "Elijah Cooks",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242214,
+      "name": "Clyde Edwards-Helaire",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242519,
+      "name": "Anders Carlson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242526,
+      "name": "John Samuel Shenker",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242536,
+      "name": "Sal Cannella",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242540,
+      "name": "Isaiah Hodgins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4242558,
+      "name": "Tucker Fisk",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243004,
+      "name": "Jordan Mims",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243160,
+      "name": "Laviska Shenault Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243319,
+      "name": "Terrell Bynum",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243537,
+      "name": "Gabe Davis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4243830,
+      "name": "Jaelon Darden",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4244688,
+      "name": "Nathan Rourke",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4244856,
+      "name": "Austin Trammell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4245131,
+      "name": "Tim Jones",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4245645,
+      "name": "Gary Brightwell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4245661,
+      "name": "Lucas Havrisik",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4248068,
+      "name": "Aaron Shampklin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4248822,
+      "name": "Montrell Washington",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4248909,
+      "name": "Elijah Dotson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4249616,
+      "name": "Owen Wright",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4250360,
+      "name": "Bailey Zappe",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4250764,
+      "name": "Stone Smartt",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4250945,
+      "name": "Colton Dowell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4250969,
+      "name": "Rodney Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4258248,
+      "name": "Peyton Hendershot",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4259308,
+      "name": "Raheem Blackshear",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4259324,
+      "name": "Travis Vokolek",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4259592,
+      "name": "Sean Clifford",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4274040,
+      "name": "Troy Hairston",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360174,
+      "name": "Michael Woods II",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360175,
+      "name": "Clayton Tune",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360231,
+      "name": "Lucas Krull",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360294,
+      "name": "Antonio Gibson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360306,
+      "name": "Justyn Ross",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360794,
+      "name": "Henry Pearson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4360799,
+      "name": "Jordan Travis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361182,
+      "name": "Adrian Martinez",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361332,
+      "name": "Shedrick Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361417,
+      "name": "Zack Kuntz",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361604,
+      "name": "Blake Watson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361653,
+      "name": "Devin Leary",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361665,
+      "name": "Christopher Dunn",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361765,
+      "name": "Brayden Narveson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4361778,
+      "name": "Kearis Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362019,
+      "name": "A.T. Perry",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362087,
+      "name": "Keaontay Ingram",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362162,
+      "name": "SaRodorick Thompson Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362186,
+      "name": "Erik Ezukanma",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362227,
+      "name": "Bryce Ford-Wheaton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362452,
+      "name": "Jaret Patterson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362489,
+      "name": "John Stephens Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362603,
+      "name": "Brenden Bates",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362617,
+      "name": "Bryce Oliver",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4362630,
+      "name": "Terrace Marshall Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4363551,
+      "name": "Dylan Drummond",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4367178,
+      "name": "Dorian Thompson-Robinson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4367186,
+      "name": "Chase Cota",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4367510,
+      "name": "Dante Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4372063,
+      "name": "Ronnie Bell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4372071,
+      "name": "Hassan Haskins",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4372526,
+      "name": "Deneric Prince",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4373030,
+      "name": "Ben Sims",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4373266,
+      "name": "Antoine Green",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4373632,
+      "name": "Jaren Hall",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4373634,
+      "name": "Dallin Holker",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4374033,
+      "name": "Jermar Jefferson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4379401,
+      "name": "John FitzPatrick",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4379405,
+      "name": "Jaylen Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4384171,
+      "name": "Tanner McLachlan",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4390717,
+      "name": "Josh Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4408854,
+      "name": "Jody Fortson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4411193,
+      "name": "Deonte Harty",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426364,
+      "name": "Baylor Cupp",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426399,
+      "name": "Ramel Keyton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426407,
+      "name": "Trey Palmer",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426426,
+      "name": "Joseph Ngata",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426475,
+      "name": "Tyrion Davis-Price",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426479,
+      "name": "Cornelius Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426689,
+      "name": "Ulysses Bentley IV",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4426893,
+      "name": "Joshua Cephus",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427105,
+      "name": "Max Duggan",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427278,
+      "name": "Xavier Gipson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427391,
+      "name": "Kenny McIntosh",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427575,
+      "name": "Jha'Quan Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427600,
+      "name": "Terrell Jennings",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4427985,
+      "name": "Bub Means",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428116,
+      "name": "Isaiah Neyor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428678,
+      "name": "Jamari Thrash",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428796,
+      "name": "Casey Washington",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428943,
+      "name": "Jacardia Wright",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4428963,
+      "name": "Cade York",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429001,
+      "name": "Jase McClellan",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429006,
+      "name": "Rakim Jarrett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429012,
+      "name": "Kendall Milton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429033,
+      "name": "Jermaine Burton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429053,
+      "name": "AJ Henning",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4429262,
+      "name": "Jaheim Bell",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4430104,
+      "name": "Sincere McCormick",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4430388,
+      "name": "DeWayne McBride",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4431453,
+      "name": "Deuce Vaughn",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4431479,
+      "name": "Ricky White III",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4431506,
+      "name": "Ja'Corey Brooks",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4431509,
+      "name": "Kaden Prather",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4431536,
+      "name": "Donovan Edwards",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4565908,
+      "name": "Tyler Scott",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4567095,
+      "name": "Keilan Robinson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4567216,
+      "name": "D.J. Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4567506,
+      "name": "Tahj Washington",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4569156,
+      "name": "Michael Wiley",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4570242,
+      "name": "Nick Nash",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4570561,
+      "name": "Eric Gray",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4570688,
+      "name": "Caden Davis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4573243,
+      "name": "Chandler Brayboy",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4589248,
+      "name": "Tyreik McAllister",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4594749,
+      "name": "Michael Trigg",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4596439,
+      "name": "Dominic Lovett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4596545,
+      "name": "CJ Dippre",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4608362,
+      "name": "Shane Zylstra",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4613050,
+      "name": "Quentin Skinner",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4682652,
+      "name": "Devin Neal",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685016,
+      "name": "Ellis Merriweather",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685035,
+      "name": "Zach Evans",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685039,
+      "name": "Michael Pratt",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685110,
+      "name": "Anthony Smith",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685381,
+      "name": "Emmanuel Henderson Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685477,
+      "name": "Jam Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4686781,
+      "name": "Brenden Rice",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4689334,
+      "name": "Malik Heath",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4689546,
+      "name": "Danny Gray",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4689988,
+      "name": "Jason Brownlee",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4692022,
+      "name": "Javon Baker",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4693331,
+      "name": "Cam Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4696736,
+      "name": "Tanner Brown",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4698301,
+      "name": "Jermaine Jackson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4708486,
+      "name": "Jimmy Horn Jr.",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4710341,
+      "name": "Jarquez Hunter",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4714365,
+      "name": "Carson Steele",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4746079,
+      "name": "Zach Davidson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4775196,
+      "name": "Tommy Mellott",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4808830,
+      "name": "Damien Martinez",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4875912,
+      "name": "Tejhaun Palmer",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4877203,
+      "name": "Gage Larvadain",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4877824,
+      "name": "Zach Horton",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4878878,
+      "name": "Amar Johnson",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4879650,
+      "name": "Grant DuBose",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4887918,
+      "name": "Junior Bergen",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4892576,
+      "name": "Jamaal Pritchett",
+      "team_id": "0"
+    },
+    {
+      "player_id": 5092436,
+      "name": "Jude McAtamney",
+      "team_id": "0"
+    },
+    {
+      "player_id": 5178972,
+      "name": "Jakobie Keeney-James",
+      "team_id": "0"
+    },
+    {
+      "player_id": 5208436,
+      "name": "Louis Rees-Zammit",
+      "team_id": "0"
+    }
+  ],
+  "players_with_multiple_team_ids": [],
+  "stat_entry_types": {
+    "source_0_split_0": 2004,
+    "source_1_split_0": 1592,
+    "source_1_split_2": 467,
+    "source_0_split_1": 6552,
+    "source_1_split_1": 50
+  },
+  "summary": {
+    "duplicate_player_week_count": 0,
+    "scores_on_scheduled_byes_count": 171,
+    "nonfinal_game_score_count": 0,
+    "unknown_team_id_count": 325,
+    "other_stat_entry_count": 4113
+  },
+  "limitations": [
+    "Current player team IDs may not match historical teams.",
+    "A score on a scheduled bye is a flag for review, not proof of bad data.",
+    "Historical injury absences and actual games played remain unverified."
+  ]
+}
