@@ -14,7 +14,7 @@ SEASON = os.environ.get("ESPN_SEASON", "2026")
 URL = (
     "https://lm-api-reads.fantasy.espn.com/apis/v3/"
     f"games/ffl/seasons/{SEASON}/segments/0/"
-    f"leagues/{LEAGUE_ID}?view=kona_player_info"
+    f"leagues/{LEAGUE_ID}?view=kona_player_info&scoringPeriodId=1"
 )
 
 player_filter = {
