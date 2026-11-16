@@ -1,1210 +1,12 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:33:19.072471+00:00",
+  "updated_at_utc": "2026-11-16T04:36:00.175852+00:00",
   "total_players": 1062,
   "total_stored_stat_entries": 10665,
   "valid_weekly_scoring_entries": 6552,
   "other_stat_entries": 4113,
   "duplicate_player_week_records": [],
-  "scores_on_scheduled_byes": [
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 1,
-      "points": 8.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 2,
-      "points": 3.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 3,
-      "points": 10.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 4,
-      "points": 9.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 5,
-      "points": 12.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 6,
-      "points": 1.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 7,
-      "points": 11.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 8,
-      "points": -1.0
-    },
-    {
-      "player_id": 10621,
-      "name": "Nick Folk",
-      "team_id": "0",
-      "week": 9,
-      "points": 4.0
-    },
-    {
-      "player_id": 14880,
-      "name": "Kirk Cousins",
-      "team_id": "16",
-      "week": 6,
-      "points": 18.52
-    },
-    {
-      "player_id": 15683,
-      "name": "Justin Tucker",
-      "team_id": "12",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 15818,
-      "name": "Keenan Allen",
-      "team_id": "25",
-      "week": 8,
-      "points": 13.7
-    },
-    {
-      "player_id": 16760,
-      "name": "Jimmy Garoppolo",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 16760,
-      "name": "Jimmy Garoppolo",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 1,
-      "points": 6.3
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 2,
-      "points": 1.6
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 3,
-      "points": 7.4
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 1,
-      "points": 5.72
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 2,
-      "points": -0.56
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 2972515,
-      "name": "Cooper Rush",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 3051738,
-      "name": "Marquez Valdes-Scantling",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 3051738,
-      "name": "Marquez Valdes-Scantling",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3051738,
-      "name": "Marquez Valdes-Scantling",
-      "team_id": "0",
-      "week": 5,
-      "points": 4.2
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 1,
-      "points": 5.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 2,
-      "points": 13.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 3,
-      "points": 3.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 4,
-      "points": 5.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 5,
-      "points": 1.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 6,
-      "points": 13.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 7,
-      "points": 3.0
-    },
-    {
-      "player_id": 3115928,
-      "name": "Malik Turner",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3115928,
-      "name": "Malik Turner",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 3115928,
-      "name": "Malik Turner",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 3115928,
-      "name": "Malik Turner",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 3127306,
-      "name": "Dante Pettis",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3914151,
-      "name": "Josiah Deguara",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3914151,
-      "name": "Josiah Deguara",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 3916071,
-      "name": "Gary Jennings",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 3916945,
-      "name": "Darius Slayton",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 3916945,
-      "name": "Darius Slayton",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3916945,
-      "name": "Darius Slayton",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 3919510,
-      "name": "Alex Bachman",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 3919510,
-      "name": "Alex Bachman",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 3919510,
-      "name": "Alex Bachman",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 3919510,
-      "name": "Alex Bachman",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 3919510,
-      "name": "Alex Bachman",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 6,
-      "points": 3.7
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 7,
-      "points": -2.0
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4212909,
-      "name": "David Moore",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 7,
-      "points": 2.4
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 2,
-      "points": 1.2
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 7,
-      "points": 5.0
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 8,
-      "points": 3.7
-    },
-    {
-      "player_id": 4241372,
-      "name": "Hollywood Brown",
-      "team_id": "0",
-      "week": 9,
-      "points": 2.6
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.6
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 3,
-      "points": 5.2
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 4,
-      "points": 3.0
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 5,
-      "points": 2.4
-    },
-    {
-      "player_id": 4241457,
-      "name": "Najee Harris",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.2
-    },
-    {
-      "player_id": 4243322,
-      "name": "Jake Haener",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4243322,
-      "name": "Jake Haener",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4243322,
-      "name": "Jake Haener",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4243322,
-      "name": "Jake Haener",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4243322,
-      "name": "Jake Haener",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4248557,
-      "name": "E.J. Jenkins",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4361426,
-      "name": "Justin Shorter",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4361426,
-      "name": "Justin Shorter",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4361426,
-      "name": "Justin Shorter",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4372716,
-      "name": "Nikko Remigio",
-      "team_id": "34",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4372758,
-      "name": "Kevin Austin Jr.",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4372758,
-      "name": "Kevin Austin Jr.",
-      "team_id": "0",
-      "week": 2,
-      "points": 1.7
-    },
-    {
-      "player_id": 4372758,
-      "name": "Kevin Austin Jr.",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4372758,
-      "name": "Kevin Austin Jr.",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 5,
-      "points": 7.7
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428396,
-      "name": "Hayden Rucci",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4430684,
-      "name": "Treyton Welch",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4569682,
-      "name": "Audric Estime",
-      "team_id": "18",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4570738,
-      "name": "Ke'Shawn Williams",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4570738,
-      "name": "Ke'Shawn Williams",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4570738,
-      "name": "Ke'Shawn Williams",
-      "team_id": "0",
-      "week": 3,
-      "points": -2.0
-    },
-    {
-      "player_id": 4574716,
-      "name": "Harrison Mevis",
-      "team_id": "0",
-      "week": 1,
-      "points": 1.0
-    },
-    {
-      "player_id": 4574716,
-      "name": "Harrison Mevis",
-      "team_id": "0",
-      "week": 2,
-      "points": 3.0
-    },
-    {
-      "player_id": 4574716,
-      "name": "Harrison Mevis",
-      "team_id": "0",
-      "week": 3,
-      "points": 16.0
-    },
-    {
-      "player_id": 4574716,
-      "name": "Harrison Mevis",
-      "team_id": "0",
-      "week": 4,
-      "points": 6.0
-    },
-    {
-      "player_id": 4574716,
-      "name": "Harrison Mevis",
-      "team_id": "0",
-      "week": 5,
-      "points": 2.0
-    },
-    {
-      "player_id": 4578436,
-      "name": "Coleman Owen",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4578436,
-      "name": "Coleman Owen",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4578436,
-      "name": "Coleman Owen",
-      "team_id": "0",
-      "week": 8,
-      "points": -2.0
-    },
-    {
-      "player_id": 4578436,
-      "name": "Coleman Owen",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 1,
-      "points": 9.0
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 3,
-      "points": 3.9
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 4,
-      "points": 1.9
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 5,
-      "points": 9.0
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 6,
-      "points": 9.0
-    },
-    {
-      "player_id": 4599739,
-      "name": "Kendre Miller",
-      "team_id": "0",
-      "week": 7,
-      "points": 5.8
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 3,
-      "points": 1.8
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4602788,
-      "name": "Jackson Meeks",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4683308,
-      "name": "Tanner Arkin",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
-      "team_id": "0",
-      "week": 8,
-      "points": 1.9
-    },
-    {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4688813,
-      "name": "Josh Downs",
-      "team_id": "12",
-      "week": 5,
-      "points": 7.7
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 1,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 2,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 4698191,
-      "name": "Chris Collier",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4708486,
-      "name": "Jimmy Horn Jr.",
-      "team_id": "0",
-      "week": 1,
-      "points": -2.0
-    },
-    {
-      "player_id": 4714365,
-      "name": "Carson Steele",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4714365,
-      "name": "Carson Steele",
-      "team_id": "0",
-      "week": 6,
-      "points": 1.4
-    },
-    {
-      "player_id": 4892576,
-      "name": "Jamaal Pritchett",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4892576,
-      "name": "Jamaal Pritchett",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 5151317,
-      "name": "Robert Henry Jr.",
-      "team_id": "28",
-      "week": 7,
-      "points": 0.0
-    }
-  ],
+  "scores_on_scheduled_byes": [],
   "scoring_records_without_final_games": [],
   "unknown_team_ids": [
     {
@@ -2843,14 +1645,1224 @@
   },
   "summary": {
     "duplicate_player_week_count": 0,
-    "scores_on_scheduled_byes_count": 171,
+    "scores_on_scheduled_byes_count": 0,
     "nonfinal_game_score_count": 0,
     "unknown_team_id_count": 325,
-    "other_stat_entry_count": 4113
+    "other_stat_entry_count": 4113,
+    "original_bye_flags_before_correction": 171,
+    "scoring_team_conflicts_needing_review": 7
   },
   "limitations": [
     "Current player team IDs may not match historical teams.",
     "A score on a scheduled bye is a flag for review, not proof of bad data.",
     "Historical injury absences and actual games played remain unverified."
-  ]
+  ],
+  "original_bye_flags_before_correction": [
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 1,
+      "points": 8.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 2,
+      "points": 3.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 3,
+      "points": 10.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 4,
+      "points": 9.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 5,
+      "points": 12.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 6,
+      "points": 1.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 7,
+      "points": 11.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 8,
+      "points": -1.0
+    },
+    {
+      "player_id": 10621,
+      "name": "Nick Folk",
+      "team_id": "0",
+      "week": 9,
+      "points": 4.0
+    },
+    {
+      "player_id": 14880,
+      "name": "Kirk Cousins",
+      "team_id": "16",
+      "week": 6,
+      "points": 18.52
+    },
+    {
+      "player_id": 15683,
+      "name": "Justin Tucker",
+      "team_id": "12",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 15818,
+      "name": "Keenan Allen",
+      "team_id": "25",
+      "week": 8,
+      "points": 13.7
+    },
+    {
+      "player_id": 16760,
+      "name": "Jimmy Garoppolo",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 16760,
+      "name": "Jimmy Garoppolo",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576399,
+      "name": "Nick Vannett",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 1,
+      "points": 6.3
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.6
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 3,
+      "points": 7.4
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 2576581,
+      "name": "Chris Moore",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 1,
+      "points": 5.72
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 2,
+      "points": -0.56
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2972515,
+      "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3051738,
+      "name": "Marquez Valdes-Scantling",
+      "team_id": "0",
+      "week": 5,
+      "points": 4.2
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 1,
+      "points": 5.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 2,
+      "points": 13.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 3,
+      "points": 3.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 4,
+      "points": 5.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 5,
+      "points": 1.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 6,
+      "points": 13.0
+    },
+    {
+      "player_id": 3051909,
+      "name": "Daniel Carlson",
+      "team_id": "0",
+      "week": 7,
+      "points": 3.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3115928,
+      "name": "Malik Turner",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 3127306,
+      "name": "Dante Pettis",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3914151,
+      "name": "Josiah Deguara",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3914151,
+      "name": "Josiah Deguara",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916071,
+      "name": "Gary Jennings",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3916945,
+      "name": "Darius Slayton",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 3919510,
+      "name": "Alex Bachman",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 6,
+      "points": 3.7
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 7,
+      "points": -2.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4212909,
+      "name": "David Moore",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 7,
+      "points": 2.4
+    },
+    {
+      "player_id": 4240657,
+      "name": "Michael Carter",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.2
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 7,
+      "points": 5.0
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 8,
+      "points": 3.7
+    },
+    {
+      "player_id": 4241372,
+      "name": "Hollywood Brown",
+      "team_id": "0",
+      "week": 9,
+      "points": 2.6
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.6
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 3,
+      "points": 5.2
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 4,
+      "points": 3.0
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 5,
+      "points": 2.4
+    },
+    {
+      "player_id": 4241457,
+      "name": "Najee Harris",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.2
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4243322,
+      "name": "Jake Haener",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4248557,
+      "name": "E.J. Jenkins",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4361426,
+      "name": "Justin Shorter",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372716,
+      "name": "Nikko Remigio",
+      "team_id": "34",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 2,
+      "points": 1.7
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4372758,
+      "name": "Kevin Austin Jr.",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 5,
+      "points": 7.7
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4428396,
+      "name": "Hayden Rucci",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4430684,
+      "name": "Treyton Welch",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4569682,
+      "name": "Audric Estime",
+      "team_id": "18",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4570738,
+      "name": "Ke'Shawn Williams",
+      "team_id": "0",
+      "week": 3,
+      "points": -2.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 1,
+      "points": 1.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 2,
+      "points": 3.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 3,
+      "points": 16.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 4,
+      "points": 6.0
+    },
+    {
+      "player_id": 4574716,
+      "name": "Harrison Mevis",
+      "team_id": "0",
+      "week": 5,
+      "points": 2.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 8,
+      "points": -2.0
+    },
+    {
+      "player_id": 4578436,
+      "name": "Coleman Owen",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 1,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 3,
+      "points": 3.9
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 4,
+      "points": 1.9
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 5,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 6,
+      "points": 9.0
+    },
+    {
+      "player_id": 4599739,
+      "name": "Kendre Miller",
+      "team_id": "0",
+      "week": 7,
+      "points": 5.8
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 3,
+      "points": 1.8
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4602788,
+      "name": "Jackson Meeks",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4683308,
+      "name": "Tanner Arkin",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 8,
+      "points": 1.9
+    },
+    {
+      "player_id": 4685279,
+      "name": "Jaydon Blue",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4688813,
+      "name": "Josh Downs",
+      "team_id": "12",
+      "week": 5,
+      "points": 7.7
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4698191,
+      "name": "Chris Collier",
+      "team_id": "0",
+      "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4708486,
+      "name": "Jimmy Horn Jr.",
+      "team_id": "0",
+      "week": 1,
+      "points": -2.0
+    },
+    {
+      "player_id": 4714365,
+      "name": "Carson Steele",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4714365,
+      "name": "Carson Steele",
+      "team_id": "0",
+      "week": 6,
+      "points": 1.4
+    },
+    {
+      "player_id": 4892576,
+      "name": "Jamaal Pritchett",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4892576,
+      "name": "Jamaal Pritchett",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 5151317,
+      "name": "Robert Henry Jr.",
+      "team_id": "28",
+      "week": 7,
+      "points": 0.0
+    }
+  ],
+  "bye_classification_correction": {
+    "season": "2026",
+    "updated_at_utc": "2026-11-16T04:36:00.175852+00:00",
+    "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
+    "unknown_team_weeks": 3250,
+    "historical_team_unverified_weeks": 7050,
+    "confirmed_dst_byes": 20,
+    "scoring_team_conflicts": 7
+  }
 }
