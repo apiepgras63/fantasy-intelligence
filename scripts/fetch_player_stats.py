@@ -506,3 +506,131 @@ print(
     f"{len(summaries)} scoring summaries, "
     f"and {len(schedule)} NFL schedule weeks"
 )
+
+# Audit historical data without modifying the original archive.
+from collections import Counter
+
+audit = {
+    "season": SEASON,
+    "updated_at_utc": NOW,
+    "total_players": len(all_players),
+    "total_stored_stat_entries": 0,
+    "valid_weekly_scoring_entries": 0,
+    "other_stat_entries": 0,
+    "duplicate_player_week_records": [],
+    "scores_on_scheduled_byes": [],
+    "scoring_records_without_final_games": [],
+    "unknown_team_ids": [],
+    "players_with_multiple_team_ids": [],
+    "stat_entry_types": {},
+}
+
+entry_types = Counter()
+known_team_ids = {
+    team["id"]
+    for week_data in schedule.values()
+    for game in week_data.get("games", [])
+    for team in game.get("teams", [])
+    if team.get("id")
+}
+
+for player in all_players:
+    player_id = player.get("player_id")
+    name = player.get("name")
+    team_id = str(player.get("team_id"))
+    entries = player.get("stats", [])
+
+    audit["total_stored_stat_entries"] += len(entries)
+
+    if team_id not in known_team_ids:
+        audit["unknown_team_ids"].append({
+            "player_id": player_id,
+            "name": name,
+            "team_id": team_id,
+        })
+
+    seen_weeks = Counter()
+
+    for stat in entries:
+        source = stat.get("stat_source_id")
+        split = stat.get("stat_split_type_id")
+        week = stat.get("week")
+
+        entry_types[f"source_{source}_split_{split}"] += 1
+
+        valid = (
+            source == 0
+            and split == 1
+            and isinstance(week, int)
+            and 1 <= week <= 18
+            and isinstance(
+                stat.get("fantasy_points"), (int, float)
+            )
+        )
+
+        if not valid:
+            audit["other_stat_entries"] += 1
+            continue
+
+        audit["valid_weekly_scoring_entries"] += 1
+        seen_weeks[week] += 1
+
+        game = team_games.get((team_id, str(week)))
+
+        if (
+            game is None
+            and schedule_complete.get(str(week))
+        ):
+            audit["scores_on_scheduled_byes"].append({
+                "player_id": player_id,
+                "name": name,
+                "team_id": team_id,
+                "week": week,
+                "points": stat.get("fantasy_points"),
+            })
+
+        if game and not game.get("completed"):
+            audit["scoring_records_without_final_games"].append({
+                "player_id": player_id,
+                "name": name,
+                "week": week,
+                "game_status": game.get("status"),
+            })
+
+    for week, count in seen_weeks.items():
+        if count > 1:
+            audit["duplicate_player_week_records"].append({
+                "player_id": player_id,
+                "name": name,
+                "week": week,
+                "record_count": count,
+            })
+
+audit["stat_entry_types"] = dict(entry_types)
+
+audit["summary"] = {
+    "duplicate_player_week_count": len(
+        audit["duplicate_player_week_records"]
+    ),
+    "scores_on_scheduled_byes_count": len(
+        audit["scores_on_scheduled_byes"]
+    ),
+    "nonfinal_game_score_count": len(
+        audit["scoring_records_without_final_games"]
+    ),
+    "unknown_team_id_count": len(
+        audit["unknown_team_ids"]
+    ),
+    "other_stat_entry_count": audit["other_stat_entries"],
+}
+
+audit["limitations"] = [
+    "Current player team IDs may not match historical teams.",
+    "A score on a scheduled bye is a flag for review, not proof of bad data.",
+    "Historical injury absences and actual games played remain unverified.",
+]
+
+save_json("data_quality_audit.json", audit)
+
+print("DATA QUALITY AUDIT")
+print(json.dumps(audit["summary"], indent=2))
