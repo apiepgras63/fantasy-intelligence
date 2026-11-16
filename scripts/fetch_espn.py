@@ -18,6 +18,7 @@ VIEWS = {
     "settings": ["mSettings"],
     "matchups": ["mMatchupScore"],
     "transactions": ["mTransactions2"],
+        "draft": ["mDraftDetail"],
 }
 DATA = Path("data")
 DATA.mkdir(exist_ok=True)
