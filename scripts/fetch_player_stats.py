@@ -1,136 +1,206 @@
 
 #!/usr/bin/env python3
-"""Collect ESPN fantasy player statistics for historical analysis."""
-
+"""Archive weekly ESPN fantasy statistics for every available regular-season week."""
 import datetime as dt
 import json
 import os
+import time
 from pathlib import Path
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 LEAGUE_ID = os.environ.get("ESPN_LEAGUE_ID", "924923029")
 SEASON = os.environ.get("ESPN_SEASON", "2026")
-
-URL = (
+BASE = (
     "https://lm-api-reads.fantasy.espn.com/apis/v3/"
-    f"games/ffl/seasons/{SEASON}/segments/0/"
-    f"leagues/{LEAGUE_ID}?view=kona_player_info&scoringPeriodId=1"
+    f"games/ffl/seasons/{SEASON}/segments/0/leagues/{LEAGUE_ID}"
 )
+OUTPUT = Path("data") / SEASON
+OUTPUT.mkdir(parents=True, exist_ok=True)
+DESTINATION = OUTPUT / "player_stats.json"
+FILTER = {"players": {"limit": 5000, "sortPercOwned": {"sortPriority": 1, "sortAsc": False}}}
 
-player_filter = {
-    "players": {
-        "limit": 5000,
-        "sortPercOwned": {
-            "sortPriority": 1,
-            "sortAsc": False
-        }
-    }
-}
 
-request = Request(
-    URL,
-    headers={
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "X-Fantasy-Filter": json.dumps(player_filter)
-    }
-)
+def fetch(week=None):
+    query = [("view", "kona_player_info")]
+    if week is not None:
+        query.append(("scoringPeriodId", str(week)))
+    req = Request(
+        BASE + "?" + urlencode(query),
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/json",
+            "X-Fantasy-Filter": json.dumps(FILTER),
+        },
+    )
+    with urlopen(req, timeout=90) as response:
+        payload = json.load(response)
+    if str(payload.get("id")) != LEAGUE_ID:
+        raise ValueError("Unexpected ESPN league response")
+    return payload
 
-with urlopen(request, timeout=90) as response:
-    payload = json.load(response)
 
-players = payload.get("players", [])
-
-if not players:
-    raise RuntimeError("ESPN returned no player data")
-
-results = []
-
-for entry in players:
-    player = entry.get("player", {})
-    stats = player.get("stats", [])
-
-    results.append({
-        "player_id": player.get("id"),
-        "name": player.get("fullName"),
-        "position_id": player.get("defaultPositionId"),
-        "team_id": player.get("proTeamId"),
-        "injury_status": player.get("injuryStatus"),
-        "stats": [
+def weekly_stats(payload, week):
+    records = {}
+    for entry in payload.get("players", []):
+        player = entry.get("player", {})
+        player_id = player.get("id")
+        if player_id is None:
+            continue
+        stats = [
             {
                 "season_id": stat.get("seasonId"),
-                "week": stat.get("scoringPeriodId"),
+                "week": week,
                 "stat_source_id": stat.get("statSourceId"),
                 "stat_split_type_id": stat.get("statSplitTypeId"),
                 "fantasy_points": stat.get("appliedTotal"),
-                "stats": stat.get("stats", {})
+                "stats": stat.get("stats", {}),
             }
-            for stat in stats
+            for stat in player.get("stats", [])
+            if stat.get("statSourceId") == 0
+            and stat.get("statSplitTypeId") == 1
+            and stat.get("scoringPeriodId") == week
+            and isinstance(stat.get("appliedTotal"), (int, float))
         ]
-    })
+        if stats:
+            records[str(player_id)] = {
+                "player_id": player_id,
+                "name": player.get("fullName"),
+                "position_id": player.get("defaultPositionId"),
+                "team_id": player.get("proTeamId"),
+                "injury_status": player.get("injuryStatus"),
+                "stats": stats,
+            }
+    return records
 
-output = Path("data") / SEASON
-output.mkdir(parents=True, exist_ok=True)
 
-destination = output / "player_stats.json"
+# Retain previously saved weeks if a later request fails or returns no scores.
+players = {}
+if DESTINATION.exists():
+    try:
+        old = json.loads(DESTINATION.read_text(encoding="utf-8"))
+        if str(old.get("season")) == SEASON:
+            players = {
+                str(p["player_id"]): p
+                for p in old.get("players", [])
+                if p.get("player_id") is not None
+            }
+    except (ValueError, OSError, KeyError) as exc:
+        raise RuntimeError(
+            f"Cannot safely read existing archive: {exc}"
+        ) from exc
 
-destination.write_text(
-    json.dumps({
-        "season": SEASON,
-        "updated_at_utc": dt.datetime.now(
-            dt.timezone.utc
-        ).isoformat(),
-        "player_count": len(results),
-        "players": results
-    }, indent=2),
+current = fetch()
+current_week = current.get("scoringPeriodId")
+if not isinstance(current_week, int) or not 1 <= current_week <= 18:
+    raise RuntimeError(f"Unexpected scoring period: {current_week!r}")
+
+updated_weeks = []
+errors = {}
+
+for week in range(1, current_week + 1):
+    try:
+        records = weekly_stats(fetch(week), week)
+        if not records:
+            raise ValueError("No actual weekly scoring records returned")
+
+        for key, record in records.items():
+            existing = players.get(key)
+            if existing is None:
+                players[key] = record
+            else:
+                existing.update({
+                    field: value
+                    for field, value in record.items()
+                    if field != "stats"
+                })
+                existing["stats"] = [
+                    s for s in existing.get("stats", [])
+                    if s.get("week") != week
+                ] + record["stats"]
+
+        updated_weeks.append(week)
+        print(f"Week {week}: {len(records)} players with actual points")
+
+    except Exception as exc:
+        errors[str(week)] = str(exc)
+        print(f"Week {week}: ERROR: {exc}")
+
+    time.sleep(0.2)
+
+if not updated_weeks:
+    raise RuntimeError(
+        "No weeks refreshed; existing archive left unchanged"
+    )
+
+now = dt.datetime.now(dt.timezone.utc).isoformat()
+
+for player in players.values():
+    player["stats"] = sorted(
+        player.get("stats", []),
+        key=lambda s: (
+            s.get("week") or 0,
+            s.get("stat_source_id") or 0
+        )
+    )
+
+result = {
+    "season": SEASON,
+    "updated_at_utc": now,
+    "player_count": len(players),
+    "players": sorted(
+        players.values(),
+        key=lambda p: p["player_id"]
+    ),
+}
+
+# Atomic write: don't leave a truncated archive if interrupted.
+temporary = DESTINATION.with_suffix(".json.tmp")
+temporary.write_text(
+    json.dumps(result, indent=2),
     encoding="utf-8"
 )
+temporary.replace(DESTINATION)
 
-print(f"Saved statistics for {len(results)} players")
-
-
-# Verify that weekly fantasy statistics were collected.
-weekly_records = [
-    stat
-    for player in results
-    for stat in player["stats"]
-    if stat["stat_split_type_id"] == 1
-    and stat["stat_source_id"] == 0
-    and isinstance(stat["week"], int)
-    and stat["week"] > 0
+actual = [
+    s
+    for p in players.values()
+    for s in p.get("stats", [])
+    if s.get("stat_source_id") == 0
+    and s.get("stat_split_type_id") == 1
 ]
 
-weeks = sorted({
-    stat["week"] for stat in weekly_records
+weeks_found = sorted({
+    s["week"]
+    for s in actual
+    if isinstance(s.get("week"), int)
 })
-
-players_with_weekly_stats = sum(
-    any(
-        stat["stat_split_type_id"] == 1
-        and stat["stat_source_id"] == 0
-        and isinstance(stat["week"], int)
-        and stat["week"] > 0
-        for stat in player["stats"]
-    )
-    for player in results
-)
 
 report = {
     "season": SEASON,
-    "total_players": len(results),
-    "players_with_weekly_stats": players_with_weekly_stats,
-    "weekly_stat_records": len(weekly_records),
-    "weeks_found": weeks,
+    "updated_at_utc": now,
+    "current_scoring_week": current_week,
+    "total_players": len(players),
+    "players_with_weekly_stats": sum(
+        bool(p.get("stats")) for p in players.values()
+    ),
+    "weekly_stat_records": len(actual),
+    "weeks_found": weeks_found,
+    "weeks_refreshed_this_run": updated_weeks,
     "weekly_records_with_points": sum(
-        isinstance(stat["fantasy_points"], (int, float))
-        for stat in weekly_records
-    )
+        isinstance(s.get("fantasy_points"), (int, float))
+        for s in actual
+    ),
+    "week_errors": errors,
+    "note": (
+        "Weeks are scoring periods; a scoring record does "
+        "not prove a player appeared in an NFL game."
+    ),
 }
 
-(output / "stats_verification.json").write_text(
+(OUTPUT / "stats_verification.json").write_text(
     json.dumps(report, indent=2),
     encoding="utf-8"
 )
 
-print("Statistics verification:")
 print(json.dumps(report, indent=2))
