@@ -8530,7 +8530,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -12565,7 +12566,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -17317,7 +17319,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -22340,7 +22343,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }

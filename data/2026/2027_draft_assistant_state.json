@@ -1,0 +1,12 @@
+{
+  "draft_year": 2027,
+  "league_size": 14,
+  "scoring_format": "full_PPR",
+  "draft_status": "not_started",
+  "my_draft_position": null,
+  "picks_made": [],
+  "my_roster": [],
+  "rookies": [],
+  "ranking_source": "2027_draft_rankings.json",
+  "note": "Draft state template. Live pick tracking and recommendations require a separate interactive interface or draft API connection."
+}
