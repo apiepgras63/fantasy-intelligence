@@ -4324,7 +4324,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 107.64,
         "totalProjectedPoints": 113.9784838,
-        "totalProjectedPointsLive": 108.05352685,
+        "totalProjectedPointsLive": 107.83398591,
         "winProbability": 0.01
       },
       "home": {
@@ -5230,7 +5230,7 @@
                         "42": 5.0,
                         "47": 1.0,
                         "53": 1.0,
-                        "58": 2.0,
+                        "58": 3.0,
                         "59": 3.0,
                         "60": 5.0,
                         "61": 5.0,
@@ -6059,7 +6059,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 114.7,
         "totalProjectedPoints": 96.02503457,
-        "totalProjectedPointsLive": 115.31163155,
+        "totalProjectedPointsLive": 114.98691705,
         "winProbability": 0.99
       },
       "id": 64,
@@ -7864,8 +7864,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 74.06,
         "totalProjectedPoints": 100.20979713,
-        "totalProjectedPointsLive": 90.86163613,
-        "winProbability": 0.29
+        "totalProjectedPointsLive": 90.25109224,
+        "winProbability": 0.26
       },
       "home": {
         "adjustment": 0.0,
@@ -8526,7 +8526,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -9764,7 +9765,7 @@
         "totalPointsLive": 95.52,
         "totalProjectedPoints": 114.99273748,
         "totalProjectedPointsLive": 95.52,
-        "winProbability": 0.71
+        "winProbability": 0.74
       },
       "id": 65,
       "matchupPeriodId": 10,
@@ -12560,7 +12561,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -14451,7 +14453,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 78.98,
         "totalProjectedPoints": 98.3578983,
-        "totalProjectedPointsLive": 81.45820411,
+        "totalProjectedPointsLive": 80.14252833,
         "winProbability": 0.01
       },
       "home": {
@@ -16731,9 +16733,9 @@
                         "99": 1.0,
                         "100": 2.0,
                         "106": 1.0,
-                        "107": 44.0,
-                        "108": 32.0,
-                        "109": 76.0,
+                        "107": 46.0,
+                        "108": 31.0,
+                        "109": 77.0,
                         "110": 25.0,
                         "111": 15.0,
                         "112": 1.0,
@@ -17308,7 +17310,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -17869,7 +17872,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 71.12,
         "totalProjectedPoints": 108.7792187,
-        "totalProjectedPointsLive": 78.9017118,
+        "totalProjectedPointsLive": 78.43070607,
         "winProbability": 0.01
       },
       "home": {
@@ -17888,10 +17891,10 @@
         },
         "eliminationMatchupPeriod": 0,
         "pointsByScoringPeriod": {
-          "10": 104.44
+          "10": 103.44
         },
         "rosterForCurrentScoringPeriod": {
-          "appliedStatTotal": 104.44,
+          "appliedStatTotal": 103.44,
           "entries": [
             {
               "lineupSlotId": 4,
@@ -19199,8 +19202,8 @@
                     {
                       "appliedStats": {
                         "128": 0.0,
-                        "129": 3.0,
-                        "130": 0.0,
+                        "129": 0.0,
+                        "130": 2.0,
                         "99": 3.0,
                         "132": 0.0,
                         "133": 0.0,
@@ -19214,7 +19217,7 @@
                         "92": 0.0,
                         "124": 0.0
                       },
-                      "appliedTotal": 6.0,
+                      "appliedTotal": 5.0,
                       "proTeamId": 4,
                       "scoringPeriodId": 10,
                       "seasonId": 2026,
@@ -19229,12 +19232,12 @@
                         "100": 6.0,
                         "106": 1.0,
                         "107": 16.0,
-                        "108": 31.0,
-                        "109": 47.0,
-                        "110": 15.0,
-                        "111": 9.0,
+                        "108": 34.0,
+                        "109": 50.0,
+                        "110": 16.0,
+                        "111": 10.0,
                         "112": 3.0,
-                        "113": 5.0,
+                        "113": 6.0,
                         "114": 58.0,
                         "116": 5.0,
                         "117": 2.0,
@@ -19243,10 +19246,10 @@
                         "122": 0.0,
                         "123": 0.0,
                         "124": 0.0,
-                        "127": 180.0,
+                        "127": 205.0,
                         "128": 0.0,
-                        "129": 1.0,
-                        "130": 0.0,
+                        "129": 0.0,
+                        "130": 1.0,
                         "131": 0.0,
                         "132": 0.0,
                         "133": 0.0,
@@ -19684,9 +19687,9 @@
         "teamId": 6,
         "tiebreak": 0.0,
         "totalPoints": 0.0,
-        "totalPointsLive": 104.44,
+        "totalPointsLive": 103.44,
         "totalProjectedPoints": 113.04578958,
-        "totalProjectedPointsLive": 104.93290686,
+        "totalProjectedPointsLive": 103.70462316,
         "winProbability": 0.99
       },
       "id": 68,
@@ -21621,7 +21624,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 196.66,
         "totalProjectedPoints": 136.77218759,
-        "totalProjectedPointsLive": 212.76378859,
+        "totalProjectedPointsLive": 211.95747594,
         "winProbability": 0.99
       },
       "home": {
@@ -22326,7 +22329,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -23545,7 +23549,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 105.56,
         "totalProjectedPoints": 102.9185357,
-        "totalProjectedPointsLive": 106.91472811,
+        "totalProjectedPointsLive": 106.19550448,
         "winProbability": 0.01
       },
       "id": 69,
@@ -25197,7 +25201,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 134.02,
         "totalProjectedPoints": 105.96268069,
-        "totalProjectedPointsLive": 144.64023878,
+        "totalProjectedPointsLive": 143.21498084,
         "winProbability": 0.01
       },
       "home": {
@@ -27052,7 +27056,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 178.72,
         "totalProjectedPoints": 119.21615426,
-        "totalProjectedPointsLive": 179.47272767,
+        "totalProjectedPointsLive": 179.07310539,
         "winProbability": 0.99
       },
       "id": 70,
