@@ -199,3 +199,65 @@ report = {
 )
 
 print(json.dumps(report, indent=2))
+
+# Create an easy-to-read weekly fantasy scoring summary.
+player_summaries = []
+
+for player in result["players"]:
+    weekly_points = {}
+
+    for stat in player.get("stats", []):
+        week = stat.get("week")
+        points = stat.get("fantasy_points")
+
+        if (
+            isinstance(week, int)
+            and 1 <= week <= 18
+            and isinstance(points, (int, float))
+            and stat.get("stat_source_id") == 0
+            and stat.get("stat_split_type_id") == 1
+        ):
+            weekly_points[str(week)] = round(points, 2)
+
+    if not weekly_points:
+        continue
+
+    scores = list(weekly_points.values())
+
+    player_summaries.append({
+        "player_id": player["player_id"],
+        "name": player["name"],
+        "position_id": player["position_id"],
+        "team_id": player["team_id"],
+        "weeks": dict(sorted(
+            weekly_points.items(),
+            key=lambda item: int(item[0])
+        )),
+        "weeks_with_records": len(scores),
+        "total_fantasy_points": round(sum(scores), 2),
+        "average_per_record": round(
+            sum(scores) / len(scores), 2
+        ),
+    })
+
+player_summaries.sort(
+    key=lambda player: player["total_fantasy_points"],
+    reverse=True
+)
+
+summary_path = OUTPUT / "player_weekly_summary.json"
+
+summary_path.write_text(
+    json.dumps({
+        "season": SEASON,
+        "updated_at_utc": now,
+        "player_count": len(player_summaries),
+        "players": player_summaries,
+    }, indent=2),
+    encoding="utf-8"
+)
+
+print(
+    f"Saved weekly summaries for "
+    f"{len(player_summaries)} players"
+)
