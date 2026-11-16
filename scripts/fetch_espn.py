@@ -88,7 +88,7 @@ for label, views in VIEWS.items():
             json.dumps(payload, indent=2),
             encoding="utf-8",
         )
-               if label == "draft":
+        if label == "draft":
             picks = payload.get("draftDetail", {}).get("picks", [])
             if not isinstance(picks, list) or not picks:
                 raise ValueError("ESPN draft returned no picks")
