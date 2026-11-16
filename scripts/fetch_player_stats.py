@@ -35,8 +35,6 @@ def fetch(week=None):
     )
     with urlopen(req, timeout=90) as response:
         payload = json.load(response)
-    if str(payload.get("id")) != LEAGUE_ID:
-        raise ValueError("Unexpected ESPN league response")
     return payload
 
 
