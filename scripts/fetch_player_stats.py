@@ -261,3 +261,139 @@ print(
     f"Saved weekly summaries for "
     f"{len(player_summaries)} players"
 )
+
+# Build player consistency statistics for future draft analysis.
+import statistics
+
+POSITION_NAMES = {
+    1: "QB",
+    2: "RB",
+    3: "WR",
+    4: "TE",
+    5: "K",
+    16: "D/ST",
+}
+
+POSITION_THRESHOLDS = {
+    "QB": 20,
+    "RB": 15,
+    "WR": 15,
+    "TE": 10,
+    "K": 10,
+    "D/ST": 10,
+}
+
+consistency_players = []
+
+for player in player_summaries:
+    weeks = player["weeks"]
+    scores = [float(value) for value in weeks.values()]
+
+    if not scores:
+        continue
+
+    position = POSITION_NAMES.get(
+        player["position_id"], "OTHER"
+    )
+    threshold = POSITION_THRESHOLDS.get(position)
+
+    average = statistics.mean(scores)
+    median = statistics.median(scores)
+    deviation = (
+        statistics.pstdev(scores)
+        if len(scores) > 1 else 0.0
+    )
+
+    sorted_scores = sorted(scores)
+    count = len(scores)
+
+    # Lower-quartile observed performance.
+    floor_index = max(0, int((count - 1) * 0.25))
+    ceiling_index = min(
+        count - 1, int((count - 1) * 0.75)
+    )
+
+    consistency_players.append({
+        "player_id": player["player_id"],
+        "name": player["name"],
+        "position": position,
+        "position_id": player["position_id"],
+        "team_id": player["team_id"],
+        "weeks_with_records": count,
+        "total_points": round(sum(scores), 2),
+        "average": round(average, 2),
+        "median": round(median, 2),
+        "standard_deviation": round(deviation, 2),
+        "lowest_recorded_week": round(min(scores), 2),
+        "highest_recorded_week": round(max(scores), 2),
+        "lower_quartile_score": round(
+            sorted_scores[floor_index], 2
+        ),
+        "upper_quartile_score": round(
+            sorted_scores[ceiling_index], 2
+        ),
+        "weeks_at_or_above_average": sum(
+            score >= average for score in scores
+        ),
+        "weeks_below_10_points": sum(
+            score < 10 for score in scores
+        ),
+        "position_threshold": threshold,
+        "weeks_meeting_threshold": (
+            sum(score >= threshold for score in scores)
+            if threshold is not None else None
+        ),
+        "threshold_hit_rate_pct": (
+            round(
+                100 * sum(
+                    score >= threshold for score in scores
+                ) / count,
+                1
+            )
+            if threshold is not None else None
+        ),
+        "weekly_points": weeks,
+    })
+
+consistency_players.sort(
+    key=lambda p: (
+        p["median"],
+        p["average"],
+        p["total_points"]
+    ),
+    reverse=True
+)
+
+consistency_report = {
+    "season": SEASON,
+    "updated_at_utc": now,
+    "scoring_format": "ESPN league scoring",
+    "player_count": len(consistency_players),
+    "methodology": {
+        "sample": "Weeks with recorded ESPN fantasy points",
+        "missing_weeks": (
+            "Excluded, not automatically scored as zero"
+        ),
+        "standard_deviation": "Population standard deviation",
+        "quartiles": "Observed scores at 25% and 75% indices",
+        "thresholds": POSITION_THRESHOLDS,
+        "limitations": (
+            "Records do not yet distinguish games played, "
+            "bye weeks, injuries, or partial live games. "
+            "These are descriptive metrics, not final rankings."
+        ),
+    },
+    "players": consistency_players,
+}
+
+consistency_path = OUTPUT / "player_consistency.json"
+
+consistency_path.write_text(
+    json.dumps(consistency_report, indent=2),
+    encoding="utf-8"
+)
+
+print(
+    f"Saved consistency metrics for "
+    f"{len(consistency_players)} players"
+)
