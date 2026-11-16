@@ -790,3 +790,408 @@ save_json(
 
 print("BYE-WEEK CLASSIFICATION CORRECTION")
 print(json.dumps(bye_corrections, indent=2))
+
+# ============================================================
+# 2027 DRAFT INTELLIGENCE SYSTEM
+# Uses verified scoring records and existing draft history.
+# Does not treat missing scores as injuries or missed games.
+# ============================================================
+
+import math
+
+DRAFT_YEAR = 2027
+
+# Position-specific scoring expectations for preliminary
+# comparison. These are configurable model assumptions,
+# not ESPN projections or published expert rankings.
+POSITION_BASELINES = {
+    "QB": 18.0,
+    "RB": 12.0,
+    "WR": 12.0,
+    "TE": 9.0,
+    "K": 8.0,
+    "D/ST": 8.0,
+}
+
+# Position weights are preliminary draft-model assumptions.
+# Final rankings should incorporate 2027 ADP, projected
+# roles, rookies, depth charts, and injury reports.
+POSITION_WEIGHTS = {
+    "QB": 0.90,
+    "RB": 1.08,
+    "WR": 1.08,
+    "TE": 1.00,
+    "K": 0.55,
+    "D/ST": 0.55,
+}
+
+draft_path = OUTPUT / "draft.json"
+draft_picks = []
+
+if draft_path.exists():
+    try:
+        draft_payload = json.loads(
+            draft_path.read_text(encoding="utf-8")
+        )
+        draft_picks = (
+            draft_payload.get("draftDetail", {})
+            .get("picks", [])
+        )
+    except (ValueError, OSError) as exc:
+        print(f"Draft history unavailable: {exc}")
+
+draft_by_player = {}
+
+for pick in draft_picks:
+    player_id = pick.get("playerId")
+    overall = pick.get("overallPickNumber")
+
+    if player_id is not None and overall is not None:
+        draft_by_player[str(player_id)] = {
+            "overall_pick": overall,
+            "round": pick.get("roundId"),
+            "draft_team_id": pick.get("teamId"),
+        }
+
+player_lookup = {
+    str(player["player_id"]): player
+    for player in all_players
+}
+
+availability_lookup = {
+    str(player["player_id"]): player
+    for player in availability
+}
+
+rankings = []
+participation_review = []
+
+for summary in summaries:
+    player_id = str(summary["player_id"])
+    player = player_lookup.get(player_id, {})
+    availability_record = availability_lookup.get(
+        player_id, {}
+    )
+
+    position = POSITIONS.get(
+        player.get("position_id"), "OTHER"
+    )
+
+    if position not in POSITION_BASELINES:
+        continue
+
+    weekly_points = {
+        int(week): float(points)
+        for week, points in summary["weeks"].items()
+    }
+
+    if not weekly_points:
+        continue
+
+    scores = list(weekly_points.values())
+    recorded_weeks = len(scores)
+    average = statistics.mean(scores)
+    median = statistics.median(scores)
+    deviation = (
+        statistics.pstdev(scores)
+        if recorded_weeks > 1 else 0.0
+    )
+
+    baseline = POSITION_BASELINES[position]
+    weight = POSITION_WEIGHTS[position]
+
+    floor = sorted(scores)[
+        int((recorded_weeks - 1) * 0.25)
+    ]
+
+    ceiling = sorted(scores)[
+        int((recorded_weeks - 1) * 0.75)
+    ]
+
+    threshold = THRESHOLDS.get(position, baseline)
+    hit_rate = sum(
+        score >= threshold for score in scores
+    ) / recorded_weeks
+
+    # Reward productive, repeatable scoring.
+    # Do not automatically penalize injury absences.
+    production = (
+        median * 0.40
+        + average * 0.30
+        + floor * 0.20
+        + ceiling * 0.10
+    )
+
+    stability = max(
+        0.70,
+        1.0 - (
+            deviation / max(average, 1.0)
+        ) * 0.15
+    )
+
+    sample_confidence = min(
+        1.0,
+        math.sqrt(recorded_weeks / 12.0)
+    )
+
+    draft_score = (
+        (production - baseline * 0.35)
+        * weight
+        * stability
+    )
+
+    # Confidence is displayed separately, rather than
+    # silently treating injuries as poor performance.
+    draft_score = round(draft_score, 3)
+
+    previous_draft = draft_by_player.get(
+        player_id, {}
+    )
+
+    classification = availability_record.get(
+        "weekly_classification", {}
+    )
+
+    bye_weeks = [
+        int(week)
+        for week, status in classification.items()
+        if status.get("bye_week") is True
+    ]
+
+    scoring_conflicts = [
+        int(week)
+        for week, status in classification.items()
+        if status.get("team_game_status")
+        == "scoring_team_conflict"
+    ]
+
+    missing_weeks = (
+        availability_record.get(
+            "weeks_without_scoring_records", []
+        )
+    )
+
+    ranking = {
+        "player_id": int(player_id),
+        "name": summary.get("name"),
+        "position": position,
+        "team_id": player.get("team_id"),
+        "draft_score": draft_score,
+        "sample_confidence": round(
+            sample_confidence, 3
+        ),
+        "recorded_weeks": recorded_weeks,
+        "total_points": round(sum(scores), 2),
+        "average": round(average, 2),
+        "median": round(median, 2),
+        "lower_quartile": round(floor, 2),
+        "upper_quartile": round(ceiling, 2),
+        "standard_deviation": round(
+            deviation, 2
+        ),
+        "threshold_hit_rate": round(
+            hit_rate, 3
+        ),
+        "weekly_points": weekly_points,
+        "2026_draft": previous_draft,
+        "confirmed_bye_weeks": bye_weeks,
+        "missing_scoring_weeks": missing_weeks,
+        "scoring_team_conflicts": scoring_conflicts,
+        "confirmed_games_played": None,
+        "confirmed_injury_absences": None,
+        "injury_review_required": bool(
+            missing_weeks
+        ),
+        "projection_status": (
+            "2026 historical model only"
+        ),
+    }
+
+    rankings.append(ranking)
+
+    if missing_weeks or scoring_conflicts:
+        participation_review.append({
+            "player_id": int(player_id),
+            "name": summary.get("name"),
+            "position": position,
+            "recorded_weeks": recorded_weeks,
+            "missing_scoring_weeks": missing_weeks,
+            "scoring_team_conflicts": scoring_conflicts,
+            "historical_injury_status": "unverified",
+            "games_played": None,
+            "review_priority": (
+                "high" if scoring_conflicts
+                else "normal"
+            ),
+        })
+
+rankings.sort(
+    key=lambda p: p["draft_score"],
+    reverse=True
+)
+
+# Create both overall and positional rankings.
+position_counts = {}
+
+for overall_rank, player in enumerate(
+    rankings, start=1
+):
+    position = player["position"]
+    position_counts[position] = (
+        position_counts.get(position, 0) + 1
+    )
+    player["overall_rank"] = overall_rank
+    player["position_rank"] = (
+        position_counts[position]
+    )
+
+# Compare historical 2026 draft positions with
+# actual production among players with scoring data.
+draft_review = []
+
+for player in rankings:
+    previous = player.get("2026_draft") or {}
+
+    if previous.get("overall_pick") is None:
+        continue
+
+    draft_review.append({
+        "player_id": player["player_id"],
+        "name": player["name"],
+        "position": player["position"],
+        "2026_draft_pick": previous["overall_pick"],
+        "2026_draft_round": previous.get("round"),
+        "historical_model_rank": player[
+            "overall_rank"
+        ],
+        "recorded_points": player["total_points"],
+        "median": player["median"],
+        "note": (
+            "Historical production comparison only. "
+            "Not an injury-adjusted draft value grade."
+        ),
+    })
+
+draft_review.sort(
+    key=lambda p: p["2026_draft_pick"]
+)
+
+# Draft board includes editable future rookie and
+# expert-ranking inputs. No rookie names are invented.
+rookie_path = OUTPUT / "2027_rookie_watchlist.json"
+
+if rookie_path.exists():
+    try:
+        rookie_watchlist = json.loads(
+            rookie_path.read_text(encoding="utf-8")
+        ).get("prospects", [])
+    except (ValueError, OSError):
+        rookie_watchlist = []
+else:
+    rookie_watchlist = []
+
+save_json("2027_draft_rankings.json", {
+    "draft_year": DRAFT_YEAR,
+    "source_season": SEASON,
+    "updated_at_utc": NOW,
+    "league_id": LEAGUE_ID,
+    "league_size": 14,
+    "scoring_format": "full_PPR",
+    "status": "preliminary_historical_rankings",
+    "player_count": len(rankings),
+    "methodology": {
+        "uses": [
+            "Recorded weekly fantasy points",
+            "Average and median scoring",
+            "Lower and upper scoring quartiles",
+            "Week-to-week standard deviation",
+            "Position-specific baseline assumptions",
+        ],
+        "does_not_yet_use": [
+            "Verified 2027 NFL team assignments",
+            "2027 offensive depth charts",
+            "Verified historical injury absences",
+            "2027 expert rankings and ADP",
+            "2027 rookie projections",
+        ],
+        "warning": (
+            "These are historical performance rankings, "
+            "not finalized 2027 draft recommendations."
+        ),
+    },
+    "players": rankings,
+})
+
+save_json("2026_draft_outcomes.json", {
+    "season": SEASON,
+    "updated_at_utc": NOW,
+    "total_archived_draft_picks": len(draft_picks),
+    "drafted_players_with_scoring_data": len(
+        draft_review
+    ),
+    "comparison": draft_review,
+})
+
+save_json("player_participation_review.json", {
+    "season": SEASON,
+    "updated_at_utc": NOW,
+    "status": "requires_independent_verification",
+    "note": (
+        "Missing fantasy scoring records are not proof "
+        "of injury, inactivity, or a missed NFL game."
+    ),
+    "players": participation_review,
+})
+
+save_json("2027_rookie_watchlist.json", {
+    "draft_year": DRAFT_YEAR,
+    "updated_at_utc": NOW,
+    "status": "awaiting_verified_prospect_data",
+    "prospects": rookie_watchlist,
+})
+
+save_json("2027_draft_assistant_state.json", {
+    "draft_year": DRAFT_YEAR,
+    "league_size": 14,
+    "scoring_format": "full_PPR",
+    "draft_status": "not_started",
+    "my_draft_position": None,
+    "picks_made": [],
+    "my_roster": [],
+    "rookies": rookie_watchlist,
+    "ranking_source": "2027_draft_rankings.json",
+    "note": (
+        "Draft state template. Live pick tracking "
+        "and recommendations require a separate "
+        "interactive interface or draft API connection."
+    ),
+})
+
+save_json("2027_intelligence_verification.json", {
+    "updated_at_utc": NOW,
+    "season": SEASON,
+    "draft_year": DRAFT_YEAR,
+    "ranked_players": len(rankings),
+    "draft_picks_archived": len(draft_picks),
+    "drafted_players_analyzed": len(draft_review),
+    "players_needing_participation_review": len(
+        participation_review
+    ),
+    "rookie_prospects_loaded": len(
+        rookie_watchlist
+    ),
+    "source_scoring_records": sum(
+        len(p["weeks"]) for p in summaries
+    ),
+    "data_preserved": True,
+    "live_draft_assistant_ready": False,
+    "historical_injury_verification_complete": False,
+})
+
+print("2027 DRAFT INTELLIGENCE BUILD COMPLETE")
+print(
+    f"Ranked {len(rankings)} players, "
+    f"analyzed {len(draft_review)} draft picks, "
+    f"flagged {len(participation_review)} "
+    "players for participation review."
+)
