@@ -87,3 +87,50 @@ destination.write_text(
 )
 
 print(f"Saved statistics for {len(results)} players")
+
+
+# Verify that weekly fantasy statistics were collected.
+weekly_records = [
+    stat
+    for player in results
+    for stat in player["stats"]
+    if stat["stat_split_type_id"] == 1
+    and stat["stat_source_id"] == 0
+    and isinstance(stat["week"], int)
+    and stat["week"] > 0
+]
+
+weeks = sorted({
+    stat["week"] for stat in weekly_records
+})
+
+players_with_weekly_stats = sum(
+    any(
+        stat["stat_split_type_id"] == 1
+        and stat["stat_source_id"] == 0
+        and isinstance(stat["week"], int)
+        and stat["week"] > 0
+        for stat in player["stats"]
+    )
+    for player in results
+)
+
+report = {
+    "season": SEASON,
+    "total_players": len(results),
+    "players_with_weekly_stats": players_with_weekly_stats,
+    "weekly_stat_records": len(weekly_records),
+    "weeks_found": weeks,
+    "weekly_records_with_points": sum(
+        isinstance(stat["fantasy_points"], (int, float))
+        for stat in weekly_records
+    )
+}
+
+(output / "stats_verification.json").write_text(
+    json.dumps(report, indent=2),
+    encoding="utf-8"
+)
+
+print("Statistics verification:")
+print(json.dumps(report, indent=2))
