@@ -1,2472 +1,2022 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:47:54.851136+00:00",
-  "total_archived_draft_picks": 224,
-  "drafted_players_with_scoring_data": 224,
+  "draft_picks_archived": 224,
   "comparison": [
     {
-      "player_id": 4430807,
+      "player_id": "4430807",
       "name": "Bijan Robinson",
       "position": "RB",
-      "2026_draft_pick": 1,
-      "2026_draft_round": 1,
+      "2026_pick": 1,
       "historical_model_rank": 13,
-      "recorded_points": 197.7,
-      "median": 17.45,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 197.7,
+      "median": 17.45
     },
     {
-      "player_id": 4429795,
+      "player_id": "4429795",
       "name": "Jahmyr Gibbs",
       "position": "RB",
-      "2026_draft_pick": 2,
-      "2026_draft_round": 1,
+      "2026_pick": 2,
       "historical_model_rank": 2,
-      "recorded_points": 253.4,
-      "median": 24.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 253.4,
+      "median": 24.8
     },
     {
-      "player_id": 4362628,
+      "player_id": "4362628",
       "name": "Ja'Marr Chase",
       "position": "WR",
-      "2026_draft_pick": 3,
-      "2026_draft_round": 1,
+      "2026_pick": 3,
       "historical_model_rank": 3,
-      "recorded_points": 193.8,
-      "median": 24.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 193.8,
+      "median": 24.8
     },
     {
-      "player_id": 4242335,
+      "player_id": "4242335",
       "name": "Jonathan Taylor",
       "position": "RB",
-      "2026_draft_pick": 4,
-      "2026_draft_round": 1,
+      "2026_pick": 4,
       "historical_model_rank": 25,
-      "recorded_points": 165.9,
-      "median": 15.65,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 165.9,
+      "median": 15.65
     },
     {
-      "player_id": 3043078,
+      "player_id": "3043078",
       "name": "Derrick Henry",
       "position": "RB",
-      "2026_draft_pick": 5,
-      "2026_draft_round": 1,
+      "2026_pick": 5,
       "historical_model_rank": 37,
-      "recorded_points": 142.28,
-      "median": 15.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 142.28,
+      "median": 15.9
     },
     {
-      "player_id": 4241389,
+      "player_id": "4241389",
       "name": "CeeDee Lamb",
       "position": "WR",
-      "2026_draft_pick": 6,
-      "2026_draft_round": 1,
+      "2026_pick": 6,
       "historical_model_rank": 7,
-      "recorded_points": 222.0,
-      "median": 20.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 222.0,
+      "median": 20.2
     },
     {
-      "player_id": 4430878,
+      "player_id": "4430878",
       "name": "Jaxon Smith-Njigba",
       "position": "WR",
-      "2026_draft_pick": 7,
-      "2026_draft_round": 1,
+      "2026_pick": 7,
       "historical_model_rank": 1,
-      "recorded_points": 263.16,
-      "median": 25.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 263.16,
+      "median": 25.8
     },
     {
-      "player_id": 4374302,
+      "player_id": "4374302",
       "name": "Amon-Ra St. Brown",
       "position": "WR",
-      "2026_draft_pick": 8,
-      "2026_draft_round": 1,
+      "2026_pick": 8,
       "historical_model_rank": 12,
-      "recorded_points": 183.4,
-      "median": 16.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 183.4,
+      "median": 16.6
     },
     {
-      "player_id": 4431452,
+      "player_id": "4431452",
       "name": "Drake Maye",
       "position": "QB",
-      "2026_draft_pick": 9,
-      "2026_draft_round": 1,
+      "2026_pick": 9,
       "historical_model_rank": 42,
-      "recorded_points": 182.2,
-      "median": 20.36,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 182.2,
+      "median": 20.36
     },
     {
-      "player_id": 4426515,
+      "player_id": "4426515",
       "name": "Puka Nacua",
       "position": "WR",
-      "2026_draft_pick": 10,
-      "2026_draft_round": 1,
+      "2026_pick": 10,
       "historical_model_rank": 35,
-      "recorded_points": 173.6,
-      "median": 17.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 173.6,
+      "median": 17.9
     },
     {
-      "player_id": 3117251,
+      "player_id": "3117251",
       "name": "Christian McCaffrey",
       "position": "RB",
-      "2026_draft_pick": 11,
-      "2026_draft_round": 1,
+      "2026_pick": 11,
       "historical_model_rank": 4,
-      "recorded_points": 213.0,
-      "median": 22.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 213.0,
+      "median": 22.0
     },
     {
-      "player_id": 4262921,
+      "player_id": "4262921",
       "name": "Justin Jefferson",
       "position": "WR",
-      "2026_draft_pick": 12,
-      "2026_draft_round": 1,
+      "2026_pick": 12,
       "historical_model_rank": 63,
-      "recorded_points": 111.6,
-      "median": 8.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 111.6,
+      "median": 8.8
     },
     {
-      "player_id": 4379399,
+      "player_id": "4379399",
       "name": "James Cook III",
       "position": "RB",
-      "2026_draft_pick": 13,
-      "2026_draft_round": 1,
+      "2026_pick": 13,
       "historical_model_rank": 8,
-      "recorded_points": 170.1,
-      "median": 19.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 170.1,
+      "median": 19.4
     },
     {
-      "player_id": 4429160,
+      "player_id": "4429160",
       "name": "De'Von Achane",
       "position": "RB",
-      "2026_draft_pick": 14,
-      "2026_draft_round": 1,
+      "2026_pick": 14,
       "historical_model_rank": 406,
-      "recorded_points": 24.6,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 24.6,
+      "median": 0.0
     },
     {
-      "player_id": 4426502,
+      "player_id": "4426502",
       "name": "Drake London",
       "position": "WR",
-      "2026_draft_pick": 15,
-      "2026_draft_round": 2,
+      "2026_pick": 15,
       "historical_model_rank": 46,
-      "recorded_points": 138.5,
-      "median": 13.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 138.5,
+      "median": 13.4
     },
     {
-      "player_id": 4567048,
+      "player_id": "4567048",
       "name": "Kenneth Walker III",
       "position": "RB",
-      "2026_draft_pick": 16,
-      "2026_draft_round": 2,
+      "2026_pick": 16,
       "historical_model_rank": 5,
-      "recorded_points": 196.4,
-      "median": 23.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 196.4,
+      "median": 23.8
     },
     {
-      "player_id": 3929630,
+      "player_id": "3929630",
       "name": "Saquon Barkley",
       "position": "RB",
-      "2026_draft_pick": 17,
-      "2026_draft_round": 2,
+      "2026_pick": 17,
       "historical_model_rank": 158,
-      "recorded_points": 58.7,
-      "median": 8.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 58.7,
+      "median": 8.2
     },
     {
-      "player_id": 4362238,
+      "player_id": "4362238",
       "name": "Chase Brown",
       "position": "RB",
-      "2026_draft_pick": 18,
-      "2026_draft_round": 2,
+      "2026_pick": 18,
       "historical_model_rank": 48,
-      "recorded_points": 129.7,
-      "median": 11.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 129.7,
+      "median": 11.2
     },
     {
-      "player_id": 4890973,
+      "player_id": "4890973",
       "name": "Ashton Jeanty",
       "position": "RB",
-      "2026_draft_pick": 19,
-      "2026_draft_round": 2,
+      "2026_pick": 19,
       "historical_model_rank": 47,
-      "recorded_points": 149.7,
-      "median": 11.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 149.7,
+      "median": 11.5
     },
     {
-      "player_id": 4428331,
+      "player_id": "4428331",
       "name": "Rashee Rice",
       "position": "WR",
-      "2026_draft_pick": 20,
-      "2026_draft_round": 2,
+      "2026_pick": 20,
       "historical_model_rank": 114,
-      "recorded_points": 79.4,
-      "median": 9.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 79.4,
+      "median": 9.9
     },
     {
-      "player_id": 4239996,
+      "player_id": "4239996",
       "name": "Travis Etienne Jr.",
       "position": "RB",
-      "2026_draft_pick": 21,
-      "2026_draft_round": 2,
+      "2026_pick": 21,
       "historical_model_rank": 352,
-      "recorded_points": 37.3,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 37.3,
+      "median": 0.0
     },
     {
-      "player_id": 4361307,
+      "player_id": "4361307",
       "name": "Trey McBride",
       "position": "TE",
-      "2026_draft_pick": 22,
-      "2026_draft_round": 2,
+      "2026_pick": 22,
       "historical_model_rank": 17,
-      "recorded_points": 171.5,
-      "median": 17.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 171.5,
+      "median": 17.3
     },
     {
-      "player_id": 4361370,
+      "player_id": "4361370",
       "name": "Chris Olave",
       "position": "WR",
-      "2026_draft_pick": 23,
-      "2026_draft_round": 2,
+      "2026_pick": 23,
       "historical_model_rank": 19,
-      "recorded_points": 147.4,
-      "median": 16.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 147.4,
+      "median": 16.8
     },
     {
-      "player_id": 4432665,
+      "player_id": "4432665",
       "name": "Brock Bowers",
       "position": "TE",
-      "2026_draft_pick": 24,
-      "2026_draft_round": 2,
+      "2026_pick": 24,
       "historical_model_rank": 38,
-      "recorded_points": 149.8,
-      "median": 16.95,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 149.8,
+      "median": 16.95
     },
     {
-      "player_id": 4431459,
+      "player_id": "4431459",
       "name": "Tyler Warren",
       "position": "TE",
-      "2026_draft_pick": 25,
-      "2026_draft_round": 2,
+      "2026_pick": 25,
       "historical_model_rank": 109,
-      "recorded_points": 86.5,
-      "median": 8.75,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 86.5,
+      "median": 8.75
     },
     {
-      "player_id": 4685382,
+      "player_id": "4685382",
       "name": "Omarion Hampton",
       "position": "RB",
-      "2026_draft_pick": 26,
-      "2026_draft_round": 2,
+      "2026_pick": 26,
       "historical_model_rank": 128,
-      "recorded_points": 68.2,
-      "median": 6.95,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 68.2,
+      "median": 6.95
     },
     {
-      "player_id": 4258173,
+      "player_id": "4258173",
       "name": "Nico Collins",
       "position": "WR",
-      "2026_draft_pick": 27,
-      "2026_draft_round": 2,
+      "2026_pick": 27,
       "historical_model_rank": 62,
-      "recorded_points": 116.0,
-      "median": 10.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 116.0,
+      "median": 10.9
     },
     {
-      "player_id": 4426348,
+      "player_id": "4426348",
       "name": "Jayden Daniels",
       "position": "QB",
-      "2026_draft_pick": 28,
-      "2026_draft_round": 2,
+      "2026_pick": 28,
       "historical_model_rank": 55,
-      "recorded_points": 135.96,
-      "median": 14.98,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 135.96,
+      "median": 14.98
     },
     {
-      "player_id": 16800,
+      "player_id": "16800",
       "name": "Davante Adams",
       "position": "WR",
-      "2026_draft_pick": 29,
-      "2026_draft_round": 3,
+      "2026_pick": 29,
       "historical_model_rank": 171,
-      "recorded_points": 102.0,
-      "median": 6.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 102.0,
+      "median": 6.25
     },
     {
-      "player_id": 4870808,
+      "player_id": "4870808",
       "name": "Jeremiyah Love",
       "position": "RB",
-      "2026_draft_pick": 30,
-      "2026_draft_round": 3,
+      "2026_pick": 30,
       "historical_model_rank": 289,
-      "recorded_points": 53.4,
-      "median": 2.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 53.4,
+      "median": 2.25
     },
     {
-      "player_id": 4361579,
+      "player_id": "4361579",
       "name": "Javonte Williams",
       "position": "RB",
-      "2026_draft_pick": 31,
-      "2026_draft_round": 3,
+      "2026_pick": 31,
       "historical_model_rank": 24,
-      "recorded_points": 167.3,
-      "median": 16.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 167.3,
+      "median": 16.25
     },
     {
-      "player_id": 3915511,
+      "player_id": "3915511",
       "name": "Joe Burrow",
       "position": "QB",
-      "2026_draft_pick": 32,
-      "2026_draft_round": 3,
+      "2026_pick": 32,
       "historical_model_rank": 6,
-      "recorded_points": 232.3,
-      "median": 24.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 232.3,
+      "median": 24.6
     },
     {
-      "player_id": 4569618,
+      "player_id": "4569618",
       "name": "Garrett Wilson",
       "position": "WR",
-      "2026_draft_pick": 33,
-      "2026_draft_round": 3,
+      "2026_pick": 33,
       "historical_model_rank": 49,
-      "recorded_points": 129.3,
-      "median": 14.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 129.3,
+      "median": 14.1
     },
     {
-      "player_id": 4047365,
+      "player_id": "4047365",
       "name": "Josh Jacobs",
       "position": "RB",
-      "2026_draft_pick": 34,
-      "2026_draft_round": 3,
+      "2026_pick": 34,
       "historical_model_rank": 370,
-      "recorded_points": 43.8,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 43.8,
+      "median": 0.0
     },
     {
-      "player_id": 3918298,
+      "player_id": "3918298",
       "name": "Josh Allen",
       "position": "QB",
-      "2026_draft_pick": 35,
-      "2026_draft_round": 3,
+      "2026_pick": 35,
       "historical_model_rank": 11,
-      "recorded_points": 223.02,
-      "median": 22.34,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 223.02,
+      "median": 22.34
     },
     {
-      "player_id": 4426354,
+      "player_id": "4426354",
       "name": "George Pickens",
       "position": "WR",
-      "2026_draft_pick": 36,
-      "2026_draft_round": 3,
+      "2026_pick": 36,
       "historical_model_rank": 56,
-      "recorded_points": 147.8,
-      "median": 11.65,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 147.8,
+      "median": 11.65
     },
     {
-      "player_id": 4430737,
+      "player_id": "4430737",
       "name": "Kyren Williams",
       "position": "RB",
-      "2026_draft_pick": 37,
-      "2026_draft_round": 3,
+      "2026_pick": 37,
       "historical_model_rank": 29,
-      "recorded_points": 164.3,
-      "median": 15.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 164.3,
+      "median": 15.6
     },
     {
-      "player_id": 4047646,
+      "player_id": "4047646",
       "name": "A.J. Brown",
       "position": "WR",
-      "2026_draft_pick": 38,
-      "2026_draft_round": 3,
+      "2026_pick": 38,
       "historical_model_rank": 414,
-      "recorded_points": 23.8,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 23.8,
+      "median": 0.0
     },
     {
-      "player_id": 4429615,
+      "player_id": "4429615",
       "name": "Zay Flowers",
       "position": "WR",
-      "2026_draft_pick": 39,
-      "2026_draft_round": 3,
+      "2026_pick": 39,
       "historical_model_rank": 45,
-      "recorded_points": 127.5,
-      "median": 14.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 127.5,
+      "median": 14.6
     },
     {
-      "player_id": 4696981,
+      "player_id": "4696981",
       "name": "Cam Skattebo",
       "position": "RB",
-      "2026_draft_pick": 40,
-      "2026_draft_round": 3,
+      "2026_pick": 40,
       "historical_model_rank": 71,
-      "recorded_points": 97.6,
-      "median": 9.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 97.6,
+      "median": 9.5
     },
     {
-      "player_id": 4595348,
+      "player_id": "4595348",
       "name": "Malik Nabers",
       "position": "WR",
-      "2026_draft_pick": 41,
-      "2026_draft_round": 3,
+      "2026_pick": 41,
       "historical_model_rank": 44,
-      "recorded_points": 137.2,
-      "median": 12.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 137.2,
+      "median": 12.9
     },
     {
-      "player_id": 4567750,
+      "player_id": "4567750",
       "name": "Emeka Egbuka",
       "position": "WR",
-      "2026_draft_pick": 42,
-      "2026_draft_round": 3,
+      "2026_pick": 42,
       "historical_model_rank": 98,
-      "recorded_points": 78.0,
-      "median": 10.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 78.0,
+      "median": 10.3
     },
     {
-      "player_id": 4685472,
+      "player_id": "4685472",
       "name": "Tetairoa McMillan",
       "position": "WR",
-      "2026_draft_pick": 43,
-      "2026_draft_round": 4,
+      "2026_pick": 43,
       "historical_model_rank": 53,
-      "recorded_points": 131.0,
-      "median": 11.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 131.0,
+      "median": 11.8
     },
     {
-      "player_id": 4241478,
+      "player_id": "4241478",
       "name": "DeVonta Smith",
       "position": "WR",
-      "2026_draft_pick": 44,
-      "2026_draft_round": 4,
+      "2026_pick": 44,
       "historical_model_rank": 276,
-      "recorded_points": 69.0,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 69.0,
+      "median": 0.0
     },
     {
-      "player_id": 3916387,
+      "player_id": "3916387",
       "name": "Lamar Jackson",
       "position": "QB",
-      "2026_draft_pick": 45,
-      "2026_draft_round": 4,
+      "2026_pick": 45,
       "historical_model_rank": 308,
-      "recorded_points": 79.08,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 79.08,
+      "median": 0.0
     },
     {
-      "player_id": 4372016,
+      "player_id": "4372016",
       "name": "Jaylen Waddle",
       "position": "WR",
-      "2026_draft_pick": 46,
-      "2026_draft_round": 4,
+      "2026_pick": 46,
       "historical_model_rank": 118,
-      "recorded_points": 82.0,
-      "median": 6.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 82.0,
+      "median": 6.4
     },
     {
-      "player_id": 4612826,
+      "player_id": "4612826",
       "name": "Ladd McConkey",
       "position": "WR",
-      "2026_draft_pick": 47,
-      "2026_draft_round": 4,
+      "2026_pick": 47,
       "historical_model_rank": 230,
-      "recorded_points": 51.6,
-      "median": 4.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 51.6,
+      "median": 4.6
     },
     {
-      "player_id": 4259545,
+      "player_id": "4259545",
       "name": "D'Andre Swift",
       "position": "RB",
-      "2026_draft_pick": 48,
-      "2026_draft_round": 4,
+      "2026_pick": 48,
       "historical_model_rank": 18,
-      "recorded_points": 153.8,
-      "median": 17.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 153.8,
+      "median": 17.3
     },
     {
-      "player_id": 4723086,
+      "player_id": "4723086",
       "name": "Colston Loveland",
       "position": "TE",
-      "2026_draft_pick": 49,
-      "2026_draft_round": 4,
+      "2026_pick": 49,
       "historical_model_rank": 82,
-      "recorded_points": 83.3,
-      "median": 9.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 83.3,
+      "median": 9.4
     },
     {
-      "player_id": -16034,
+      "player_id": "-16034",
       "name": "Texans D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 50,
-      "2026_draft_round": 4,
+      "2026_pick": 50,
       "historical_model_rank": 218,
-      "recorded_points": 46.0,
-      "median": 5.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 46.0,
+      "median": 5.0
     },
     {
-      "player_id": 4882093,
+      "player_id": "4882093",
       "name": "Bhayshul Tuten",
       "position": "RB",
-      "2026_draft_pick": 51,
-      "2026_draft_round": 4,
+      "2026_pick": 51,
       "historical_model_rank": 28,
-      "recorded_points": 147.5,
-      "median": 14.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 147.5,
+      "median": 14.2
     },
     {
-      "player_id": 3912547,
+      "player_id": "3912547",
       "name": "Sam Darnold",
       "position": "QB",
-      "2026_draft_pick": 52,
-      "2026_draft_round": 4,
+      "2026_pick": 52,
       "historical_model_rank": 198,
-      "recorded_points": 92.32,
-      "median": 9.66,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.32,
+      "median": 9.66
     },
     {
-      "player_id": 15847,
+      "player_id": "15847",
       "name": "Travis Kelce",
       "position": "TE",
-      "2026_draft_pick": 53,
-      "2026_draft_round": 4,
+      "2026_pick": 53,
       "historical_model_rank": 57,
-      "recorded_points": 104.3,
-      "median": 10.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 104.3,
+      "median": 10.1
     },
     {
-      "player_id": 4596448,
+      "player_id": "4596448",
       "name": "Bucky Irving",
       "position": "RB",
-      "2026_draft_pick": 54,
-      "2026_draft_round": 4,
+      "2026_pick": 54,
       "historical_model_rank": 14,
-      "recorded_points": 159.1,
-      "median": 20.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 159.1,
+      "median": 20.3
     },
     {
-      "player_id": 4040715,
+      "player_id": "4040715",
       "name": "Jalen Hurts",
       "position": "QB",
-      "2026_draft_pick": 55,
-      "2026_draft_round": 4,
+      "2026_pick": 55,
       "historical_model_rank": 160,
-      "recorded_points": 80.02,
-      "median": 12.62,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 80.02,
+      "median": 12.62
     },
     {
-      "player_id": 4432710,
+      "player_id": "4432710",
       "name": "TreVeyon Henderson",
       "position": "RB",
-      "2026_draft_pick": 56,
-      "2026_draft_round": 4,
+      "2026_pick": 56,
       "historical_model_rank": 305,
-      "recorded_points": 33.8,
-      "median": 3.45,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 33.8,
+      "median": 3.45
     },
     {
-      "player_id": 4239993,
+      "player_id": "4239993",
       "name": "Tee Higgins",
       "position": "WR",
-      "2026_draft_pick": 57,
-      "2026_draft_round": 5,
+      "2026_pick": 57,
       "historical_model_rank": 10,
-      "recorded_points": 171.4,
-      "median": 20.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 171.4,
+      "median": 20.2
     },
     {
-      "player_id": 4427366,
+      "player_id": "4427366",
       "name": "Breece Hall",
       "position": "RB",
-      "2026_draft_pick": 58,
-      "2026_draft_round": 5,
+      "2026_pick": 58,
       "historical_model_rank": 224,
-      "recorded_points": 69.0,
-      "median": 4.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 69.0,
+      "median": 4.25
     },
     {
-      "player_id": 4431299,
+      "player_id": "4431299",
       "name": "Rome Odunze",
       "position": "WR",
-      "2026_draft_pick": 59,
-      "2026_draft_round": 5,
+      "2026_pick": 59,
       "historical_model_rank": 91,
-      "recorded_points": 88.8,
-      "median": 7.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 88.8,
+      "median": 7.4
     },
     {
-      "player_id": 4685702,
+      "player_id": "4685702",
       "name": "Quinshon Judkins",
       "position": "RB",
-      "2026_draft_pick": 60,
-      "2026_draft_round": 5,
+      "2026_pick": 60,
       "historical_model_rank": 80,
-      "recorded_points": 108.2,
-      "median": 8.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 108.2,
+      "median": 8.9
     },
     {
-      "player_id": 4685512,
+      "player_id": "4685512",
       "name": "Jadarian Price",
       "position": "RB",
-      "2026_draft_pick": 61,
-      "2026_draft_round": 5,
+      "2026_pick": 61,
       "historical_model_rank": 294,
-      "recorded_points": 42.9,
-      "median": 3.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 42.9,
+      "median": 3.1
     },
     {
-      "player_id": 4431611,
+      "player_id": "4431611",
       "name": "Caleb Williams",
       "position": "QB",
-      "2026_draft_pick": 62,
-      "2026_draft_round": 5,
+      "2026_pick": 62,
       "historical_model_rank": 123,
-      "recorded_points": 110.34,
-      "median": 12.76,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 110.34,
+      "median": 12.76
     },
     {
-      "player_id": 4569173,
+      "player_id": "4569173",
       "name": "Rhamondre Stevenson",
       "position": "RB",
-      "2026_draft_pick": 63,
-      "2026_draft_round": 5,
+      "2026_pick": 63,
       "historical_model_rank": 59,
-      "recorded_points": 115.2,
-      "median": 13.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 115.2,
+      "median": 13.25
     },
     {
-      "player_id": 4689114,
+      "player_id": "4689114",
       "name": "Jaxson Dart",
       "position": "QB",
-      "2026_draft_pick": 64,
-      "2026_draft_round": 5,
+      "2026_pick": 64,
       "historical_model_rank": 549,
-      "recorded_points": 27.4,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 27.4,
+      "median": 0.0
     },
     {
-      "player_id": 3121422,
+      "player_id": "3121422",
       "name": "Terry McLaurin",
       "position": "WR",
-      "2026_draft_pick": 65,
-      "2026_draft_round": 5,
+      "2026_pick": 65,
       "historical_model_rank": 272,
-      "recorded_points": 46.0,
-      "median": 3.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 46.0,
+      "median": 3.4
     },
     {
-      "player_id": 4569987,
+      "player_id": "4569987",
       "name": "Jaylen Warren",
       "position": "RB",
-      "2026_draft_pick": 66,
-      "2026_draft_round": 5,
+      "2026_pick": 66,
       "historical_model_rank": 26,
-      "recorded_points": 149.9,
-      "median": 15.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 149.9,
+      "median": 15.6
     },
     {
-      "player_id": 4035538,
+      "player_id": "4035538",
       "name": "David Montgomery",
       "position": "RB",
-      "2026_draft_pick": 67,
-      "2026_draft_round": 5,
+      "2026_pick": 67,
       "historical_model_rank": 311,
-      "recorded_points": 45.5,
-      "median": 1.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 45.5,
+      "median": 1.1
     },
     {
-      "player_id": 3915416,
+      "player_id": "3915416",
       "name": "DJ Moore",
       "position": "WR",
-      "2026_draft_pick": 68,
-      "2026_draft_round": 5,
+      "2026_pick": 68,
       "historical_model_rank": 147,
-      "recorded_points": 78.9,
-      "median": 6.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 78.9,
+      "median": 6.6
     },
     {
-      "player_id": 4035687,
+      "player_id": "4035687",
       "name": "Michael Pittman Jr.",
       "position": "WR",
-      "2026_draft_pick": 69,
-      "2026_draft_round": 5,
+      "2026_pick": 69,
       "historical_model_rank": 424,
-      "recorded_points": 15.9,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 15.9,
+      "median": 0.0
     },
     {
-      "player_id": 4038815,
+      "player_id": "4038815",
       "name": "Rico Dowdle",
       "position": "RB",
-      "2026_draft_pick": 70,
-      "2026_draft_round": 5,
-      "historical_model_rank": 236,
-      "recorded_points": 50.0,
-      "median": 5.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "2026_pick": 70,
+      "historical_model_rank": 237,
+      "points": 50.0,
+      "median": 5.4
     },
     {
-      "player_id": 12483,
+      "player_id": "12483",
       "name": "Matthew Stafford",
       "position": "QB",
-      "2026_draft_pick": 71,
-      "2026_draft_round": 6,
+      "2026_pick": 71,
       "historical_model_rank": 50,
-      "recorded_points": 162.62,
-      "median": 17.19,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 162.62,
+      "median": 17.19
     },
     {
-      "player_id": 4248528,
+      "player_id": "4248528",
       "name": "Christian Watson",
       "position": "WR",
-      "2026_draft_pick": 72,
-      "2026_draft_round": 6,
+      "2026_pick": 72,
       "historical_model_rank": 22,
-      "recorded_points": 183.6,
-      "median": 15.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 183.6,
+      "median": 15.7
     },
     {
-      "player_id": 4426388,
+      "player_id": "4426388",
       "name": "Jameson Williams",
       "position": "WR",
-      "2026_draft_pick": 73,
-      "2026_draft_round": 6,
+      "2026_pick": 73,
       "historical_model_rank": 61,
-      "recorded_points": 114.7,
-      "median": 9.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 114.7,
+      "median": 9.0
     },
     {
-      "player_id": 4871023,
+      "player_id": "4871023",
       "name": "Carnell Tate",
       "position": "WR",
-      "2026_draft_pick": 74,
-      "2026_draft_round": 6,
+      "2026_pick": 74,
       "historical_model_rank": 134,
-      "recorded_points": 77.3,
-      "median": 7.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 77.3,
+      "median": 7.8
     },
     {
-      "player_id": 4426338,
+      "player_id": "4426338",
       "name": "Bo Nix",
       "position": "QB",
-      "2026_draft_pick": 75,
-      "2026_draft_round": 6,
+      "2026_pick": 75,
       "historical_model_rank": 66,
-      "recorded_points": 130.8,
-      "median": 14.12,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 130.8,
+      "median": 14.12
     },
     {
-      "player_id": 3916148,
+      "player_id": "3916148",
       "name": "Tony Pollard",
       "position": "RB",
-      "2026_draft_pick": 76,
-      "2026_draft_round": 6,
+      "2026_pick": 76,
       "historical_model_rank": 41,
-      "recorded_points": 140.4,
-      "median": 13.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 140.4,
+      "median": 13.0
     },
     {
-      "player_id": 4371733,
+      "player_id": "4371733",
       "name": "Kenny Gainwell",
       "position": "RB",
-      "2026_draft_pick": 77,
-      "2026_draft_round": 6,
+      "2026_pick": 77,
       "historical_model_rank": 167,
-      "recorded_points": 63.6,
-      "median": 5.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 63.6,
+      "median": 5.8
     },
     {
-      "player_id": 3953687,
+      "player_id": "3953687",
       "name": "Brandon Aubrey",
       "position": "K",
-      "2026_draft_pick": 78,
-      "2026_draft_round": 6,
+      "2026_pick": 78,
       "historical_model_rank": 125,
-      "recorded_points": 92.0,
-      "median": 10.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.0,
+      "median": 10.0
     },
     {
-      "player_id": 4360248,
+      "player_id": "4360248",
       "name": "Kyle Pitts Sr.",
       "position": "TE",
-      "2026_draft_pick": 79,
-      "2026_draft_round": 6,
+      "2026_pick": 79,
       "historical_model_rank": 148,
-      "recorded_points": 78.0,
-      "median": 6.15,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 78.0,
+      "median": 6.15
     },
     {
-      "player_id": 3128429,
+      "player_id": "3128429",
       "name": "Courtland Sutton",
       "position": "WR",
-      "2026_draft_pick": 80,
-      "2026_draft_round": 6,
+      "2026_pick": 80,
       "historical_model_rank": 144,
-      "recorded_points": 63.6,
-      "median": 7.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 63.6,
+      "median": 7.5
     },
     {
-      "player_id": 4685278,
+      "player_id": "4685278",
       "name": "Luther Burden III",
       "position": "WR",
-      "2026_draft_pick": 81,
-      "2026_draft_round": 6,
+      "2026_pick": 81,
       "historical_model_rank": 23,
-      "recorded_points": 136.3,
-      "median": 17.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 136.3,
+      "median": 17.5
     },
     {
-      "player_id": 4432708,
+      "player_id": "4432708",
       "name": "Marvin Harrison Jr.",
       "position": "WR",
-      "2026_draft_pick": 82,
-      "2026_draft_round": 6,
+      "2026_pick": 82,
       "historical_model_rank": 271,
-      "recorded_points": 37.5,
-      "median": 4.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 37.5,
+      "median": 4.3
     },
     {
-      "player_id": 4047650,
+      "player_id": "4047650",
       "name": "DK Metcalf",
       "position": "WR",
-      "2026_draft_pick": 83,
-      "2026_draft_round": 6,
+      "2026_pick": 83,
       "historical_model_rank": 79,
-      "recorded_points": 93.3,
-      "median": 8.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 93.3,
+      "median": 8.0
     },
     {
-      "player_id": -16007,
+      "player_id": "-16007",
       "name": "Broncos D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 84,
-      "2026_draft_round": 6,
+      "2026_pick": 84,
       "historical_model_rank": 193,
-      "recorded_points": 56.0,
-      "median": 6.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 56.0,
+      "median": 6.0
     },
     {
-      "player_id": 4362081,
+      "player_id": "4362081",
       "name": "Cameron Dicker",
       "position": "K",
-      "2026_draft_pick": 85,
-      "2026_draft_round": 7,
+      "2026_pick": 85,
       "historical_model_rank": 164,
-      "recorded_points": 60.0,
-      "median": 7.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 60.0,
+      "median": 7.5
     },
     {
-      "player_id": 5083076,
+      "player_id": "5083076",
       "name": "Harold Fannin Jr.",
       "position": "TE",
-      "2026_draft_pick": 86,
-      "2026_draft_round": 7,
+      "2026_pick": 86,
       "historical_model_rank": 60,
-      "recorded_points": 118.4,
-      "median": 11.95,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 118.4,
+      "median": 11.95
     },
     {
-      "player_id": 16737,
+      "player_id": "16737",
       "name": "Mike Evans",
       "position": "WR",
-      "2026_draft_pick": 87,
-      "2026_draft_round": 7,
+      "2026_pick": 87,
       "historical_model_rank": 84,
-      "recorded_points": 89.0,
-      "median": 12.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 89.0,
+      "median": 12.4
     },
     {
-      "player_id": 4360078,
+      "player_id": "4360078",
       "name": "Alec Pierce",
       "position": "WR",
-      "2026_draft_pick": 88,
-      "2026_draft_round": 7,
-      "historical_model_rank": 449,
-      "recorded_points": 12.2,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "2026_pick": 88,
+      "historical_model_rank": 450,
+      "points": 12.2,
+      "median": 0.0
     },
     {
-      "player_id": 3121023,
+      "player_id": "3121023",
       "name": "Dallas Goedert",
       "position": "TE",
-      "2026_draft_pick": 89,
-      "2026_draft_round": 7,
+      "2026_pick": 89,
       "historical_model_rank": 110,
-      "recorded_points": 74.0,
-      "median": 9.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 74.0,
+      "median": 9.8
     },
     {
-      "player_id": 3916433,
+      "player_id": "3916433",
       "name": "Jakobi Meyers",
       "position": "WR",
-      "2026_draft_pick": 90,
-      "2026_draft_round": 7,
+      "2026_pick": 90,
       "historical_model_rank": 116,
-      "recorded_points": 82.0,
-      "median": 6.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 82.0,
+      "median": 6.4
     },
     {
-      "player_id": 4701936,
+      "player_id": "4701936",
       "name": "Matthew Golden",
       "position": "WR",
-      "2026_draft_pick": 91,
-      "2026_draft_round": 7,
+      "2026_pick": 91,
       "historical_model_rank": 16,
-      "recorded_points": 175.9,
-      "median": 17.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 175.9,
+      "median": 17.9
     },
     {
-      "player_id": 4360761,
+      "player_id": "4360761",
       "name": "Michael Wilson",
       "position": "WR",
-      "2026_draft_pick": 92,
-      "2026_draft_round": 7,
+      "2026_pick": 92,
       "historical_model_rank": 65,
-      "recorded_points": 120.68,
-      "median": 10.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 120.68,
+      "median": 10.6
     },
     {
-      "player_id": 3116365,
+      "player_id": "3116365",
       "name": "Mark Andrews",
       "position": "TE",
-      "2026_draft_pick": 93,
-      "2026_draft_round": 7,
+      "2026_pick": 93,
       "historical_model_rank": 153,
-      "recorded_points": 58.7,
-      "median": 5.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 58.7,
+      "median": 5.3
     },
     {
-      "player_id": 3917315,
+      "player_id": "3917315",
       "name": "Kyler Murray",
       "position": "QB",
-      "2026_draft_pick": 94,
-      "2026_draft_round": 7,
+      "2026_pick": 94,
       "historical_model_rank": 196,
-      "recorded_points": 73.58,
-      "median": 10.42,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 73.58,
+      "median": 10.42
     },
     {
-      "player_id": 4432620,
+      "player_id": "4432620",
       "name": "Parker Washington",
       "position": "WR",
-      "2026_draft_pick": 95,
-      "2026_draft_round": 7,
+      "2026_pick": 95,
       "historical_model_rank": 40,
-      "recorded_points": 137.8,
-      "median": 14.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 137.8,
+      "median": 14.1
     },
     {
-      "player_id": 4430027,
+      "player_id": "4430027",
       "name": "Sam LaPorta",
       "position": "TE",
-      "2026_draft_pick": 96,
-      "2026_draft_round": 7,
+      "2026_pick": 96,
       "historical_model_rank": 72,
-      "recorded_points": 95.7,
-      "median": 7.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 95.7,
+      "median": 7.4
     },
     {
-      "player_id": 4572680,
+      "player_id": "4572680",
       "name": "Tucker Kraft",
       "position": "TE",
-      "2026_draft_pick": 97,
-      "2026_draft_round": 7,
+      "2026_pick": 97,
       "historical_model_rank": 83,
-      "recorded_points": 93.3,
-      "median": 9.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 93.3,
+      "median": 9.1
     },
     {
-      "player_id": 4242355,
+      "player_id": "4242355",
       "name": "Jake Ferguson",
       "position": "TE",
-      "2026_draft_pick": 98,
-      "2026_draft_round": 7,
+      "2026_pick": 98,
       "historical_model_rank": 238,
-      "recorded_points": 54.6,
-      "median": 3.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 54.6,
+      "median": 3.7
     },
     {
-      "player_id": 4432773,
+      "player_id": "4432773",
       "name": "Brian Thomas Jr.",
       "position": "WR",
-      "2026_draft_pick": 99,
-      "2026_draft_round": 8,
+      "2026_pick": 99,
       "historical_model_rank": 250,
-      "recorded_points": 39.6,
-      "median": 5.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 39.6,
+      "median": 5.9
     },
     {
-      "player_id": 3042519,
+      "player_id": "3042519",
       "name": "Aaron Jones Sr.",
       "position": "RB",
-      "2026_draft_pick": 100,
-      "2026_draft_round": 8,
+      "2026_pick": 100,
       "historical_model_rank": 69,
-      "recorded_points": 95.4,
-      "median": 10.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 95.4,
+      "median": 10.5
     },
     {
-      "player_id": 2577417,
+      "player_id": "2577417",
       "name": "Dak Prescott",
       "position": "QB",
-      "2026_draft_pick": 101,
-      "2026_draft_round": 8,
+      "2026_pick": 101,
       "historical_model_rank": 30,
-      "recorded_points": 201.86,
-      "median": 19.22,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 201.86,
+      "median": 19.22
     },
     {
-      "player_id": 4361741,
+      "player_id": "4361741",
       "name": "Brock Purdy",
       "position": "QB",
-      "2026_draft_pick": 102,
-      "2026_draft_round": 8,
+      "2026_pick": 102,
       "historical_model_rank": 15,
-      "recorded_points": 202.96,
-      "median": 21.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 202.96,
+      "median": 21.1
     },
     {
-      "player_id": 4385690,
+      "player_id": "4385690",
       "name": "Dalton Kincaid",
       "position": "TE",
-      "2026_draft_pick": 103,
-      "2026_draft_round": 8,
+      "2026_pick": 103,
       "historical_model_rank": 77,
-      "recorded_points": 92.7,
-      "median": 7.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.7,
+      "median": 7.8
     },
     {
-      "player_id": -16023,
+      "player_id": "-16023",
       "name": "Steelers D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 104,
-      "2026_draft_round": 8,
+      "2026_pick": 104,
       "historical_model_rank": 162,
-      "recorded_points": 66.0,
-      "median": 8.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 66.0,
+      "median": 8.0
     },
     {
-      "player_id": 4241985,
+      "player_id": "4241985",
       "name": "J.K. Dobbins",
       "position": "RB",
-      "2026_draft_pick": 105,
-      "2026_draft_round": 8,
+      "2026_pick": 105,
       "historical_model_rank": 170,
-      "recorded_points": 62.5,
-      "median": 6.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 62.5,
+      "median": 6.3
     },
     {
-      "player_id": 4678008,
+      "player_id": "4678008",
       "name": "Jonathon Brooks",
       "position": "RB",
-      "2026_draft_pick": 106,
-      "2026_draft_round": 8,
+      "2026_pick": 106,
       "historical_model_rank": 459,
-      "recorded_points": 9.3,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 9.3,
+      "median": 0.0
     },
     {
-      "player_id": 4362249,
+      "player_id": "4362249",
       "name": "Jayden Reed",
       "position": "WR",
-      "2026_draft_pick": 107,
-      "2026_draft_round": 8,
+      "2026_pick": 107,
       "historical_model_rank": 547,
-      "recorded_points": 6.4,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 6.4,
+      "median": 0.0
     },
     {
-      "player_id": -16026,
+      "player_id": "-16026",
       "name": "Seahawks D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 108,
-      "2026_draft_round": 8,
+      "2026_pick": 108,
       "historical_model_rank": 124,
-      "recorded_points": 89.0,
-      "median": 10.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 89.0,
+      "median": 10.0
     },
     {
-      "player_id": 4360310,
+      "player_id": "4360310",
       "name": "Trevor Lawrence",
       "position": "QB",
-      "2026_draft_pick": 109,
-      "2026_draft_round": 8,
+      "2026_pick": 109,
       "historical_model_rank": 27,
-      "recorded_points": 173.96,
-      "median": 19.78,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 173.96,
+      "median": 19.78
     },
     {
-      "player_id": 4038941,
+      "player_id": "4038941",
       "name": "Justin Herbert",
       "position": "QB",
-      "2026_draft_pick": 110,
-      "2026_draft_round": 8,
+      "2026_pick": 110,
       "historical_model_rank": 130,
-      "recorded_points": 80.64,
-      "median": 9.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 80.64,
+      "median": 9.9
     },
     {
-      "player_id": 4569587,
+      "player_id": "4569587",
       "name": "Wan'Dale Robinson",
       "position": "WR",
-      "2026_draft_pick": 111,
-      "2026_draft_round": 8,
+      "2026_pick": 111,
       "historical_model_rank": 106,
-      "recorded_points": 81.3,
-      "median": 8.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 81.3,
+      "median": 8.8
     },
     {
-      "player_id": 4685415,
+      "player_id": "4685415",
       "name": "Travis Hunter",
       "position": "WR",
-      "2026_draft_pick": 112,
-      "2026_draft_round": 8,
+      "2026_pick": 112,
       "historical_model_rank": 382,
-      "recorded_points": 23.2,
-      "median": 0.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 23.2,
+      "median": 0.5
     },
     {
-      "player_id": 4428718,
+      "player_id": "4428718",
       "name": "Tre Tucker",
       "position": "WR",
-      "2026_draft_pick": 113,
-      "2026_draft_round": 9,
+      "2026_pick": 113,
       "historical_model_rank": 97,
-      "recorded_points": 111.2,
-      "median": 8.35,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 111.2,
+      "median": 8.35
     },
     {
-      "player_id": 4429205,
+      "player_id": "4429205",
       "name": "Jordan Addison",
       "position": "WR",
-      "2026_draft_pick": 114,
-      "2026_draft_round": 9,
+      "2026_pick": 114,
       "historical_model_rank": 246,
-      "recorded_points": 53.9,
-      "median": 4.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 53.9,
+      "median": 4.3
     },
     {
-      "player_id": 4361050,
+      "player_id": "4361050",
       "name": "Isaiah Likely",
       "position": "TE",
-      "2026_draft_pick": 115,
-      "2026_draft_round": 9,
+      "2026_pick": 115,
       "historical_model_rank": 20,
-      "recorded_points": 156.5,
-      "median": 16.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 156.5,
+      "median": 16.3
     },
     {
-      "player_id": 4373678,
+      "player_id": "4373678",
       "name": "Khalil Shakir",
       "position": "WR",
-      "2026_draft_pick": 116,
-      "2026_draft_round": 9,
+      "2026_pick": 116,
       "historical_model_rank": 75,
-      "recorded_points": 83.7,
-      "median": 9.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 83.7,
+      "median": 9.8
     },
     {
-      "player_id": 2976212,
+      "player_id": "2976212",
       "name": "Stefon Diggs",
       "position": "WR",
-      "2026_draft_pick": 117,
-      "2026_draft_round": 9,
+      "2026_pick": 117,
       "historical_model_rank": 51,
-      "recorded_points": 110.6,
-      "median": 12.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 110.6,
+      "median": 12.8
     },
     {
-      "player_id": 4373626,
+      "player_id": "4373626",
       "name": "Tyler Allgeier",
       "position": "RB",
-      "2026_draft_pick": 118,
-      "2026_draft_round": 9,
+      "2026_pick": 118,
       "historical_model_rank": 155,
-      "recorded_points": 92.1,
-      "median": 6.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.1,
+      "median": 6.2
     },
     {
-      "player_id": 4575131,
+      "player_id": "4575131",
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
-      "2026_draft_pick": 119,
-      "2026_draft_round": 9,
+      "2026_pick": 119,
       "historical_model_rank": 251,
-      "recorded_points": 44.9,
-      "median": 5.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 44.9,
+      "median": 5.3
     },
     {
-      "player_id": 4683062,
+      "player_id": "4683062",
       "name": "Xavier Worthy",
       "position": "WR",
-      "2026_draft_pick": 120,
-      "2026_draft_round": 9,
+      "2026_pick": 120,
       "historical_model_rank": 172,
-      "recorded_points": 66.8,
-      "median": 4.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 66.8,
+      "median": 4.8
     },
     {
-      "player_id": 2971573,
+      "player_id": "2971573",
       "name": "Ka'imi Fairbairn",
       "position": "K",
-      "2026_draft_pick": 121,
-      "2026_draft_round": 9,
+      "2026_pick": 121,
       "historical_model_rank": 101,
-      "recorded_points": 99.0,
-      "median": 11.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 99.0,
+      "median": 11.0
     },
     {
-      "player_id": 4360569,
+      "player_id": "4360569",
       "name": "Jordan Mason",
       "position": "RB",
-      "2026_draft_pick": 122,
-      "2026_draft_round": 9,
+      "2026_pick": 122,
       "historical_model_rank": 316,
-      "recorded_points": 32.8,
-      "median": 2.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 32.8,
+      "median": 2.0
     },
     {
-      "player_id": 3040151,
+      "player_id": "3040151",
       "name": "George Kittle",
       "position": "TE",
-      "2026_draft_pick": 123,
-      "2026_draft_round": 9,
+      "2026_pick": 123,
       "historical_model_rank": 36,
-      "recorded_points": 127.7,
-      "median": 14.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 127.7,
+      "median": 14.8
     },
     {
-      "player_id": 4036133,
+      "player_id": "4036133",
       "name": "T.J. Hockenson",
       "position": "TE",
-      "2026_draft_pick": 124,
-      "2026_draft_round": 9,
+      "2026_pick": 124,
       "historical_model_rank": 104,
-      "recorded_points": 85.8,
-      "median": 7.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 85.8,
+      "median": 7.3
     },
     {
-      "player_id": 3052587,
+      "player_id": "3052587",
       "name": "Baker Mayfield",
       "position": "QB",
-      "2026_draft_pick": 125,
-      "2026_draft_round": 9,
+      "2026_pick": 125,
       "historical_model_rank": 280,
-      "recorded_points": 50.88,
-      "median": 6.66,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 50.88,
+      "median": 6.66
     },
     {
-      "player_id": 4241416,
+      "player_id": "4241416",
       "name": "Chuba Hubbard",
       "position": "RB",
-      "2026_draft_pick": 126,
-      "2026_draft_round": 9,
+      "2026_pick": 126,
       "historical_model_rank": 9,
-      "recorded_points": 180.8,
-      "median": 19.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 180.8,
+      "median": 19.1
     },
     {
-      "player_id": 4568490,
+      "player_id": "4568490",
       "name": "RJ Harvey",
       "position": "RB",
-      "2026_draft_pick": 127,
-      "2026_draft_round": 10,
+      "2026_pick": 127,
       "historical_model_rank": 150,
-      "recorded_points": 67.4,
-      "median": 8.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 67.4,
+      "median": 8.1
     },
     {
-      "player_id": 4361432,
+      "player_id": "4361432",
       "name": "Romeo Doubs",
       "position": "WR",
-      "2026_draft_pick": 128,
-      "2026_draft_round": 10,
+      "2026_pick": 128,
       "historical_model_rank": 293,
-      "recorded_points": 58.1,
-      "median": 1.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 58.1,
+      "median": 1.3
     },
     {
-      "player_id": 3126486,
+      "player_id": "3126486",
       "name": "Deebo Samuel Sr.",
       "position": "WR",
-      "2026_draft_pick": 129,
-      "2026_draft_round": 10,
+      "2026_pick": 129,
       "historical_model_rank": 133,
-      "recorded_points": 86.3,
-      "median": 6.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 86.3,
+      "median": 6.5
     },
     {
-      "player_id": 3116165,
+      "player_id": "3116165",
       "name": "Chris Godwin Jr.",
       "position": "WR",
-      "2026_draft_pick": 130,
-      "2026_draft_round": 10,
+      "2026_pick": 130,
       "historical_model_rank": 149,
-      "recorded_points": 57.9,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 57.9,
+      "median": 7.0
     },
     {
-      "player_id": 3929645,
+      "player_id": "3929645",
       "name": "Juwan Johnson",
       "position": "TE",
-      "2026_draft_pick": 131,
-      "2026_draft_round": 10,
+      "2026_pick": 131,
       "historical_model_rank": 73,
-      "recorded_points": 83.7,
-      "median": 10.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 83.7,
+      "median": 10.6
     },
     {
-      "player_id": 3046779,
+      "player_id": "3046779",
       "name": "Jared Goff",
       "position": "QB",
-      "2026_draft_pick": 132,
-      "2026_draft_round": 10,
+      "2026_pick": 132,
       "historical_model_rank": 31,
-      "recorded_points": 167.78,
-      "median": 19.36,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 167.78,
+      "median": 19.36
     },
     {
-      "player_id": 4429096,
+      "player_id": "4429096",
       "name": "Blake Corum",
       "position": "RB",
-      "2026_draft_pick": 133,
-      "2026_draft_round": 10,
+      "2026_pick": 133,
       "historical_model_rank": 58,
-      "recorded_points": 115.5,
-      "median": 12.55,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 115.5,
+      "median": 12.55
     },
     {
-      "player_id": 4036378,
+      "player_id": "4036378",
       "name": "Jordan Love",
       "position": "QB",
-      "2026_draft_pick": 134,
-      "2026_draft_round": 10,
+      "2026_pick": 134,
       "historical_model_rank": 34,
-      "recorded_points": 195.82,
-      "median": 18.98,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 195.82,
+      "median": 18.98
     },
     {
-      "player_id": 4710714,
+      "player_id": "4710714",
       "name": "De'Zhaun Stribling",
       "position": "WR",
-      "2026_draft_pick": 135,
-      "2026_draft_round": 10,
+      "2026_pick": 135,
       "historical_model_rank": 704,
-      "recorded_points": 0.0,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 0.0,
+      "median": 0.0
     },
     {
-      "player_id": 4428557,
+      "player_id": "4428557",
       "name": "Tyjae Spears",
       "position": "RB",
-      "2026_draft_pick": 136,
-      "2026_draft_round": 10,
+      "2026_pick": 136,
       "historical_model_rank": 329,
-      "recorded_points": 30.9,
-      "median": 1.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 30.9,
+      "median": 1.8
     },
     {
-      "player_id": -16008,
+      "player_id": "-16008",
       "name": "Lions D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 137,
-      "2026_draft_round": 10,
+      "2026_pick": 137,
       "historical_model_rank": 179,
-      "recorded_points": 51.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 51.0,
+      "median": 7.0
     },
     {
-      "player_id": 4688813,
+      "player_id": "4688813",
       "name": "Josh Downs",
       "position": "WR",
-      "2026_draft_pick": 138,
-      "2026_draft_round": 10,
+      "2026_pick": 138,
       "historical_model_rank": 99,
-      "recorded_points": 90.4,
-      "median": 8.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 90.4,
+      "median": 8.2
     },
     {
-      "player_id": 3139477,
+      "player_id": "3139477",
       "name": "Patrick Mahomes",
       "position": "QB",
-      "2026_draft_pick": 139,
-      "2026_draft_round": 10,
+      "2026_pick": 139,
       "historical_model_rank": 33,
-      "recorded_points": 177.4,
-      "median": 17.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 177.4,
+      "median": 17.0
     },
     {
-      "player_id": 3046439,
+      "player_id": "3046439",
       "name": "Hunter Henry",
       "position": "TE",
-      "2026_draft_pick": 140,
-      "2026_draft_round": 10,
+      "2026_pick": 140,
       "historical_model_rank": 107,
-      "recorded_points": 84.3,
-      "median": 6.75,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 84.3,
+      "median": 6.75
     },
     {
-      "player_id": 4574716,
+      "player_id": "4574716",
       "name": "Harrison Mevis",
       "position": "K",
-      "2026_draft_pick": 141,
-      "2026_draft_round": 11,
+      "2026_pick": 141,
       "historical_model_rank": 233,
-      "recorded_points": 28.0,
-      "median": 3.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 28.0,
+      "median": 3.0
     },
     {
-      "player_id": 4697815,
+      "player_id": "4697815",
       "name": "Rachaad White",
       "position": "RB",
-      "2026_draft_pick": 142,
-      "2026_draft_round": 11,
+      "2026_pick": 142,
       "historical_model_rank": 119,
-      "recorded_points": 75.9,
-      "median": 6.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 75.9,
+      "median": 6.9
     },
     {
-      "player_id": 4032473,
+      "player_id": "4032473",
       "name": "Rashid Shaheed",
       "position": "WR",
-      "2026_draft_pick": 143,
-      "2026_draft_round": 11,
+      "2026_pick": 143,
       "historical_model_rank": 292,
-      "recorded_points": 44.0,
-      "median": 2.75,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 44.0,
+      "median": 2.75
     },
     {
-      "player_id": 4608686,
+      "player_id": "4608686",
       "name": "Kyle Monangai",
       "position": "RB",
-      "2026_draft_pick": 144,
-      "2026_draft_round": 11,
+      "2026_pick": 144,
       "historical_model_rank": 302,
-      "recorded_points": 59.3,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 59.3,
+      "median": 0.0
     },
     {
-      "player_id": 4430539,
+      "player_id": "4430539",
       "name": "Brenton Strange",
       "position": "TE",
-      "2026_draft_pick": 145,
-      "2026_draft_round": 11,
+      "2026_pick": 145,
       "historical_model_rank": 78,
-      "recorded_points": 80.5,
-      "median": 8.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 80.5,
+      "median": 8.9
     },
     {
-      "player_id": 4869645,
+      "player_id": "4869645",
       "name": "Caleb Douglas",
       "position": "WR",
-      "2026_draft_pick": 146,
-      "2026_draft_round": 11,
+      "2026_pick": 146,
       "historical_model_rank": 145,
-      "recorded_points": 70.7,
-      "median": 8.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 70.7,
+      "median": 8.3
     },
     {
-      "player_id": 4869461,
+      "player_id": "4869461",
       "name": "Trey Smack",
       "position": "K",
-      "2026_draft_pick": 147,
-      "2026_draft_round": 11,
+      "2026_pick": 147,
       "historical_model_rank": 189,
-      "recorded_points": 71.0,
-      "median": 5.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 71.0,
+      "median": 5.5
     },
     {
-      "player_id": 2473037,
+      "player_id": "2473037",
       "name": "Jason Myers",
       "position": "K",
-      "2026_draft_pick": 148,
-      "2026_draft_round": 11,
+      "2026_pick": 148,
       "historical_model_rank": 163,
-      "recorded_points": 77.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 77.0,
+      "median": 7.0
     },
     {
-      "player_id": 4429059,
+      "player_id": "4429059",
       "name": "Woody Marks",
       "position": "RB",
-      "2026_draft_pick": 149,
-      "2026_draft_round": 11,
+      "2026_pick": 149,
       "historical_model_rank": 88,
-      "recorded_points": 78.4,
-      "median": 8.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 78.4,
+      "median": 8.5
     },
     {
-      "player_id": 4870795,
+      "player_id": "4870795",
       "name": "Makai Lemon",
       "position": "WR",
-      "2026_draft_pick": 150,
-      "2026_draft_round": 11,
+      "2026_pick": 150,
       "historical_model_rank": 140,
-      "recorded_points": 73.7,
-      "median": 5.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 73.7,
+      "median": 5.9
     },
     {
-      "player_id": 3117256,
+      "player_id": "3117256",
       "name": "Dalton Schultz",
       "position": "TE",
-      "2026_draft_pick": 151,
-      "2026_draft_round": 11,
+      "2026_pick": 151,
       "historical_model_rank": 108,
-      "recorded_points": 79.5,
-      "median": 7.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 79.5,
+      "median": 7.3
     },
     {
-      "player_id": 4361529,
+      "player_id": "4361529",
       "name": "Isiah Pacheco",
       "position": "RB",
-      "2026_draft_pick": 152,
-      "2026_draft_round": 11,
+      "2026_pick": 152,
       "historical_model_rank": 661,
-      "recorded_points": 0.0,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 0.0,
+      "median": 0.0
     },
     {
-      "player_id": 5083315,
+      "player_id": "5083315",
       "name": "Kenyon Sadiq",
       "position": "TE",
-      "2026_draft_pick": 153,
-      "2026_draft_round": 11,
+      "2026_pick": 153,
       "historical_model_rank": 247,
-      "recorded_points": 56.1,
-      "median": 2.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 56.1,
+      "median": 2.7
     },
     {
-      "player_id": 4429025,
+      "player_id": "4429025",
       "name": "Quentin Johnston",
       "position": "WR",
-      "2026_draft_pick": 154,
-      "2026_draft_round": 11,
+      "2026_pick": 154,
       "historical_model_rank": 209,
-      "recorded_points": 45.8,
-      "median": 5.85,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 45.8,
+      "median": 5.85
     },
     {
-      "player_id": 4870653,
+      "player_id": "4870653",
       "name": "KC Concepcion",
       "position": "WR",
-      "2026_draft_pick": 155,
-      "2026_draft_round": 12,
+      "2026_pick": 155,
       "historical_model_rank": 94,
-      "recorded_points": 100.1,
-      "median": 8.05,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 100.1,
+      "median": 8.05
     },
     {
-      "player_id": 4242512,
+      "player_id": "4242512",
       "name": "Malik Willis",
       "position": "QB",
-      "2026_draft_pick": 156,
-      "2026_draft_round": 12,
+      "2026_pick": 156,
       "historical_model_rank": 112,
-      "recorded_points": 105.04,
-      "median": 12.48,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 105.04,
+      "median": 12.48
     },
     {
-      "player_id": 4695883,
+      "player_id": "4695883",
       "name": "Jalen Coker",
       "position": "WR",
-      "2026_draft_pick": 157,
-      "2026_draft_round": 12,
+      "2026_pick": 157,
       "historical_model_rank": 132,
-      "recorded_points": 86.3,
-      "median": 6.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 86.3,
+      "median": 6.6
     },
     {
-      "player_id": 4360689,
+      "player_id": "4360689",
       "name": "Tyler Shough",
       "position": "QB",
-      "2026_draft_pick": 158,
-      "2026_draft_round": 12,
+      "2026_pick": 158,
       "historical_model_rank": 39,
-      "recorded_points": 155.62,
-      "median": 19.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 155.62,
+      "median": 19.7
     },
     {
-      "player_id": 4361411,
+      "player_id": "4361411",
       "name": "Pat Freiermuth",
       "position": "TE",
-      "2026_draft_pick": 159,
-      "2026_draft_round": 12,
+      "2026_pick": 159,
       "historical_model_rank": 70,
-      "recorded_points": 90.5,
-      "median": 10.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 90.5,
+      "median": 10.7
     },
     {
-      "player_id": 4366031,
+      "player_id": "4366031",
       "name": "Tank Dell",
       "position": "WR",
-      "2026_draft_pick": 160,
-      "2026_draft_round": 12,
+      "2026_pick": 160,
       "historical_model_rank": 361,
-      "recorded_points": 31.1,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 31.1,
+      "median": 0.0
     },
     {
-      "player_id": -16014,
+      "player_id": "-16014",
       "name": "Rams D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 161,
-      "2026_draft_round": 12,
+      "2026_pick": 161,
       "historical_model_rank": 194,
-      "recorded_points": 64.0,
-      "median": 6.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 64.0,
+      "median": 6.0
     },
     {
-      "player_id": 4832800,
+      "player_id": "4832800",
       "name": "Denzel Boston",
       "position": "WR",
-      "2026_draft_pick": 162,
-      "2026_draft_round": 12,
+      "2026_pick": 162,
       "historical_model_rank": 67,
-      "recorded_points": 105.3,
-      "median": 11.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 105.3,
+      "median": 11.3
     },
     {
-      "player_id": -16033,
+      "player_id": "-16033",
       "name": "Ravens D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 163,
-      "2026_draft_round": 12,
+      "2026_pick": 163,
       "historical_model_rank": 231,
-      "recorded_points": 33.0,
-      "median": 5.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 33.0,
+      "median": 5.0
     },
     {
-      "player_id": 4034949,
+      "player_id": "4034949",
       "name": "Eddy Pineiro",
       "position": "K",
-      "2026_draft_pick": 164,
-      "2026_draft_round": 12,
+      "2026_pick": 164,
       "historical_model_rank": 177,
-      "recorded_points": 57.0,
-      "median": 6.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 57.0,
+      "median": 6.0
     },
     {
-      "player_id": 4241463,
+      "player_id": "4241463",
       "name": "Jerry Jeudy",
       "position": "WR",
-      "2026_draft_pick": 165,
-      "2026_draft_round": 12,
+      "2026_pick": 165,
       "historical_model_rank": 256,
-      "recorded_points": 48.2,
-      "median": 5.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 48.2,
+      "median": 5.3
     },
     {
-      "player_id": 4241474,
+      "player_id": "4241474",
       "name": "Brian Robinson Jr.",
       "position": "RB",
-      "2026_draft_pick": 166,
-      "2026_draft_round": 12,
+      "2026_pick": 166,
       "historical_model_rank": 265,
-      "recorded_points": 53.1,
-      "median": 3.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 53.1,
+      "median": 3.0
     },
     {
-      "player_id": 3050478,
+      "player_id": "3050478",
       "name": "Jake Elliott",
       "position": "K",
-      "2026_draft_pick": 167,
-      "2026_draft_round": 12,
+      "2026_pick": 167,
       "historical_model_rank": 219,
-      "recorded_points": 44.0,
-      "median": 4.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 44.0,
+      "median": 4.0
     },
     {
-      "player_id": 4597500,
+      "player_id": "4597500",
       "name": "Adonai Mitchell",
       "position": "WR",
-      "2026_draft_pick": 168,
-      "2026_draft_round": 12,
+      "2026_pick": 168,
       "historical_model_rank": 309,
-      "recorded_points": 57.4,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 57.4,
+      "median": 0.0
     },
     {
-      "player_id": 4570037,
+      "player_id": "4570037",
       "name": "Terrance Ferguson",
       "position": "TE",
-      "2026_draft_pick": 169,
-      "2026_draft_round": 13,
+      "2026_pick": 169,
       "historical_model_rank": 331,
-      "recorded_points": 19.3,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 19.3,
+      "median": 0.0
     },
     {
-      "player_id": 4426385,
+      "player_id": "4426385",
       "name": "Zach Charbonnet",
       "position": "RB",
-      "2026_draft_pick": 170,
-      "2026_draft_round": 13,
+      "2026_pick": 170,
       "historical_model_rank": 443,
-      "recorded_points": 24.9,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 24.9,
+      "median": 0.0
     },
     {
-      "player_id": 3917792,
+      "player_id": "3917792",
       "name": "Daniel Jones",
       "position": "QB",
-      "2026_draft_pick": 171,
-      "2026_draft_round": 13,
+      "2026_pick": 171,
       "historical_model_rank": 176,
-      "recorded_points": 86.7,
-      "median": 8.48,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 86.7,
+      "median": 8.48
     },
     {
-      "player_id": 3054850,
+      "player_id": "3054850",
       "name": "Alvin Kamara",
       "position": "RB",
-      "2026_draft_pick": 172,
-      "2026_draft_round": 13,
+      "2026_pick": 172,
       "historical_model_rank": 96,
-      "recorded_points": 90.1,
-      "median": 7.9,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 90.1,
+      "median": 7.9
     },
     {
-      "player_id": 4362619,
+      "player_id": "4362619",
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
-      "2026_draft_pick": 173,
-      "2026_draft_round": 13,
+      "2026_pick": 173,
       "historical_model_rank": 202,
-      "recorded_points": 54.9,
-      "median": 5.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 54.9,
+      "median": 5.5
     },
     {
-      "player_id": 4686361,
+      "player_id": "4686361",
       "name": "Cam Little",
       "position": "K",
-      "2026_draft_pick": 174,
-      "2026_draft_round": 13,
+      "2026_pick": 174,
       "historical_model_rank": 113,
-      "recorded_points": 98.0,
-      "median": 10.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 98.0,
+      "median": 10.0
     },
     {
-      "player_id": 3925357,
+      "player_id": "3925357",
       "name": "Calvin Ridley",
       "position": "WR",
-      "2026_draft_pick": 175,
-      "2026_draft_round": 13,
+      "2026_pick": 175,
       "historical_model_rank": 470,
-      "recorded_points": 15.1,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 15.1,
+      "median": 0.0
     },
     {
-      "player_id": 3116389,
+      "player_id": "3116389",
       "name": "Samaje Perine",
       "position": "RB",
-      "2026_draft_pick": 176,
-      "2026_draft_round": 13,
+      "2026_pick": 176,
       "historical_model_rank": 214,
-      "recorded_points": 58.8,
-      "median": 4.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 58.8,
+      "median": 4.3
     },
     {
-      "player_id": 4596334,
+      "player_id": "4596334",
       "name": "Keaton Mitchell",
       "position": "RB",
-      "2026_draft_pick": 177,
-      "2026_draft_round": 13,
+      "2026_pick": 177,
       "historical_model_rank": 213,
-      "recorded_points": 50.1,
-      "median": 5.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 50.1,
+      "median": 5.6
     },
     {
-      "player_id": 4382466,
+      "player_id": "4382466",
       "name": "Jalen Nailor",
       "position": "WR",
-      "2026_draft_pick": 178,
-      "2026_draft_round": 13,
+      "2026_pick": 178,
       "historical_model_rank": 323,
-      "recorded_points": 33.1,
-      "median": 2.25,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 33.1,
+      "median": 2.25
     },
     {
-      "player_id": -16021,
+      "player_id": "-16021",
       "name": "Eagles D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 179,
-      "2026_draft_round": 13,
+      "2026_pick": 179,
       "historical_model_rank": 264,
-      "recorded_points": 20.0,
-      "median": 2.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 20.0,
+      "median": 2.0
     },
     {
-      "player_id": -16005,
+      "player_id": "-16005",
       "name": "Browns D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 180,
-      "2026_draft_round": 13,
+      "2026_pick": 180,
       "historical_model_rank": 199,
-      "recorded_points": 57.0,
-      "median": 5.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 57.0,
+      "median": 5.0
     },
     {
-      "player_id": 4429501,
+      "player_id": "4429501",
       "name": "Ray Davis",
       "position": "RB",
-      "2026_draft_pick": 181,
-      "2026_draft_round": 13,
+      "2026_pick": 181,
       "historical_model_rank": 460,
-      "recorded_points": 12.2,
-      "median": 0.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 12.2,
+      "median": 0.8
     },
     {
-      "player_id": -16017,
+      "player_id": "-16017",
       "name": "Patriots D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 182,
-      "2026_draft_round": 13,
-      "historical_model_rank": 237,
-      "recorded_points": 44.0,
-      "median": 5.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "2026_pick": 182,
+      "historical_model_rank": 236,
+      "points": 44.0,
+      "median": 5.0
     },
     {
-      "player_id": 3055899,
+      "player_id": "3055899",
       "name": "Harrison Butker",
       "position": "K",
-      "2026_draft_pick": 183,
-      "2026_draft_round": 14,
+      "2026_pick": 183,
       "historical_model_rank": 175,
-      "recorded_points": 64.0,
-      "median": 6.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 64.0,
+      "median": 6.0
     },
     {
-      "player_id": 4569603,
+      "player_id": "4569603",
       "name": "Malik Washington",
       "position": "WR",
-      "2026_draft_pick": 184,
-      "2026_draft_round": 14,
+      "2026_pick": 184,
       "historical_model_rank": 68,
-      "recorded_points": 89.16,
-      "median": 11.1,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 89.16,
+      "median": 11.1
     },
     {
-      "player_id": 4697745,
+      "player_id": "4697745",
       "name": "Tyler Loop",
       "position": "K",
-      "2026_draft_pick": 185,
-      "2026_draft_round": 14,
+      "2026_pick": 185,
       "historical_model_rank": 165,
-      "recorded_points": 66.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 66.0,
+      "median": 7.0
     },
     {
-      "player_id": 17427,
+      "player_id": "17427",
       "name": "Cairo Santos",
       "position": "K",
-      "2026_draft_pick": 186,
-      "2026_draft_round": 14,
+      "2026_pick": 186,
       "historical_model_rank": 120,
-      "recorded_points": 79.0,
-      "median": 10.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 79.0,
+      "median": 10.0
     },
     {
-      "player_id": 17372,
+      "player_id": "17372",
       "name": "Chris Boswell",
       "position": "K",
-      "2026_draft_pick": 187,
-      "2026_draft_round": 14,
+      "2026_pick": 187,
       "historical_model_rank": 138,
-      "recorded_points": 82.0,
-      "median": 8.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 82.0,
+      "median": 8.0
     },
     {
-      "player_id": 4430834,
+      "player_id": "4430834",
       "name": "Jalen McMillan",
       "position": "WR",
-      "2026_draft_pick": 188,
-      "2026_draft_round": 14,
+      "2026_pick": 188,
       "historical_model_rank": 678,
-      "recorded_points": 0.0,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 0.0,
+      "median": 0.0
     },
     {
-      "player_id": 4685720,
+      "player_id": "4685720",
       "name": "Bryce Young",
       "position": "QB",
-      "2026_draft_pick": 189,
-      "2026_draft_round": 14,
+      "2026_pick": 189,
       "historical_model_rank": 43,
-      "recorded_points": 154.68,
-      "median": 19.84,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 154.68,
+      "median": 19.84
     },
     {
-      "player_id": 4686728,
+      "player_id": "4686728",
       "name": "Gunnar Helm",
       "position": "TE",
-      "2026_draft_pick": 190,
-      "2026_draft_round": 14,
+      "2026_pick": 190,
       "historical_model_rank": 212,
-      "recorded_points": 43.3,
-      "median": 3.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 43.3,
+      "median": 3.5
     },
     {
-      "player_id": 4432577,
+      "player_id": "4432577",
       "name": "C.J. Stroud",
       "position": "QB",
-      "2026_draft_pick": 191,
-      "2026_draft_round": 14,
+      "2026_pick": 191,
       "historical_model_rank": 21,
-      "recorded_points": 184.48,
-      "median": 20.44,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 184.48,
+      "median": 20.44
     },
     {
-      "player_id": 15818,
+      "player_id": "15818",
       "name": "Keenan Allen",
       "position": "WR",
-      "2026_draft_pick": 192,
-      "2026_draft_round": 14,
+      "2026_pick": 192,
       "historical_model_rank": 89,
-      "recorded_points": 92.2,
-      "median": 9.35,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.2,
+      "median": 9.35
     },
     {
-      "player_id": 4689936,
+      "player_id": "4689936",
       "name": "Jake Bates",
       "position": "K",
-      "2026_draft_pick": 193,
-      "2026_draft_round": 14,
+      "2026_pick": 193,
       "historical_model_rank": 142,
-      "recorded_points": 84.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 84.0,
+      "median": 7.0
     },
     {
-      "player_id": 4428850,
+      "player_id": "4428850",
       "name": "Dontayvion Wicks",
       "position": "WR",
-      "2026_draft_pick": 194,
-      "2026_draft_round": 14,
-      "historical_model_rank": 228,
-      "recorded_points": 53.4,
-      "median": 4.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "2026_pick": 194,
+      "historical_model_rank": 229,
+      "points": 53.4,
+      "median": 4.8
     },
     {
-      "player_id": -16012,
+      "player_id": "-16012",
       "name": "Chiefs D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 195,
-      "2026_draft_round": 14,
+      "2026_pick": 195,
       "historical_model_rank": 184,
-      "recorded_points": 59.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 59.0,
+      "median": 7.0
     },
     {
-      "player_id": 4038441,
+      "player_id": "4038441",
       "name": "Justice Hill",
       "position": "RB",
-      "2026_draft_pick": 196,
-      "2026_draft_round": 14,
+      "2026_pick": 196,
       "historical_model_rank": 204,
-      "recorded_points": 61.1,
-      "median": 4.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 61.1,
+      "median": 4.5
     },
     {
-      "player_id": 8439,
+      "player_id": "8439",
       "name": "Aaron Rodgers",
       "position": "QB",
-      "2026_draft_pick": 197,
-      "2026_draft_round": 15,
+      "2026_pick": 197,
       "historical_model_rank": 52,
-      "recorded_points": 132.76,
-      "median": 15.62,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 132.76,
+      "median": 15.62
     },
     {
-      "player_id": 4880281,
+      "player_id": "4880281",
       "name": "Jordyn Tyson",
       "position": "WR",
-      "2026_draft_pick": 198,
-      "2026_draft_round": 15,
+      "2026_pick": 198,
       "historical_model_rank": 405,
-      "recorded_points": 24.0,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 24.0,
+      "median": 0.0
     },
     {
-      "player_id": 3150744,
+      "player_id": "3150744",
       "name": "Chase McLaughlin",
       "position": "K",
-      "2026_draft_pick": 199,
-      "2026_draft_round": 15,
+      "2026_pick": 199,
       "historical_model_rank": 93,
-      "recorded_points": 99.0,
-      "median": 12.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 99.0,
+      "median": 12.0
     },
     {
-      "player_id": 4702555,
+      "player_id": "4702555",
       "name": "Jonah Coleman",
       "position": "RB",
-      "2026_draft_pick": 200,
-      "2026_draft_round": 15,
+      "2026_pick": 200,
       "historical_model_rank": 274,
-      "recorded_points": 62.9,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 62.9,
+      "median": 0.0
     },
     {
-      "player_id": 4360939,
+      "player_id": "4360939",
       "name": "Rashod Bateman",
       "position": "WR",
-      "2026_draft_pick": 201,
-      "2026_draft_round": 15,
+      "2026_pick": 201,
       "historical_model_rank": 221,
-      "recorded_points": 55.4,
-      "median": 5.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 55.4,
+      "median": 5.3
     },
     {
-      "player_id": 4429013,
+      "player_id": "4429013",
       "name": "Tank Bigsby",
       "position": "RB",
-      "2026_draft_pick": 202,
-      "2026_draft_round": 15,
+      "2026_pick": 202,
       "historical_model_rank": 425,
-      "recorded_points": 17.1,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 17.1,
+      "median": 0.0
     },
     {
-      "player_id": -16009,
+      "player_id": "-16009",
       "name": "Packers D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 203,
-      "2026_draft_round": 15,
+      "2026_pick": 203,
       "historical_model_rank": 166,
-      "recorded_points": 71.0,
-      "median": 7.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 71.0,
+      "median": 7.5
     },
     {
-      "player_id": 4576297,
+      "player_id": "4576297",
       "name": "AJ Barner",
       "position": "TE",
-      "2026_draft_pick": 204,
-      "2026_draft_round": 15,
+      "2026_pick": 204,
       "historical_model_rank": 157,
-      "recorded_points": 67.7,
-      "median": 4.95,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 67.7,
+      "median": 4.95
     },
     {
-      "player_id": 4567104,
+      "player_id": "4567104",
       "name": "Will Reichard",
       "position": "K",
-      "2026_draft_pick": 205,
-      "2026_draft_round": 15,
+      "2026_pick": 205,
       "historical_model_rank": 92,
-      "recorded_points": 101.0,
-      "median": 12.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 101.0,
+      "median": 12.0
     },
     {
-      "player_id": -16027,
+      "player_id": "-16027",
       "name": "Buccaneers D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 206,
-      "2026_draft_round": 15,
+      "2026_pick": 206,
       "historical_model_rank": 137,
-      "recorded_points": 93.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 93.0,
+      "median": 7.0
     },
     {
-      "player_id": 4360635,
+      "player_id": "4360635",
       "name": "Chig Okonkwo",
       "position": "TE",
-      "2026_draft_pick": 207,
-      "2026_draft_round": 15,
+      "2026_pick": 207,
       "historical_model_rank": 197,
-      "recorded_points": 51.3,
-      "median": 3.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 51.3,
+      "median": 3.6
     },
     {
-      "player_id": 5081397,
+      "player_id": "5081397",
       "name": "Dylan Sampson",
       "position": "RB",
-      "2026_draft_pick": 208,
-      "2026_draft_round": 15,
+      "2026_pick": 208,
       "historical_model_rank": 350,
-      "recorded_points": 39.1,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 39.1,
+      "median": 0.0
     },
     {
-      "player_id": 10621,
+      "player_id": "10621",
       "name": "Nick Folk",
       "position": "K",
-      "2026_draft_pick": 209,
-      "2026_draft_round": 15,
+      "2026_pick": 209,
       "historical_model_rank": 169,
-      "recorded_points": 57.0,
-      "median": 8.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 57.0,
+      "median": 8.0
     },
     {
-      "player_id": 4586312,
+      "player_id": "4586312",
       "name": "Jaylin Noel",
       "position": "WR",
-      "2026_draft_pick": 210,
-      "2026_draft_round": 15,
+      "2026_pick": 210,
       "historical_model_rank": 185,
-      "recorded_points": 66.7,
-      "median": 5.4,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 66.7,
+      "median": 5.4
     },
     {
-      "player_id": 4682745,
+      "player_id": "4682745",
       "name": "Jaylen Wright",
       "position": "RB",
-      "2026_draft_pick": 211,
-      "2026_draft_round": 16,
+      "2026_pick": 211,
       "historical_model_rank": 539,
-      "recorded_points": 7.6,
-      "median": 0.7,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 7.6,
+      "median": 0.7
     },
     {
-      "player_id": -16024,
+      "player_id": "-16024",
       "name": "Chargers D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 212,
-      "2026_draft_round": 16,
+      "2026_pick": 212,
       "historical_model_rank": 241,
-      "recorded_points": 29.0,
-      "median": 4.5,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 29.0,
+      "median": 4.5
     },
     {
-      "player_id": 4569559,
+      "player_id": "4569559",
       "name": "Devaughn Vele",
       "position": "WR",
-      "2026_draft_pick": 213,
-      "2026_draft_round": 16,
+      "2026_pick": 213,
       "historical_model_rank": 85,
-      "recorded_points": 92.9,
-      "median": 7.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 92.9,
+      "median": 7.2
     },
     {
-      "player_id": 4685247,
+      "player_id": "4685247",
       "name": "Braelon Allen",
       "position": "RB",
-      "2026_draft_pick": 214,
-      "2026_draft_round": 16,
+      "2026_pick": 214,
       "historical_model_rank": 81,
-      "recorded_points": 110.6,
-      "median": 8.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 110.6,
+      "median": 8.6
     },
     {
-      "player_id": 4429023,
+      "player_id": "4429023",
       "name": "MarShawn Lloyd",
       "position": "RB",
-      "2026_draft_pick": 215,
-      "2026_draft_round": 16,
+      "2026_pick": 215,
       "historical_model_rank": 227,
-      "recorded_points": 58.7,
-      "median": 4.65,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 58.7,
+      "median": 4.65
     },
     {
-      "player_id": 4360234,
+      "player_id": "4360234",
       "name": "Evan McPherson",
       "position": "K",
-      "2026_draft_pick": 216,
-      "2026_draft_round": 16,
+      "2026_pick": 216,
       "historical_model_rank": 146,
-      "recorded_points": 84.0,
-      "median": 7.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 84.0,
+      "median": 7.0
     },
     {
-      "player_id": 4431280,
+      "player_id": "4431280",
       "name": "Troy Franklin",
       "position": "WR",
-      "2026_draft_pick": 217,
-      "2026_draft_round": 16,
+      "2026_pick": 217,
       "historical_model_rank": 393,
-      "recorded_points": 19.5,
-      "median": 1.3,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 19.5,
+      "median": 1.3
     },
     {
-      "player_id": 2576925,
+      "player_id": "2576925",
       "name": "Darren Waller",
       "position": "TE",
-      "2026_draft_pick": 218,
-      "2026_draft_round": 16,
+      "2026_pick": 218,
       "historical_model_rank": 111,
-      "recorded_points": 81.3,
-      "median": 6.6,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 81.3,
+      "median": 6.6
     },
     {
-      "player_id": 4367209,
+      "player_id": "4367209",
       "name": "Greg Dulcich",
       "position": "TE",
-      "2026_draft_pick": 219,
-      "2026_draft_round": 16,
+      "2026_pick": 219,
       "historical_model_rank": 186,
-      "recorded_points": 53.0,
-      "median": 3.8,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 53.0,
+      "median": 3.8
     },
     {
-      "player_id": 3886598,
+      "player_id": "3886598",
       "name": "Jauan Jennings",
       "position": "WR",
-      "2026_draft_pick": 220,
-      "2026_draft_round": 16,
+      "2026_pick": 220,
       "historical_model_rank": 478,
-      "recorded_points": 11.4,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 11.4,
+      "median": 0.0
     },
     {
-      "player_id": 4686658,
+      "player_id": "4686658",
       "name": "Mike Washington Jr.",
       "position": "RB",
-      "2026_draft_pick": 221,
-      "2026_draft_round": 16,
+      "2026_pick": 221,
       "historical_model_rank": 286,
-      "recorded_points": 41.3,
-      "median": 3.2,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 41.3,
+      "median": 3.2
     },
     {
-      "player_id": -16018,
+      "player_id": "-16018",
       "name": "Saints D/ST",
       "position": "D/ST",
-      "2026_draft_pick": 222,
-      "2026_draft_round": 16,
-      "historical_model_rank": 229,
-      "recorded_points": 38.0,
-      "median": 4.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "2026_pick": 222,
+      "historical_model_rank": 228,
+      "points": 38.0,
+      "median": 4.0
     },
     {
-      "player_id": 4360516,
+      "player_id": "4360516",
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
-      "2026_draft_pick": 223,
-      "2026_draft_round": 16,
+      "2026_pick": 223,
       "historical_model_rank": 363,
-      "recorded_points": 31.9,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 31.9,
+      "median": 0.0
     },
     {
-      "player_id": 3123076,
+      "player_id": "3123076",
       "name": "David Njoku",
       "position": "TE",
-      "2026_draft_pick": 224,
-      "2026_draft_round": 16,
+      "2026_pick": 224,
       "historical_model_rank": 341,
-      "recorded_points": 12.7,
-      "median": 0.0,
-      "note": "Historical production comparison only. Not an injury-adjusted draft value grade."
+      "points": 12.7,
+      "median": 0.0
     }
   ]
 }
