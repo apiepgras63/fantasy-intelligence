@@ -1,10 +1,9 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:25:01.536298+00:00",
-  "current_scoring_week": 18,
+  "updated_at_utc": "2026-11-16T04:30:18.400768+00:00",
   "total_players": 1062,
-  "players_with_weekly_stats": 1062,
-  "weekly_stat_records": 6552,
+  "players_with_weekly_stats": 771,
+  "weekly_stat_records": 10665,
   "weeks_found": [
     1,
     2,
@@ -31,14 +30,34 @@
   ],
   "weekly_records_with_points": 6552,
   "week_errors": {
-    "11": "No actual weekly scoring records returned",
-    "12": "No actual weekly scoring records returned",
-    "13": "No actual weekly scoring records returned",
-    "14": "No actual weekly scoring records returned",
-    "15": "No actual weekly scoring records returned",
-    "16": "No actual weekly scoring records returned",
-    "17": "No actual weekly scoring records returned",
-    "18": "No actual weekly scoring records returned"
+    "11": "No weekly scores available",
+    "12": "No weekly scores available",
+    "13": "No weekly scores available",
+    "14": "No weekly scores available",
+    "15": "No weekly scores available",
+    "16": "No weekly scores available",
+    "17": "No weekly scores available",
+    "18": "No weekly scores available"
   },
-  "note": "Weeks are scoring periods; a scoring record does not prove a player appeared in an NFL game."
+  "schedule_errors": {},
+  "schedule_weeks_found": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ]
 }

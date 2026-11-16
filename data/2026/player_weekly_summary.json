@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:25:01.536298+00:00",
+  "updated_at_utc": "2026-11-16T04:30:18.400768+00:00",
   "player_count": 771,
   "players": [
     {
@@ -9548,6 +9548,24 @@
       "average_per_record": 0.7
     },
     {
+      "player_id": 4428119,
+      "name": "Lew Nichols",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.6,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 5.5
+      },
+      "weeks_with_records": 7,
+      "total_fantasy_points": 6.1,
+      "average_per_record": 0.87
+    },
+    {
       "player_id": 4431353,
       "name": "Xavier Restrepo",
       "position_id": 3,
@@ -9615,24 +9633,6 @@
       "weeks_with_records": 3,
       "total_fantasy_points": 6.0,
       "average_per_record": 2.0
-    },
-    {
-      "player_id": 4428119,
-      "name": "Lew Nichols",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks": {
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.6,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 5.4
-      },
-      "weeks_with_records": 7,
-      "total_fantasy_points": 6.0,
-      "average_per_record": 0.86
     },
     {
       "player_id": 4702559,
@@ -11136,10 +11136,10 @@
         "6": 0.0,
         "7": 0.0,
         "8": 0.0,
-        "10": 0.94
+        "10": 0.98
       },
       "weeks_with_records": 9,
-      "total_fantasy_points": 1.04,
+      "total_fantasy_points": 1.08,
       "average_per_record": 0.12
     },
     {

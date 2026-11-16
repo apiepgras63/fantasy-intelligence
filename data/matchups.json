@@ -4225,6 +4225,7 @@
                         "59": 32.0,
                         "60": 6.25,
                         "61": 25.0,
+                        "155": 1.0,
                         "158": 6.0,
                         "179": 1.0,
                         "210": 1.0,
@@ -4324,8 +4325,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 107.64,
         "totalProjectedPoints": 113.9784838,
-        "totalProjectedPointsLive": 107.74686649,
-        "winProbability": 0.01
+        "totalProjectedPointsLive": 107.64,
+        "winProbability": 0.0
       },
       "home": {
         "adjustment": 0.0,
@@ -5234,6 +5235,7 @@
                         "59": 3.0,
                         "60": 5.0,
                         "61": 5.0,
+                        "156": 1.0,
                         "210": 1.0
                       }
                     },
@@ -6059,8 +6061,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 114.7,
         "totalProjectedPoints": 96.02503457,
-        "totalProjectedPointsLive": 114.85806209,
-        "winProbability": 0.99
+        "totalProjectedPointsLive": 114.7,
+        "winProbability": 1.0
       },
       "id": 64,
       "matchupPeriodId": 10,
@@ -6438,6 +6440,7 @@
                         "59": 14.0,
                         "60": 13.2,
                         "61": 66.0,
+                        "155": 1.0,
                         "210": 1.0,
                         "213": 5.0
                       }
@@ -7864,8 +7867,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 74.06,
         "totalProjectedPoints": 100.20979713,
-        "totalProjectedPointsLive": 90.00881292,
-        "winProbability": 0.24
+        "totalProjectedPointsLive": 89.71161696,
+        "winProbability": 0.23
       },
       "home": {
         "adjustment": 0.0,
@@ -8141,6 +8144,7 @@
                         "59": 16.0,
                         "60": 4.0,
                         "61": 8.0,
+                        "156": 1.0,
                         "210": 1.0,
                         "212": 2.0
                       }
@@ -8526,7 +8530,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -8909,6 +8914,7 @@
                         "39": 10.0,
                         "40": 10.0,
                         "58": 3.0,
+                        "156": 1.0,
                         "210": 1.0,
                         "212": 1.0
                       }
@@ -9764,7 +9770,7 @@
         "totalPointsLive": 95.52,
         "totalProjectedPoints": 114.99273748,
         "totalProjectedPointsLive": 95.52,
-        "winProbability": 0.76
+        "winProbability": 0.77
       },
       "id": 65,
       "matchupPeriodId": 10,
@@ -12560,7 +12566,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -13186,6 +13193,7 @@
                         "61": 26.0,
                         "67": 1.0,
                         "68": 1.0,
+                        "156": 1.0,
                         "210": 1.0,
                         "213": 3.0
                       }
@@ -13501,6 +13509,7 @@
                         "59": 15.0,
                         "60": 17.5,
                         "61": 35.0,
+                        "156": 1.0,
                         "158": 6.0,
                         "185": 1.0,
                         "210": 1.0,
@@ -13611,6 +13620,7 @@
                         "87": 1.0,
                         "108": 1.0,
                         "109": 1.0,
+                        "156": 1.0,
                         "158": 4.0,
                         "210": 1.0,
                         "214": 45.0,
@@ -14451,8 +14461,8 @@
         "totalPoints": 0.0,
         "totalPointsLive": 78.98,
         "totalProjectedPoints": 98.3578983,
-        "totalProjectedPointsLive": 79.62043477,
-        "winProbability": 0.01
+        "totalProjectedPointsLive": 78.98,
+        "winProbability": 0.0
       },
       "home": {
         "adjustment": 0.0,
@@ -16157,7 +16167,7 @@
         "totalPointsLive": 145.6,
         "totalProjectedPoints": 124.66013033,
         "totalProjectedPointsLive": 145.6,
-        "winProbability": 0.99
+        "winProbability": 1.0
       },
       "id": 67,
       "matchupPeriodId": 10,
@@ -16756,6 +16766,7 @@
                         "134": 1.0,
                         "135": 0.0,
                         "136": 0.0,
+                        "156": 1.0,
                         "187": 38.0,
                         "188": 0.0,
                         "189": 0.0,
@@ -17308,7 +17319,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -17869,7 +17881,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 71.12,
         "totalProjectedPoints": 108.7792187,
-        "totalProjectedPointsLive": 78.24379903,
+        "totalProjectedPointsLive": 78.0145264,
         "winProbability": 0.01
       },
       "home": {
@@ -19017,6 +19029,7 @@
                         "58": 2.0,
                         "60": 9.0,
                         "61": 9.0,
+                        "155": 1.0,
                         "210": 1.0
                       }
                     },
@@ -19228,11 +19241,11 @@
                         "99": 3.0,
                         "100": 6.0,
                         "106": 1.0,
-                        "107": 16.0,
+                        "107": 18.0,
                         "108": 37.0,
-                        "109": 53.0,
-                        "110": 17.0,
-                        "111": 10.0,
+                        "109": 55.0,
+                        "110": 18.0,
+                        "111": 11.0,
                         "112": 3.0,
                         "113": 6.0,
                         "114": 58.0,
@@ -19243,7 +19256,7 @@
                         "122": 0.0,
                         "123": 0.0,
                         "124": 0.0,
-                        "127": 220.0,
+                        "127": 222.0,
                         "128": 0.0,
                         "129": 0.0,
                         "130": 1.0,
@@ -19253,6 +19266,7 @@
                         "134": 0.0,
                         "135": 0.0,
                         "136": 0.0,
+                        "155": 1.0,
                         "187": 18.0,
                         "188": 0.0,
                         "189": 0.0,
@@ -19686,7 +19700,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 103.44,
         "totalProjectedPoints": 113.04578958,
-        "totalProjectedPointsLive": 103.58578042,
+        "totalProjectedPointsLive": 103.44,
         "winProbability": 0.99
       },
       "id": 68,
@@ -19905,6 +19919,7 @@
                         "59": 32.0,
                         "60": 4.875,
                         "61": 39.0,
+                        "155": 1.0,
                         "158": 12.0,
                         "183": 2.0,
                         "210": 1.0,
@@ -21235,6 +21250,7 @@
                         "85": 1.0,
                         "86": 5.0,
                         "87": 5.0,
+                        "155": 1.0,
                         "158": 8.0,
                         "210": 1.0,
                         "214": 24.0,
@@ -21621,7 +21637,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 196.66,
         "totalProjectedPoints": 136.77218759,
-        "totalProjectedPointsLive": 211.63751061,
+        "totalProjectedPointsLive": 211.2450198,
         "winProbability": 0.99
       },
       "home": {
@@ -21934,6 +21950,7 @@
                         "39": 8.0,
                         "40": 8.0,
                         "64": 1.0,
+                        "155": 1.0,
                         "158": 24.0,
                         "175": 3.0,
                         "176": 1.0,
@@ -22326,7 +22343,8 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {}
+                      "stats": {},
+                      "variance": {}
                     }
                   ]
                 }
@@ -23545,7 +23563,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 105.56,
         "totalProjectedPoints": 102.9185357,
-        "totalProjectedPointsLive": 105.91009828,
+        "totalProjectedPointsLive": 105.56,
         "winProbability": 0.01
       },
       "id": 69,
@@ -23610,6 +23628,7 @@
                         "61": 231.0,
                         "67": 1.0,
                         "68": 1.0,
+                        "155": 1.0,
                         "210": 1.0,
                         "213": 9.0
                       }
@@ -24643,6 +24662,7 @@
                         "65": 1.0,
                         "66": 2.0,
                         "68": 1.0,
+                        "156": 1.0,
                         "158": 12.0,
                         "177": 2.0,
                         "210": 1.0,
@@ -25197,7 +25217,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 134.02,
         "totalProjectedPoints": 105.96268069,
-        "totalProjectedPointsLive": 142.64940229,
+        "totalProjectedPointsLive": 141.95562594,
         "winProbability": 0.01
       },
       "home": {
@@ -25700,6 +25720,7 @@
                         "59": 9.0,
                         "60": 27.0,
                         "61": 54.0,
+                        "156": 1.0,
                         "158": 8.0,
                         "185": 1.0,
                         "210": 1.0,
@@ -27052,7 +27073,7 @@
         "totalPoints": 0.0,
         "totalPointsLive": 178.72,
         "totalProjectedPoints": 119.21615426,
-        "totalProjectedPointsLive": 178.91452513,
+        "totalProjectedPointsLive": 178.72,
         "winProbability": 0.99
       },
       "id": 70,
