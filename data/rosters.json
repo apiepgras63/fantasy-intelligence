@@ -156,7 +156,7 @@
           "name": "Garrett Wilson",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 20,
           "acquisition_type": "ADD"
         }
@@ -330,7 +330,7 @@
           "name": "Drake London",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 1,
           "acquisition_type": "DRAFT"
         },
@@ -356,7 +356,7 @@
           "player_id": 12483,
           "name": "Matthew Stafford",
           "position_id": 1,
-          "lineup_slot_id": 0,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 14,
           "acquisition_type": "DRAFT"
@@ -378,15 +378,6 @@
           "injury_status": "INJURY_RESERVE",
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
-        },
-        {
-          "player_id": 4569559,
-          "name": "Devaughn Vele",
-          "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 18,
-          "acquisition_type": "ADD"
         },
         {
           "player_id": 4711533,
@@ -477,6 +468,15 @@
           "injury_status": "ACTIVE",
           "pro_team_id": 28,
           "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 15864,
+          "name": "Geno Smith",
+          "position_id": 1,
+          "lineup_slot_id": 0,
+          "injury_status": "QUESTIONABLE",
+          "pro_team_id": 20,
+          "acquisition_type": "ADD"
         }
       ]
     },
@@ -543,7 +543,7 @@
           "name": "Wan'Dale Robinson",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 10,
           "acquisition_type": "DRAFT"
         },
@@ -552,7 +552,7 @@
           "name": "Jordan Addison",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 16,
           "acquisition_type": "DRAFT"
         },
@@ -1188,7 +1188,7 @@
           "name": "Adonai Mitchell",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 20,
           "acquisition_type": "DRAFT"
         },
@@ -1365,7 +1365,7 @@
           "name": "Denzel Boston",
           "position_id": 3,
           "lineup_slot_id": 23,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 5,
           "acquisition_type": "DRAFT"
         },
@@ -1410,7 +1410,7 @@
           "name": "Pierre Strong Jr.",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "ACTIVE",
+          "injury_status": "OUT",
           "pro_team_id": 9,
           "acquisition_type": "ADD"
         },
@@ -1584,7 +1584,7 @@
           "name": "Travis Etienne Jr.",
           "position_id": 2,
           "lineup_slot_id": 21,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 18,
           "acquisition_type": "DRAFT"
         },
@@ -1833,7 +1833,7 @@
           "name": "Baker Mayfield",
           "position_id": 1,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 27,
           "acquisition_type": "TRADE"
         },
@@ -1911,7 +1911,7 @@
           "name": "Brock Bowers",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 13,
           "acquisition_type": "DRAFT"
         },
@@ -2010,7 +2010,7 @@
           "name": "Woody Marks",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "DOUBTFUL",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
         },
@@ -2051,7 +2051,7 @@
           "player_id": 4426515,
           "name": "Puka Nacua",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 21,
           "injury_status": "INJURY_RESERVE",
           "pro_team_id": 14,
           "acquisition_type": "DRAFT"
@@ -2070,7 +2070,7 @@
           "name": "A.J. Brown",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
         },
@@ -2079,7 +2079,7 @@
           "name": "Ladd McConkey",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 24,
           "acquisition_type": "DRAFT"
         },
@@ -2115,7 +2115,7 @@
           "name": "Pat Freiermuth",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 23,
           "acquisition_type": "DRAFT"
         },
