@@ -2,12 +2,13 @@
 """Collect compact ESPN fantasy league snapshots."""
 import datetime as dt
 import json
+import os
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-LEAGUE_ID = "924923029"
-SEASON = "2026"
+LEAGUE_ID = os.environ.get("ESPN_LEAGUE_ID", "924923029")
+SEASON = os.environ.get("ESPN_SEASON", "2026")
 BASE = (
     "https://lm-api-reads.fantasy.espn.com/apis/v3/"
     f"games/ffl/seasons/{SEASON}/segments/0/leagues/{LEAGUE_ID}"
@@ -87,6 +88,20 @@ for label, views in VIEWS.items():
             json.dumps(payload, indent=2),
             encoding="utf-8",
         )
+               if label == "draft":
+            picks = payload.get("draftDetail", {}).get("picks", [])
+            if not isinstance(picks, list) or not picks:
+                raise ValueError("ESPN draft returned no picks")
+
+            archive = DATA / SEASON
+            archive.mkdir(exist_ok=True)
+
+            (archive / "draft.json").write_text(
+                json.dumps(payload, indent=2),
+                encoding="utf-8",
+            )
+
+            print(f"Archived {len(picks)} draft picks")
         print(f"{label}: OK")
 
     except Exception as exc:
