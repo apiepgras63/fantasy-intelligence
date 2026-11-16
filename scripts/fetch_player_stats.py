@@ -397,3 +397,68 @@ print(
     f"Saved consistency metrics for "
     f"{len(consistency_players)} players"
 )
+
+# Track weekly scoring availability without guessing injury status.
+availability_players = []
+
+completed_weeks = sorted(
+    week for week in weeks_found
+    if isinstance(week, int) and 1 <= week <= 18
+)
+
+for player in result["players"]:
+    player_weeks = {
+        stat.get("week")
+        for stat in player.get("stats", [])
+        if stat.get("stat_source_id") == 0
+        and stat.get("stat_split_type_id") == 1
+        and isinstance(stat.get("fantasy_points"), (int, float))
+    }
+
+    recorded_weeks = sorted(
+        week for week in completed_weeks
+        if week in player_weeks
+    )
+    missing_weeks = sorted(
+        week for week in completed_weeks
+        if week not in player_weeks
+    )
+
+    availability_players.append({
+        "player_id": player["player_id"],
+        "name": player["name"],
+        "position_id": player["position_id"],
+        "team_id": player["team_id"],
+        "latest_injury_status": player.get("injury_status"),
+        "weeks_with_scoring_records": recorded_weeks,
+        "weeks_without_scoring_records": missing_weeks,
+        "recorded_week_count": len(recorded_weeks),
+        "missing_week_count": len(missing_weeks),
+        "confirmed_games_played": None,
+        "confirmed_injury_absences": None,
+        "confirmed_bye_weeks": None,
+    })
+
+availability_path = OUTPUT / "player_availability.json"
+
+availability_path.write_text(
+    json.dumps({
+        "season": SEASON,
+        "updated_at_utc": now,
+        "weeks_examined": completed_weeks,
+        "player_count": len(availability_players),
+        "methodology": (
+            "Missing scoring records are not automatically "
+            "classified as injuries, bye weeks, or missed games. "
+            "Game participation and historical injury data "
+            "require additional verification."
+        ),
+        "players": availability_players,
+    }, indent=2),
+    encoding="utf-8"
+)
+
+print(
+    f"Saved availability records for "
+    f"{len(availability_players)} players"
+)
