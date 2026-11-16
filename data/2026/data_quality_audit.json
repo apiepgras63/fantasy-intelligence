@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:54:34.472027+00:00",
+  "updated_at_utc": "2026-11-16T16:24:44.033445+00:00",
   "total_players": 1062,
   "total_stored_stat_entries": 10665,
   "valid_weekly_scoring_entries": 6552,
@@ -2858,7 +2858,7 @@
   ],
   "bye_classification_correction": {
     "season": "2026",
-    "updated_at_utc": "2026-11-16T04:54:34.472027+00:00",
+    "updated_at_utc": "2026-11-16T16:24:44.033445+00:00",
     "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
     "unknown_team_weeks": 3250,
     "historical_team_unverified_weeks": 7050,

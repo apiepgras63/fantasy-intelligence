@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T04:54:34.472027+00:00",
+  "updated_at_utc": "2026-11-16T16:24:44.033445+00:00",
   "weeks_examined": [
     1,
     2,
@@ -85939,7 +85939,7 @@
       "name": "Drake Maye",
       "position_id": 1,
       "team_id": 17,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "DOUBTFUL",
       "weeks_with_scoring_records": [
         1,
         2,
