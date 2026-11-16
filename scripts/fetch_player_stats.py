@@ -88,10 +88,7 @@ if DESTINATION.exists():
             f"Cannot safely read existing archive: {exc}"
         ) from exc
 
-current = fetch()
-current_week = current.get("scoringPeriodId")
-if not isinstance(current_week, int) or not 1 <= current_week <= 18:
-    raise RuntimeError(f"Unexpected scoring period: {current_week!r}")
+current_week = 18
 
 updated_weeks = []
 errors = {}
