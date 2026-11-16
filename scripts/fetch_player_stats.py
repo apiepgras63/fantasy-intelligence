@@ -634,3 +634,159 @@ save_json("data_quality_audit.json", audit)
 
 print("DATA QUALITY AUDIT")
 print(json.dumps(audit["summary"], indent=2))
+
+# Correct bye-week classifications conservatively.
+# Preserve all original scoring records and statistics.
+
+bye_corrections = {
+    "season": SEASON,
+    "updated_at_utc": NOW,
+    "method": (
+        "Confirmed team byes are assigned only to D/ST "
+        "entries with verified NFL team IDs. "
+        "Individual player byes remain unverified "
+        "without historical team assignments."
+    ),
+    "unknown_team_weeks": 0,
+    "historical_team_unverified_weeks": 0,
+    "confirmed_dst_byes": 0,
+    "scoring_team_conflicts": 0,
+}
+
+for record in availability:
+    team_id = str(record.get("team_id"))
+    position_id = record.get("position_id")
+    known_team = team_id in known_team_ids
+
+    for week_key, status in record[
+        "weekly_classification"
+    ].items():
+        has_score = status.get("scoring_record", False)
+        game = team_games.get((team_id, week_key))
+        complete = schedule_complete.get(
+            week_key, False
+        )
+
+        status["bye_week"] = None
+        status["historical_team_verified"] = False
+
+        if not known_team:
+            status["team_game_status"] = (
+                "unknown_team_assignment"
+            )
+            status["classification_reason"] = (
+                "Player has no recognized current NFL "
+                "team ID. Historical bye cannot be verified."
+            )
+            bye_corrections[
+                "unknown_team_weeks"
+            ] += 1
+
+        elif position_id == 16:
+            # D/ST entries represent a specific NFL team.
+            status["historical_team_verified"] = True
+
+            if game:
+                status["bye_week"] = False
+                status["team_game_status"] = (
+                    "final" if game.get("completed")
+                    else "not_final"
+                )
+                status["classification_reason"] = (
+                    "D/ST team has a scheduled NFL game."
+                )
+
+            elif complete:
+                status["bye_week"] = True
+                status["team_game_status"] = (
+                    "confirmed_team_bye"
+                )
+                status["classification_reason"] = (
+                    "D/ST team has no game in the "
+                    "complete weekly NFL schedule."
+                )
+                bye_corrections[
+                    "confirmed_dst_byes"
+                ] += 1
+
+            else:
+                status["team_game_status"] = (
+                    "schedule_unverified"
+                )
+                status["classification_reason"] = (
+                    "Weekly NFL schedule is incomplete."
+                )
+
+        else:
+            # A player's current team does not prove
+            # which team they played for in prior weeks.
+            status["team_game_status"] = (
+                "historical_team_unverified"
+            )
+            status["classification_reason"] = (
+                "Current team ID cannot establish "
+                "historical team assignment or bye."
+            )
+            bye_corrections[
+                "historical_team_unverified_weeks"
+            ] += 1
+
+            if has_score and game is None and complete:
+                status["team_game_status"] = (
+                    "scoring_team_conflict"
+                )
+                status["classification_reason"] = (
+                    "Player scored, but their current "
+                    "team has no scheduled game. "
+                    "Historical team needs verification."
+                )
+                bye_corrections[
+                    "scoring_team_conflicts"
+                ] += 1
+
+    record["bye_week_method"] = (
+        "Verified NFL team schedule for D/ST; "
+        "unverified historical team for individuals."
+    )
+
+# Replace only the derived availability report.
+# Original scoring and consistency archives are untouched.
+save_json("player_availability.json", {
+    "season": SEASON,
+    "updated_at_utc": NOW,
+    "weeks_examined": weeks_found,
+    "player_count": len(availability),
+    "methodology": bye_corrections["method"],
+    "players": availability,
+})
+
+# Preserve original audit flags for comparison.
+audit["original_bye_flags_before_correction"] = (
+    audit.get("scores_on_scheduled_byes", [])
+)
+audit["scores_on_scheduled_byes"] = []
+
+audit["summary"][
+    "original_bye_flags_before_correction"
+] = len(
+    audit["original_bye_flags_before_correction"]
+)
+audit["summary"][
+    "scores_on_scheduled_byes_count"
+] = 0
+audit["summary"][
+    "scoring_team_conflicts_needing_review"
+] = bye_corrections["scoring_team_conflicts"]
+
+audit["bye_classification_correction"] = (
+    bye_corrections
+)
+
+save_json("data_quality_audit.json", audit)
+save_json(
+    "bye_classification_verification.json",
+    bye_corrections
+)
+
+print("BYE-WEEK CLASSIFICATION CORRECTION")
+print(json.dumps(bye_corrections, indent=2))
