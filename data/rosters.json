@@ -330,7 +330,7 @@
           "name": "Drake London",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 1,
           "acquisition_type": "DRAFT"
         },
@@ -1410,7 +1410,7 @@
           "name": "Pierre Strong Jr.",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "OUT",
+          "injury_status": "ACTIVE",
           "pro_team_id": 9,
           "acquisition_type": "ADD"
         },
@@ -1887,7 +1887,7 @@
           "name": "David Montgomery",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "OUT",
+          "injury_status": "ACTIVE",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
         }

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-16T16:24:44.033445+00:00",
+  "updated_at_utc": "2026-11-17T03:30:00.093568+00:00",
   "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
   "unknown_team_weeks": 3250,
   "historical_team_unverified_weeks": 7050,
