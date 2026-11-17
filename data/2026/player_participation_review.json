@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T03:30:00.093568+00:00",
+  "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -447,8 +447,8 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4688380,
-      "name": "Cam Ward",
+      "player_id": 2578570,
+      "name": "Jacoby Brissett",
       "position": "QB",
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
@@ -460,8 +460,8 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 2578570,
-      "name": "Jacoby Brissett",
+      "player_id": 4688380,
+      "name": "Cam Ward",
       "position": "QB",
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
@@ -655,6 +655,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4038941,
+      "name": "Justin Herbert",
+      "position": "QB",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4832955,
       "name": "Emmett Johnson",
       "position": "RB",
@@ -674,19 +687,6 @@
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
         6
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4038941,
-      "name": "Justin Herbert",
-      "position": "QB",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -902,6 +902,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4685382,
+      "name": "Omarion Hampton",
+      "position": "RB",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4360234,
       "name": "Evan McPherson",
       "position": "K",
@@ -1061,19 +1074,6 @@
       "player_id": 4430539,
       "name": "Brenton Strange",
       "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4685382,
-      "name": "Omarion Hampton",
-      "position": "RB",
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
         7
@@ -1331,6 +1331,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4362081,
+      "name": "Cameron Dicker",
+      "position": "K",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 2973405,
       "name": "Kalif Raymond",
       "position": "WR",
@@ -1402,19 +1415,6 @@
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
         10
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4362081,
-      "name": "Cameron Dicker",
-      "position": "K",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2176,6 +2176,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4595342,
+      "name": "Oronde Gadsden",
+      "position": "TE",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 3050478,
       "name": "Jake Elliott",
       "position": "K",
@@ -2210,19 +2223,6 @@
         8,
         9,
         10
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4595342,
-      "name": "Oronde Gadsden",
-      "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2349,19 +2349,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16024,
-      "name": "Chargers D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": -16018,
       "name": "Saints D/ST",
       "position": "D/ST",
@@ -2466,6 +2453,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": -16024,
+      "name": "Chargers D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 2576980,
       "name": "Marcus Mariota",
       "position": "QB",
@@ -2518,6 +2518,22 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4243371,
+      "name": "Riley Patterson",
+      "position": "K",
+      "recorded_weeks": 6,
+      "missing_scoring_weeks": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4360569,
       "name": "Jordan Mason",
       "position": "RB",
@@ -2537,22 +2553,6 @@
       "recorded_weeks": 9,
       "missing_scoring_weeks": [
         6
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4243371,
-      "name": "Riley Patterson",
-      "position": "K",
-      "recorded_weeks": 6,
-      "missing_scoring_weeks": [
-        6,
-        7,
-        8,
-        9
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2797,6 +2797,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4241263,
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4242433,
       "name": "Joshua Palmer",
       "position": "WR",
@@ -2847,19 +2860,6 @@
         4,
         5,
         6
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4241263,
-      "name": "Charlie Kolar",
-      "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5464,13 +5464,12 @@
       "player_id": 2576399,
       "name": "Nick Vannett",
       "position": "TE",
-      "recorded_weeks": 5,
+      "recorded_weeks": 6,
       "missing_scoring_weeks": [
         1,
         2,
         3,
-        4,
-        10
+        4
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",

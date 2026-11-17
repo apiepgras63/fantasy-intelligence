@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T03:30:46.567242+00:00",
+  "updated_at_utc": "2026-11-17T15:32:07.348466+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -32695,6 +32695,220 @@
       },
       "source": "ESPN game injury data",
       "event_id": "401873052"
+    },
+    {
+      "player_id": "3858276",
+      "name": "Jaylinn Hawkins",
+      "week": 10,
+      "team_id": "33",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Knee",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Left",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4035245",
+      "name": "Nnamdi Madubuike",
+      "week": 10,
+      "team_id": "33",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Hamstring",
+        "location": "Leg",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4832793",
+      "name": "Olaivavega Ioane",
+      "week": 10,
+      "team_id": "33",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Shoulder",
+        "location": "Arm",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4685526",
+      "name": "Adam Randall",
+      "week": 10,
+      "team_id": "33",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR-R",
+          "abbreviation": "IR-R",
+          "displayDescription": "IR-R"
+        },
+        "type": "Neck",
+        "location": "Head",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "3916387",
+      "name": "Lamar Jackson",
+      "week": 10,
+      "team_id": "33",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Thumb",
+        "location": "Arm",
+        "detail": "Surgery",
+        "side": "Right",
+        "returnDate": "2026-12-27"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4360745",
+      "name": "Kendall Williamson",
+      "week": 10,
+      "team_id": "24",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Calf",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4574105",
+      "name": "Isas Waxter",
+      "week": 10,
+      "team_id": "24",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4612826",
+      "name": "Ladd McConkey",
+      "week": 10,
+      "team_id": "24",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Back",
+        "location": "Torso",
+        "detail": "Spasms",
+        "side": "Not Specified",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4838693",
+      "name": "Rodney Shelley",
+      "week": 10,
+      "team_id": "24",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
+    },
+    {
+      "player_id": "4685553",
+      "name": "Brenen Thompson",
+      "week": 10,
+      "team_id": "24",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Hamstring",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-22"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873065"
     }
   ],
   "manual_injury_records": [],
@@ -34130,8 +34344,7 @@
         1,
         2,
         3,
-        4,
-        10
+        4
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -34150,7 +34363,8 @@
       "boxscore_listed_weeks": [
         1,
         2,
-        3
+        3,
+        10
       ],
       "needs_review": true
     },
@@ -34203,7 +34417,8 @@
         5,
         6,
         7,
-        8
+        8,
+        10
       ],
       "needs_review": true
     },
@@ -36025,6 +36240,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873037"
+        },
+        {
+          "player_id": "3916387",
+          "name": "Lamar Jackson",
+          "week": 10,
+          "team_id": "33",
+          "status": "Injured Reserve",
+          "type": "Injured Reserve",
+          "details": {
+            "fantasyStatus": {
+              "description": "IR",
+              "abbreviation": "IR",
+              "displayDescription": "IR"
+            },
+            "type": "Thumb",
+            "location": "Arm",
+            "detail": "Surgery",
+            "side": "Right",
+            "returnDate": "2026-12-27"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873065"
         }
       ],
       "boxscore_listed_weeks": [
@@ -37237,7 +37474,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -37821,7 +38059,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -38357,7 +38596,8 @@
         2,
         3,
         4,
-        5
+        5,
+        10
       ],
       "needs_review": true
     },
@@ -39940,7 +40180,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -39979,7 +40220,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -41467,7 +41709,8 @@
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         5,
-        6
+        6,
+        10
       ],
       "needs_review": true
     },
@@ -42346,7 +42589,8 @@
         4,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -44704,7 +44948,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -47529,7 +47774,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -47568,7 +47814,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -48120,6 +48367,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873046"
+        },
+        {
+          "player_id": "4612826",
+          "name": "Ladd McConkey",
+          "week": 10,
+          "team_id": "24",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Back",
+            "location": "Torso",
+            "detail": "Spasms",
+            "side": "Not Specified",
+            "returnDate": "2026-11-22"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873065"
         }
       ],
       "boxscore_listed_weeks": [
@@ -48893,7 +49162,8 @@
         5,
         6,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },
@@ -49647,6 +49917,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873037"
+        },
+        {
+          "player_id": "4685526",
+          "name": "Adam Randall",
+          "week": 10,
+          "team_id": "33",
+          "status": "Injured Reserve",
+          "type": "Injured Reserve",
+          "details": {
+            "fantasyStatus": {
+              "description": "IR-R",
+              "abbreviation": "IR-R",
+              "displayDescription": "IR-R"
+            },
+            "type": "Neck",
+            "location": "Head",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-22"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873065"
         }
       ],
       "boxscore_listed_weeks": [],
@@ -49658,7 +49950,30 @@
       "missing_scoring_weeks": [
         7
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "4685553",
+          "name": "Brenen Thompson",
+          "week": 10,
+          "team_id": "24",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Hamstring",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-22"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873065"
+        }
+      ],
       "boxscore_listed_weeks": [
         2
       ],
@@ -49997,7 +50312,8 @@
         4,
         5,
         8,
-        9
+        9,
+        10
       ],
       "needs_review": true
     },

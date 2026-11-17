@@ -1,290 +1,13 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T03:30:00.093568+00:00",
+  "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
   "total_players": 1062,
-  "total_stored_stat_entries": 10712,
-  "valid_weekly_scoring_entries": 6599,
+  "total_stored_stat_entries": 10713,
+  "valid_weekly_scoring_entries": 6600,
   "other_stat_entries": 4113,
   "duplicate_player_week_records": [],
   "scores_on_scheduled_byes": [],
-  "scoring_records_without_final_games": [
-    {
-      "player_id": -16033,
-      "name": "Ravens D/ST",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": -16024,
-      "name": "Chargers D/ST",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 2578570,
-      "name": "Jacoby Brissett",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3043078,
-      "name": "Derrick Henry",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3045138,
-      "name": "Mike Williams",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3052897,
-      "name": "Durham Smythe",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3116365,
-      "name": "Mark Andrews",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3123076,
-      "name": "David Njoku",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3916387,
-      "name": "Lamar Jackson",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 3917668,
-      "name": "Alec Ingold",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4035671,
-      "name": "Tyler Huntley",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4036419,
-      "name": "Skylar Thompson",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4038441,
-      "name": "Justice Hill",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4038941,
-      "name": "Justin Herbert",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4241263,
-      "name": "Charlie Kolar",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4243371,
-      "name": "Riley Patterson",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4360939,
-      "name": "Rashod Bateman",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4362081,
-      "name": "Cameron Dicker",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4362477,
-      "name": "Derius Davis",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4373684,
-      "name": "Scott Matlock",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4383351,
-      "name": "Trey Lance",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4426535,
-      "name": "Theo Wease Jr.",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4428512,
-      "name": "Kedon Slovis",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4429020,
-      "name": "DJ Uiagalelei",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4429025,
-      "name": "Quentin Johnston",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4429582,
-      "name": "Joe Fagnano",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4429615,
-      "name": "Zay Flowers",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4429811,
-      "name": "Patrick Herbert",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4430870,
-      "name": "KeAndre Lambert-Smith",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4430968,
-      "name": "Kimani Vidal",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4432260,
-      "name": "Matt Hibner",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4569372,
-      "name": "Dalevon Campbell",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4595342,
-      "name": "Oronde Gadsden",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4596334,
-      "name": "Keaton Mitchell",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4612826,
-      "name": "Ladd McConkey",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4685382,
-      "name": "Omarion Hampton",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4685526,
-      "name": "Adam Randall",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4685553,
-      "name": "Brenen Thompson",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4686612,
-      "name": "Tre' Harris",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4690013,
-      "name": "Rasheen Ali",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4690143,
-      "name": "LaJohntay Wester",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4696882,
-      "name": "Devontez Walker",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4697745,
-      "name": "Tyler Loop",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4870847,
-      "name": "Ja'Kobi Lane",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 4876132,
-      "name": "Josh Cuevas",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    },
-    {
-      "player_id": 5088338,
-      "name": "Elijah Sarratt",
-      "week": 10,
-      "game_status": "STATUS_IN_PROGRESS"
-    }
-  ],
+  "scoring_records_without_final_games": [],
   "unknown_team_ids": [
     {
       "player_id": 9614,
@@ -402,18 +125,8 @@
       "team_id": "0"
     },
     {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0"
-    },
-    {
       "player_id": 2576414,
       "name": "Raheem Mostert",
-      "team_id": "0"
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
       "team_id": "0"
     },
     {
@@ -464,6 +177,11 @@
     {
       "player_id": 3040569,
       "name": "Trent Taylor",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3043234,
+      "name": "Zane Gonzalez",
       "team_id": "0"
     },
     {
@@ -704,6 +422,11 @@
     {
       "player_id": 3821683,
       "name": "Austin Seibert",
+      "team_id": "0"
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
       "team_id": "0"
     },
     {
@@ -1917,16 +1640,16 @@
     "source_0_split_0": 2004,
     "source_1_split_0": 1592,
     "source_1_split_2": 467,
-    "source_0_split_1": 6599,
+    "source_0_split_1": 6600,
     "source_1_split_1": 50
   },
   "summary": {
     "duplicate_player_week_count": 0,
     "scores_on_scheduled_byes_count": 0,
-    "nonfinal_game_score_count": 46,
+    "nonfinal_game_score_count": 0,
     "unknown_team_id_count": 325,
     "other_stat_entry_count": 4113,
-    "original_bye_flags_before_correction": 172,
+    "original_bye_flags_before_correction": 174,
     "scoring_team_conflicts_needing_review": 7
   },
   "limitations": [
@@ -2034,83 +1757,6 @@
       "points": 0.0
     },
     {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576399,
-      "name": "Nick Vannett",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 1,
-      "points": 6.3
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 2,
-      "points": 1.6
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 3,
-      "points": 7.4
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 2576581,
-      "name": "Chris Moore",
-      "team_id": "0",
-      "week": 10,
-      "points": 0.0
-    },
-    {
       "player_id": 2972515,
       "name": "Cooper Rush",
       "team_id": "0",
@@ -2151,6 +1797,34 @@
       "team_id": "0",
       "week": 6,
       "points": 0.0
+    },
+    {
+      "player_id": 3043234,
+      "name": "Zane Gonzalez",
+      "team_id": "0",
+      "week": 7,
+      "points": 4.0
+    },
+    {
+      "player_id": 3043234,
+      "name": "Zane Gonzalez",
+      "team_id": "0",
+      "week": 8,
+      "points": 8.0
+    },
+    {
+      "player_id": 3043234,
+      "name": "Zane Gonzalez",
+      "team_id": "0",
+      "week": 9,
+      "points": 10.0
+    },
+    {
+      "player_id": 3043234,
+      "name": "Zane Gonzalez",
+      "team_id": "0",
+      "week": 10,
+      "points": 4.0
     },
     {
       "player_id": 3051738,
@@ -2255,6 +1929,69 @@
       "name": "Dante Pettis",
       "team_id": "0",
       "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 3871102,
+      "name": "David Sills V",
+      "team_id": "0",
+      "week": 9,
       "points": 0.0
     },
     {
@@ -3142,7 +2879,7 @@
   ],
   "bye_classification_correction": {
     "season": "2026",
-    "updated_at_utc": "2026-11-17T03:30:00.093568+00:00",
+    "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
     "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
     "unknown_team_weeks": 3250,
     "historical_team_unverified_weeks": 7050,
