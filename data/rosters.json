@@ -206,7 +206,7 @@
           "player_id": 4685702,
           "name": "Quinshon Judkins",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 5,
           "acquisition_type": "DRAFT"
@@ -215,8 +215,8 @@
           "player_id": 4685278,
           "name": "Luther Burden III",
           "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "lineup_slot_id": 4,
+          "injury_status": "ACTIVE",
           "pro_team_id": 3,
           "acquisition_type": "DRAFT"
         },
@@ -242,7 +242,7 @@
           "player_id": 4373678,
           "name": "Khalil Shakir",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 2,
           "acquisition_type": "DRAFT"
@@ -251,7 +251,7 @@
           "player_id": -16008,
           "name": "Lions D/ST",
           "position_id": 16,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 16,
           "injury_status": null,
           "pro_team_id": 8,
           "acquisition_type": "DRAFT"
@@ -278,7 +278,7 @@
           "player_id": 4702555,
           "name": "Jonah Coleman",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
@@ -296,7 +296,7 @@
           "player_id": -16005,
           "name": "Browns D/ST",
           "position_id": 16,
-          "lineup_slot_id": 16,
+          "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 5,
           "acquisition_type": "ADD"
@@ -543,7 +543,7 @@
           "name": "Wan'Dale Robinson",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "INJURY_RESERVE",
           "pro_team_id": 10,
           "acquisition_type": "DRAFT"
         },
@@ -647,7 +647,7 @@
           "player_id": 4362628,
           "name": "Ja'Marr Chase",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 23,
           "injury_status": "ACTIVE",
           "pro_team_id": 4,
           "acquisition_type": "DRAFT"
@@ -710,7 +710,7 @@
           "player_id": 4688813,
           "name": "Josh Downs",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 4,
           "injury_status": "ACTIVE",
           "pro_team_id": 12,
           "acquisition_type": "DRAFT"
@@ -746,7 +746,7 @@
           "player_id": 4723086,
           "name": "Colston Loveland",
           "position_id": 4,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 3,
           "acquisition_type": "ADD"
@@ -2069,7 +2069,7 @@
           "player_id": 4047646,
           "name": "A.J. Brown",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 20,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
@@ -2078,7 +2078,7 @@
           "player_id": 4612826,
           "name": "Ladd McConkey",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 4,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 24,
           "acquisition_type": "DRAFT"

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
+  "updated_at_utc": "2026-11-18T03:33:22.871744+00:00",
   "player_count": 771,
   "players": [
     {
@@ -10018,7 +10018,7 @@
       "player_id": 4257188,
       "name": "Charlie Jones",
       "position_id": 3,
-      "team_id": 19,
+      "team_id": 0,
       "weeks": {
         "4": 0.0,
         "5": 0.0,
@@ -10736,7 +10736,7 @@
       "player_id": 4685279,
       "name": "Jaydon Blue",
       "position_id": 2,
-      "team_id": 0,
+      "team_id": 21,
       "weeks": {
         "6": 0.0,
         "8": 1.9,
@@ -13597,7 +13597,7 @@
       "player_id": 4431342,
       "name": "Brennan Presley",
       "position_id": 3,
-      "team_id": 14,
+      "team_id": 0,
       "weeks": {
         "10": 0.0
       },
@@ -14202,7 +14202,7 @@
       "player_id": 4685540,
       "name": "Carsen Ryan",
       "position_id": 4,
-      "team_id": 5,
+      "team_id": 0,
       "weeks": {
         "1": 0.0,
         "2": 0.0,

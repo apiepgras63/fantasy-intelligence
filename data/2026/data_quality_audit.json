@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
+  "updated_at_utc": "2026-11-18T03:33:22.871744+00:00",
   "total_players": 1062,
   "total_stored_stat_entries": 10713,
   "valid_weekly_scoring_entries": 6600,
@@ -945,6 +945,11 @@
       "team_id": "0"
     },
     {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0"
+    },
+    {
       "player_id": 4258248,
       "name": "Peyton Hendershot",
       "team_id": "0"
@@ -1340,6 +1345,11 @@
       "team_id": "0"
     },
     {
+      "player_id": 4431342,
+      "name": "Brennan Presley",
+      "team_id": "0"
+    },
+    {
       "player_id": 4431453,
       "name": "Deuce Vaughn",
       "team_id": "0"
@@ -1495,11 +1505,6 @@
       "team_id": "0"
     },
     {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
-      "team_id": "0"
-    },
-    {
       "player_id": 4685381,
       "name": "Emmanuel Henderson Jr.",
       "team_id": "0"
@@ -1507,6 +1512,11 @@
     {
       "player_id": 4685477,
       "name": "Jam Miller",
+      "team_id": "0"
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
       "team_id": "0"
     },
     {
@@ -1647,9 +1657,9 @@
     "duplicate_player_week_count": 0,
     "scores_on_scheduled_byes_count": 0,
     "nonfinal_game_score_count": 0,
-    "unknown_team_id_count": 325,
+    "unknown_team_id_count": 327,
     "other_stat_entry_count": 4113,
-    "original_bye_flags_before_correction": 174,
+    "original_bye_flags_before_correction": 188,
     "scoring_team_conflicts_needing_review": 7
   },
   "limitations": [
@@ -2338,6 +2348,48 @@
       "points": 0.0
     },
     {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 6,
+      "points": 6.6
+    },
+    {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 9,
+      "points": -2.0
+    },
+    {
+      "player_id": 4257188,
+      "name": "Charlie Jones",
+      "team_id": "0",
+      "week": 10,
+      "points": 0.0
+    },
+    {
       "player_id": 4361426,
       "name": "Justin Shorter",
       "team_id": "0",
@@ -2482,6 +2534,13 @@
       "name": "Treyton Welch",
       "team_id": "0",
       "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 4431342,
+      "name": "Brennan Presley",
+      "team_id": "0",
+      "week": 10,
       "points": 0.0
     },
     {
@@ -2744,24 +2803,73 @@
       "points": 0.0
     },
     {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 1,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 2,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 3,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
       "team_id": "0",
       "week": 6,
       "points": 0.0
     },
     {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
       "team_id": "0",
-      "week": 8,
-      "points": 1.9
+      "week": 7,
+      "points": 0.0
     },
     {
-      "player_id": 4685279,
-      "name": "Jaydon Blue",
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 8,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
       "team_id": "0",
       "week": 9,
+      "points": 0.0
+    },
+    {
+      "player_id": 4685540,
+      "name": "Carsen Ryan",
+      "team_id": "0",
+      "week": 10,
       "points": 0.0
     },
     {
@@ -2879,10 +2987,10 @@
   ],
   "bye_classification_correction": {
     "season": "2026",
-    "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
+    "updated_at_utc": "2026-11-18T03:33:22.871744+00:00",
     "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
-    "unknown_team_weeks": 3250,
-    "historical_team_unverified_weeks": 7050,
+    "unknown_team_weeks": 3270,
+    "historical_team_unverified_weeks": 7030,
     "confirmed_dst_byes": 20,
     "scoring_team_conflicts": 7
   }

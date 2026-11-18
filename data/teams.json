@@ -1680,6 +1680,55 @@
       "owners": [
         "{63F2CC2E-EF2C-44E3-B0D6-58BE64214A41}"
       ],
+      "pendingTransactions": [
+        {
+          "acceptedDate": 1794941989130,
+          "bidAmount": 0,
+          "executionType": "EXECUTE",
+          "expirationDate": 1795114729301,
+          "id": "280cc0a6-4791-49f0-935a-560b1f566937",
+          "isActingAsTeamOwner": false,
+          "isLeagueManager": false,
+          "isPending": true,
+          "items": [
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 6,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 2991662,
+              "toLineupSlotId": -1,
+              "toTeamId": 2,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 2,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 3054850,
+              "toLineupSlotId": -1,
+              "toTeamId": 6,
+              "type": "TRADE"
+            }
+          ],
+          "memberId": "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}",
+          "processDate": 1795028389130,
+          "proposedDate": 1794941929270,
+          "rating": 0,
+          "scoringPeriodId": 11,
+          "skipTransactionCounters": false,
+          "status": "PENDING",
+          "subOrder": 0,
+          "teamActions": {
+            "6": "ACCEPTED",
+            "2": "ACCEPTED",
+            "1": "APPROVED"
+          },
+          "teamId": 6,
+          "type": "TRADE_ACCEPT"
+        }
+      ],
       "playoffSeed": 3,
       "points": 1122.8400000000001,
       "pointsAdjusted": 0.0,
@@ -1744,11 +1793,11 @@
           "7": 2
         },
         "misc": 0,
-        "moveToActive": 19,
+        "moveToActive": 22,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 0
+        "trades": 1
       },
       "valuesByStat": {
         "128": 0.0,
@@ -1861,7 +1910,8 @@
           "subOrder": 0,
           "teamActions": {
             "3": "ACCEPTED",
-            "4": "ACCEPTED"
+            "4": "ACCEPTED",
+            "1": "APPROVED"
           },
           "teamId": 3,
           "type": "TRADE_ACCEPT"
@@ -2058,7 +2108,8 @@
           "subOrder": 0,
           "teamActions": {
             "3": "ACCEPTED",
-            "4": "ACCEPTED"
+            "4": "ACCEPTED",
+            "1": "APPROVED"
           },
           "teamId": 3,
           "type": "TRADE_ACCEPT"
@@ -2273,7 +2324,7 @@
           "10": 1
         },
         "misc": 0,
-        "moveToActive": 48,
+        "moveToActive": 49,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2348,6 +2399,55 @@
       "owners": [
         "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}"
       ],
+      "pendingTransactions": [
+        {
+          "acceptedDate": 1794941989130,
+          "bidAmount": 0,
+          "executionType": "EXECUTE",
+          "expirationDate": 1795114729301,
+          "id": "280cc0a6-4791-49f0-935a-560b1f566937",
+          "isActingAsTeamOwner": false,
+          "isLeagueManager": false,
+          "isPending": true,
+          "items": [
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 6,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 2991662,
+              "toLineupSlotId": -1,
+              "toTeamId": 2,
+              "type": "TRADE"
+            },
+            {
+              "fromLineupSlotId": 20,
+              "fromTeamId": 2,
+              "isKeeper": false,
+              "overallPickNumber": 0,
+              "playerId": 3054850,
+              "toLineupSlotId": -1,
+              "toTeamId": 6,
+              "type": "TRADE"
+            }
+          ],
+          "memberId": "{D1E8724B-D83D-432F-A79B-F5E5C4C8C4E4}",
+          "processDate": 1795028389130,
+          "proposedDate": 1794941929270,
+          "rating": 0,
+          "scoringPeriodId": 11,
+          "skipTransactionCounters": false,
+          "status": "PENDING",
+          "subOrder": 0,
+          "teamActions": {
+            "6": "ACCEPTED",
+            "2": "ACCEPTED",
+            "1": "APPROVED"
+          },
+          "teamId": 6,
+          "type": "TRADE_ACCEPT"
+        }
+      ],
       "playoffSeed": 7,
       "points": 1097.48,
       "pointsAdjusted": 0.0,
@@ -2420,7 +2520,7 @@
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
-        "trades": 0
+        "trades": 1
       },
       "valuesByStat": {
         "128": 0.0,
@@ -3561,7 +3661,7 @@
           "10": 3
         },
         "misc": 0,
-        "moveToActive": 59,
+        "moveToActive": 60,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,

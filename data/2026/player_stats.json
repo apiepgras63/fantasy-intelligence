@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-17T15:31:50.467470+00:00",
+  "updated_at_utc": "2026-11-18T03:33:22.871744+00:00",
   "player_count": 1062,
   "players": [
     {
@@ -114263,7 +114263,7 @@
       "player_id": 4257188,
       "name": "Charlie Jones",
       "position_id": 3,
-      "team_id": 19,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -179248,7 +179248,7 @@
       "player_id": 4431342,
       "name": "Brennan Presley",
       "position_id": 3,
-      "team_id": 14,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -195341,7 +195341,7 @@
       "name": "Wan'Dale Robinson",
       "position_id": 3,
       "team_id": 10,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "INJURY_RESERVE",
       "stats": [
         {
           "season_id": 2025,
@@ -215608,7 +215608,7 @@
       "name": "Luther Burden III",
       "position_id": 3,
       "team_id": 3,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -216136,7 +216136,7 @@
       "player_id": 4685279,
       "name": "Jaydon Blue",
       "position_id": 2,
-      "team_id": 0,
+      "team_id": 21,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -219995,7 +219995,7 @@
       "player_id": 4685540,
       "name": "Carsen Ryan",
       "position_id": 4,
-      "team_id": 5,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
