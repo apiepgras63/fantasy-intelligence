@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1794904268063,
+    "standingsUpdateDate": 1794990594520,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1794904267896,
+    "waiverLastExecutionDate": 1794990594415,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -1510,7 +1510,8 @@
       "2026-11-04T08:59:25.647+00:00": 8,
       "2026-11-11T08:44:59.561+00:00": 8,
       "2026-11-12T08:57:36.313+00:00": 1,
-      "2026-11-13T08:33:51.849+00:00": 1
+      "2026-11-13T08:33:51.849+00:00": 1,
+      "2026-11-18T08:29:54.415+00:00": 8
     }
   },
   "teams": [
@@ -1655,7 +1656,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 13
+      "waiverRank": 9
     },
     {
       "abbrev": "BL",
@@ -1847,7 +1848,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 12
+      "waiverRank": 8
     },
     {
       "abbrev": "TUG",
@@ -1867,55 +1868,6 @@
       "name": "The Unextraordinary Gentleman ",
       "owners": [
         "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}"
-      ],
-      "pendingTransactions": [
-        {
-          "acceptedDate": 1794908624143,
-          "bidAmount": 0,
-          "executionType": "EXECUTE",
-          "expirationDate": 1795063630074,
-          "id": "e9abaf2f-007a-4a32-8ab9-9afd1e4a35c6",
-          "isActingAsTeamOwner": false,
-          "isLeagueManager": false,
-          "isPending": true,
-          "items": [
-            {
-              "fromLineupSlotId": 4,
-              "fromTeamId": 3,
-              "isKeeper": false,
-              "overallPickNumber": 0,
-              "playerId": 4685472,
-              "toLineupSlotId": -1,
-              "toTeamId": 4,
-              "type": "TRADE"
-            },
-            {
-              "fromLineupSlotId": 20,
-              "fromTeamId": 4,
-              "isKeeper": false,
-              "overallPickNumber": 0,
-              "playerId": 4880281,
-              "toLineupSlotId": -1,
-              "toTeamId": 3,
-              "type": "TRADE"
-            }
-          ],
-          "memberId": "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}",
-          "processDate": 1794995024143,
-          "proposedDate": 1794890830037,
-          "rating": 0,
-          "scoringPeriodId": 10,
-          "skipTransactionCounters": false,
-          "status": "PENDING",
-          "subOrder": 0,
-          "teamActions": {
-            "3": "ACCEPTED",
-            "4": "ACCEPTED",
-            "1": "APPROVED"
-          },
-          "teamId": 3,
-          "type": "TRADE_ACCEPT"
-        }
       ],
       "playoffSeed": 4,
       "points": 994.68,
@@ -1973,8 +1925,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 30,
-        "drops": 30,
+        "acquisitions": 32,
+        "drops": 32,
         "matchupAcquisitionTotals": {
           "2": 3,
           "3": 3,
@@ -1984,10 +1936,11 @@
           "7": 2,
           "8": 4,
           "9": 2,
-          "10": 2
+          "10": 2,
+          "11": 2
         },
         "misc": 0,
-        "moveToActive": 40,
+        "moveToActive": 43,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2041,7 +1994,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 11
+      "waiverRank": 14
     },
     {
       "abbrev": "MGGA",
@@ -2065,55 +2018,6 @@
       "name": "Make Gronk Great Again",
       "owners": [
         "{631B84AB-DCA4-4009-B2F8-E7A347498923}"
-      ],
-      "pendingTransactions": [
-        {
-          "acceptedDate": 1794908624143,
-          "bidAmount": 0,
-          "executionType": "EXECUTE",
-          "expirationDate": 1795063630074,
-          "id": "e9abaf2f-007a-4a32-8ab9-9afd1e4a35c6",
-          "isActingAsTeamOwner": false,
-          "isLeagueManager": false,
-          "isPending": true,
-          "items": [
-            {
-              "fromLineupSlotId": 4,
-              "fromTeamId": 3,
-              "isKeeper": false,
-              "overallPickNumber": 0,
-              "playerId": 4685472,
-              "toLineupSlotId": -1,
-              "toTeamId": 4,
-              "type": "TRADE"
-            },
-            {
-              "fromLineupSlotId": 20,
-              "fromTeamId": 4,
-              "isKeeper": false,
-              "overallPickNumber": 0,
-              "playerId": 4880281,
-              "toLineupSlotId": -1,
-              "toTeamId": 3,
-              "type": "TRADE"
-            }
-          ],
-          "memberId": "{D0316441-74B7-4C4C-B164-4174B7FC4CB1}",
-          "processDate": 1794995024143,
-          "proposedDate": 1794890830037,
-          "rating": 0,
-          "scoringPeriodId": 10,
-          "skipTransactionCounters": false,
-          "status": "PENDING",
-          "subOrder": 0,
-          "teamActions": {
-            "3": "ACCEPTED",
-            "4": "ACCEPTED",
-            "1": "APPROVED"
-          },
-          "teamId": 3,
-          "type": "TRADE_ACCEPT"
-        }
       ],
       "playoffSeed": 9,
       "points": 1120.3200000000002,
@@ -2234,7 +2138,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 6
+      "waiverRank": 5
     },
     {
       "abbrev": "RSB",
@@ -2311,8 +2215,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 12,
-        "drops": 14,
+        "acquisitions": 14,
+        "drops": 16,
         "matchupAcquisitionTotals": {
           "2": 1,
           "3": 1,
@@ -2321,7 +2225,8 @@
           "6": 1,
           "7": 2,
           "9": 2,
-          "10": 1
+          "10": 1,
+          "11": 2
         },
         "misc": 0,
         "moveToActive": 49,
@@ -2378,7 +2283,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 9
+      "waiverRank": 13
     },
     {
       "abbrev": "TBT",
@@ -2504,8 +2409,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 13,
-        "drops": 12,
+        "acquisitions": 14,
+        "drops": 13,
         "matchupAcquisitionTotals": {
           "4": 3,
           "5": 1,
@@ -2513,10 +2418,11 @@
           "7": 2,
           "8": 3,
           "9": 1,
-          "10": 1
+          "10": 1,
+          "11": 1
         },
         "misc": 0,
-        "moveToActive": 45,
+        "moveToActive": 46,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2570,7 +2476,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 8
+      "waiverRank": 10
     },
     {
       "abbrev": "TiR",
@@ -2647,8 +2553,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 14,
-        "drops": 12,
+        "acquisitions": 15,
+        "drops": 13,
         "matchupAcquisitionTotals": {
           "2": 2,
           "3": 3,
@@ -2657,7 +2563,8 @@
           "6": 3,
           "7": 1,
           "9": 2,
-          "10": 1
+          "10": 1,
+          "11": 1
         },
         "misc": 0,
         "moveToActive": 46,
@@ -2714,7 +2621,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 14
+      "waiverRank": 11
     },
     {
       "abbrev": "LTC",
@@ -2860,7 +2767,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 10
+      "waiverRank": 7
     },
     {
       "abbrev": "KTT",
@@ -3002,7 +2909,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 7
+      "waiverRank": 6
     },
     {
       "abbrev": "THs",
@@ -3145,7 +3052,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 5
+      "waiverRank": 4
     },
     {
       "abbrev": "SAS",
@@ -3235,8 +3142,8 @@
           "10": 3
         },
         "misc": 0,
-        "moveToActive": 38,
-        "moveToIR": 2,
+        "moveToActive": 43,
+        "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 2
@@ -3289,7 +3196,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 3
+      "waiverRank": 2
     },
     {
       "abbrev": "UT",
@@ -3569,7 +3476,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 4
+      "waiverRank": 3
     },
     {
       "abbrev": "RMH",
@@ -3650,15 +3557,16 @@
       },
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 11,
-        "drops": 12,
+        "acquisitions": 13,
+        "drops": 14,
         "matchupAcquisitionTotals": {
           "2": 1,
           "3": 2,
           "7": 1,
           "8": 1,
           "9": 3,
-          "10": 3
+          "10": 3,
+          "11": 2
         },
         "misc": 0,
         "moveToActive": 60,
@@ -3715,7 +3623,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 2
+      "waiverRank": 12
     }
   ]
 }
