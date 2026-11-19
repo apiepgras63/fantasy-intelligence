@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1794990594520,
+    "standingsUpdateDate": 1795078141975,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1794990594415,
+    "waiverLastExecutionDate": 1795078141868,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -1511,7 +1511,8 @@
       "2026-11-11T08:44:59.561+00:00": 8,
       "2026-11-12T08:57:36.313+00:00": 1,
       "2026-11-13T08:33:51.849+00:00": 1,
-      "2026-11-18T08:29:54.415+00:00": 8
+      "2026-11-18T08:29:54.415+00:00": 8,
+      "2026-11-19T08:49:01.868+00:00": 1
     }
   },
   "teams": [
@@ -1590,8 +1591,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 18,
-        "drops": 18,
+        "acquisitions": 19,
+        "drops": 19,
         "matchupAcquisitionTotals": {
           "3": 5,
           "4": 4,
@@ -1599,10 +1600,11 @@
           "7": 2,
           "8": 2,
           "9": 1,
-          "10": 1
+          "10": 1,
+          "11": 1
         },
         "misc": 0,
-        "moveToActive": 58,
+        "moveToActive": 59,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1656,7 +1658,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 9
+      "waiverRank": 14
     },
     {
       "abbrev": "BL",
@@ -1945,7 +1947,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 14
+      "waiverRank": 13
     },
     {
       "abbrev": "MGGA",
@@ -2234,7 +2236,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 13
+      "waiverRank": 12
     },
     {
       "abbrev": "TBT",
@@ -2378,7 +2380,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 10
+      "waiverRank": 9
     },
     {
       "abbrev": "TiR",
@@ -2523,7 +2525,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 11
+      "waiverRank": 10
     },
     {
       "abbrev": "LTC",
@@ -3186,7 +3188,7 @@
           "10": 3
         },
         "misc": 0,
-        "moveToActive": 37,
+        "moveToActive": 39,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -3525,7 +3527,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 12
+      "waiverRank": 11
     }
   ]
 }

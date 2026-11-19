@@ -116,15 +116,6 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 4360234,
-          "name": "Evan McPherson",
-          "position_id": 5,
-          "lineup_slot_id": 17,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 4,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": -16025,
           "name": "49ers D/ST",
           "position_id": 16,
@@ -150,6 +141,15 @@
           "injury_status": "ACTIVE",
           "pro_team_id": 18,
           "acquisition_type": "TRADE"
+        },
+        {
+          "player_id": 17427,
+          "name": "Cairo Santos",
+          "position_id": 5,
+          "lineup_slot_id": 17,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 3,
+          "acquisition_type": "ADD"
         }
       ]
     },
@@ -1742,7 +1742,7 @@
           "player_id": 3929630,
           "name": "Saquon Barkley",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 21,
           "acquisition_type": "DRAFT"
@@ -1814,7 +1814,7 @@
           "player_id": 3042519,
           "name": "Aaron Jones Sr.",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 16,
           "acquisition_type": "TRADE"
@@ -1859,7 +1859,7 @@
           "player_id": 4569682,
           "name": "Audric Estime",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 18,
           "acquisition_type": "ADD"
@@ -1877,7 +1877,7 @@
           "player_id": 4035538,
           "name": "David Montgomery",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 34,
           "acquisition_type": "ADD"
