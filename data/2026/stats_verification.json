@@ -1,9 +1,9 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-19T15:38:07.197239+00:00",
+  "updated_at_utc": "2026-11-20T03:31:33.329958+00:00",
   "total_players": 1062,
   "players_with_weekly_stats": 771,
-  "weekly_stat_records": 10713,
+  "weekly_stat_records": 10760,
   "weeks_found": [
     1,
     2,
@@ -14,7 +14,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "weeks_refreshed_this_run": [
     1,
@@ -26,11 +27,11 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
-  "weekly_records_with_points": 6600,
+  "weekly_records_with_points": 6647,
   "week_errors": {
-    "11": "No weekly scores available",
     "12": "No weekly scores available",
     "13": "No weekly scores available",
     "14": "No weekly scores available",
