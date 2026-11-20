@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795078141975,
+    "standingsUpdateDate": 1795162193059,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795078141868,
+    "waiverLastExecutionDate": 1795162192908,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -2818,7 +2818,7 @@
     },
     {
       "abbrev": "THs",
-      "currentProjectedRank": 11,
+      "currentProjectedRank": 10,
       "divisionId": 0,
       "draftDayProjectedRank": 12,
       "draftStrategy": {
@@ -3248,7 +3248,7 @@
     },
     {
       "abbrev": "CCT",
-      "currentProjectedRank": 10,
+      "currentProjectedRank": 11,
       "divisionId": 0,
       "draftDayProjectedRank": 14,
       "eliminated": false,

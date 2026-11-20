@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T03:31:33.329958+00:00",
+  "updated_at_utc": "2026-11-20T15:36:41.449999+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -87,13 +87,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4361741,
-      "name": "Brock Purdy",
+      "player_id": 4432577,
+      "name": "C.J. Stroud",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        8,
-        11
+        8
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -101,12 +100,13 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4432577,
-      "name": "C.J. Stroud",
+      "player_id": 4361741,
+      "name": "Brock Purdy",
       "position": "QB",
-      "recorded_weeks": 10,
+      "recorded_weeks": 9,
       "missing_scoring_weeks": [
-        8
+        8,
+        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -712,6 +712,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4258173,
+      "name": "Nico Collins",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        8
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4426338,
       "name": "Bo Nix",
       "position": "QB",
@@ -746,19 +759,6 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4258173,
-      "name": "Nico Collins",
-      "position": "WR",
-      "recorded_weeks": 10,
-      "missing_scoring_weeks": [
-        8
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2581,6 +2581,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4035538,
+      "name": "David Montgomery",
+      "position": "RB",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        8
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4686612,
       "name": "Tre' Harris",
       "position": "WR",
@@ -2819,19 +2832,6 @@
       "missing_scoring_weeks": [
         10,
         11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4035538,
-      "name": "David Montgomery",
-      "position": "RB",
-      "recorded_weeks": 10,
-      "missing_scoring_weeks": [
-        8
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5349,6 +5349,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4429684,
+      "name": "Anthony Gould",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        1
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4698597,
       "name": "Barion Brown",
       "position": "WR",
@@ -5566,6 +5579,20 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4362478,
+      "name": "Emari Demercado",
+      "position": "RB",
+      "recorded_weeks": 9,
+      "missing_scoring_weeks": [
+        5,
+        8
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4429501,
       "name": "Ray Davis",
       "position": "RB",
@@ -5730,19 +5757,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4429684,
-      "name": "Anthony Gould",
-      "position": "WR",
-      "recorded_weeks": 10,
-      "missing_scoring_weeks": [
-        1
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 3886598,
       "name": "Jauan Jennings",
       "position": "WR",
@@ -5853,20 +5867,6 @@
         3,
         6,
         11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4362478,
-      "name": "Emari Demercado",
-      "position": "RB",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        5,
-        8
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",

@@ -32,10 +32,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795078141975,
+    "standingsUpdateDate": 1795162193059,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795078141868,
+    "waiverLastExecutionDate": 1795162192908,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -688,6 +688,34 @@
       "status": "EXECUTED",
       "teamId": 6,
       "type": "ROSTER"
+    },
+    {
+      "bidAmount": 0,
+      "executionType": "CANCEL",
+      "id": "98315c14-9be0-44b1-bac4-abf6a36db9b7",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": -1,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 4870653,
+          "toLineupSlotId": -1,
+          "toTeamId": 1,
+          "type": "ADD"
+        }
+      ],
+      "memberId": "{CEF3F0DA-C95C-4FF3-8B65-49828ED50BF9}",
+      "proposedDate": 1795148545128,
+      "rating": 0,
+      "relatedTransactionId": "10c66db0-30f2-4578-bdb5-4ca49176815d",
+      "scoringPeriodId": 11,
+      "status": "CANCELED",
+      "teamId": 1,
+      "type": "WAIVER"
     },
     {
       "bidAmount": 0,

@@ -933,7 +933,7 @@
           "name": "Seth McGowan",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "OUT",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 11,
           "acquisition_type": "ADD"
         },
@@ -1710,7 +1710,7 @@
           "name": "Omar Cooper Jr.",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 20,
           "acquisition_type": "ADD"
         },

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T03:31:52.673757+00:00",
+  "updated_at_utc": "2026-11-20T15:36:55.164543+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -32909,6 +32909,225 @@
       },
       "source": "ESPN game injury data",
       "event_id": "401873065"
+    },
+    {
+      "player_id": "4839498",
+      "name": "Keylan Rutledge",
+      "week": 11,
+      "team_id": "34",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Undisclosed",
+        "location": "Other",
+        "detail": "Stinger",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4429022",
+      "name": "Kayshon Boutte",
+      "week": 11,
+      "team_id": "34",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Hip",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "2970204",
+      "name": "Sheldon Rankins",
+      "week": 11,
+      "team_id": "34",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4428989",
+      "name": "Chris Braswell",
+      "week": 11,
+      "team_id": "34",
+      "status": "Doubtful",
+      "type": "doubtful",
+      "details": {
+        "fantasyStatus": {
+          "description": "DOUBTFUL",
+          "abbreviation": "DOUBTFUL",
+          "displayDescription": "Doubtful"
+        },
+        "type": "Knee",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "3045474",
+      "name": "Wyatt Teller",
+      "week": 11,
+      "team_id": "34",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Back",
+        "location": "Torso",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4686468",
+      "name": "Seth McGowan",
+      "week": 11,
+      "team_id": "11",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Hamstring",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4683423",
+      "name": "Riley Leonard",
+      "week": 11,
+      "team_id": "11",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4427250",
+      "name": "Sauce Gardner",
+      "week": 11,
+      "team_id": "11",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Calf",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Left",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "4362580",
+      "name": "Bernhard Raimann",
+      "week": 11,
+      "team_id": "11",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Concussion",
+        "location": "Head",
+        "detail": "Concussion",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
+    },
+    {
+      "player_id": "3863182",
+      "name": "Jerry Tillery",
+      "week": 11,
+      "team_id": "11",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Calf",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873066"
     }
   ],
   "manual_injury_records": [],
@@ -34833,7 +35052,8 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -35906,7 +36126,8 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -36551,7 +36772,8 @@
         3,
         4,
         5,
-        6
+        6,
+        11
       ],
       "needs_review": true
     },
@@ -37978,7 +38200,8 @@
         2,
         3,
         4,
-        5
+        5,
+        11
       ],
       "needs_review": true
     },
@@ -38943,7 +39166,9 @@
         9
       ],
       "injury_evidence": [],
-      "boxscore_listed_weeks": [],
+      "boxscore_listed_weeks": [
+        11
+      ],
       "needs_review": true
     },
     {
@@ -40367,7 +40592,8 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -42008,7 +42234,8 @@
         1,
         2,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -42169,7 +42396,8 @@
       "boxscore_listed_weeks": [
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -42694,7 +42922,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -44769,7 +44998,30 @@
       "missing_scoring_weeks": [
         8
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "4429022",
+          "name": "Kayshon Boutte",
+          "week": 11,
+          "team_id": "34",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Hip",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
+        }
+      ],
       "boxscore_listed_weeks": [
         1,
         2,
@@ -44779,7 +45031,8 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -45530,7 +45783,8 @@
         5,
         6,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -48230,7 +48484,8 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -51824,6 +52079,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873059"
+        },
+        {
+          "player_id": "4683423",
+          "name": "Riley Leonard",
+          "week": 11,
+          "team_id": "11",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
         }
       ],
       "boxscore_listed_weeks": [],
@@ -53402,7 +53679,51 @@
         6,
         7,
         9,
-        10
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4686468",
+      "name": "Seth McGowan",
+      "missing_scoring_weeks": [],
+      "injury_evidence": [
+        {
+          "player_id": "4686468",
+          "name": "Seth McGowan",
+          "week": 11,
+          "team_id": "11",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Hamstring",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
+        }
+      ],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -53787,7 +54108,8 @@
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
-        1
+        1,
+        11
       ],
       "needs_review": true
     },

@@ -35,7 +35,7 @@
       "position": "RB",
       "2026_pick": 4,
       "historical_model_rank": 40,
-      "points": 171.2,
+      "points": 172.6,
       "median": 12.3
     },
     {
@@ -241,9 +241,9 @@
       "name": "Nico Collins",
       "position": "WR",
       "2026_pick": 27,
-      "historical_model_rank": 62,
-      "points": 128.8,
-      "median": 11.85
+      "historical_model_rank": 60,
+      "points": 130.8,
+      "median": 12.85
     },
     {
       "player_id": "4426348",
@@ -277,7 +277,7 @@
       "name": "Javonte Williams",
       "position": "RB",
       "2026_pick": 31,
-      "historical_model_rank": 23,
+      "historical_model_rank": 24,
       "points": 167.3,
       "median": 16.25
     },
@@ -592,7 +592,7 @@
       "name": "Jaylen Warren",
       "position": "RB",
       "2026_pick": 66,
-      "historical_model_rank": 24,
+      "historical_model_rank": 25,
       "points": 149.9,
       "median": 15.6
     },
@@ -601,8 +601,8 @@
       "name": "David Montgomery",
       "position": "RB",
       "2026_pick": 67,
-      "historical_model_rank": 287,
-      "points": 55.6,
+      "historical_model_rank": 280,
+      "points": 60.9,
       "median": 2.7
     },
     {
@@ -655,7 +655,7 @@
       "name": "Jameson Williams",
       "position": "WR",
       "2026_pick": 73,
-      "historical_model_rank": 61,
+      "historical_model_rank": 62,
       "points": 114.7,
       "median": 9.0
     },
@@ -727,7 +727,7 @@
       "name": "Luther Burden III",
       "position": "WR",
       "2026_pick": 81,
-      "historical_model_rank": 22,
+      "historical_model_rank": 23,
       "points": 136.3,
       "median": 17.5
     },
@@ -736,7 +736,7 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "2026_pick": 82,
-      "historical_model_rank": 282,
+      "historical_model_rank": 283,
       "points": 37.5,
       "median": 4.15
     },
@@ -772,7 +772,7 @@
       "name": "Harold Fannin Jr.",
       "position": "TE",
       "2026_pick": 86,
-      "historical_model_rank": 60,
+      "historical_model_rank": 61,
       "points": 118.4,
       "median": 11.95
     },
@@ -790,7 +790,7 @@
       "name": "Alec Pierce",
       "position": "WR",
       "2026_pick": 88,
-      "historical_model_rank": 452,
+      "historical_model_rank": 453,
       "points": 12.2,
       "median": 0.0
     },
@@ -889,7 +889,7 @@
       "name": "Brian Thomas Jr.",
       "position": "WR",
       "2026_pick": 99,
-      "historical_model_rank": 251,
+      "historical_model_rank": 250,
       "points": 39.6,
       "median": 5.9
     },
@@ -952,7 +952,7 @@
       "name": "Jonathon Brooks",
       "position": "RB",
       "2026_pick": 106,
-      "historical_model_rank": 456,
+      "historical_model_rank": 457,
       "points": 9.3,
       "median": 0.0
     },
@@ -1024,7 +1024,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "2026_pick": 114,
-      "historical_model_rank": 247,
+      "historical_model_rank": 246,
       "points": 53.9,
       "median": 4.3
     },
@@ -1069,7 +1069,7 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "2026_pick": 119,
-      "historical_model_rank": 252,
+      "historical_model_rank": 251,
       "points": 44.9,
       "median": 5.3
     },
@@ -1375,7 +1375,7 @@
       "name": "Kenyon Sadiq",
       "position": "TE",
       "2026_pick": 153,
-      "historical_model_rank": 248,
+      "historical_model_rank": 247,
       "points": 56.1,
       "median": 2.7
     },
@@ -1483,7 +1483,7 @@
       "name": "Jerry Jeudy",
       "position": "WR",
       "2026_pick": 165,
-      "historical_model_rank": 256,
+      "historical_model_rank": 255,
       "points": 48.2,
       "median": 5.3
     },
@@ -1537,8 +1537,8 @@
       "name": "Daniel Jones",
       "position": "QB",
       "2026_pick": 171,
-      "historical_model_rank": 206,
-      "points": 89.34,
+      "historical_model_rank": 203,
+      "points": 90.76,
       "median": 7.92
     },
     {
@@ -1555,7 +1555,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "2026_pick": 173,
-      "historical_model_rank": 205,
+      "historical_model_rank": 206,
       "points": 54.9,
       "median": 5.5
     },
@@ -1627,7 +1627,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "2026_pick": 181,
-      "historical_model_rank": 458,
+      "historical_model_rank": 459,
       "points": 12.2,
       "median": 0.8
     },
@@ -1717,9 +1717,9 @@
       "name": "C.J. Stroud",
       "position": "QB",
       "2026_pick": 191,
-      "historical_model_rank": 25,
-      "points": 202.14,
-      "median": 19.05
+      "historical_model_rank": 22,
+      "points": 204.94,
+      "median": 20.45
     },
     {
       "player_id": "15818",
@@ -1978,7 +1978,7 @@
       "name": "Jauan Jennings",
       "position": "WR",
       "2026_pick": 220,
-      "historical_model_rank": 479,
+      "historical_model_rank": 480,
       "points": 11.4,
       "median": 0.0
     },
@@ -1987,7 +1987,7 @@
       "name": "Mike Washington Jr.",
       "position": "RB",
       "2026_pick": 221,
-      "historical_model_rank": 286,
+      "historical_model_rank": 287,
       "points": 41.3,
       "median": 3.2
     },

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T03:31:33.329958+00:00",
+  "updated_at_utc": "2026-11-20T15:36:41.449999+00:00",
   "weeks_examined": [
     1,
     2,
@@ -133,7 +133,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -2778,7 +2778,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -44368,7 +44368,7 @@
       "name": "Ian Thomas",
       "position_id": 4,
       "team_id": 13,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -85580,7 +85580,7 @@
       "name": "Kayshon Boutte",
       "position_id": 3,
       "team_id": 34,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -100305,7 +100305,7 @@
       "name": "Isaiah Williams",
       "position_id": 3,
       "team_id": 20,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -114523,7 +114523,7 @@
       "name": "Seth McGowan",
       "position_id": 2,
       "team_id": 11,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -122072,7 +122072,7 @@
       "name": "Omar Cooper Jr.",
       "position_id": 3,
       "team_id": 20,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,

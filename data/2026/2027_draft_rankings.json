@@ -1,7 +1,7 @@
 {
   "draft_year": 2027,
   "source_season": "2026",
-  "updated_at_utc": "2026-11-20T03:31:52.673757+00:00",
+  "updated_at_utc": "2026-11-20T15:36:55.164543+00:00",
   "status": "preliminary historical rankings",
   "methodology": "Historical fantasy scoring and consistency. Injuries are reported separately. Future performance is not guaranteed.",
   "players": [
@@ -4937,6 +4937,302 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4432577",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team_id": 34,
+      "draft_score": 11.556,
+      "sample_confidence": 0.913,
+      "recorded_weeks": 10,
+      "total_points": 204.94,
+      "average": 20.49,
+      "median": 20.45,
+      "floor": 16.52,
+      "ceiling": 20.94,
+      "standard_deviation": 5.97,
+      "weekly_points": {
+        "1": 16.46,
+        "2": 17.02,
+        "3": 11.68,
+        "4": 23.08,
+        "5": 20.94,
+        "6": 22.98,
+        "7": 16.52,
+        "9": 35.36,
+        "10": 20.44,
+        "11": 20.46
+      },
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "boxscore_listed_games": 10,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872660",
+          "categories": {
+            "passing": {
+              "C/ATT": "26/38",
+              "YDS": "274",
+              "AVG": "7.2",
+              "TD": "2",
+              "INT": "0",
+              "SACKS": "3-17",
+              "QBR": "70.5",
+              "RTG": "106.7"
+            },
+            "rushing": {
+              "CAR": "2",
+              "YDS": "15",
+              "AVG": "7.5",
+              "TD": "0",
+              "LONG": "15"
+            },
+            "fumbles": {
+              "FUM": "2",
+              "LOST": "2",
+              "REC": "0"
+            }
+          }
+        },
+        {
+          "week": 2,
+          "event_id": "401872934",
+          "categories": {
+            "passing": {
+              "C/ATT": "30/55",
+              "YDS": "353",
+              "AVG": "6.4",
+              "TD": "0",
+              "INT": "0",
+              "SACKS": "4-39",
+              "QBR": "49.1",
+              "RTG": "74.3"
+            },
+            "rushing": {
+              "CAR": "3",
+              "YDS": "29",
+              "AVG": "9.7",
+              "TD": "0",
+              "LONG": "14"
+            }
+          }
+        },
+        {
+          "week": 3,
+          "event_id": "401872951",
+          "categories": {
+            "passing": {
+              "C/ATT": "16/27",
+              "YDS": "167",
+              "AVG": "6.2",
+              "TD": "1",
+              "INT": "0",
+              "SACKS": "3-14",
+              "QBR": "50.0",
+              "RTG": "89.6"
+            },
+            "rushing": {
+              "CAR": "2",
+              "YDS": "10",
+              "AVG": "5.0",
+              "TD": "0",
+              "LONG": "8"
+            }
+          }
+        },
+        {
+          "week": 4,
+          "event_id": "401872967",
+          "categories": {
+            "passing": {
+              "C/ATT": "21/31",
+              "YDS": "347",
+              "AVG": "11.2",
+              "TD": "2",
+              "INT": "0",
+              "SACKS": "2-12",
+              "QBR": "62.4",
+              "RTG": "126.7"
+            },
+            "rushing": {
+              "CAR": "2",
+              "YDS": "12",
+              "AVG": "6.0",
+              "TD": "0",
+              "LONG": "9"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872984",
+          "categories": {
+            "passing": {
+              "C/ATT": "26/34",
+              "YDS": "261",
+              "AVG": "7.7",
+              "TD": "1",
+              "INT": "0",
+              "SACKS": "2-11",
+              "QBR": "65.5",
+              "RTG": "107.6"
+            },
+            "rushing": {
+              "CAR": "6",
+              "YDS": "5",
+              "AVG": "0.8",
+              "TD": "1",
+              "LONG": "2"
+            },
+            "fumbles": {
+              "FUM": "1",
+              "LOST": "0",
+              "REC": "1"
+            }
+          }
+        },
+        {
+          "week": 6,
+          "event_id": "401872996",
+          "categories": {
+            "passing": {
+              "C/ATT": "24/34",
+              "YDS": "312",
+              "AVG": "9.2",
+              "TD": "3",
+              "INT": "1",
+              "SACKS": "0-0",
+              "QBR": "96.2",
+              "RTG": "116.3"
+            },
+            "rushing": {
+              "CAR": "1",
+              "YDS": "5",
+              "AVG": "5.0",
+              "TD": "0",
+              "LONG": "5"
+            }
+          }
+        },
+        {
+          "week": 7,
+          "event_id": "401873016",
+          "categories": {
+            "passing": {
+              "C/ATT": "17/28",
+              "YDS": "153",
+              "AVG": "5.5",
+              "TD": "2",
+              "INT": "0",
+              "SACKS": "1-0",
+              "QBR": "79.6",
+              "RTG": "99.3"
+            },
+            "rushing": {
+              "CAR": "2",
+              "YDS": "4",
+              "AVG": "2.0",
+              "TD": "0",
+              "LONG": "2"
+            }
+          }
+        },
+        {
+          "week": 9,
+          "event_id": "401873046",
+          "categories": {
+            "passing": {
+              "C/ATT": "21/35",
+              "YDS": "384",
+              "AVG": "11.0",
+              "TD": "5",
+              "INT": "1",
+              "SACKS": "1-10",
+              "QBR": "89.8",
+              "RTG": "125.5"
+            },
+            "rushing": {
+              "CAR": "2",
+              "YDS": "20",
+              "AVG": "10.0",
+              "TD": "0",
+              "LONG": "12"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873056",
+          "categories": {
+            "passing": {
+              "C/ATT": "20/38",
+              "YDS": "211",
+              "AVG": "5.6",
+              "TD": "3",
+              "INT": "1",
+              "SACKS": "1-9",
+              "QBR": "68.8",
+              "RTG": "84.4"
+            },
+            "rushing": {
+              "CAR": "3",
+              "YDS": "20",
+              "AVG": "6.7",
+              "TD": "0",
+              "LONG": "11"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "passing": {
+              "C/ATT": "21/27",
+              "YDS": "194",
+              "AVG": "7.2",
+              "TD": "3",
+              "INT": "1",
+              "SACKS": "1-7",
+              "QBR": "79.8",
+              "RTG": "118.2"
+            },
+            "rushing": {
+              "CAR": "6",
+              "YDS": "27",
+              "AVG": "4.5",
+              "TD": "0",
+              "LONG": "26"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        8
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": 191,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 22,
+      "position_rank": 4,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "4685278",
       "name": "Luther Burden III",
       "position": "WR",
@@ -5375,7 +5671,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 22,
+      "overall_rank": 23,
       "position_rank": 9,
       "adp_value_gap": null
     },
@@ -5648,7 +5944,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 23,
+      "overall_rank": 24,
       "position_rank": 9,
       "adp_value_gap": null
     },
@@ -5907,280 +6203,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 24,
-      "position_rank": 10,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4432577",
-      "name": "C.J. Stroud",
-      "position": "QB",
-      "team_id": 34,
-      "draft_score": 10.99,
-      "sample_confidence": 0.913,
-      "recorded_weeks": 10,
-      "total_points": 202.14,
-      "average": 20.21,
-      "median": 19.05,
-      "floor": 16.52,
-      "ceiling": 20.94,
-      "standard_deviation": 6.03,
-      "weekly_points": {
-        "1": 16.46,
-        "2": 17.02,
-        "3": 11.68,
-        "4": 23.08,
-        "5": 20.94,
-        "6": 22.98,
-        "7": 16.52,
-        "9": 35.36,
-        "10": 20.44,
-        "11": 17.66
-      },
-      "boxscore_listed_weeks": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        9,
-        10
-      ],
-      "boxscore_listed_games": 9,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872660",
-          "categories": {
-            "passing": {
-              "C/ATT": "26/38",
-              "YDS": "274",
-              "AVG": "7.2",
-              "TD": "2",
-              "INT": "0",
-              "SACKS": "3-17",
-              "QBR": "70.5",
-              "RTG": "106.7"
-            },
-            "rushing": {
-              "CAR": "2",
-              "YDS": "15",
-              "AVG": "7.5",
-              "TD": "0",
-              "LONG": "15"
-            },
-            "fumbles": {
-              "FUM": "2",
-              "LOST": "2",
-              "REC": "0"
-            }
-          }
-        },
-        {
-          "week": 2,
-          "event_id": "401872934",
-          "categories": {
-            "passing": {
-              "C/ATT": "30/55",
-              "YDS": "353",
-              "AVG": "6.4",
-              "TD": "0",
-              "INT": "0",
-              "SACKS": "4-39",
-              "QBR": "49.1",
-              "RTG": "74.3"
-            },
-            "rushing": {
-              "CAR": "3",
-              "YDS": "29",
-              "AVG": "9.7",
-              "TD": "0",
-              "LONG": "14"
-            }
-          }
-        },
-        {
-          "week": 3,
-          "event_id": "401872951",
-          "categories": {
-            "passing": {
-              "C/ATT": "16/27",
-              "YDS": "167",
-              "AVG": "6.2",
-              "TD": "1",
-              "INT": "0",
-              "SACKS": "3-14",
-              "QBR": "50.0",
-              "RTG": "89.6"
-            },
-            "rushing": {
-              "CAR": "2",
-              "YDS": "10",
-              "AVG": "5.0",
-              "TD": "0",
-              "LONG": "8"
-            }
-          }
-        },
-        {
-          "week": 4,
-          "event_id": "401872967",
-          "categories": {
-            "passing": {
-              "C/ATT": "21/31",
-              "YDS": "347",
-              "AVG": "11.2",
-              "TD": "2",
-              "INT": "0",
-              "SACKS": "2-12",
-              "QBR": "62.4",
-              "RTG": "126.7"
-            },
-            "rushing": {
-              "CAR": "2",
-              "YDS": "12",
-              "AVG": "6.0",
-              "TD": "0",
-              "LONG": "9"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872984",
-          "categories": {
-            "passing": {
-              "C/ATT": "26/34",
-              "YDS": "261",
-              "AVG": "7.7",
-              "TD": "1",
-              "INT": "0",
-              "SACKS": "2-11",
-              "QBR": "65.5",
-              "RTG": "107.6"
-            },
-            "rushing": {
-              "CAR": "6",
-              "YDS": "5",
-              "AVG": "0.8",
-              "TD": "1",
-              "LONG": "2"
-            },
-            "fumbles": {
-              "FUM": "1",
-              "LOST": "0",
-              "REC": "1"
-            }
-          }
-        },
-        {
-          "week": 6,
-          "event_id": "401872996",
-          "categories": {
-            "passing": {
-              "C/ATT": "24/34",
-              "YDS": "312",
-              "AVG": "9.2",
-              "TD": "3",
-              "INT": "1",
-              "SACKS": "0-0",
-              "QBR": "96.2",
-              "RTG": "116.3"
-            },
-            "rushing": {
-              "CAR": "1",
-              "YDS": "5",
-              "AVG": "5.0",
-              "TD": "0",
-              "LONG": "5"
-            }
-          }
-        },
-        {
-          "week": 7,
-          "event_id": "401873016",
-          "categories": {
-            "passing": {
-              "C/ATT": "17/28",
-              "YDS": "153",
-              "AVG": "5.5",
-              "TD": "2",
-              "INT": "0",
-              "SACKS": "1-0",
-              "QBR": "79.6",
-              "RTG": "99.3"
-            },
-            "rushing": {
-              "CAR": "2",
-              "YDS": "4",
-              "AVG": "2.0",
-              "TD": "0",
-              "LONG": "2"
-            }
-          }
-        },
-        {
-          "week": 9,
-          "event_id": "401873046",
-          "categories": {
-            "passing": {
-              "C/ATT": "21/35",
-              "YDS": "384",
-              "AVG": "11.0",
-              "TD": "5",
-              "INT": "1",
-              "SACKS": "1-10",
-              "QBR": "89.8",
-              "RTG": "125.5"
-            },
-            "rushing": {
-              "CAR": "2",
-              "YDS": "20",
-              "AVG": "10.0",
-              "TD": "0",
-              "LONG": "12"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873056",
-          "categories": {
-            "passing": {
-              "C/ATT": "20/38",
-              "YDS": "211",
-              "AVG": "5.6",
-              "TD": "3",
-              "INT": "1",
-              "SACKS": "1-9",
-              "QBR": "68.8",
-              "RTG": "84.4"
-            },
-            "rushing": {
-              "CAR": "3",
-              "YDS": "20",
-              "AVG": "6.7",
-              "TD": "0",
-              "LONG": "11"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        8
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": 191,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
       "overall_rank": 25,
-      "position_rank": 4,
+      "position_rank": 10,
       "adp_value_gap": null
     },
     {
@@ -10042,15 +10066,15 @@
       "name": "Jonathan Taylor",
       "position": "RB",
       "team_id": 11,
-      "draft_score": 9.332,
+      "draft_score": 9.392,
       "sample_confidence": 0.957,
       "recorded_weeks": 11,
-      "total_points": 171.2,
-      "average": 15.56,
+      "total_points": 172.6,
+      "average": 15.69,
       "median": 12.3,
       "floor": 9.2,
       "ceiling": 21.1,
-      "standard_deviation": 7.76,
+      "standard_deviation": 7.6,
       "weekly_points": {
         "1": 25.1,
         "2": 29.2,
@@ -10062,7 +10086,7 @@
         "8": 6.7,
         "9": 9.4,
         "10": 12.3,
-        "11": 5.3
+        "11": 6.7
       },
       "boxscore_listed_weeks": [
         1,
@@ -10074,9 +10098,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 10,
+      "boxscore_listed_games": 11,
       "weekly_usage": [
         {
           "week": 1,
@@ -10315,6 +10340,27 @@
               "FUM": "1",
               "LOST": "0",
               "REC": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "rushing": {
+              "CAR": "11",
+              "YDS": "21",
+              "AVG": "1.9",
+              "TD": "0",
+              "LONG": "6"
+            },
+            "receiving": {
+              "REC": "4",
+              "YDS": "6",
+              "AVG": "1.5",
+              "TD": "0",
+              "LONG": "5",
+              "TGTS": "5"
             }
           }
         }
@@ -15271,6 +15317,186 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4258173",
+      "name": "Nico Collins",
+      "position": "WR",
+      "team_id": 34,
+      "draft_score": 6.639,
+      "sample_confidence": 0.913,
+      "recorded_weeks": 10,
+      "total_points": 130.8,
+      "average": 13.08,
+      "median": 12.85,
+      "floor": 2.6,
+      "ceiling": 15.5,
+      "standard_deviation": 9.9,
+      "weekly_points": {
+        "1": 21.2,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 30.8,
+        "5": 10.6,
+        "6": 10.9,
+        "7": 2.6,
+        "9": 15.5,
+        "10": 24.4,
+        "11": 14.8
+      },
+      "boxscore_listed_weeks": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "boxscore_listed_games": 8,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872660",
+          "categories": {
+            "rushing": {
+              "CAR": "1",
+              "YDS": "7",
+              "AVG": "7.0",
+              "TD": "0",
+              "LONG": "7"
+            },
+            "receiving": {
+              "REC": "7",
+              "YDS": "75",
+              "AVG": "10.7",
+              "TD": "1",
+              "LONG": "25",
+              "TGTS": "10"
+            }
+          }
+        },
+        {
+          "week": 4,
+          "event_id": "401872967",
+          "categories": {
+            "receiving": {
+              "REC": "7",
+              "YDS": "118",
+              "AVG": "16.9",
+              "TD": "2",
+              "LONG": "45",
+              "TGTS": "8"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872984",
+          "categories": {
+            "receiving": {
+              "REC": "5",
+              "YDS": "56",
+              "AVG": "11.2",
+              "TD": "0",
+              "LONG": "20",
+              "TGTS": "7"
+            }
+          }
+        },
+        {
+          "week": 6,
+          "event_id": "401872996",
+          "categories": {
+            "rushing": {
+              "CAR": "1",
+              "YDS": "5",
+              "AVG": "5.0",
+              "TD": "0",
+              "LONG": "5"
+            },
+            "receiving": {
+              "REC": "3",
+              "YDS": "74",
+              "AVG": "24.7",
+              "TD": "0",
+              "LONG": "42",
+              "TGTS": "5"
+            }
+          }
+        },
+        {
+          "week": 7,
+          "event_id": "401873016",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "6",
+              "AVG": "3.0",
+              "TD": "0",
+              "LONG": "4",
+              "TGTS": "5"
+            }
+          }
+        },
+        {
+          "week": 9,
+          "event_id": "401873046",
+          "categories": {
+            "receiving": {
+              "REC": "4",
+              "YDS": "55",
+              "AVG": "13.8",
+              "TD": "1",
+              "LONG": "19",
+              "TGTS": "4"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873056",
+          "categories": {
+            "receiving": {
+              "REC": "9",
+              "YDS": "94",
+              "AVG": "10.4",
+              "TD": "1",
+              "LONG": "22",
+              "TGTS": "16"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "3",
+              "YDS": "58",
+              "AVG": "19.3",
+              "TD": "1",
+              "LONG": "42",
+              "TGTS": "5"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        8
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": 27,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 60,
+      "position_rank": 19,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "5083076",
       "name": "Harold Fannin Jr.",
       "position": "TE",
@@ -15472,7 +15698,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 60,
+      "overall_rank": 61,
       "position_rank": 6,
       "adp_value_gap": null
     },
@@ -15670,171 +15896,6 @@
       "injury_absences_confirmed": null,
       "games_missed_confirmed": null,
       "2026_draft_pick": 73,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 61,
-      "position_rank": 19,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4258173",
-      "name": "Nico Collins",
-      "position": "WR",
-      "team_id": 34,
-      "draft_score": 6.187,
-      "sample_confidence": 0.913,
-      "recorded_weeks": 10,
-      "total_points": 128.8,
-      "average": 12.88,
-      "median": 11.85,
-      "floor": 2.6,
-      "ceiling": 15.5,
-      "standard_deviation": 9.88,
-      "weekly_points": {
-        "1": 21.2,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 30.8,
-        "5": 10.6,
-        "6": 10.9,
-        "7": 2.6,
-        "9": 15.5,
-        "10": 24.4,
-        "11": 12.8
-      },
-      "boxscore_listed_weeks": [
-        1,
-        4,
-        5,
-        6,
-        7,
-        9,
-        10
-      ],
-      "boxscore_listed_games": 7,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872660",
-          "categories": {
-            "rushing": {
-              "CAR": "1",
-              "YDS": "7",
-              "AVG": "7.0",
-              "TD": "0",
-              "LONG": "7"
-            },
-            "receiving": {
-              "REC": "7",
-              "YDS": "75",
-              "AVG": "10.7",
-              "TD": "1",
-              "LONG": "25",
-              "TGTS": "10"
-            }
-          }
-        },
-        {
-          "week": 4,
-          "event_id": "401872967",
-          "categories": {
-            "receiving": {
-              "REC": "7",
-              "YDS": "118",
-              "AVG": "16.9",
-              "TD": "2",
-              "LONG": "45",
-              "TGTS": "8"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872984",
-          "categories": {
-            "receiving": {
-              "REC": "5",
-              "YDS": "56",
-              "AVG": "11.2",
-              "TD": "0",
-              "LONG": "20",
-              "TGTS": "7"
-            }
-          }
-        },
-        {
-          "week": 6,
-          "event_id": "401872996",
-          "categories": {
-            "rushing": {
-              "CAR": "1",
-              "YDS": "5",
-              "AVG": "5.0",
-              "TD": "0",
-              "LONG": "5"
-            },
-            "receiving": {
-              "REC": "3",
-              "YDS": "74",
-              "AVG": "24.7",
-              "TD": "0",
-              "LONG": "42",
-              "TGTS": "5"
-            }
-          }
-        },
-        {
-          "week": 7,
-          "event_id": "401873016",
-          "categories": {
-            "receiving": {
-              "REC": "2",
-              "YDS": "6",
-              "AVG": "3.0",
-              "TD": "0",
-              "LONG": "4",
-              "TGTS": "5"
-            }
-          }
-        },
-        {
-          "week": 9,
-          "event_id": "401873046",
-          "categories": {
-            "receiving": {
-              "REC": "4",
-              "YDS": "55",
-              "AVG": "13.8",
-              "TD": "1",
-              "LONG": "19",
-              "TGTS": "4"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873056",
-          "categories": {
-            "receiving": {
-              "REC": "9",
-              "YDS": "94",
-              "AVG": "10.4",
-              "TD": "1",
-              "LONG": "22",
-              "TGTS": "16"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        8
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": 27,
       "expert_rankings": [],
       "average_expert_rank": null,
       "average_adp": null,
@@ -26132,9 +26193,10 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 9,
+      "boxscore_listed_games": 10,
       "weekly_usage": [
         {
           "week": 1,
@@ -26299,6 +26361,20 @@
               "TD": "1",
               "LONG": "29",
               "TGTS": "9"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "13",
+              "AVG": "6.5",
+              "TD": "0",
+              "LONG": "11",
+              "TGTS": "3"
             }
           }
         }
@@ -26964,9 +27040,10 @@
         5,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 8,
+      "boxscore_listed_games": 9,
       "weekly_usage": [
         {
           "week": 1,
@@ -27105,6 +27182,20 @@
               "TD": "0",
               "LONG": "2",
               "TGTS": "3"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "1",
+              "YDS": "22",
+              "AVG": "22.0",
+              "TD": "0",
+              "LONG": "22",
+              "TGTS": "5"
             }
           }
         }
@@ -27601,9 +27692,10 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 9,
+      "boxscore_listed_games": 10,
       "weekly_usage": [
         {
           "week": 1,
@@ -27746,6 +27838,20 @@
               "PD": "0",
               "QB HTS": "0",
               "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "1",
+              "YDS": "11",
+              "AVG": "11.0",
+              "TD": "0",
+              "LONG": "11",
+              "TGTS": "1"
             }
           }
         }
@@ -28199,9 +28305,10 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 9,
+      "boxscore_listed_games": 10,
       "weekly_usage": [
         {
           "week": 1,
@@ -28342,6 +28449,19 @@
               "FG": "1/1",
               "PCT": "100.0",
               "LONG": "45",
+              "XP": "3/3",
+              "PTS": "6"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "kicking": {
+              "FG": "1/1",
+              "PCT": "100.0",
+              "LONG": "27",
               "XP": "3/3",
               "PTS": "6"
             }
@@ -30260,9 +30380,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 10,
+      "boxscore_listed_games": 11,
       "weekly_usage": [
         {
           "week": 1,
@@ -30418,6 +30539,19 @@
               "LONG": "51",
               "XP": "3/3",
               "PTS": "6"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "kicking": {
+              "FG": "1/3",
+              "PCT": "33.3",
+              "LONG": "34",
+              "XP": "0/0",
+              "PTS": "3"
             }
           }
         }
@@ -41989,9 +42123,10 @@
         6,
         7,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 9,
+      "boxscore_listed_games": 10,
       "weekly_usage": [
         {
           "week": 1,
@@ -42118,9 +42253,46 @@
               "TGTS": "1"
             }
           }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "40",
+              "AVG": "20.0",
+              "TD": "1",
+              "LONG": "24",
+              "TGTS": "2"
+            }
+          }
         }
       ],
-      "injury_records": [],
+      "injury_records": [
+        {
+          "player_id": "4429022",
+          "name": "Kayshon Boutte",
+          "week": 11,
+          "team_id": "34",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Hip",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
+        }
+      ],
       "missing_scoring_weeks": [
         8
       ],
@@ -43379,415 +43551,19 @@
       "adp_value_gap": null
     },
     {
-      "player_id": "-16025",
-      "name": "49ers D/ST",
-      "position": "D/ST",
-      "team_id": 25,
-      "draft_score": 1.189,
-      "sample_confidence": 0.866,
-      "recorded_weeks": 9,
-      "total_points": 67.0,
-      "average": 7.44,
-      "median": 5.0,
-      "floor": 1.0,
-      "ceiling": 9.0,
-      "standard_deviation": 7.27,
-      "weekly_points": {
-        "1": 9.0,
-        "2": 9.0,
-        "3": 0.0,
-        "4": 5.0,
-        "5": 20.0,
-        "6": 5.0,
-        "7": 1.0,
-        "9": 19.0,
-        "10": -1.0
-      },
-      "boxscore_listed_weeks": [],
-      "boxscore_listed_games": 0,
-      "weekly_usage": [],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        8,
-        11
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 203,
-      "position_rank": 14,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4243371",
-      "name": "Riley Patterson",
-      "position": "K",
-      "team_id": 33,
-      "draft_score": 1.183,
-      "sample_confidence": 0.707,
-      "recorded_weeks": 6,
-      "total_points": 33.0,
-      "average": 5.5,
-      "median": 5.0,
-      "floor": 4.0,
-      "ceiling": 6.0,
-      "standard_deviation": 1.61,
-      "weekly_points": {
-        "1": 7.0,
-        "2": 6.0,
-        "3": 4.0,
-        "4": 4.0,
-        "5": 4.0,
-        "10": 8.0
-      },
-      "boxscore_listed_weeks": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        10
-      ],
-      "boxscore_listed_games": 6,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872928",
-          "categories": {
-            "defensive": {
-              "TOT": "2",
-              "SOLO": "2",
-              "SACKS": "0",
-              "TFL": "0",
-              "PD": "0",
-              "QB HTS": "0",
-              "TD": "0"
-            },
-            "kicking": {
-              "FG": "2/3",
-              "PCT": "66.7",
-              "LONG": "41",
-              "XP": "1/1",
-              "PTS": "7"
-            }
-          }
-        },
-        {
-          "week": 2,
-          "event_id": "401872942",
-          "categories": {
-            "kicking": {
-              "FG": "2/3",
-              "PCT": "66.7",
-              "LONG": "28",
-              "XP": "1/1",
-              "PTS": "7"
-            }
-          }
-        },
-        {
-          "week": 3,
-          "event_id": "401872952",
-          "categories": {
-            "defensive": {
-              "TOT": "1",
-              "SOLO": "0",
-              "SACKS": "0",
-              "TFL": "0",
-              "PD": "0",
-              "QB HTS": "0",
-              "TD": "0"
-            },
-            "kicking": {
-              "FG": "1/1",
-              "PCT": "100.0",
-              "LONG": "37",
-              "XP": "1/1",
-              "PTS": "4"
-            }
-          }
-        },
-        {
-          "week": 4,
-          "event_id": "401872974",
-          "categories": {
-            "kicking": {
-              "FG": "1/1",
-              "PCT": "100.0",
-              "LONG": "27",
-              "XP": "1/1",
-              "PTS": "4"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872982",
-          "categories": {
-            "kicking": {
-              "FG": "1/1",
-              "PCT": "100.0",
-              "LONG": "29",
-              "XP": "1/2",
-              "PTS": "4"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873065",
-          "categories": {
-            "kicking": {
-              "FG": "2/2",
-              "PCT": "100.0",
-              "LONG": "36",
-              "XP": "2/2",
-              "PTS": "8"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        6,
-        7,
-        8,
-        9,
-        11
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 204,
-      "position_rank": 33,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4362619",
-      "name": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "team_id": 30,
-      "draft_score": 1.172,
-      "sample_confidence": 0.866,
-      "recorded_weeks": 9,
-      "total_points": 54.9,
-      "average": 6.1,
-      "median": 5.5,
-      "floor": 2.1,
-      "ceiling": 9.7,
-      "standard_deviation": 4.48,
-      "weekly_points": {
-        "1": 2.3,
-        "2": 1.3,
-        "3": 9.7,
-        "4": 9.5,
-        "5": 2.1,
-        "6": 5.5,
-        "8": 12.8,
-        "9": 11.2,
-        "10": 0.5
-      },
-      "boxscore_listed_weeks": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        8,
-        9,
-        10
-      ],
-      "boxscore_listed_games": 9,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872922",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "23",
-              "AVG": "3.8",
-              "TD": "0",
-              "LONG": "8"
-            }
-          }
-        },
-        {
-          "week": 2,
-          "event_id": "401872940",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "13",
-              "AVG": "2.2",
-              "TD": "0",
-              "LONG": "7"
-            }
-          }
-        },
-        {
-          "week": 3,
-          "event_id": "401872957",
-          "categories": {
-            "rushing": {
-              "CAR": "8",
-              "YDS": "37",
-              "AVG": "4.6",
-              "TD": "1",
-              "LONG": "9"
-            }
-          }
-        },
-        {
-          "week": 4,
-          "event_id": "401872969",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "35",
-              "AVG": "5.8",
-              "TD": "1",
-              "LONG": "25"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872981",
-          "categories": {
-            "rushing": {
-              "CAR": "2",
-              "YDS": "5",
-              "AVG": "2.5",
-              "TD": "0",
-              "LONG": "5"
-            },
-            "receiving": {
-              "REC": "1",
-              "YDS": "6",
-              "AVG": "6.0",
-              "TD": "0",
-              "LONG": "6",
-              "TGTS": "1"
-            }
-          }
-        },
-        {
-          "week": 6,
-          "event_id": "401872996",
-          "categories": {
-            "rushing": {
-              "CAR": "11",
-              "YDS": "55",
-              "AVG": "5.0",
-              "TD": "0",
-              "LONG": "14"
-            },
-            "receiving": {
-              "REC": "0",
-              "YDS": "0",
-              "AVG": "0.0",
-              "TD": "0",
-              "LONG": "0",
-              "TGTS": "1"
-            }
-          }
-        },
-        {
-          "week": 8,
-          "event_id": "401873028",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "41",
-              "AVG": "6.8",
-              "TD": "1",
-              "LONG": "28"
-            },
-            "receiving": {
-              "REC": "1",
-              "YDS": "17",
-              "AVG": "17.0",
-              "TD": "0",
-              "LONG": "17",
-              "TGTS": "1"
-            }
-          }
-        },
-        {
-          "week": 9,
-          "event_id": "401873037",
-          "categories": {
-            "rushing": {
-              "CAR": "10",
-              "YDS": "19",
-              "AVG": "1.9",
-              "TD": "1",
-              "LONG": "5"
-            },
-            "receiving": {
-              "REC": "2",
-              "YDS": "13",
-              "AVG": "6.5",
-              "TD": "0",
-              "LONG": "8",
-              "TGTS": "2"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873057",
-          "categories": {
-            "rushing": {
-              "CAR": "4",
-              "YDS": "5",
-              "AVG": "1.3",
-              "TD": "0",
-              "LONG": "6"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        7,
-        11
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": 173,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 205,
-      "position_rank": 37,
-      "adp_value_gap": null
-    },
-    {
       "player_id": "3917792",
       "name": "Daniel Jones",
       "position": "QB",
       "team_id": 11,
-      "draft_score": 1.165,
+      "draft_score": 1.204,
       "sample_confidence": 0.957,
       "recorded_weeks": 11,
-      "total_points": 89.34,
-      "average": 8.12,
+      "total_points": 90.76,
+      "average": 8.25,
       "median": 7.92,
       "floor": 5.22,
       "ceiling": 10.3,
-      "standard_deviation": 3.28,
+      "standard_deviation": 3.09,
       "weekly_points": {
         "1": 9.04,
         "2": 11.4,
@@ -43799,7 +43575,7 @@
         "8": 6.46,
         "9": 10.3,
         "10": 5.22,
-        "11": 2.64
+        "11": 4.06
       },
       "boxscore_listed_weeks": [
         1,
@@ -43811,9 +43587,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 10,
+      "boxscore_listed_games": 11,
       "weekly_usage": [
         {
           "week": 1,
@@ -44068,6 +43845,29 @@
               "REC": "1"
             }
           }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "passing": {
+              "C/ATT": "12/27",
+              "YDS": "144",
+              "AVG": "5.3",
+              "TD": "0",
+              "INT": "1",
+              "SACKS": "2-15",
+              "QBR": "14.0",
+              "RTG": "45.9"
+            },
+            "rushing": {
+              "CAR": "1",
+              "YDS": "3",
+              "AVG": "3.0",
+              "TD": "0",
+              "LONG": "3"
+            }
+          }
         }
       ],
       "injury_records": [],
@@ -44079,8 +43879,404 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 206,
+      "overall_rank": 203,
       "position_rank": 29,
+      "adp_value_gap": null
+    },
+    {
+      "player_id": "-16025",
+      "name": "49ers D/ST",
+      "position": "D/ST",
+      "team_id": 25,
+      "draft_score": 1.189,
+      "sample_confidence": 0.866,
+      "recorded_weeks": 9,
+      "total_points": 67.0,
+      "average": 7.44,
+      "median": 5.0,
+      "floor": 1.0,
+      "ceiling": 9.0,
+      "standard_deviation": 7.27,
+      "weekly_points": {
+        "1": 9.0,
+        "2": 9.0,
+        "3": 0.0,
+        "4": 5.0,
+        "5": 20.0,
+        "6": 5.0,
+        "7": 1.0,
+        "9": 19.0,
+        "10": -1.0
+      },
+      "boxscore_listed_weeks": [],
+      "boxscore_listed_games": 0,
+      "weekly_usage": [],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        8,
+        11
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 204,
+      "position_rank": 14,
+      "adp_value_gap": null
+    },
+    {
+      "player_id": "4243371",
+      "name": "Riley Patterson",
+      "position": "K",
+      "team_id": 33,
+      "draft_score": 1.183,
+      "sample_confidence": 0.707,
+      "recorded_weeks": 6,
+      "total_points": 33.0,
+      "average": 5.5,
+      "median": 5.0,
+      "floor": 4.0,
+      "ceiling": 6.0,
+      "standard_deviation": 1.61,
+      "weekly_points": {
+        "1": 7.0,
+        "2": 6.0,
+        "3": 4.0,
+        "4": 4.0,
+        "5": 4.0,
+        "10": 8.0
+      },
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10
+      ],
+      "boxscore_listed_games": 6,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872928",
+          "categories": {
+            "defensive": {
+              "TOT": "2",
+              "SOLO": "2",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
+              "TD": "0"
+            },
+            "kicking": {
+              "FG": "2/3",
+              "PCT": "66.7",
+              "LONG": "41",
+              "XP": "1/1",
+              "PTS": "7"
+            }
+          }
+        },
+        {
+          "week": 2,
+          "event_id": "401872942",
+          "categories": {
+            "kicking": {
+              "FG": "2/3",
+              "PCT": "66.7",
+              "LONG": "28",
+              "XP": "1/1",
+              "PTS": "7"
+            }
+          }
+        },
+        {
+          "week": 3,
+          "event_id": "401872952",
+          "categories": {
+            "defensive": {
+              "TOT": "1",
+              "SOLO": "0",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
+              "TD": "0"
+            },
+            "kicking": {
+              "FG": "1/1",
+              "PCT": "100.0",
+              "LONG": "37",
+              "XP": "1/1",
+              "PTS": "4"
+            }
+          }
+        },
+        {
+          "week": 4,
+          "event_id": "401872974",
+          "categories": {
+            "kicking": {
+              "FG": "1/1",
+              "PCT": "100.0",
+              "LONG": "27",
+              "XP": "1/1",
+              "PTS": "4"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872982",
+          "categories": {
+            "kicking": {
+              "FG": "1/1",
+              "PCT": "100.0",
+              "LONG": "29",
+              "XP": "1/2",
+              "PTS": "4"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873065",
+          "categories": {
+            "kicking": {
+              "FG": "2/2",
+              "PCT": "100.0",
+              "LONG": "36",
+              "XP": "2/2",
+              "PTS": "8"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 205,
+      "position_rank": 33,
+      "adp_value_gap": null
+    },
+    {
+      "player_id": "4362619",
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team_id": 30,
+      "draft_score": 1.172,
+      "sample_confidence": 0.866,
+      "recorded_weeks": 9,
+      "total_points": 54.9,
+      "average": 6.1,
+      "median": 5.5,
+      "floor": 2.1,
+      "ceiling": 9.7,
+      "standard_deviation": 4.48,
+      "weekly_points": {
+        "1": 2.3,
+        "2": 1.3,
+        "3": 9.7,
+        "4": 9.5,
+        "5": 2.1,
+        "6": 5.5,
+        "8": 12.8,
+        "9": 11.2,
+        "10": 0.5
+      },
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "boxscore_listed_games": 9,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872922",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "23",
+              "AVG": "3.8",
+              "TD": "0",
+              "LONG": "8"
+            }
+          }
+        },
+        {
+          "week": 2,
+          "event_id": "401872940",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "13",
+              "AVG": "2.2",
+              "TD": "0",
+              "LONG": "7"
+            }
+          }
+        },
+        {
+          "week": 3,
+          "event_id": "401872957",
+          "categories": {
+            "rushing": {
+              "CAR": "8",
+              "YDS": "37",
+              "AVG": "4.6",
+              "TD": "1",
+              "LONG": "9"
+            }
+          }
+        },
+        {
+          "week": 4,
+          "event_id": "401872969",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "35",
+              "AVG": "5.8",
+              "TD": "1",
+              "LONG": "25"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872981",
+          "categories": {
+            "rushing": {
+              "CAR": "2",
+              "YDS": "5",
+              "AVG": "2.5",
+              "TD": "0",
+              "LONG": "5"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "6",
+              "AVG": "6.0",
+              "TD": "0",
+              "LONG": "6",
+              "TGTS": "1"
+            }
+          }
+        },
+        {
+          "week": 6,
+          "event_id": "401872996",
+          "categories": {
+            "rushing": {
+              "CAR": "11",
+              "YDS": "55",
+              "AVG": "5.0",
+              "TD": "0",
+              "LONG": "14"
+            },
+            "receiving": {
+              "REC": "0",
+              "YDS": "0",
+              "AVG": "0.0",
+              "TD": "0",
+              "LONG": "0",
+              "TGTS": "1"
+            }
+          }
+        },
+        {
+          "week": 8,
+          "event_id": "401873028",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "41",
+              "AVG": "6.8",
+              "TD": "1",
+              "LONG": "28"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "17",
+              "AVG": "17.0",
+              "TD": "0",
+              "LONG": "17",
+              "TGTS": "1"
+            }
+          }
+        },
+        {
+          "week": 9,
+          "event_id": "401873037",
+          "categories": {
+            "rushing": {
+              "CAR": "10",
+              "YDS": "19",
+              "AVG": "1.9",
+              "TD": "1",
+              "LONG": "5"
+            },
+            "receiving": {
+              "REC": "2",
+              "YDS": "13",
+              "AVG": "6.5",
+              "TD": "0",
+              "LONG": "8",
+              "TGTS": "2"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873057",
+          "categories": {
+            "rushing": {
+              "CAR": "4",
+              "YDS": "5",
+              "AVG": "1.3",
+              "TD": "0",
+              "LONG": "6"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        7,
+        11
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": 173,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 206,
+      "position_rank": 37,
       "adp_value_gap": null
     },
     {
@@ -50561,49 +50757,6 @@
       "adp_value_gap": null
     },
     {
-      "player_id": "-16011",
-      "name": "Colts D/ST",
-      "position": "D/ST",
-      "team_id": 11,
-      "draft_score": 0.24,
-      "sample_confidence": 0.957,
-      "recorded_weeks": 11,
-      "total_points": 36.0,
-      "average": 3.27,
-      "median": 5.0,
-      "floor": -1.0,
-      "ceiling": 6.0,
-      "standard_deviation": 5.48,
-      "weekly_points": {
-        "1": -5.0,
-        "2": -5.0,
-        "3": 6.0,
-        "4": 7.0,
-        "5": -1.0,
-        "6": 5.0,
-        "7": 8.0,
-        "8": 1.0,
-        "9": 1.0,
-        "10": 14.0,
-        "11": 5.0
-      },
-      "boxscore_listed_weeks": [],
-      "boxscore_listed_games": 0,
-      "weekly_usage": [],
-      "injury_records": [],
-      "missing_scoring_weeks": [],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 245,
-      "position_rank": 25,
-      "adp_value_gap": null
-    },
-    {
       "player_id": "-16013",
       "name": "Raiders D/ST",
       "position": "D/ST",
@@ -50643,8 +50796,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 246,
-      "position_rank": 26,
+      "overall_rank": 245,
+      "position_rank": 25,
       "adp_value_gap": null
     },
     {
@@ -51016,7 +51169,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 247,
+      "overall_rank": 246,
       "position_rank": 72,
       "adp_value_gap": null
     },
@@ -51224,7 +51377,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 248,
+      "overall_rank": 247,
       "position_rank": 38,
       "adp_value_gap": null
     },
@@ -51405,7 +51558,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 249,
+      "overall_rank": 248,
       "position_rank": 39,
       "adp_value_gap": null
     },
@@ -51449,8 +51602,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 250,
-      "position_rank": 27,
+      "overall_rank": 249,
+      "position_rank": 26,
       "adp_value_gap": null
     },
     {
@@ -51629,7 +51782,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 251,
+      "overall_rank": 250,
       "position_rank": 73,
       "adp_value_gap": null
     },
@@ -51787,7 +51940,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 252,
+      "overall_rank": 251,
       "position_rank": 48,
       "adp_value_gap": null
     },
@@ -51990,7 +52143,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 253,
+      "overall_rank": 252,
       "position_rank": 40,
       "adp_value_gap": null
     },
@@ -52121,7 +52274,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 254,
+      "overall_rank": 253,
       "position_rank": 49,
       "adp_value_gap": null
     },
@@ -52346,7 +52499,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 255,
+      "overall_rank": 254,
       "position_rank": 30,
       "adp_value_gap": null
     },
@@ -52527,7 +52680,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 256,
+      "overall_rank": 255,
       "position_rank": 74,
       "adp_value_gap": null
     },
@@ -52571,8 +52724,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 257,
-      "position_rank": 28,
+      "overall_rank": 256,
+      "position_rank": 27,
       "adp_value_gap": null
     },
     {
@@ -52615,8 +52768,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 258,
-      "position_rank": 29,
+      "overall_rank": 257,
+      "position_rank": 28,
       "adp_value_gap": null
     },
     {
@@ -52794,7 +52947,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 259,
+      "overall_rank": 258,
       "position_rank": 50,
       "adp_value_gap": null
     },
@@ -52947,8 +53100,51 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 260,
+      "overall_rank": 259,
       "position_rank": 41,
+      "adp_value_gap": null
+    },
+    {
+      "player_id": "-16011",
+      "name": "Colts D/ST",
+      "position": "D/ST",
+      "team_id": 11,
+      "draft_score": -0.28,
+      "sample_confidence": 0.957,
+      "recorded_weeks": 11,
+      "total_points": 33.0,
+      "average": 3.0,
+      "median": 2.0,
+      "floor": -1.0,
+      "ceiling": 6.0,
+      "standard_deviation": 5.46,
+      "weekly_points": {
+        "1": -5.0,
+        "2": -5.0,
+        "3": 6.0,
+        "4": 7.0,
+        "5": -1.0,
+        "6": 5.0,
+        "7": 8.0,
+        "8": 1.0,
+        "9": 1.0,
+        "10": 14.0,
+        "11": 2.0
+      },
+      "boxscore_listed_weeks": [],
+      "boxscore_listed_games": 0,
+      "weekly_usage": [],
+      "injury_records": [],
+      "missing_scoring_weeks": [],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 260,
+      "position_rank": 29,
       "adp_value_gap": null
     },
     {
@@ -55778,9 +55974,10 @@
         3,
         4,
         5,
-        6
+        6,
+        11
       ],
-      "boxscore_listed_games": 6,
+      "boxscore_listed_games": 7,
       "weekly_usage": [
         {
           "week": 1,
@@ -55890,6 +56087,20 @@
               "PD": "0",
               "QB HTS": "0",
               "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "1",
+              "YDS": "8",
+              "AVG": "8.0",
+              "TD": "0",
+              "LONG": "8",
+              "TGTS": "1"
             }
           }
         }
@@ -56469,6 +56680,375 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4035538",
+      "name": "David Montgomery",
+      "position": "RB",
+      "team_id": 34,
+      "draft_score": -0.72,
+      "sample_confidence": 0.913,
+      "recorded_weeks": 10,
+      "total_points": 60.9,
+      "average": 6.09,
+      "median": 2.7,
+      "floor": 0.0,
+      "ceiling": 4.4,
+      "standard_deviation": 8.87,
+      "weekly_points": {
+        "1": 28.9,
+        "2": 4.4,
+        "3": 6.8,
+        "4": 4.3,
+        "5": 1.1,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 15.4
+      },
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11
+      ],
+      "boxscore_listed_games": 6,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872660",
+          "categories": {
+            "rushing": {
+              "CAR": "20",
+              "YDS": "60",
+              "AVG": "3.0",
+              "TD": "2",
+              "LONG": "18"
+            },
+            "receiving": {
+              "REC": "3",
+              "YDS": "19",
+              "AVG": "6.3",
+              "TD": "1",
+              "LONG": "9",
+              "TGTS": "3"
+            }
+          }
+        },
+        {
+          "week": 2,
+          "event_id": "401872934",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "10",
+              "AVG": "1.7",
+              "TD": "0",
+              "LONG": "4"
+            },
+            "receiving": {
+              "REC": "2",
+              "YDS": "14",
+              "AVG": "7.0",
+              "TD": "0",
+              "LONG": "8",
+              "TGTS": "2"
+            }
+          }
+        },
+        {
+          "week": 3,
+          "event_id": "401872951",
+          "categories": {
+            "rushing": {
+              "CAR": "11",
+              "YDS": "33",
+              "AVG": "3.0",
+              "TD": "0",
+              "LONG": "9"
+            },
+            "receiving": {
+              "REC": "2",
+              "YDS": "15",
+              "AVG": "7.5",
+              "TD": "0",
+              "LONG": "10",
+              "TGTS": "2"
+            }
+          }
+        },
+        {
+          "week": 4,
+          "event_id": "401872967",
+          "categories": {
+            "rushing": {
+              "CAR": "10",
+              "YDS": "24",
+              "AVG": "2.4",
+              "TD": "0",
+              "LONG": "6"
+            },
+            "receiving": {
+              "REC": "0",
+              "YDS": "19",
+              "AVG": "0.0",
+              "TD": "0",
+              "LONG": "19",
+              "TGTS": "0"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872984",
+          "categories": {
+            "rushing": {
+              "CAR": "5",
+              "YDS": "11",
+              "AVG": "2.2",
+              "TD": "0",
+              "LONG": "5"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "rushing": {
+              "CAR": "26",
+              "YDS": "107",
+              "AVG": "4.1",
+              "TD": "0",
+              "LONG": "15"
+            },
+            "receiving": {
+              "REC": "3",
+              "YDS": "17",
+              "AVG": "5.7",
+              "TD": "0",
+              "LONG": "9",
+              "TGTS": "4"
+            }
+          }
+        }
+      ],
+      "injury_records": [
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 1,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872660"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 2,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872934"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 3,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872951"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 4,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872967"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 5,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872984"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 6,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401872996"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 7,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873016"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 9,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873046"
+        },
+        {
+          "player_id": "4035538",
+          "name": "David Montgomery",
+          "week": 10,
+          "team_id": "34",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Groin",
+            "location": "Groin",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-19"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873056"
+        }
+      ],
+      "missing_scoring_weeks": [
+        8
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": 67,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 280,
+      "position_rank": 53,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "3051889",
       "name": "Laquon Treadwell",
       "position": "WR",
@@ -56505,9 +57085,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 10,
+      "boxscore_listed_games": 11,
       "weekly_usage": [
         {
           "week": 1,
@@ -56657,6 +57238,20 @@
               "TGTS": "3"
             }
           }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "0",
+              "YDS": "0",
+              "AVG": "0.0",
+              "TD": "0",
+              "LONG": "0",
+              "TGTS": "1"
+            }
+          }
         }
       ],
       "injury_records": [],
@@ -56668,7 +57263,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 280,
+      "overall_rank": 281,
       "position_rank": 82,
       "adp_value_gap": null
     },
@@ -56957,7 +57552,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 281,
+      "overall_rank": 282,
       "position_rank": 83,
       "adp_value_gap": null
     },
@@ -57316,7 +57911,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 282,
+      "overall_rank": 283,
       "position_rank": 84,
       "adp_value_gap": null
     },
@@ -57360,7 +57955,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 283,
+      "overall_rank": 284,
       "position_rank": 32,
       "adp_value_gap": null
     },
@@ -57566,7 +58161,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 284,
+      "overall_rank": 285,
       "position_rank": 49,
       "adp_value_gap": null
     },
@@ -57775,7 +58370,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 285,
+      "overall_rank": 286,
       "position_rank": 85,
       "adp_value_gap": null
     },
@@ -58005,353 +58600,6 @@
       "injury_absences_confirmed": null,
       "games_missed_confirmed": null,
       "2026_draft_pick": 221,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 286,
-      "position_rank": 53,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4035538",
-      "name": "David Montgomery",
-      "position": "RB",
-      "team_id": 34,
-      "draft_score": -0.844,
-      "sample_confidence": 0.913,
-      "recorded_weeks": 10,
-      "total_points": 55.6,
-      "average": 5.56,
-      "median": 2.7,
-      "floor": 0.0,
-      "ceiling": 4.4,
-      "standard_deviation": 8.45,
-      "weekly_points": {
-        "1": 28.9,
-        "2": 4.4,
-        "3": 6.8,
-        "4": 4.3,
-        "5": 1.1,
-        "6": 0.0,
-        "7": 0.0,
-        "9": 0.0,
-        "10": 0.0,
-        "11": 10.1
-      },
-      "boxscore_listed_weeks": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "boxscore_listed_games": 5,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872660",
-          "categories": {
-            "rushing": {
-              "CAR": "20",
-              "YDS": "60",
-              "AVG": "3.0",
-              "TD": "2",
-              "LONG": "18"
-            },
-            "receiving": {
-              "REC": "3",
-              "YDS": "19",
-              "AVG": "6.3",
-              "TD": "1",
-              "LONG": "9",
-              "TGTS": "3"
-            }
-          }
-        },
-        {
-          "week": 2,
-          "event_id": "401872934",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "10",
-              "AVG": "1.7",
-              "TD": "0",
-              "LONG": "4"
-            },
-            "receiving": {
-              "REC": "2",
-              "YDS": "14",
-              "AVG": "7.0",
-              "TD": "0",
-              "LONG": "8",
-              "TGTS": "2"
-            }
-          }
-        },
-        {
-          "week": 3,
-          "event_id": "401872951",
-          "categories": {
-            "rushing": {
-              "CAR": "11",
-              "YDS": "33",
-              "AVG": "3.0",
-              "TD": "0",
-              "LONG": "9"
-            },
-            "receiving": {
-              "REC": "2",
-              "YDS": "15",
-              "AVG": "7.5",
-              "TD": "0",
-              "LONG": "10",
-              "TGTS": "2"
-            }
-          }
-        },
-        {
-          "week": 4,
-          "event_id": "401872967",
-          "categories": {
-            "rushing": {
-              "CAR": "10",
-              "YDS": "24",
-              "AVG": "2.4",
-              "TD": "0",
-              "LONG": "6"
-            },
-            "receiving": {
-              "REC": "0",
-              "YDS": "19",
-              "AVG": "0.0",
-              "TD": "0",
-              "LONG": "19",
-              "TGTS": "0"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872984",
-          "categories": {
-            "rushing": {
-              "CAR": "5",
-              "YDS": "11",
-              "AVG": "2.2",
-              "TD": "0",
-              "LONG": "5"
-            }
-          }
-        }
-      ],
-      "injury_records": [
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 1,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872660"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 2,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872934"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 3,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872951"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 4,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872967"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 5,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872984"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 6,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401872996"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 7,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401873016"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 9,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401873046"
-        },
-        {
-          "player_id": "4035538",
-          "name": "David Montgomery",
-          "week": 10,
-          "team_id": "34",
-          "status": "Out",
-          "type": "out",
-          "details": {
-            "fantasyStatus": {
-              "description": "INACTIVE",
-              "abbreviation": "INACTIVE",
-              "displayDescription": "Inactive"
-            },
-            "type": "Groin",
-            "location": "Groin",
-            "detail": "Not Specified",
-            "side": "Not Specified",
-            "returnDate": "2026-11-19"
-          },
-          "source": "ESPN game injury data",
-          "event_id": "401873056"
-        }
-      ],
-      "missing_scoring_weeks": [
-        8
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": 67,
       "expert_rankings": [],
       "average_expert_rank": null,
       "average_adp": null,
@@ -58636,9 +58884,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 10,
+      "boxscore_listed_games": 11,
       "weekly_usage": [
         {
           "week": 1,
@@ -58876,9 +59125,60 @@
               "TD": "0"
             }
           }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "rushing": {
+              "CAR": "3",
+              "YDS": "7",
+              "AVG": "2.3",
+              "TD": "0",
+              "LONG": "8"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "1",
+              "AVG": "1.0",
+              "TD": "0",
+              "LONG": "1",
+              "TGTS": "1"
+            },
+            "kickReturns": {
+              "NO": "3",
+              "YDS": "117",
+              "AVG": "39.0",
+              "LONG": "47",
+              "TD": "0"
+            }
+          }
         }
       ],
-      "injury_records": [],
+      "injury_records": [
+        {
+          "player_id": "4686468",
+          "name": "Seth McGowan",
+          "week": 11,
+          "team_id": "11",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Hamstring",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
+        }
+      ],
       "missing_scoring_weeks": [],
       "injury_absences_confirmed": null,
       "games_missed_confirmed": null,
@@ -67360,9 +67660,10 @@
         "11": 12.4
       },
       "boxscore_listed_weeks": [
-        1
+        1,
+        11
       ],
-      "boxscore_listed_games": 1,
+      "boxscore_listed_games": 2,
       "weekly_usage": [
         {
           "week": 1,
@@ -67375,6 +67676,20 @@
               "TD": "0",
               "LONG": "16",
               "TGTS": "1"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "4",
+              "YDS": "24",
+              "AVG": "6.0",
+              "TD": "1",
+              "LONG": "13",
+              "TGTS": "4"
             }
           }
         }
@@ -70423,9 +70738,10 @@
       "boxscore_listed_weeks": [
         7,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 3,
+      "boxscore_listed_games": 4,
       "weekly_usage": [
         {
           "week": 7,
@@ -70499,6 +70815,29 @@
               "TD": "0",
               "LONG": "29",
               "TGTS": "4"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "3",
+              "YDS": "27",
+              "AVG": "9.0",
+              "TD": "0",
+              "LONG": "10",
+              "TGTS": "4"
+            },
+            "defensive": {
+              "TOT": "1",
+              "SOLO": "1",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
+              "TD": "0"
             }
           }
         }
@@ -76427,9 +76766,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 6,
+      "boxscore_listed_games": 7,
       "weekly_usage": [
         {
           "week": 1,
@@ -76584,6 +76924,29 @@
               "YDS": "77",
               "AVG": "25.7",
               "LONG": "31",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "30",
+              "AVG": "15.0",
+              "TD": "0",
+              "LONG": "25",
+              "TGTS": "4"
+            },
+            "defensive": {
+              "TOT": "2",
+              "SOLO": "0",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
               "TD": "0"
             }
           }
@@ -76798,9 +77161,10 @@
         4,
         5,
         7,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 6,
+      "boxscore_listed_games": 7,
       "weekly_usage": [
         {
           "week": 1,
@@ -76894,6 +77258,21 @@
               "LONG": "5",
               "TGTS": "2"
             },
+            "defensive": {
+              "TOT": "2",
+              "SOLO": "1",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
             "defensive": {
               "TOT": "2",
               "SOLO": "1",
@@ -79231,9 +79610,26 @@
         "10": 0.0,
         "11": 3.6
       },
-      "boxscore_listed_weeks": [],
-      "boxscore_listed_games": 0,
-      "weekly_usage": [],
+      "boxscore_listed_weeks": [
+        11
+      ],
+      "boxscore_listed_games": 1,
+      "weekly_usage": [
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "1",
+              "YDS": "26",
+              "AVG": "26.0",
+              "TD": "0",
+              "LONG": "26",
+              "TGTS": "3"
+            }
+          }
+        }
+      ],
       "injury_records": [],
       "missing_scoring_weeks": [
         1,
@@ -80459,9 +80855,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 8,
+      "boxscore_listed_games": 9,
       "weekly_usage": [
         {
           "week": 2,
@@ -80618,6 +81015,36 @@
               "TFL": "0",
               "PD": "0",
               "QB HTS": "0",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "0",
+              "YDS": "0",
+              "AVG": "0.0",
+              "TD": "0",
+              "LONG": "0",
+              "TGTS": "3"
+            },
+            "defensive": {
+              "TOT": "1",
+              "SOLO": "1",
+              "SACKS": "0",
+              "TFL": "0",
+              "PD": "0",
+              "QB HTS": "0",
+              "TD": "0"
+            },
+            "kickReturns": {
+              "NO": "1",
+              "YDS": "10",
+              "AVG": "10.0",
+              "LONG": "10",
               "TD": "0"
             }
           }
@@ -82560,6 +82987,146 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4362478",
+      "name": "Emari Demercado",
+      "position": "RB",
+      "team_id": 34,
+      "draft_score": -2.862,
+      "sample_confidence": 0.866,
+      "recorded_weeks": 9,
+      "total_points": 12.3,
+      "average": 1.37,
+      "median": 0.7,
+      "floor": 0.0,
+      "ceiling": 2.5,
+      "standard_deviation": 1.7,
+      "weekly_points": {
+        "1": 0.7,
+        "2": 0.8,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 3.4,
+        "10": 2.5,
+        "11": 4.9
+      },
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        9,
+        10,
+        11
+      ],
+      "boxscore_listed_games": 5,
+      "weekly_usage": [
+        {
+          "week": 1,
+          "event_id": "401872930",
+          "categories": {
+            "rushing": {
+              "CAR": "2",
+              "YDS": "7",
+              "AVG": "3.5",
+              "TD": "0",
+              "LONG": "4"
+            }
+          }
+        },
+        {
+          "week": 2,
+          "event_id": "401872944",
+          "categories": {
+            "rushing": {
+              "CAR": "3",
+              "YDS": "8",
+              "AVG": "2.7",
+              "TD": "0",
+              "LONG": "7"
+            }
+          }
+        },
+        {
+          "week": 9,
+          "event_id": "401873046",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "16",
+              "AVG": "2.7",
+              "TD": "0",
+              "LONG": "11"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "8",
+              "AVG": "8.0",
+              "TD": "0",
+              "LONG": "8",
+              "TGTS": "2"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873056",
+          "categories": {
+            "rushing": {
+              "CAR": "7",
+              "YDS": "16",
+              "AVG": "2.3",
+              "TD": "0",
+              "LONG": "13"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "-1",
+              "AVG": "-1.0",
+              "TD": "0",
+              "LONG": "-1",
+              "TGTS": "2"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "rushing": {
+              "CAR": "5",
+              "YDS": "33",
+              "AVG": "6.6",
+              "TD": "0",
+              "LONG": "10"
+            },
+            "receiving": {
+              "REC": "2",
+              "YDS": "-4",
+              "AVG": "-2.0",
+              "TD": "0",
+              "LONG": "0",
+              "TGTS": "2"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        5,
+        8
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 443,
+      "position_rank": 91,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "4808839",
       "name": "Isaiah Bond",
       "position": "WR",
@@ -82688,7 +83255,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 443,
+      "overall_rank": 444,
       "position_rank": 139,
       "adp_value_gap": null
     },
@@ -82780,7 +83347,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 444,
+      "overall_rank": 445,
       "position_rank": 108,
       "adp_value_gap": null
     },
@@ -83030,7 +83597,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 445,
+      "overall_rank": 446,
       "position_rank": 140,
       "adp_value_gap": null
     },
@@ -83176,8 +83743,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 446,
-      "position_rank": 91,
+      "overall_rank": 447,
+      "position_rank": 92,
       "adp_value_gap": null
     },
     {
@@ -83386,7 +83953,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 447,
+      "overall_rank": 448,
       "position_rank": 141,
       "adp_value_gap": null
     },
@@ -83478,7 +84045,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 448,
+      "overall_rank": 449,
       "position_rank": 109,
       "adp_value_gap": null
     },
@@ -83581,8 +84148,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 449,
-      "position_rank": 92,
+      "overall_rank": 450,
+      "position_rank": 93,
       "adp_value_gap": null
     },
     {
@@ -83711,7 +84278,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 450,
+      "overall_rank": 451,
       "position_rank": 142,
       "adp_value_gap": null
     },
@@ -83947,7 +84514,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 451,
+      "overall_rank": 452,
       "position_rank": 143,
       "adp_value_gap": null
     },
@@ -84022,7 +84589,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 452,
+      "overall_rank": 453,
       "position_rank": 144,
       "adp_value_gap": null
     },
@@ -84267,8 +84834,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 453,
-      "position_rank": 93,
+      "overall_rank": 454,
+      "position_rank": 94,
       "adp_value_gap": null
     },
     {
@@ -84343,7 +84910,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 454,
+      "overall_rank": 455,
       "position_rank": 110,
       "adp_value_gap": null
     },
@@ -84711,7 +85278,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 455,
+      "overall_rank": 456,
       "position_rank": 36,
       "adp_value_gap": null
     },
@@ -84801,8 +85368,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 456,
-      "position_rank": 94,
+      "overall_rank": 457,
+      "position_rank": 95,
       "adp_value_gap": null
     },
     {
@@ -84898,7 +85465,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 457,
+      "overall_rank": 458,
       "position_rank": 145,
       "adp_value_gap": null
     },
@@ -85123,8 +85690,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 458,
-      "position_rank": 95,
+      "overall_rank": 459,
+      "position_rank": 96,
       "adp_value_gap": null
     },
     {
@@ -85244,7 +85811,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 459,
+      "overall_rank": 460,
       "position_rank": 146,
       "adp_value_gap": null
     },
@@ -85506,126 +86073,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 460,
-      "position_rank": 147,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4362478",
-      "name": "Emari Demercado",
-      "position": "RB",
-      "team_id": 34,
-      "draft_score": -2.961,
-      "sample_confidence": 0.866,
-      "recorded_weeks": 9,
-      "total_points": 10.6,
-      "average": 1.18,
-      "median": 0.7,
-      "floor": 0.0,
-      "ceiling": 2.5,
-      "standard_deviation": 1.36,
-      "weekly_points": {
-        "1": 0.7,
-        "2": 0.8,
-        "3": 0.0,
-        "4": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "9": 3.4,
-        "10": 2.5,
-        "11": 3.2
-      },
-      "boxscore_listed_weeks": [
-        1,
-        2,
-        9,
-        10
-      ],
-      "boxscore_listed_games": 4,
-      "weekly_usage": [
-        {
-          "week": 1,
-          "event_id": "401872930",
-          "categories": {
-            "rushing": {
-              "CAR": "2",
-              "YDS": "7",
-              "AVG": "3.5",
-              "TD": "0",
-              "LONG": "4"
-            }
-          }
-        },
-        {
-          "week": 2,
-          "event_id": "401872944",
-          "categories": {
-            "rushing": {
-              "CAR": "3",
-              "YDS": "8",
-              "AVG": "2.7",
-              "TD": "0",
-              "LONG": "7"
-            }
-          }
-        },
-        {
-          "week": 9,
-          "event_id": "401873046",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "16",
-              "AVG": "2.7",
-              "TD": "0",
-              "LONG": "11"
-            },
-            "receiving": {
-              "REC": "1",
-              "YDS": "8",
-              "AVG": "8.0",
-              "TD": "0",
-              "LONG": "8",
-              "TGTS": "2"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873056",
-          "categories": {
-            "rushing": {
-              "CAR": "7",
-              "YDS": "16",
-              "AVG": "2.3",
-              "TD": "0",
-              "LONG": "13"
-            },
-            "receiving": {
-              "REC": "1",
-              "YDS": "-1",
-              "AVG": "-1.0",
-              "TD": "0",
-              "LONG": "-1",
-              "TGTS": "2"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        5,
-        8
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
       "overall_rank": 461,
-      "position_rank": 96,
+      "position_rank": 147,
       "adp_value_gap": null
     },
     {
@@ -87917,6 +88366,181 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4429684",
+      "name": "Anthony Gould",
+      "position": "WR",
+      "team_id": 11,
+      "draft_score": -3.058,
+      "sample_confidence": 0.913,
+      "recorded_weeks": 10,
+      "total_points": 14.2,
+      "average": 1.42,
+      "median": 0.0,
+      "floor": 0.0,
+      "ceiling": 0.0,
+      "standard_deviation": 2.36,
+      "weekly_points": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 2.6,
+        "10": 4.8,
+        "11": 6.8
+      },
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "boxscore_listed_games": 7,
+      "weekly_usage": [
+        {
+          "week": 2,
+          "event_id": "401872945",
+          "categories": {
+            "kickReturns": {
+              "NO": "4",
+              "YDS": "102",
+              "AVG": "25.5",
+              "LONG": "29",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 3,
+          "event_id": "401872951",
+          "categories": {
+            "kickReturns": {
+              "NO": "1",
+              "YDS": "32",
+              "AVG": "32.0",
+              "LONG": "32",
+              "TD": "0"
+            },
+            "puntReturns": {
+              "NO": "2",
+              "YDS": "25",
+              "AVG": "12.5",
+              "LONG": "20",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 5,
+          "event_id": "401872985",
+          "categories": {
+            "kickReturns": {
+              "NO": "2",
+              "YDS": "81",
+              "AVG": "40.5",
+              "LONG": "54",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 6,
+          "event_id": "401873003",
+          "categories": {
+            "puntReturns": {
+              "NO": "1",
+              "YDS": "9",
+              "AVG": "9.0",
+              "LONG": "9",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 9,
+          "event_id": "401873040",
+          "categories": {
+            "receiving": {
+              "REC": "1",
+              "YDS": "16",
+              "AVG": "16.0",
+              "TD": "0",
+              "LONG": "16",
+              "TGTS": "1"
+            },
+            "kickReturns": {
+              "NO": "2",
+              "YDS": "49",
+              "AVG": "24.5",
+              "LONG": "25",
+              "TD": "0"
+            },
+            "puntReturns": {
+              "NO": "2",
+              "YDS": "5",
+              "AVG": "2.5",
+              "LONG": "5",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 10,
+          "event_id": "401873059",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "28",
+              "AVG": "14.0",
+              "TD": "0",
+              "LONG": "22",
+              "TGTS": "4"
+            },
+            "puntReturns": {
+              "NO": "1",
+              "YDS": "0",
+              "AVG": "0.0",
+              "LONG": "0",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "receiving": {
+              "REC": "2",
+              "YDS": "48",
+              "AVG": "24.0",
+              "TD": "0",
+              "LONG": "31",
+              "TGTS": "3"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [
+        1
+      ],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 475,
+      "position_rank": 155,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "4241372",
       "name": "Hollywood Brown",
       "position": "WR",
@@ -88017,8 +88641,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 475,
-      "position_rank": 155,
+      "overall_rank": 476,
+      "position_rank": 156,
       "adp_value_gap": null
     },
     {
@@ -88280,8 +88904,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 476,
-      "position_rank": 156,
+      "overall_rank": 477,
+      "position_rank": 157,
       "adp_value_gap": null
     },
     {
@@ -88398,7 +89022,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 477,
+      "overall_rank": 478,
       "position_rank": 37,
       "adp_value_gap": null
     },
@@ -88489,8 +89113,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 478,
-      "position_rank": 157,
+      "overall_rank": 479,
+      "position_rank": 158,
       "adp_value_gap": null
     },
     {
@@ -88625,8 +89249,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 479,
-      "position_rank": 158,
+      "overall_rank": 480,
+      "position_rank": 159,
       "adp_value_gap": null
     },
     {
@@ -88835,7 +89459,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 480,
+      "overall_rank": 481,
       "position_rank": 103,
       "adp_value_gap": null
     },
@@ -89087,8 +89711,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 481,
-      "position_rank": 159,
+      "overall_rank": 482,
+      "position_rank": 160,
       "adp_value_gap": null
     },
     {
@@ -89148,8 +89772,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 482,
-      "position_rank": 160,
+      "overall_rank": 483,
+      "position_rank": 161,
       "adp_value_gap": null
     },
     {
@@ -89209,7 +89833,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 483,
+      "overall_rank": 484,
       "position_rank": 111,
       "adp_value_gap": null
     },
@@ -89253,7 +89877,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 484,
+      "overall_rank": 485,
       "position_rank": 112,
       "adp_value_gap": null
     },
@@ -89297,7 +89921,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 485,
+      "overall_rank": 486,
       "position_rank": 113,
       "adp_value_gap": null
     },
@@ -89341,7 +89965,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 486,
+      "overall_rank": 487,
       "position_rank": 114,
       "adp_value_gap": null
     },
@@ -89385,7 +90009,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 487,
+      "overall_rank": 488,
       "position_rank": 115,
       "adp_value_gap": null
     },
@@ -89491,7 +90115,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 488,
+      "overall_rank": 489,
       "position_rank": 116,
       "adp_value_gap": null
     },
@@ -89535,7 +90159,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 489,
+      "overall_rank": 490,
       "position_rank": 117,
       "adp_value_gap": null
     },
@@ -89661,7 +90285,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 490,
+      "overall_rank": 491,
       "position_rank": 118,
       "adp_value_gap": null
     },
@@ -89704,7 +90328,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 491,
+      "overall_rank": 492,
       "position_rank": 119,
       "adp_value_gap": null
     },
@@ -89774,7 +90398,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 492,
+      "overall_rank": 493,
       "position_rank": 120,
       "adp_value_gap": null
     },
@@ -89836,7 +90460,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 493,
+      "overall_rank": 494,
       "position_rank": 121,
       "adp_value_gap": null
     },
@@ -89897,7 +90521,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 494,
+      "overall_rank": 495,
       "position_rank": 122,
       "adp_value_gap": null
     },
@@ -89941,7 +90565,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 495,
+      "overall_rank": 496,
       "position_rank": 123,
       "adp_value_gap": null
     },
@@ -90019,7 +90643,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 496,
+      "overall_rank": 497,
       "position_rank": 124,
       "adp_value_gap": null
     },
@@ -90063,7 +90687,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 497,
+      "overall_rank": 498,
       "position_rank": 125,
       "adp_value_gap": null
     },
@@ -90107,7 +90731,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 498,
+      "overall_rank": 499,
       "position_rank": 126,
       "adp_value_gap": null
     },
@@ -90245,7 +90869,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 499,
+      "overall_rank": 500,
       "position_rank": 127,
       "adp_value_gap": null
     },
@@ -90307,7 +90931,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 500,
+      "overall_rank": 501,
       "position_rank": 128,
       "adp_value_gap": null
     },
@@ -90351,7 +90975,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 501,
+      "overall_rank": 502,
       "position_rank": 129,
       "adp_value_gap": null
     },
@@ -90395,7 +91019,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 502,
+      "overall_rank": 503,
       "position_rank": 130,
       "adp_value_gap": null
     },
@@ -90439,7 +91063,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 503,
+      "overall_rank": 504,
       "position_rank": 131,
       "adp_value_gap": null
     },
@@ -90483,7 +91107,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 504,
+      "overall_rank": 505,
       "position_rank": 132,
       "adp_value_gap": null
     },
@@ -90527,7 +91151,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 505,
+      "overall_rank": 506,
       "position_rank": 133,
       "adp_value_gap": null
     },
@@ -90637,7 +91261,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 506,
+      "overall_rank": 507,
       "position_rank": 134,
       "adp_value_gap": null
     },
@@ -90681,7 +91305,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 507,
+      "overall_rank": 508,
       "position_rank": 135,
       "adp_value_gap": null
     },
@@ -90725,7 +91349,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 508,
+      "overall_rank": 509,
       "position_rank": 136,
       "adp_value_gap": null
     },
@@ -90769,7 +91393,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 509,
+      "overall_rank": 510,
       "position_rank": 137,
       "adp_value_gap": null
     },
@@ -90846,7 +91470,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 510,
+      "overall_rank": 511,
       "position_rank": 138,
       "adp_value_gap": null
     },
@@ -91089,7 +91713,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 511,
+      "overall_rank": 512,
       "position_rank": 139,
       "adp_value_gap": null
     },
@@ -91332,7 +91956,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 512,
+      "overall_rank": 513,
       "position_rank": 140,
       "adp_value_gap": null
     },
@@ -91376,7 +92000,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 513,
+      "overall_rank": 514,
       "position_rank": 141,
       "adp_value_gap": null
     },
@@ -91420,7 +92044,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 514,
+      "overall_rank": 515,
       "position_rank": 142,
       "adp_value_gap": null
     },
@@ -91464,7 +92088,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 515,
+      "overall_rank": 516,
       "position_rank": 143,
       "adp_value_gap": null
     },
@@ -91508,7 +92132,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 516,
+      "overall_rank": 517,
       "position_rank": 144,
       "adp_value_gap": null
     },
@@ -91552,7 +92176,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 517,
+      "overall_rank": 518,
       "position_rank": 145,
       "adp_value_gap": null
     },
@@ -91596,7 +92220,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 518,
+      "overall_rank": 519,
       "position_rank": 146,
       "adp_value_gap": null
     },
@@ -91658,7 +92282,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 519,
+      "overall_rank": 520,
       "position_rank": 147,
       "adp_value_gap": null
     },
@@ -91702,7 +92326,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 520,
+      "overall_rank": 521,
       "position_rank": 148,
       "adp_value_gap": null
     },
@@ -91746,7 +92370,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 521,
+      "overall_rank": 522,
       "position_rank": 149,
       "adp_value_gap": null
     },
@@ -91855,7 +92479,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 522,
+      "overall_rank": 523,
       "position_rank": 150,
       "adp_value_gap": null
     },
@@ -91899,7 +92523,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 523,
+      "overall_rank": 524,
       "position_rank": 151,
       "adp_value_gap": null
     },
@@ -91961,7 +92585,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 524,
+      "overall_rank": 525,
       "position_rank": 152,
       "adp_value_gap": null
     },
@@ -92005,7 +92629,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 525,
+      "overall_rank": 526,
       "position_rank": 153,
       "adp_value_gap": null
     },
@@ -92049,7 +92673,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 526,
+      "overall_rank": 527,
       "position_rank": 154,
       "adp_value_gap": null
     },
@@ -92093,7 +92717,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 527,
+      "overall_rank": 528,
       "position_rank": 155,
       "adp_value_gap": null
     },
@@ -92137,7 +92761,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 528,
+      "overall_rank": 529,
       "position_rank": 156,
       "adp_value_gap": null
     },
@@ -92181,7 +92805,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 529,
+      "overall_rank": 530,
       "position_rank": 157,
       "adp_value_gap": null
     },
@@ -92344,166 +92968,6 @@
       "injury_records": [],
       "missing_scoring_weeks": [
         11
-      ],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
-      "overall_rank": 530,
-      "position_rank": 161,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4429684",
-      "name": "Anthony Gould",
-      "position": "WR",
-      "team_id": 11,
-      "draft_score": -3.171,
-      "sample_confidence": 0.913,
-      "recorded_weeks": 10,
-      "total_points": 11.5,
-      "average": 1.15,
-      "median": 0.0,
-      "floor": 0.0,
-      "ceiling": 0.0,
-      "standard_deviation": 1.83,
-      "weekly_points": {
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "9": 2.6,
-        "10": 4.8,
-        "11": 4.1
-      },
-      "boxscore_listed_weeks": [
-        2,
-        3,
-        5,
-        6,
-        9,
-        10
-      ],
-      "boxscore_listed_games": 6,
-      "weekly_usage": [
-        {
-          "week": 2,
-          "event_id": "401872945",
-          "categories": {
-            "kickReturns": {
-              "NO": "4",
-              "YDS": "102",
-              "AVG": "25.5",
-              "LONG": "29",
-              "TD": "0"
-            }
-          }
-        },
-        {
-          "week": 3,
-          "event_id": "401872951",
-          "categories": {
-            "kickReturns": {
-              "NO": "1",
-              "YDS": "32",
-              "AVG": "32.0",
-              "LONG": "32",
-              "TD": "0"
-            },
-            "puntReturns": {
-              "NO": "2",
-              "YDS": "25",
-              "AVG": "12.5",
-              "LONG": "20",
-              "TD": "0"
-            }
-          }
-        },
-        {
-          "week": 5,
-          "event_id": "401872985",
-          "categories": {
-            "kickReturns": {
-              "NO": "2",
-              "YDS": "81",
-              "AVG": "40.5",
-              "LONG": "54",
-              "TD": "0"
-            }
-          }
-        },
-        {
-          "week": 6,
-          "event_id": "401873003",
-          "categories": {
-            "puntReturns": {
-              "NO": "1",
-              "YDS": "9",
-              "AVG": "9.0",
-              "LONG": "9",
-              "TD": "0"
-            }
-          }
-        },
-        {
-          "week": 9,
-          "event_id": "401873040",
-          "categories": {
-            "receiving": {
-              "REC": "1",
-              "YDS": "16",
-              "AVG": "16.0",
-              "TD": "0",
-              "LONG": "16",
-              "TGTS": "1"
-            },
-            "kickReturns": {
-              "NO": "2",
-              "YDS": "49",
-              "AVG": "24.5",
-              "LONG": "25",
-              "TD": "0"
-            },
-            "puntReturns": {
-              "NO": "2",
-              "YDS": "5",
-              "AVG": "2.5",
-              "LONG": "5",
-              "TD": "0"
-            }
-          }
-        },
-        {
-          "week": 10,
-          "event_id": "401873059",
-          "categories": {
-            "receiving": {
-              "REC": "2",
-              "YDS": "28",
-              "AVG": "14.0",
-              "TD": "0",
-              "LONG": "22",
-              "TGTS": "4"
-            },
-            "puntReturns": {
-              "NO": "1",
-              "YDS": "0",
-              "AVG": "0.0",
-              "LONG": "0",
-              "TD": "0"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [
-        1
       ],
       "injury_absences_confirmed": null,
       "games_missed_confirmed": null,
@@ -95833,6 +96297,87 @@
       "adp_value_gap": null
     },
     {
+      "player_id": "4874509",
+      "name": "DJ Giddens",
+      "position": "RB",
+      "team_id": 11,
+      "draft_score": -3.436,
+      "sample_confidence": 0.957,
+      "recorded_weeks": 11,
+      "total_points": 6.9,
+      "average": 0.63,
+      "median": 0.0,
+      "floor": 0.0,
+      "ceiling": 0.0,
+      "standard_deviation": 1.38,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 4.3,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 2.6
+      },
+      "boxscore_listed_weeks": [
+        8,
+        11
+      ],
+      "boxscore_listed_games": 2,
+      "weekly_usage": [
+        {
+          "week": 8,
+          "event_id": "401873028",
+          "categories": {
+            "rushing": {
+              "CAR": "6",
+              "YDS": "43",
+              "AVG": "7.2",
+              "TD": "0",
+              "LONG": "12"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "rushing": {
+              "CAR": "1",
+              "YDS": "5",
+              "AVG": "5.0",
+              "TD": "0",
+              "LONG": "5"
+            },
+            "receiving": {
+              "REC": "1",
+              "YDS": "11",
+              "AVG": "11.0",
+              "TD": "0",
+              "LONG": "11",
+              "TGTS": "1"
+            }
+          }
+        }
+      ],
+      "injury_records": [],
+      "missing_scoring_weeks": [],
+      "injury_absences_confirmed": null,
+      "games_missed_confirmed": null,
+      "2026_draft_pick": null,
+      "expert_rankings": [],
+      "average_expert_rank": null,
+      "average_adp": null,
+      "2027_projection": null,
+      "overall_rank": 551,
+      "position_rank": 111,
+      "adp_value_gap": null
+    },
+    {
       "player_id": "15168",
       "name": "Case Keenum",
       "position": "QB",
@@ -95932,7 +96477,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 551,
+      "overall_rank": 552,
       "position_rank": 40,
       "adp_value_gap": null
     },
@@ -96024,7 +96569,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 552,
+      "overall_rank": 553,
       "position_rank": 41,
       "adp_value_gap": null
     },
@@ -96164,7 +96709,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 553,
+      "overall_rank": 554,
       "position_rank": 173,
       "adp_value_gap": null
     },
@@ -96292,7 +96837,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 554,
+      "overall_rank": 555,
       "position_rank": 42,
       "adp_value_gap": null
     },
@@ -96355,7 +96900,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 555,
+      "overall_rank": 556,
       "position_rank": 43,
       "adp_value_gap": null
     },
@@ -96652,7 +97197,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 556,
+      "overall_rank": 557,
       "position_rank": 174,
       "adp_value_gap": null
     },
@@ -96743,7 +97288,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 557,
+      "overall_rank": 558,
       "position_rank": 175,
       "adp_value_gap": null
     },
@@ -96818,7 +97363,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 558,
+      "overall_rank": 559,
       "position_rank": 44,
       "adp_value_gap": null
     },
@@ -96922,7 +97467,7 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 559,
+      "overall_rank": 560,
       "position_rank": 45,
       "adp_value_gap": null
     },
@@ -97004,8 +97549,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 560,
-      "position_rank": 111,
+      "overall_rank": 561,
+      "position_rank": 112,
       "adp_value_gap": null
     },
     {
@@ -97074,8 +97619,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 561,
-      "position_rank": 112,
+      "overall_rank": 562,
+      "position_rank": 113,
       "adp_value_gap": null
     },
     {
@@ -97268,67 +97813,8 @@
       "average_expert_rank": null,
       "average_adp": null,
       "2027_projection": null,
-      "overall_rank": 562,
-      "position_rank": 176,
-      "adp_value_gap": null
-    },
-    {
-      "player_id": "4874509",
-      "name": "DJ Giddens",
-      "position": "RB",
-      "team_id": 11,
-      "draft_score": -3.592,
-      "sample_confidence": 0.957,
-      "recorded_weeks": 11,
-      "total_points": 4.3,
-      "average": 0.39,
-      "median": 0.0,
-      "floor": 0.0,
-      "ceiling": 0.0,
-      "standard_deviation": 1.24,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 4.3,
-        "9": 0.0,
-        "10": 0.0,
-        "11": 0.0
-      },
-      "boxscore_listed_weeks": [
-        8
-      ],
-      "boxscore_listed_games": 1,
-      "weekly_usage": [
-        {
-          "week": 8,
-          "event_id": "401873028",
-          "categories": {
-            "rushing": {
-              "CAR": "6",
-              "YDS": "43",
-              "AVG": "7.2",
-              "TD": "0",
-              "LONG": "12"
-            }
-          }
-        }
-      ],
-      "injury_records": [],
-      "missing_scoring_weeks": [],
-      "injury_absences_confirmed": null,
-      "games_missed_confirmed": null,
-      "2026_draft_pick": null,
-      "expert_rankings": [],
-      "average_expert_rank": null,
-      "average_adp": null,
-      "2027_projection": null,
       "overall_rank": 563,
-      "position_rank": 113,
+      "position_rank": 176,
       "adp_value_gap": null
     },
     {
@@ -102693,9 +103179,10 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "boxscore_listed_games": 9,
+      "boxscore_listed_games": 10,
       "weekly_usage": [
         {
           "week": 1,
@@ -102862,6 +103349,26 @@
               "YDS": "29",
               "AVG": "14.5",
               "LONG": "22",
+              "TD": "0"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "kickReturns": {
+              "NO": "1",
+              "YDS": "21",
+              "AVG": "21.0",
+              "LONG": "21",
+              "TD": "0"
+            },
+            "puntReturns": {
+              "NO": "3",
+              "YDS": "32",
+              "AVG": "10.7",
+              "LONG": "15",
               "TD": "0"
             }
           }
@@ -113087,11 +113594,11 @@
       "name": "Anthony Richardson Sr.",
       "position": "QB",
       "team_id": 11,
-      "draft_score": -5.477,
+      "draft_score": -5.47,
       "sample_confidence": 0.957,
       "recorded_weeks": 11,
-      "total_points": 0.72,
-      "average": 0.07,
+      "total_points": 0.92,
+      "average": 0.08,
       "median": 0.0,
       "floor": 0.0,
       "ceiling": 0.0,
@@ -113107,12 +113614,13 @@
         "8": 0.72,
         "9": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.2
       },
       "boxscore_listed_weeks": [
-        8
+        8,
+        11
       ],
-      "boxscore_listed_games": 1,
+      "boxscore_listed_games": 2,
       "weekly_usage": [
         {
           "week": 8,
@@ -113134,6 +113642,29 @@
               "AVG": "2.0",
               "TD": "0",
               "LONG": "5"
+            }
+          }
+        },
+        {
+          "week": 11,
+          "event_id": "401873066",
+          "categories": {
+            "passing": {
+              "C/ATT": "0/2",
+              "YDS": "0",
+              "AVG": "0.0",
+              "TD": "0",
+              "INT": "0",
+              "SACKS": "0-0",
+              "QBR": "4.3",
+              "RTG": "39.6"
+            },
+            "rushing": {
+              "CAR": "1",
+              "YDS": "2",
+              "AVG": "2.0",
+              "TD": "0",
+              "LONG": "2"
             }
           }
         }
@@ -116977,6 +117508,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873059"
+        },
+        {
+          "player_id": "4683423",
+          "name": "Riley Leonard",
+          "week": 11,
+          "team_id": "11",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873066"
         }
       ],
       "missing_scoring_weeks": [],

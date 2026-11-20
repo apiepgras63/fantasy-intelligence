@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T03:31:52.673757+00:00",
+  "updated_at_utc": "2026-11-20T15:36:55.164543+00:00",
   "source": "ESPN NFL game boxscores",
   "records": [
     {
@@ -171094,6 +171094,1103 @@
           "LONG": "36",
           "XP": "2/2",
           "PTS": "8"
+        }
+      }
+    },
+    {
+      "player_id": "3917792",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "passing": {
+          "C/ATT": "12/27",
+          "YDS": "144",
+          "AVG": "5.3",
+          "TD": "0",
+          "INT": "1",
+          "SACKS": "2-15",
+          "QBR": "14.0",
+          "RTG": "45.9"
+        },
+        "rushing": {
+          "CAR": "1",
+          "YDS": "3",
+          "AVG": "3.0",
+          "TD": "0",
+          "LONG": "3"
+        }
+      }
+    },
+    {
+      "player_id": "4429084",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "passing": {
+          "C/ATT": "0/2",
+          "YDS": "0",
+          "AVG": "0.0",
+          "TD": "0",
+          "INT": "0",
+          "SACKS": "0-0",
+          "QBR": "4.3",
+          "RTG": "39.6"
+        },
+        "rushing": {
+          "CAR": "1",
+          "YDS": "2",
+          "AVG": "2.0",
+          "TD": "0",
+          "LONG": "2"
+        }
+      }
+    },
+    {
+      "player_id": "4242335",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "rushing": {
+          "CAR": "11",
+          "YDS": "21",
+          "AVG": "1.9",
+          "TD": "0",
+          "LONG": "6"
+        },
+        "receiving": {
+          "REC": "4",
+          "YDS": "6",
+          "AVG": "1.5",
+          "TD": "0",
+          "LONG": "5",
+          "TGTS": "5"
+        }
+      }
+    },
+    {
+      "player_id": "4686468",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "rushing": {
+          "CAR": "3",
+          "YDS": "7",
+          "AVG": "2.3",
+          "TD": "0",
+          "LONG": "8"
+        },
+        "receiving": {
+          "REC": "1",
+          "YDS": "1",
+          "AVG": "1.0",
+          "TD": "0",
+          "LONG": "1",
+          "TGTS": "1"
+        },
+        "kickReturns": {
+          "NO": "3",
+          "YDS": "117",
+          "AVG": "39.0",
+          "LONG": "47",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4874509",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "rushing": {
+          "CAR": "1",
+          "YDS": "5",
+          "AVG": "5.0",
+          "TD": "0",
+          "LONG": "5"
+        },
+        "receiving": {
+          "REC": "1",
+          "YDS": "11",
+          "AVG": "11.0",
+          "TD": "0",
+          "LONG": "11",
+          "TGTS": "1"
+        }
+      }
+    },
+    {
+      "player_id": "4429684",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "2",
+          "YDS": "48",
+          "AVG": "24.0",
+          "TD": "0",
+          "LONG": "31",
+          "TGTS": "3"
+        }
+      }
+    },
+    {
+      "player_id": "4061956",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "2",
+          "YDS": "30",
+          "AVG": "15.0",
+          "TD": "0",
+          "LONG": "25",
+          "TGTS": "4"
+        },
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4050373",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "1",
+          "YDS": "26",
+          "AVG": "26.0",
+          "TD": "0",
+          "LONG": "26",
+          "TGTS": "3"
+        }
+      }
+    },
+    {
+      "player_id": "4431459",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "1",
+          "YDS": "22",
+          "AVG": "22.0",
+          "TD": "0",
+          "LONG": "22",
+          "TGTS": "5"
+        }
+      }
+    },
+    {
+      "player_id": "3051889",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "0",
+          "YDS": "0",
+          "AVG": "0.0",
+          "TD": "0",
+          "LONG": "0",
+          "TGTS": "1"
+        }
+      }
+    },
+    {
+      "player_id": "4683151",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "0",
+          "YDS": "0",
+          "AVG": "0.0",
+          "TD": "0",
+          "LONG": "0",
+          "TGTS": "3"
+        },
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        },
+        "kickReturns": {
+          "NO": "1",
+          "YDS": "10",
+          "AVG": "10.0",
+          "LONG": "10",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4870598",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "16",
+          "SOLO": "7",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4905664",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "9",
+          "SOLO": "4",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        },
+        "interceptions": {
+          "INT": "1",
+          "YDS": "2",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4427635",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "7",
+          "SOLO": "4",
+          "SACKS": "1",
+          "TFL": "1",
+          "PD": "0",
+          "QB HTS": "1",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4035861",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "6",
+          "SOLO": "5",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "5088571",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "6",
+          "SOLO": "3",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4058825",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "6",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4374171",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "5",
+          "SOLO": "3",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4682909",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "5",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4432789",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "4",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4685324",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "3",
+          "SOLO": "3",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4692033",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4695991",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4722908",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "2566045",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "3843843",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "5153072",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4566154",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4685970",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4708238",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4571557",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "kicking": {
+          "FG": "1/3",
+          "PCT": "33.3",
+          "LONG": "34",
+          "XP": "0/0",
+          "PTS": "3"
+        }
+      }
+    },
+    {
+      "player_id": "3914922",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "punting": {
+          "NO": "3",
+          "YDS": "147",
+          "AVG": "49.0",
+          "TB": "0",
+          "In 20": "1",
+          "LONG": "53"
+        }
+      }
+    },
+    {
+      "player_id": "4432577",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "passing": {
+          "C/ATT": "21/27",
+          "YDS": "194",
+          "AVG": "7.2",
+          "TD": "3",
+          "INT": "1",
+          "SACKS": "1-7",
+          "QBR": "79.8",
+          "RTG": "118.2"
+        },
+        "rushing": {
+          "CAR": "6",
+          "YDS": "27",
+          "AVG": "4.5",
+          "TD": "0",
+          "LONG": "26"
+        }
+      }
+    },
+    {
+      "player_id": "4035538",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "rushing": {
+          "CAR": "26",
+          "YDS": "107",
+          "AVG": "4.1",
+          "TD": "0",
+          "LONG": "15"
+        },
+        "receiving": {
+          "REC": "3",
+          "YDS": "17",
+          "AVG": "5.7",
+          "TD": "0",
+          "LONG": "9",
+          "TGTS": "4"
+        }
+      }
+    },
+    {
+      "player_id": "4362478",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "rushing": {
+          "CAR": "5",
+          "YDS": "33",
+          "AVG": "6.6",
+          "TD": "0",
+          "LONG": "10"
+        },
+        "receiving": {
+          "REC": "2",
+          "YDS": "-4",
+          "AVG": "-2.0",
+          "TD": "0",
+          "LONG": "0",
+          "TGTS": "2"
+        }
+      }
+    },
+    {
+      "player_id": "4258173",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "3",
+          "YDS": "58",
+          "AVG": "19.3",
+          "TD": "1",
+          "LONG": "42",
+          "TGTS": "5"
+        }
+      }
+    },
+    {
+      "player_id": "4429022",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "2",
+          "YDS": "40",
+          "AVG": "20.0",
+          "TD": "1",
+          "LONG": "24",
+          "TGTS": "2"
+        }
+      }
+    },
+    {
+      "player_id": "4366031",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "3",
+          "YDS": "27",
+          "AVG": "9.0",
+          "TD": "0",
+          "LONG": "10",
+          "TGTS": "4"
+        },
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4695705",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "4",
+          "YDS": "24",
+          "AVG": "6.0",
+          "TD": "1",
+          "LONG": "13",
+          "TGTS": "4"
+        }
+      }
+    },
+    {
+      "player_id": "4686422",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "2",
+          "YDS": "13",
+          "AVG": "6.5",
+          "TD": "0",
+          "LONG": "11",
+          "TGTS": "3"
+        }
+      }
+    },
+    {
+      "player_id": "3117256",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "1",
+          "YDS": "11",
+          "AVG": "11.0",
+          "TD": "0",
+          "LONG": "11",
+          "TGTS": "1"
+        }
+      }
+    },
+    {
+      "player_id": "3843945",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "receiving": {
+          "REC": "1",
+          "YDS": "8",
+          "AVG": "8.0",
+          "TD": "0",
+          "LONG": "8",
+          "TGTS": "1"
+        }
+      }
+    },
+    {
+      "player_id": "4426350",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "6",
+          "SOLO": "4",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4361366",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "6",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4685724",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "5",
+          "SOLO": "2",
+          "SACKS": "1",
+          "TFL": "2",
+          "PD": "0",
+          "QB HTS": "4",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4033812",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "5",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "2",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "16734",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "4",
+          "SOLO": "3",
+          "SACKS": "1",
+          "TFL": "2",
+          "PD": "0",
+          "QB HTS": "1",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4243956",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "4",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4426434",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "3",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4241223",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4594277",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4837286",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "2",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4870893",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4046716",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "2",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4240059",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4244300",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "0",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4360189",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "1",
+          "PD": "0",
+          "QB HTS": "1",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4431517",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "1",
+          "SOLO": "1",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "1",
+          "QB HTS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4602699",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "defensive": {
+          "TOT": "0",
+          "SOLO": "0",
+          "SACKS": "0",
+          "TFL": "0",
+          "PD": "2",
+          "QB HTS": "0",
+          "TD": "0"
+        },
+        "interceptions": {
+          "INT": "1",
+          "YDS": "0",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "3134448",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "kickReturns": {
+          "NO": "2",
+          "YDS": "63",
+          "AVG": "31.5",
+          "LONG": "32",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "4372716",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "kickReturns": {
+          "NO": "1",
+          "YDS": "21",
+          "AVG": "21.0",
+          "LONG": "21",
+          "TD": "0"
+        },
+        "puntReturns": {
+          "NO": "3",
+          "YDS": "32",
+          "AVG": "10.7",
+          "LONG": "15",
+          "TD": "0"
+        }
+      }
+    },
+    {
+      "player_id": "2971573",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "kicking": {
+          "FG": "1/1",
+          "PCT": "100.0",
+          "LONG": "27",
+          "XP": "3/3",
+          "PTS": "6"
+        }
+      }
+    },
+    {
+      "player_id": "4570033",
+      "week": 11,
+      "event_id": "401873066",
+      "statistics": {
+        "punting": {
+          "NO": "3",
+          "YDS": "164",
+          "AVG": "54.7",
+          "TB": "1",
+          "In 20": "1",
+          "LONG": "62"
         }
       }
     }
