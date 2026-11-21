@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T15:36:41.449999+00:00",
+  "updated_at_utc": "2026-11-21T03:30:00.386758+00:00",
   "player_count": 1062,
   "players": [
     {
@@ -31130,7 +31130,7 @@
       "name": "Geno Smith",
       "position_id": 1,
       "team_id": 20,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -74233,7 +74233,7 @@
       "name": "Jakobi Meyers",
       "position_id": 3,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -79238,7 +79238,7 @@
       "name": "Britain Covey",
       "position_id": 3,
       "team_id": 21,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -87354,7 +87354,7 @@
       "name": "T.J. Hockenson",
       "position_id": 4,
       "team_id": 16,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -94341,7 +94341,7 @@
       "name": "Ian Thomas",
       "position_id": 4,
       "team_id": 13,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -95227,7 +95227,7 @@
       "name": "A.J. Brown",
       "position_id": 3,
       "team_id": 17,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2025,
@@ -123300,7 +123300,7 @@
       "name": "Jeshaun Jones",
       "position_id": 3,
       "team_id": 16,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -136177,7 +136177,7 @@
       "name": "Chris Rodriguez Jr.",
       "position_id": 2,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -141559,7 +141559,7 @@
       "name": "Jaylen Waddle",
       "position_id": 3,
       "team_id": 7,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -149627,7 +149627,7 @@
       "name": "Dalton Kincaid",
       "position_id": 4,
       "team_id": 2,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2025,
@@ -154587,7 +154587,7 @@
       "name": "Jonathan Mingo",
       "position_id": 3,
       "team_id": 6,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -162122,7 +162122,7 @@
       "name": "Dontayvion Wicks",
       "position_id": 3,
       "team_id": 21,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -168518,7 +168518,7 @@
       "name": "Ray Davis",
       "position_id": 2,
       "team_id": 2,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -173881,7 +173881,7 @@
       "name": "Jared Wayne",
       "position_id": 3,
       "team_id": 15,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -180654,7 +180654,7 @@
       "name": "Drake Maye",
       "position_id": 1,
       "team_id": 17,
-      "injury_status": "DOUBTFUL",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -190586,7 +190586,7 @@
       "name": "Kenneth Walker III",
       "position_id": 2,
       "team_id": 12,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -192073,7 +192073,7 @@
       "name": "Treylon Burks",
       "position_id": 3,
       "team_id": 28,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -220920,7 +220920,7 @@
       "name": "Brenen Thompson",
       "position_id": 3,
       "team_id": 24,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2026,
@@ -233340,7 +233340,7 @@
       "name": "Rachaad White",
       "position_id": 2,
       "team_id": 28,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -243018,7 +243018,7 @@
       "name": "Caleb Douglas",
       "position_id": 3,
       "team_id": 15,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2026,
@@ -243301,7 +243301,7 @@
       "name": "Zavion Thomas",
       "position_id": 3,
       "team_id": 3,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2026,
@@ -243561,7 +243561,7 @@
       "name": "Chris Bell",
       "position_id": 3,
       "team_id": 15,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2026,
@@ -248090,7 +248090,7 @@
       "name": "Jordyn Tyson",
       "position_id": 3,
       "team_id": 18,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2026,
@@ -248309,7 +248309,7 @@
       "name": "Bhayshul Tuten",
       "position_id": 2,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -250736,7 +250736,7 @@
       "name": "LeQuint Allen Jr.",
       "position_id": 2,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,

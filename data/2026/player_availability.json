@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-20T15:36:41.449999+00:00",
+  "updated_at_utc": "2026-11-21T03:30:00.386758+00:00",
   "weeks_examined": [
     1,
     2,
@@ -6692,7 +6692,7 @@
       "name": "Geno Smith",
       "position_id": 1,
       "team_id": 20,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -31810,7 +31810,7 @@
       "name": "Jakobi Meyers",
       "position_id": 3,
       "team_id": 30,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -34572,7 +34572,7 @@
       "name": "Britain Covey",
       "position_id": 3,
       "team_id": 21,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -40224,7 +40224,7 @@
       "name": "T.J. Hockenson",
       "position_id": 4,
       "team_id": 16,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -44368,7 +44368,7 @@
       "name": "Ian Thomas",
       "position_id": 4,
       "team_id": 13,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -44995,7 +44995,7 @@
       "name": "A.J. Brown",
       "position_id": 3,
       "team_id": 17,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "DOUBTFUL",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -62205,7 +62205,7 @@
       "name": "Jeshaun Jones",
       "position_id": 3,
       "team_id": 16,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -69493,7 +69493,7 @@
       "name": "Chris Rodriguez Jr.",
       "position_id": 2,
       "team_id": 30,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -72386,7 +72386,7 @@
       "name": "Jaylen Waddle",
       "position_id": 3,
       "team_id": 7,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -77037,7 +77037,7 @@
       "name": "Dalton Kincaid",
       "position_id": 4,
       "team_id": 2,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "DOUBTFUL",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -79926,7 +79926,7 @@
       "name": "Jonathan Mingo",
       "position_id": 3,
       "team_id": 6,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -84451,7 +84451,7 @@
       "name": "Dontayvion Wicks",
       "position_id": 3,
       "team_id": 21,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -88096,7 +88096,7 @@
       "name": "Ray Davis",
       "position_id": 2,
       "team_id": 2,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -90614,7 +90614,7 @@
       "name": "Jared Wayne",
       "position_id": 3,
       "team_id": 15,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -93512,7 +93512,7 @@
       "name": "Drake Maye",
       "position_id": 1,
       "team_id": 17,
-      "latest_injury_status": "DOUBTFUL",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -98545,7 +98545,7 @@
       "name": "Kenneth Walker III",
       "position_id": 2,
       "team_id": 12,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -99048,7 +99048,7 @@
       "name": "Treylon Burks",
       "position_id": 3,
       "team_id": 28,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -113515,7 +113515,7 @@
       "name": "Brenen Thompson",
       "position_id": 3,
       "team_id": 24,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "DOUBTFUL",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -118925,7 +118925,7 @@
       "name": "Rachaad White",
       "position_id": 2,
       "team_id": 28,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -124085,7 +124085,7 @@
       "name": "Caleb Douglas",
       "position_id": 3,
       "team_id": 15,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -124211,7 +124211,7 @@
       "name": "Zavion Thomas",
       "position_id": 3,
       "team_id": 3,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -124337,7 +124337,7 @@
       "name": "Chris Bell",
       "position_id": 3,
       "team_id": 15,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -127229,7 +127229,7 @@
       "name": "Jordyn Tyson",
       "position_id": 3,
       "team_id": 18,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -127355,7 +127355,7 @@
       "name": "Bhayshul Tuten",
       "position_id": 2,
       "team_id": 30,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -128362,7 +128362,7 @@
       "name": "LeQuint Allen Jr.",
       "position_id": 2,
       "team_id": 30,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,

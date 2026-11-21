@@ -1878,8 +1878,8 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 33,
-        "drops": 33,
+        "acquisitions": 35,
+        "drops": 35,
         "matchupAcquisitionTotals": {
           "2": 3,
           "3": 3,
@@ -1890,7 +1890,7 @@
           "8": 4,
           "9": 2,
           "10": 2,
-          "11": 3
+          "11": 5
         },
         "misc": 0,
         "moveToActive": 43,
@@ -2182,7 +2182,7 @@
           "11": 3
         },
         "misc": 0,
-        "moveToActive": 51,
+        "moveToActive": 52,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2471,8 +2471,8 @@
           "11": 1
         },
         "misc": 0,
-        "moveToActive": 47,
-        "moveToIR": 5,
+        "moveToActive": 48,
+        "moveToIR": 6,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 2
