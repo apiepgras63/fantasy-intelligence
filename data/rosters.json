@@ -443,15 +443,6 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 2985659,
-          "name": "Wil Lutz",
-          "position_id": 5,
-          "lineup_slot_id": 17,
-          "injury_status": "ACTIVE",
-          "pro_team_id": 7,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4880281,
           "name": "Jordyn Tyson",
           "position_id": 3,
@@ -476,6 +467,15 @@
           "lineup_slot_id": 20,
           "injury_status": "INJURY_RESERVE",
           "pro_team_id": 29,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 3124679,
+          "name": "Jason Sanders",
+          "position_id": 5,
+          "lineup_slot_id": 17,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 20,
           "acquisition_type": "ADD"
         }
       ]
@@ -536,15 +536,6 @@
           "lineup_slot_id": 6,
           "injury_status": "ACTIVE",
           "pro_team_id": 5,
-          "acquisition_type": "DRAFT"
-        },
-        {
-          "player_id": 4569587,
-          "name": "Wan'Dale Robinson",
-          "position_id": 3,
-          "lineup_slot_id": 20,
-          "injury_status": "INJURY_RESERVE",
-          "pro_team_id": 10,
           "acquisition_type": "DRAFT"
         },
         {
@@ -636,6 +627,15 @@
           "injury_status": "ACTIVE",
           "pro_team_id": 29,
           "acquisition_type": "TRADE"
+        },
+        {
+          "player_id": 4686728,
+          "name": "Gunnar Helm",
+          "position_id": 4,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 10,
+          "acquisition_type": "ADD"
         }
       ]
     },
