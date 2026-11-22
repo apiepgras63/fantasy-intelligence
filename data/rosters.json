@@ -915,7 +915,7 @@
           "name": "Treylon Burks",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 28,
           "acquisition_type": "ADD"
         },
@@ -1424,7 +1424,7 @@
           "player_id": 4431452,
           "name": "Drake Maye",
           "position_id": 1,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 21,
           "injury_status": "OUT",
           "pro_team_id": 17,
           "acquisition_type": "DRAFT"
@@ -1434,7 +1434,7 @@
           "name": "Kyren Williams",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 14,
           "acquisition_type": "DRAFT"
         },
@@ -2069,7 +2069,7 @@
           "player_id": 4612826,
           "name": "Ladd McConkey",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 23,
           "injury_status": "QUESTIONABLE",
           "pro_team_id": 24,
           "acquisition_type": "DRAFT"
@@ -2087,7 +2087,7 @@
           "player_id": 4385690,
           "name": "Dalton Kincaid",
           "position_id": 4,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "DOUBTFUL",
           "pro_team_id": 2,
           "acquisition_type": "DRAFT"

@@ -2907,7 +2907,7 @@
         },
         "misc": 0,
         "moveToActive": 27,
-        "moveToIR": 0,
+        "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 0
@@ -3477,7 +3477,7 @@
           "11": 2
         },
         "misc": 0,
-        "moveToActive": 62,
+        "moveToActive": 63,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,

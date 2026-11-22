@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-21T15:25:53.764266+00:00",
+  "updated_at_utc": "2026-11-22T03:31:45.477381+00:00",
   "player_count": 1062,
   "players": [
     {
@@ -32852,7 +32852,7 @@
       "player_id": 16731,
       "name": "Brandin Cooks",
       "position_id": 3,
-      "team_id": 25,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -52371,7 +52371,7 @@
       "player_id": 3051909,
       "name": "Daniel Carlson",
       "position_id": 5,
-      "team_id": 0,
+      "team_id": 15,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -99983,7 +99983,7 @@
       "player_id": 4240657,
       "name": "Michael Carter",
       "position_id": 2,
-      "team_id": 0,
+      "team_id": 10,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -160853,7 +160853,7 @@
       "name": "Tyjae Spears",
       "position_id": 2,
       "team_id": 10,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "INJURY_RESERVE",
       "stats": [
         {
           "season_id": 2025,
@@ -162122,7 +162122,7 @@
       "name": "Dontayvion Wicks",
       "position_id": 3,
       "team_id": 21,
-      "injury_status": "OUT",
+      "injury_status": "INJURY_RESERVE",
       "stats": [
         {
           "season_id": 2025,
@@ -174312,7 +174312,7 @@
       "name": "Kyren Williams",
       "position_id": 2,
       "team_id": 14,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -176167,7 +176167,7 @@
       "name": "Carson Beck",
       "position_id": 1,
       "team_id": 22,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -182725,7 +182725,7 @@
       "name": "Roman Wilson",
       "position_id": 3,
       "team_id": 23,
-      "injury_status": "INJURY_RESERVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -183100,7 +183100,7 @@
       "name": "Will Shipley",
       "position_id": 2,
       "team_id": 21,
-      "injury_status": "INJURY_RESERVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -192073,7 +192073,7 @@
       "name": "Treylon Burks",
       "position_id": 3,
       "team_id": 28,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,

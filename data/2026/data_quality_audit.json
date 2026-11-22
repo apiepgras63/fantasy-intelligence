@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-21T15:25:53.764266+00:00",
+  "updated_at_utc": "2026-11-22T03:31:45.477381+00:00",
   "total_players": 1062,
   "total_stored_stat_entries": 10760,
   "valid_weekly_scoring_entries": 6647,
@@ -62,6 +62,11 @@
     {
       "player_id": 16140,
       "name": "Ryan Griffin",
+      "team_id": "0"
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
       "team_id": "0"
     },
     {
@@ -227,11 +232,6 @@
     {
       "player_id": 3051738,
       "name": "Marquez Valdes-Scantling",
-      "team_id": "0"
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
       "team_id": "0"
     },
     {
@@ -777,11 +777,6 @@
     {
       "player_id": 4240600,
       "name": "Kadarius Toney",
-      "team_id": "0"
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
       "team_id": "0"
     },
     {
@@ -1657,10 +1652,10 @@
     "duplicate_player_week_count": 0,
     "scores_on_scheduled_byes_count": 0,
     "nonfinal_game_score_count": 0,
-    "unknown_team_id_count": 327,
+    "unknown_team_id_count": 326,
     "other_stat_entry_count": 4113,
-    "original_bye_flags_before_correction": 187,
-    "scoring_team_conflicts_needing_review": 7
+    "original_bye_flags_before_correction": 181,
+    "scoring_team_conflicts_needing_review": 8
   },
   "limitations": [
     "Current player team IDs may not match historical teams.",
@@ -1751,6 +1746,48 @@
       "team_id": "25",
       "week": 8,
       "points": 13.7
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 5,
+      "points": 7.7
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 6,
+      "points": 2.3
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 7,
+      "points": 2.3
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 9,
+      "points": 4.5
+    },
+    {
+      "player_id": 16731,
+      "name": "Brandin Cooks",
+      "team_id": "0",
+      "week": 10,
+      "points": 0.0
     },
     {
       "player_id": 16760,
@@ -1860,51 +1897,9 @@
     {
       "player_id": 3051909,
       "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 1,
-      "points": 5.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 2,
-      "points": 13.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 3,
-      "points": 3.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 4,
-      "points": 5.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 5,
-      "points": 1.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
+      "team_id": "15",
       "week": 6,
       "points": 13.0
-    },
-    {
-      "player_id": 3051909,
-      "name": "Daniel Carlson",
-      "team_id": "0",
-      "week": 7,
-      "points": 3.0
     },
     {
       "player_id": 3115928,
@@ -2143,48 +2138,6 @@
       "team_id": "0",
       "week": 10,
       "points": 3.5
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 3,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 4,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 5,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 6,
-      "points": 0.0
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 7,
-      "points": 2.4
-    },
-    {
-      "player_id": 4240657,
-      "name": "Michael Carter",
-      "team_id": "0",
-      "week": 8,
-      "points": 0.0
     },
     {
       "player_id": 4241372,
@@ -2980,11 +2933,11 @@
   ],
   "bye_classification_correction": {
     "season": "2026",
-    "updated_at_utc": "2026-11-21T15:25:53.764266+00:00",
+    "updated_at_utc": "2026-11-22T03:31:45.477381+00:00",
     "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
-    "unknown_team_weeks": 3597,
-    "historical_team_unverified_weeks": 7733,
+    "unknown_team_weeks": 3586,
+    "historical_team_unverified_weeks": 7744,
     "confirmed_dst_byes": 26,
-    "scoring_team_conflicts": 7
+    "scoring_team_conflicts": 8
   }
 }

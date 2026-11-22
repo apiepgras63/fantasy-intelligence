@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-21T15:25:53.764266+00:00",
+  "updated_at_utc": "2026-11-22T03:31:45.477381+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -3506,10 +3506,12 @@
         10,
         11
       ],
-      "scoring_team_conflicts": [],
+      "scoring_team_conflicts": [
+        6
+      ],
       "historical_injury_status": "unverified",
       "games_played": null,
-      "review_priority": "normal"
+      "review_priority": "high"
     },
     {
       "player_id": 4685512,
