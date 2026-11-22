@@ -8859,8 +8859,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -12195,8 +12194,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -14484,8 +14482,7 @@
                       "seasonId": 2026,
                       "statSourceId": 1,
                       "statSplitTypeId": 1,
-                      "stats": {},
-                      "variance": {}
+                      "stats": {}
                     }
                   ]
                 }
@@ -21079,10 +21076,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795248666312,
+    "standingsUpdateDate": 1795337296767,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795248666029,
+    "waiverLastExecutionDate": 1795337296550,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
