@@ -1,9 +1,9 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-22T15:26:18.793339+00:00",
-  "cached_games": 151,
-  "new_games_this_run": 0,
+  "updated_at_utc": "2026-11-23T03:38:14.954740+00:00",
+  "cached_games": 161,
+  "new_games_this_run": 10,
   "errors": {},
-  "verified_boxscore_listings": 9887,
+  "verified_boxscore_listings": 10538,
   "note": "A boxscore listing is evidence of participation, not independent proof of every snap or injury absence."
 }
