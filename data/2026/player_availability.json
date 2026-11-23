@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-23T03:38:00.616314+00:00",
+  "updated_at_utc": "2026-11-23T15:44:18.461192+00:00",
   "weeks_examined": [
     1,
     2,
@@ -1014,7 +1014,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -2146,7 +2146,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -5806,7 +5806,7 @@
       "name": "Case Keenum",
       "position_id": 1,
       "team_id": 3,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -42331,7 +42331,7 @@
       "name": "Lil'Jordan Humphrey",
       "position_id": 3,
       "team_id": 7,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -46345,7 +46345,7 @@
       "name": "AJ Dillon",
       "position_id": 2,
       "team_id": 29,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -50994,7 +50994,7 @@
       "name": "Sam Ehlinger",
       "position_id": 1,
       "team_id": 7,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -83638,7 +83638,7 @@
       "name": "Kedon Slovis",
       "position_id": 1,
       "team_id": 33,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         9,
         10,
@@ -84892,7 +84892,7 @@
       "name": "Haynes King",
       "position_id": 1,
       "team_id": 29,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -91681,7 +91681,7 @@
       "name": "KeAndre Lambert-Smith",
       "position_id": 3,
       "team_id": 24,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -95329,7 +95329,7 @@
       "name": "Ja'Tavion Sanders",
       "position_id": 4,
       "team_id": 29,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -97343,7 +97343,7 @@
       "name": "Dont'e Thornton Jr.",
       "position_id": 3,
       "team_id": 13,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -99480,7 +99480,7 @@
       "name": "Garrett Nussmeier",
       "position_id": 1,
       "team_id": 12,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         4,
@@ -103252,7 +103252,7 @@
       "name": "Max Brosmer",
       "position_id": 1,
       "team_id": 16,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         4,
         5,
@@ -109416,7 +109416,7 @@
       "name": "Skyler Bell",
       "position_id": 3,
       "team_id": 2,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -109920,7 +109920,7 @@
       "name": "Riley Leonard",
       "position_id": 1,
       "team_id": 11,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -113313,7 +113313,7 @@
       "name": "Adam Randall",
       "position_id": 2,
       "team_id": 33,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -127513,7 +127513,7 @@
       "name": "Bhayshul Tuten",
       "position_id": 2,
       "team_id": 30,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -128645,7 +128645,7 @@
       "name": "Justin Joly",
       "position_id": 4,
       "team_id": 15,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -131037,7 +131037,7 @@
       "name": "CJ Williams",
       "position_id": 3,
       "team_id": 30,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -131289,7 +131289,7 @@
       "name": "Elijah Sarratt",
       "position_id": 3,
       "team_id": 33,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -132169,7 +132169,7 @@
       "name": "Malik Benson",
       "position_id": 3,
       "team_id": 13,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -132672,7 +132672,7 @@
       "name": "Dallen Bentley",
       "position_id": 4,
       "team_id": 7,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         3,

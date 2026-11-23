@@ -825,7 +825,7 @@
           "name": "Bhayshul Tuten",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 30,
           "acquisition_type": "DRAFT"
         },
@@ -1943,15 +1943,6 @@
           "acquisition_type": "DRAFT"
         },
         {
-          "player_id": -16026,
-          "name": "Seahawks D/ST",
-          "position_id": 16,
-          "lineup_slot_id": 20,
-          "injury_status": null,
-          "pro_team_id": 26,
-          "acquisition_type": "DRAFT"
-        },
-        {
           "player_id": 2976212,
           "name": "Stefon Diggs",
           "position_id": 3,
@@ -2048,6 +2039,15 @@
           "lineup_slot_id": 20,
           "injury_status": "OUT",
           "pro_team_id": 26,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": 4360248,
+          "name": "Kyle Pitts Sr.",
+          "position_id": 4,
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
+          "pro_team_id": 1,
           "acquisition_type": "ADD"
         }
       ]

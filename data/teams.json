@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795337296767,
+    "standingsUpdateDate": 1795421052195,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795337296550,
+    "waiverLastExecutionDate": 1795421052110,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -1956,7 +1956,7 @@
         "enabled": false,
         "type": "NONE"
       },
-      "currentProjectedRank": 9,
+      "currentProjectedRank": 8,
       "divisionId": 0,
       "draftDayProjectedRank": 1,
       "draftStrategy": {
@@ -2677,7 +2677,7 @@
     },
     {
       "abbrev": "KTT",
-      "currentProjectedRank": 8,
+      "currentProjectedRank": 9,
       "divisionId": 0,
       "draftDayProjectedRank": 6,
       "draftStrategy": {
@@ -2820,7 +2820,7 @@
     },
     {
       "abbrev": "THs",
-      "currentProjectedRank": 10,
+      "currentProjectedRank": 11,
       "divisionId": 0,
       "draftDayProjectedRank": 12,
       "draftStrategy": {
@@ -3254,7 +3254,7 @@
         "enabled": true,
         "type": "MANUAL"
       },
-      "currentProjectedRank": 11,
+      "currentProjectedRank": 10,
       "divisionId": 0,
       "draftDayProjectedRank": 14,
       "eliminated": false,
@@ -3323,8 +3323,8 @@
       },
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 10,
-        "drops": 9,
+        "acquisitions": 11,
+        "drops": 10,
         "matchupAcquisitionTotals": {
           "1": 1,
           "2": 2,
@@ -3332,7 +3332,7 @@
           "4": 1,
           "9": 1,
           "10": 2,
-          "11": 2
+          "11": 3
         },
         "misc": 0,
         "moveToActive": 21,

@@ -32,10 +32,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795337296767,
+    "standingsUpdateDate": 1795421052195,
     "teamsJoined": 14,
     "transactionScoringPeriod": 11,
-    "waiverLastExecutionDate": 1795337296550,
+    "waiverLastExecutionDate": 1795421052110,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -3230,6 +3230,43 @@
       "status": "EXECUTED",
       "teamId": 5,
       "type": "ROSTER"
+    },
+    {
+      "bidAmount": 0,
+      "executionType": "EXECUTE",
+      "id": "05785a54-894e-4df3-8816-d4b4d710c26b",
+      "isActingAsTeamOwner": false,
+      "isLeagueManager": false,
+      "isPending": false,
+      "items": [
+        {
+          "fromLineupSlotId": -1,
+          "fromTeamId": 0,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": 4360248,
+          "toLineupSlotId": 20,
+          "toTeamId": 13,
+          "type": "ADD"
+        },
+        {
+          "fromLineupSlotId": 20,
+          "fromTeamId": 13,
+          "isKeeper": false,
+          "overallPickNumber": 0,
+          "playerId": -16026,
+          "toLineupSlotId": -1,
+          "toTeamId": 0,
+          "type": "DROP"
+        }
+      ],
+      "memberId": "NightlyLeagueUpdateTaskProcessor",
+      "proposedDate": 1795421052038,
+      "rating": 0,
+      "scoringPeriodId": 11,
+      "status": "EXECUTED",
+      "teamId": 13,
+      "type": "FREEAGENT"
     },
     {
       "bidAmount": 0,
