@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-24T03:36:07.392741+00:00",
+  "updated_at_utc": "2026-11-24T15:41:47.635226+00:00",
   "weeks_examined": [
     1,
     2,
@@ -636,7 +636,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -3655,7 +3655,7 @@
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -29905,7 +29905,7 @@
       "name": "Sam Darnold",
       "position_id": 1,
       "team_id": 26,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -32667,7 +32667,7 @@
       "name": "Kyler Murray",
       "position_id": 1,
       "team_id": 16,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -33043,7 +33043,7 @@
       "player_id": 3917792,
       "name": "Daniel Jones",
       "position_id": 1,
-      "team_id": 11,
+      "team_id": 0,
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
@@ -33064,102 +33064,102 @@
       "weekly_classification": {
         "1": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "2": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "3": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "4": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "5": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "6": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "7": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "8": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "9": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "10": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         }
       },
       "bye_week_method": "Verified NFL team schedule for D/ST; unverified historical team for individuals."
@@ -44714,7 +44714,7 @@
       "name": "Josh Jacobs",
       "position_id": 2,
       "team_id": 9,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -51746,7 +51746,7 @@
       "name": "Jake Ferguson",
       "position_id": 4,
       "team_id": 6,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -61660,7 +61660,7 @@
       "player_id": 4360438,
       "name": "Brandon Aiyuk",
       "position_id": 3,
-      "team_id": 25,
+      "team_id": 0,
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
@@ -61682,102 +61682,102 @@
       "weekly_classification": {
         "1": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "2": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "3": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "4": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "5": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "6": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "7": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "8": {
           "scoring_record": false,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "9": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "10": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         },
         "11": {
           "scoring_record": true,
-          "team_game_status": "historical_team_unverified",
+          "team_game_status": "unknown_team_assignment",
           "bye_week": null,
           "participation": "unverified",
           "injury_absence": "unverified",
           "historical_team_verified": false,
-          "classification_reason": "Current team ID cannot establish historical team assignment or bye."
+          "classification_reason": "Player has no recognized current NFL team ID. Historical bye cannot be verified."
         }
       },
       "bye_week_method": "Verified NFL team schedule for D/ST; unverified historical team for individuals."
@@ -68945,7 +68945,7 @@
       "name": "Brevin Jordan",
       "position_id": 4,
       "team_id": 34,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -69071,7 +69071,7 @@
       "name": "Will Mallory",
       "position_id": 4,
       "team_id": 11,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -77110,7 +77110,7 @@
       "name": "Dalton Kincaid",
       "position_id": 4,
       "team_id": 2,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -79997,7 +79997,7 @@
       "name": "Jonathan Mingo",
       "position_id": 3,
       "team_id": 6,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -86273,7 +86273,7 @@
       "name": "Woody Marks",
       "position_id": 2,
       "team_id": 34,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -87404,7 +87404,7 @@
       "name": "Jordan Addison",
       "position_id": 3,
       "team_id": 16,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "DOUBTFUL",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -90674,7 +90674,7 @@
       "name": "Jared Wayne",
       "position_id": 3,
       "team_id": 15,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -91556,7 +91556,7 @@
       "name": "Carson Beck",
       "position_id": 1,
       "team_id": 22,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -96336,7 +96336,7 @@
       "name": "Brock Bowers",
       "position_id": 4,
       "team_id": 13,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -96461,7 +96461,7 @@
       "name": "Marvin Harrison Jr.",
       "position_id": 3,
       "team_id": 34,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -96713,7 +96713,7 @@
       "name": "Athan Kaliakmanis",
       "position_id": 1,
       "team_id": 28,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -98601,7 +98601,7 @@
       "name": "Kenneth Walker III",
       "position_id": 2,
       "team_id": 12,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -100361,7 +100361,7 @@
       "name": "Isaiah Williams",
       "position_id": 3,
       "team_id": 20,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -113564,7 +113564,7 @@
       "name": "Brenen Thompson",
       "position_id": 3,
       "team_id": 24,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -119847,7 +119847,7 @@
       "name": "Cam Grandy",
       "position_id": 4,
       "team_id": 4,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         8,
         9,
@@ -122239,7 +122239,7 @@
       "name": "Omar Cooper Jr.",
       "position_id": 3,
       "team_id": 20,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -124625,7 +124625,7 @@
       "name": "Zachariah Branch",
       "position_id": 3,
       "team_id": 1,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -132295,7 +132295,7 @@
       "name": "Robert Henry Jr.",
       "position_id": 2,
       "team_id": 28,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         5,
         6,

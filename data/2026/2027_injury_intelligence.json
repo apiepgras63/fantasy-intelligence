@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-24T03:36:20.464383+00:00",
+  "updated_at_utc": "2026-11-24T15:42:05.113593+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -35534,6 +35534,226 @@
       },
       "source": "ESPN game injury data",
       "event_id": "401873077"
+    },
+    {
+      "player_id": "4239694",
+      "name": "Amik Robertson",
+      "week": 11,
+      "team_id": "28",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3051890",
+      "name": "Laremy Tunsil",
+      "week": 11,
+      "team_id": "28",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Triceps",
+        "location": "Arm",
+        "detail": "Surgery",
+        "side": "Right",
+        "returnDate": "2026-12-20"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "4361577",
+      "name": "Dyami Brown",
+      "week": 11,
+      "team_id": "28",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Calf",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3925354",
+      "name": "Daron Payne",
+      "week": 11,
+      "team_id": "28",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Foot",
+        "location": "Leg",
+        "detail": "Surgery",
+        "side": "Left",
+        "returnDate": "2027-02-15"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3127586",
+      "name": "Jeremy McNichols",
+      "week": 11,
+      "team_id": "28",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Foot",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2027-02-15"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3125082",
+      "name": "Dalton Risner",
+      "week": 11,
+      "team_id": "4",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Knee",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "4401811",
+      "name": "Kyle Dugger",
+      "week": 11,
+      "team_id": "4",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Quadriceps",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3125356",
+      "name": "Jalen Davis",
+      "week": 11,
+      "team_id": "4",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR-R",
+          "abbreviation": "IR-R",
+          "displayDescription": "IR-R"
+        },
+        "type": "Hamstring",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Left",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "4368003",
+      "name": "Andrei Iosivas",
+      "week": 11,
+      "team_id": "4",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR-R",
+          "abbreviation": "IR-R",
+          "displayDescription": "IR-R"
+        },
+        "type": "Thumb",
+        "location": "Arm",
+        "detail": "Surgery",
+        "side": "Left",
+        "returnDate": "2026-11-29"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
+    },
+    {
+      "player_id": "3051746",
+      "name": "Oren Burks",
+      "week": 11,
+      "team_id": "4",
+      "status": "Injured Reserve",
+      "type": "Injured Reserve",
+      "details": {
+        "fantasyStatus": {
+          "description": "IR",
+          "abbreviation": "IR",
+          "displayDescription": "IR"
+        },
+        "type": "Groin",
+        "location": "Groin",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-20"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873078"
     }
   ],
   "manual_injury_records": [],
@@ -37439,7 +37659,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -38179,7 +38400,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -38229,7 +38451,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -38270,7 +38493,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -38568,7 +38792,8 @@
         3,
         5,
         7,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -38578,7 +38803,30 @@
       "missing_scoring_weeks": [
         7
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "3127586",
+          "name": "Jeremy McNichols",
+          "week": 11,
+          "team_id": "28",
+          "status": "Injured Reserve",
+          "type": "Injured Reserve",
+          "details": {
+            "fantasyStatus": {
+              "description": "IR",
+              "abbreviation": "IR",
+              "displayDescription": "IR"
+            },
+            "type": "Foot",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2027-02-15"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873078"
+        }
+      ],
       "boxscore_listed_weeks": [
         6,
         8
@@ -39088,7 +39336,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -39970,7 +40219,8 @@
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         8,
-        9
+        9,
+        11
       ],
       "needs_review": true
     },
@@ -41331,7 +41581,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -43049,7 +43300,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -43220,7 +43472,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -43563,7 +43816,8 @@
         5,
         6,
         8,
-        9
+        9,
+        11
       ],
       "needs_review": true
     },
@@ -43981,7 +44235,30 @@
       "missing_scoring_weeks": [
         7
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "4361577",
+          "name": "Dyami Brown",
+          "week": 11,
+          "team_id": "28",
+          "status": "Injured Reserve",
+          "type": "Injured Reserve",
+          "details": {
+            "fantasyStatus": {
+              "description": "IR",
+              "abbreviation": "IR",
+              "displayDescription": "IR"
+            },
+            "type": "Calf",
+            "location": "Leg",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-06"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873078"
+        }
+      ],
       "boxscore_listed_weeks": [
         1,
         2,
@@ -44107,7 +44384,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -44215,7 +44493,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -44359,7 +44638,30 @@
       "missing_scoring_weeks": [
         6
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "4368003",
+          "name": "Andrei Iosivas",
+          "week": 11,
+          "team_id": "4",
+          "status": "Injured Reserve",
+          "type": "Injured Reserve",
+          "details": {
+            "fantasyStatus": {
+              "description": "IR-R",
+              "abbreviation": "IR-R",
+              "displayDescription": "IR-R"
+            },
+            "type": "Thumb",
+            "location": "Arm",
+            "detail": "Surgery",
+            "side": "Left",
+            "returnDate": "2026-11-29"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873078"
+        }
+      ],
       "boxscore_listed_weeks": [
         1,
         2
@@ -45044,7 +45346,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -45227,7 +45530,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -45894,7 +46198,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -47467,7 +47772,8 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -51476,7 +51782,8 @@
         5,
         6,
         8,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -52605,7 +52912,8 @@
         2,
         3,
         4,
-        5
+        5,
+        11
       ],
       "needs_review": true
     },
@@ -56014,7 +56322,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -58143,7 +58452,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -58222,7 +58532,8 @@
         6,
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -58786,7 +59097,8 @@
       "boxscore_listed_weeks": [
         8,
         9,
-        10
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -58842,7 +59154,8 @@
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         2,
-        3
+        3,
+        11
       ],
       "needs_review": true
     },

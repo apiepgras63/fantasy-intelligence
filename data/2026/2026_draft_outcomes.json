@@ -26,7 +26,7 @@
       "position": "WR",
       "2026_pick": 3,
       "historical_model_rank": 10,
-      "points": 198.8,
+      "points": 201.9,
       "median": 22.25
     },
     {
@@ -106,7 +106,7 @@
       "name": "Justin Jefferson",
       "position": "WR",
       "2026_pick": 12,
-      "historical_model_rank": 57,
+      "historical_model_rank": 58,
       "points": 125.3,
       "median": 11.25
     },
@@ -115,7 +115,7 @@
       "name": "James Cook III",
       "position": "RB",
       "2026_pick": 13,
-      "historical_model_rank": 7,
+      "historical_model_rank": 8,
       "points": 187.3,
       "median": 18.75
     },
@@ -142,7 +142,7 @@
       "name": "Kenneth Walker III",
       "position": "RB",
       "2026_pick": 16,
-      "historical_model_rank": 6,
+      "historical_model_rank": 7,
       "points": 196.4,
       "median": 22.55
     },
@@ -151,7 +151,7 @@
       "name": "Saquon Barkley",
       "position": "RB",
       "2026_pick": 17,
-      "historical_model_rank": 147,
+      "historical_model_rank": 148,
       "points": 72.2,
       "median": 8.6
     },
@@ -196,7 +196,7 @@
       "name": "Trey McBride",
       "position": "TE",
       "2026_pick": 22,
-      "historical_model_rank": 18,
+      "historical_model_rank": 19,
       "points": 186.3,
       "median": 16.5
     },
@@ -205,7 +205,7 @@
       "name": "Chris Olave",
       "position": "WR",
       "2026_pick": 23,
-      "historical_model_rank": 17,
+      "historical_model_rank": 18,
       "points": 166.6,
       "median": 18.0
     },
@@ -214,7 +214,7 @@
       "name": "Brock Bowers",
       "position": "TE",
       "2026_pick": 24,
-      "historical_model_rank": 55,
+      "historical_model_rank": 56,
       "points": 149.8,
       "median": 13.3
     },
@@ -241,7 +241,7 @@
       "name": "Nico Collins",
       "position": "WR",
       "2026_pick": 27,
-      "historical_model_rank": 60,
+      "historical_model_rank": 62,
       "points": 130.8,
       "median": 12.85
     },
@@ -250,16 +250,16 @@
       "name": "Jayden Daniels",
       "position": "QB",
       "2026_pick": 28,
-      "historical_model_rank": 62,
-      "points": 147.08,
-      "median": 14.86
+      "historical_model_rank": 53,
+      "points": 153.02,
+      "median": 16.02
     },
     {
       "player_id": "16800",
       "name": "Davante Adams",
       "position": "WR",
       "2026_pick": 29,
-      "historical_model_rank": 168,
+      "historical_model_rank": 169,
       "points": 102.0,
       "median": 6.25
     },
@@ -277,7 +277,7 @@
       "name": "Javonte Williams",
       "position": "RB",
       "2026_pick": 31,
-      "historical_model_rank": 19,
+      "historical_model_rank": 20,
       "points": 191.4,
       "median": 18.3
     },
@@ -286,8 +286,8 @@
       "name": "Joe Burrow",
       "position": "QB",
       "2026_pick": 32,
-      "historical_model_rank": 9,
-      "points": 249.52,
+      "historical_model_rank": 6,
+      "points": 252.2,
       "median": 24.16
     },
     {
@@ -295,7 +295,7 @@
       "name": "Garrett Wilson",
       "position": "WR",
       "2026_pick": 33,
-      "historical_model_rank": 53,
+      "historical_model_rank": 54,
       "points": 136.2,
       "median": 13.9
     },
@@ -358,7 +358,7 @@
       "name": "Cam Skattebo",
       "position": "RB",
       "2026_pick": 40,
-      "historical_model_rank": 84,
+      "historical_model_rank": 85,
       "points": 103.4,
       "median": 8.55
     },
@@ -376,7 +376,7 @@
       "name": "Emeka Egbuka",
       "position": "WR",
       "2026_pick": 42,
-      "historical_model_rank": 120,
+      "historical_model_rank": 121,
       "points": 81.8,
       "median": 8.6
     },
@@ -403,7 +403,7 @@
       "name": "Lamar Jackson",
       "position": "QB",
       "2026_pick": 45,
-      "historical_model_rank": 347,
+      "historical_model_rank": 348,
       "points": 79.08,
       "median": 0.0
     },
@@ -412,7 +412,7 @@
       "name": "Jaylen Waddle",
       "position": "WR",
       "2026_pick": 46,
-      "historical_model_rank": 119,
+      "historical_model_rank": 120,
       "points": 91.1,
       "median": 7.6
     },
@@ -421,7 +421,7 @@
       "name": "Ladd McConkey",
       "position": "WR",
       "2026_pick": 47,
-      "historical_model_rank": 217,
+      "historical_model_rank": 216,
       "points": 72.3,
       "median": 4.6
     },
@@ -448,7 +448,7 @@
       "name": "Texans D/ST",
       "position": "D/ST",
       "2026_pick": 50,
-      "historical_model_rank": 203,
+      "historical_model_rank": 202,
       "points": 61.0,
       "median": 6.0
     },
@@ -466,7 +466,7 @@
       "name": "Sam Darnold",
       "position": "QB",
       "2026_pick": 52,
-      "historical_model_rank": 196,
+      "historical_model_rank": 195,
       "points": 92.32,
       "median": 9.66
     },
@@ -475,7 +475,7 @@
       "name": "Travis Kelce",
       "position": "TE",
       "2026_pick": 53,
-      "historical_model_rank": 54,
+      "historical_model_rank": 55,
       "points": 129.7,
       "median": 10.9
     },
@@ -511,8 +511,8 @@
       "name": "Tee Higgins",
       "position": "WR",
       "2026_pick": 57,
-      "historical_model_rank": 20,
-      "points": 181.5,
+      "historical_model_rank": 17,
+      "points": 183.7,
       "median": 17.35
     },
     {
@@ -520,7 +520,7 @@
       "name": "Breece Hall",
       "position": "RB",
       "2026_pick": 58,
-      "historical_model_rank": 137,
+      "historical_model_rank": 140,
       "points": 88.0,
       "median": 8.5
     },
@@ -529,7 +529,7 @@
       "name": "Rome Odunze",
       "position": "WR",
       "2026_pick": 59,
-      "historical_model_rank": 85,
+      "historical_model_rank": 86,
       "points": 97.3,
       "median": 7.95
     },
@@ -538,7 +538,7 @@
       "name": "Quinshon Judkins",
       "position": "RB",
       "2026_pick": 60,
-      "historical_model_rank": 81,
+      "historical_model_rank": 82,
       "points": 108.2,
       "median": 8.9
     },
@@ -556,7 +556,7 @@
       "name": "Caleb Williams",
       "position": "QB",
       "2026_pick": 62,
-      "historical_model_rank": 121,
+      "historical_model_rank": 122,
       "points": 124.68,
       "median": 13.37
     },
@@ -565,7 +565,7 @@
       "name": "Rhamondre Stevenson",
       "position": "RB",
       "2026_pick": 63,
-      "historical_model_rank": 59,
+      "historical_model_rank": 61,
       "points": 115.2,
       "median": 13.25
     },
@@ -628,7 +628,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "2026_pick": 70,
-      "historical_model_rank": 228,
+      "historical_model_rank": 227,
       "points": 57.4,
       "median": 5.9
     },
@@ -664,7 +664,7 @@
       "name": "Carnell Tate",
       "position": "WR",
       "2026_pick": 74,
-      "historical_model_rank": 117,
+      "historical_model_rank": 118,
       "points": 91.1,
       "median": 8.85
     },
@@ -691,7 +691,7 @@
       "name": "Kenny Gainwell",
       "position": "RB",
       "2026_pick": 77,
-      "historical_model_rank": 148,
+      "historical_model_rank": 149,
       "points": 73.5,
       "median": 7.3
     },
@@ -700,7 +700,7 @@
       "name": "Brandon Aubrey",
       "position": "K",
       "2026_pick": 78,
-      "historical_model_rank": 128,
+      "historical_model_rank": 129,
       "points": 102.0,
       "median": 10.0
     },
@@ -709,7 +709,7 @@
       "name": "Kyle Pitts Sr.",
       "position": "TE",
       "2026_pick": 79,
-      "historical_model_rank": 149,
+      "historical_model_rank": 150,
       "points": 78.0,
       "median": 6.15
     },
@@ -754,7 +754,7 @@
       "name": "Broncos D/ST",
       "position": "D/ST",
       "2026_pick": 84,
-      "historical_model_rank": 171,
+      "historical_model_rank": 172,
       "points": 68.0,
       "median": 7.5
     },
@@ -763,7 +763,7 @@
       "name": "Cameron Dicker",
       "position": "K",
       "2026_pick": 85,
-      "historical_model_rank": 144,
+      "historical_model_rank": 146,
       "points": 79.0,
       "median": 8.5
     },
@@ -772,7 +772,7 @@
       "name": "Harold Fannin Jr.",
       "position": "TE",
       "2026_pick": 86,
-      "historical_model_rank": 61,
+      "historical_model_rank": 63,
       "points": 118.4,
       "median": 11.95
     },
@@ -799,7 +799,7 @@
       "name": "Dallas Goedert",
       "position": "TE",
       "2026_pick": 89,
-      "historical_model_rank": 118,
+      "historical_model_rank": 119,
       "points": 78.8,
       "median": 8.5
     },
@@ -808,7 +808,7 @@
       "name": "Jakobi Meyers",
       "position": "WR",
       "2026_pick": 90,
-      "historical_model_rank": 90,
+      "historical_model_rank": 91,
       "points": 94.5,
       "median": 8.45
     },
@@ -826,7 +826,7 @@
       "name": "Michael Wilson",
       "position": "WR",
       "2026_pick": 92,
-      "historical_model_rank": 78,
+      "historical_model_rank": 79,
       "points": 120.68,
       "median": 10.6
     },
@@ -835,7 +835,7 @@
       "name": "Mark Andrews",
       "position": "TE",
       "2026_pick": 93,
-      "historical_model_rank": 150,
+      "historical_model_rank": 151,
       "points": 78.3,
       "median": 5.3
     },
@@ -862,7 +862,7 @@
       "name": "Sam LaPorta",
       "position": "TE",
       "2026_pick": 96,
-      "historical_model_rank": 77,
+      "historical_model_rank": 78,
       "points": 104.9,
       "median": 8.3
     },
@@ -871,7 +871,7 @@
       "name": "Tucker Kraft",
       "position": "TE",
       "2026_pick": 97,
-      "historical_model_rank": 83,
+      "historical_model_rank": 84,
       "points": 93.3,
       "median": 9.1
     },
@@ -934,7 +934,7 @@
       "name": "Steelers D/ST",
       "position": "D/ST",
       "2026_pick": 104,
-      "historical_model_rank": 165,
+      "historical_model_rank": 166,
       "points": 73.0,
       "median": 7.5
     },
@@ -943,7 +943,7 @@
       "name": "J.K. Dobbins",
       "position": "RB",
       "2026_pick": 105,
-      "historical_model_rank": 210,
+      "historical_model_rank": 209,
       "points": 62.5,
       "median": 4.95
     },
@@ -970,7 +970,7 @@
       "name": "Seahawks D/ST",
       "position": "D/ST",
       "2026_pick": 108,
-      "historical_model_rank": 124,
+      "historical_model_rank": 125,
       "points": 89.0,
       "median": 10.0
     },
@@ -997,7 +997,7 @@
       "name": "Wan'Dale Robinson",
       "position": "WR",
       "2026_pick": 111,
-      "historical_model_rank": 134,
+      "historical_model_rank": 135,
       "points": 81.3,
       "median": 7.0
     },
@@ -1051,8 +1051,8 @@
       "name": "Stefon Diggs",
       "position": "WR",
       "2026_pick": 117,
-      "historical_model_rank": 63,
-      "points": 112.6,
+      "historical_model_rank": 60,
+      "points": 119.1,
       "median": 10.65
     },
     {
@@ -1069,8 +1069,8 @@
       "name": "Jacory Croskey-Merritt",
       "position": "RB",
       "2026_pick": 119,
-      "historical_model_rank": 236,
-      "points": 57.7,
+      "historical_model_rank": 235,
+      "points": 60.6,
       "median": 5.55
     },
     {
@@ -1078,7 +1078,7 @@
       "name": "Xavier Worthy",
       "position": "WR",
       "2026_pick": 120,
-      "historical_model_rank": 127,
+      "historical_model_rank": 128,
       "points": 78.6,
       "median": 7.8
     },
@@ -1087,7 +1087,7 @@
       "name": "Ka'imi Fairbairn",
       "position": "K",
       "2026_pick": 121,
-      "historical_model_rank": 115,
+      "historical_model_rank": 116,
       "points": 105.0,
       "median": 10.0
     },
@@ -1114,7 +1114,7 @@
       "name": "T.J. Hockenson",
       "position": "TE",
       "2026_pick": 124,
-      "historical_model_rank": 80,
+      "historical_model_rank": 81,
       "points": 97.3,
       "median": 9.4
     },
@@ -1141,7 +1141,7 @@
       "name": "RJ Harvey",
       "position": "RB",
       "2026_pick": 127,
-      "historical_model_rank": 227,
+      "historical_model_rank": 226,
       "points": 67.4,
       "median": 4.4
     },
@@ -1159,7 +1159,7 @@
       "name": "Deebo Samuel Sr.",
       "position": "WR",
       "2026_pick": 129,
-      "historical_model_rank": 136,
+      "historical_model_rank": 139,
       "points": 94.0,
       "median": 7.1
     },
@@ -1195,7 +1195,7 @@
       "name": "Blake Corum",
       "position": "RB",
       "2026_pick": 133,
-      "historical_model_rank": 58,
+      "historical_model_rank": 59,
       "points": 115.5,
       "median": 12.55
     },
@@ -1240,7 +1240,7 @@
       "name": "Josh Downs",
       "position": "WR",
       "2026_pick": 138,
-      "historical_model_rank": 89,
+      "historical_model_rank": 90,
       "points": 100.3,
       "median": 8.7
     },
@@ -1303,7 +1303,7 @@
       "name": "Brenton Strange",
       "position": "TE",
       "2026_pick": 145,
-      "historical_model_rank": 91,
+      "historical_model_rank": 92,
       "points": 85.1,
       "median": 8.2
     },
@@ -1357,7 +1357,7 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "2026_pick": 151,
-      "historical_model_rank": 113,
+      "historical_model_rank": 114,
       "points": 81.6,
       "median": 6.75
     },
@@ -1393,7 +1393,7 @@
       "name": "KC Concepcion",
       "position": "WR",
       "2026_pick": 155,
-      "historical_model_rank": 88,
+      "historical_model_rank": 89,
       "points": 100.1,
       "median": 8.05
     },
@@ -1402,7 +1402,7 @@
       "name": "Malik Willis",
       "position": "QB",
       "2026_pick": 156,
-      "historical_model_rank": 146,
+      "historical_model_rank": 147,
       "points": 105.04,
       "median": 11.24
     },
@@ -1411,7 +1411,7 @@
       "name": "Jalen Coker",
       "position": "WR",
       "2026_pick": 157,
-      "historical_model_rank": 135,
+      "historical_model_rank": 138,
       "points": 95.0,
       "median": 7.65
     },
@@ -1447,7 +1447,7 @@
       "name": "Rams D/ST",
       "position": "D/ST",
       "2026_pick": 161,
-      "historical_model_rank": 193,
+      "historical_model_rank": 192,
       "points": 64.0,
       "median": 6.0
     },
@@ -1501,7 +1501,7 @@
       "name": "Jake Elliott",
       "position": "K",
       "2026_pick": 167,
-      "historical_model_rank": 205,
+      "historical_model_rank": 204,
       "points": 62.0,
       "median": 5.0
     },
@@ -1537,7 +1537,7 @@
       "name": "Daniel Jones",
       "position": "QB",
       "2026_pick": 171,
-      "historical_model_rank": 201,
+      "historical_model_rank": 200,
       "points": 90.76,
       "median": 7.92
     },
@@ -1555,7 +1555,7 @@
       "name": "Chris Rodriguez Jr.",
       "position": "RB",
       "2026_pick": 173,
-      "historical_model_rank": 206,
+      "historical_model_rank": 205,
       "points": 60.0,
       "median": 5.3
     },
@@ -1583,7 +1583,7 @@
       "position": "RB",
       "2026_pick": 176,
       "historical_model_rank": 177,
-      "points": 72.2,
+      "points": 72.5,
       "median": 5.95
     },
     {
@@ -1618,7 +1618,7 @@
       "name": "Browns D/ST",
       "position": "D/ST",
       "2026_pick": 180,
-      "historical_model_rank": 197,
+      "historical_model_rank": 196,
       "points": 57.0,
       "median": 5.0
     },
@@ -1645,7 +1645,7 @@
       "name": "Harrison Butker",
       "position": "K",
       "2026_pick": 183,
-      "historical_model_rank": 169,
+      "historical_model_rank": 170,
       "points": 76.0,
       "median": 6.0
     },
@@ -1672,7 +1672,7 @@
       "name": "Cairo Santos",
       "position": "K",
       "2026_pick": 186,
-      "historical_model_rank": 123,
+      "historical_model_rank": 124,
       "points": 87.0,
       "median": 9.5
     },
@@ -1681,7 +1681,7 @@
       "name": "Chris Boswell",
       "position": "K",
       "2026_pick": 187,
-      "historical_model_rank": 126,
+      "historical_model_rank": 127,
       "points": 95.0,
       "median": 9.5
     },
@@ -1708,7 +1708,7 @@
       "name": "Gunnar Helm",
       "position": "TE",
       "2026_pick": 190,
-      "historical_model_rank": 218,
+      "historical_model_rank": 217,
       "points": 46.7,
       "median": 3.45
     },
@@ -1726,7 +1726,7 @@
       "name": "Keenan Allen",
       "position": "WR",
       "2026_pick": 192,
-      "historical_model_rank": 87,
+      "historical_model_rank": 88,
       "points": 99.0,
       "median": 9.2
     },
@@ -1735,7 +1735,7 @@
       "name": "Jake Bates",
       "position": "K",
       "2026_pick": 193,
-      "historical_model_rank": 141,
+      "historical_model_rank": 144,
       "points": 92.0,
       "median": 7.5
     },
@@ -1771,7 +1771,7 @@
       "name": "Aaron Rodgers",
       "position": "QB",
       "2026_pick": 197,
-      "historical_model_rank": 56,
+      "historical_model_rank": 57,
       "points": 148.74,
       "median": 15.8
     },
@@ -1798,7 +1798,7 @@
       "name": "Jonah Coleman",
       "position": "RB",
       "2026_pick": 200,
-      "historical_model_rank": 170,
+      "historical_model_rank": 171,
       "points": 97.8,
       "median": 4.45
     },
@@ -1807,7 +1807,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "2026_pick": 201,
-      "historical_model_rank": 202,
+      "historical_model_rank": 201,
       "points": 77.3,
       "median": 5.7
     },
@@ -1861,8 +1861,8 @@
       "name": "Chig Okonkwo",
       "position": "TE",
       "2026_pick": 207,
-      "historical_model_rank": 173,
-      "points": 59.6,
+      "historical_model_rank": 164,
+      "points": 61.9,
       "median": 5.0
     },
     {
@@ -1879,7 +1879,7 @@
       "name": "Nick Folk",
       "position": "K",
       "2026_pick": 209,
-      "historical_model_rank": 166,
+      "historical_model_rank": 167,
       "points": 57.0,
       "median": 8.0
     },
@@ -1888,7 +1888,7 @@
       "name": "Jaylin Noel",
       "position": "WR",
       "2026_pick": 210,
-      "historical_model_rank": 235,
+      "historical_model_rank": 236,
       "points": 66.7,
       "median": 4.95
     },
@@ -1924,7 +1924,7 @@
       "name": "Braelon Allen",
       "position": "RB",
       "2026_pick": 214,
-      "historical_model_rank": 82,
+      "historical_model_rank": 83,
       "points": 120.0,
       "median": 8.7
     },
@@ -1942,9 +1942,9 @@
       "name": "Evan McPherson",
       "position": "K",
       "2026_pick": 216,
-      "historical_model_rank": 151,
-      "points": 89.0,
-      "median": 7.0
+      "historical_model_rank": 136,
+      "points": 94.0,
+      "median": 8.5
     },
     {
       "player_id": "4431280",
@@ -1969,7 +1969,7 @@
       "name": "Greg Dulcich",
       "position": "TE",
       "2026_pick": 219,
-      "historical_model_rank": 194,
+      "historical_model_rank": 193,
       "points": 56.2,
       "median": 3.75
     },
