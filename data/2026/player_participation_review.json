@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-23T15:44:18.461192+00:00",
+  "updated_at_utc": "2026-11-24T03:36:07.392741+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -31,12 +31,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 3918298,
-      "name": "Josh Allen",
+      "player_id": 3915511,
+      "name": "Joe Burrow",
       "position": "QB",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -44,13 +44,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 3915511,
-      "name": "Joe Burrow",
+      "player_id": 3918298,
+      "name": "Josh Allen",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -123,6 +122,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4362628,
+      "name": "Ja'Marr Chase",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4374302,
       "name": "Amon-Ra St. Brown",
       "position": "WR",
@@ -186,20 +198,6 @@
       "historical_injury_status": "unverified",
       "games_played": null,
       "review_priority": "high"
-    },
-    {
-      "player_id": 4362628,
-      "name": "Ja'Marr Chase",
-      "position": "WR",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
     },
     {
       "player_id": 3046779,
@@ -267,6 +265,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4239993,
+      "name": "Tee Higgins",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4596448,
       "name": "Bucky Irving",
       "position": "RB",
@@ -298,20 +309,6 @@
       "position": "WR",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4239993,
-      "name": "Tee Higgins",
-      "position": "WR",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
         11
       ],
       "scoring_team_conflicts": [],
@@ -502,6 +499,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4426348,
+      "name": "Jayden Daniels",
+      "position": "QB",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 3040151,
       "name": "George Kittle",
       "position": "TE",
@@ -580,12 +590,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 2578570,
-      "name": "Jacoby Brissett",
-      "position": "QB",
+      "player_id": 4362238,
+      "name": "Chase Brown",
+      "position": "RB",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        9
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -593,13 +603,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4426348,
-      "name": "Jayden Daniels",
+      "player_id": 2578570,
+      "name": "Jacoby Brissett",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        9
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -639,20 +648,6 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         5
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4362238,
-      "name": "Chase Brown",
-      "position": "RB",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -764,6 +759,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 2976212,
+      "name": "Stefon Diggs",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 16737,
       "name": "Mike Evans",
       "position": "WR",
@@ -783,20 +791,6 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         7
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 2976212,
-      "name": "Stefon Diggs",
-      "position": "WR",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7,
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1350,6 +1344,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 3116164,
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": -16026,
       "name": "Seahawks D/ST",
       "position": "D/ST",
@@ -1369,6 +1376,19 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 4360234,
+      "name": "Evan McPherson",
+      "position": "K",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1454,13 +1474,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4360234,
-      "name": "Evan McPherson",
+      "player_id": 4568263,
+      "name": "Ryan Fitzgerald",
       "position": "K",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1468,12 +1487,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4568263,
-      "name": "Ryan Fitzgerald",
+      "player_id": 5081335,
+      "name": "Drew Stevens",
       "position": "K",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        5
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1500,20 +1519,6 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         9
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 3116164,
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1592,6 +1597,19 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         8
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 5081432,
+      "name": "Antonio Williams",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1742,27 +1760,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 5081335,
-      "name": "Drew Stevens",
-      "position": "K",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 4697815,
       "name": "Rachaad White",
       "position": "RB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1900,13 +1903,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 5081432,
-      "name": "Antonio Williams",
+      "player_id": 4612826,
+      "name": "Ladd McConkey",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1914,12 +1916,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4612826,
-      "name": "Ladd McConkey",
-      "position": "WR",
+      "player_id": 3116389,
+      "name": "Samaje Perine",
+      "position": "RB",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2122,6 +2124,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": -16004,
+      "name": "Bengals D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4686612,
       "name": "Tre' Harris",
       "position": "WR",
@@ -2317,12 +2332,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4569923,
-      "name": "Andy Borregales",
-      "position": "K",
+      "player_id": 4360635,
+      "name": "Chig Okonkwo",
+      "position": "TE",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2330,12 +2345,11 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 3116389,
-      "name": "Samaje Perine",
-      "position": "RB",
-      "recorded_weeks": 9,
+      "player_id": 4569923,
+      "name": "Andy Borregales",
+      "position": "K",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
         11
       ],
       "scoring_team_conflicts": [],
@@ -2396,13 +2410,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16004,
-      "name": "Bengals D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 9,
+      "player_id": 4575131,
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2456,6 +2469,19 @@
       "missing_scoring_weeks": [
         10,
         11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 4567156,
+      "name": "Treylon Burks",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2545,6 +2571,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4384852,
+      "name": "Dohnte Meyers",
+      "position": "WR",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4429205,
       "name": "Jordan Addison",
       "position": "WR",
@@ -2624,20 +2663,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4384852,
-      "name": "Dohnte Meyers",
-      "position": "WR",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 4431492,
       "name": "Roman Wilson",
       "position": "WR",
@@ -2677,27 +2702,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4567156,
-      "name": "Treylon Burks",
-      "position": "WR",
-      "recorded_weeks": 9,
+      "player_id": -16028,
+      "name": "Commanders D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4360635,
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2809,27 +2819,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16028,
-      "name": "Commanders D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 3121422,
       "name": "Terry McLaurin",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2869,20 +2864,6 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         5
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4575131,
-      "name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        7,
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3273,6 +3254,22 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 3068267,
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "recorded_weeks": 7,
+      "missing_scoring_weeks": [
+        1,
+        2,
+        3,
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4596472,
       "name": "Jalon Daniels",
       "position": "QB",
@@ -3289,10 +3286,9 @@
       "player_id": 2576980,
       "name": "Marcus Mariota",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3482,16 +3478,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 3068267,
-      "name": "Austin Ekeler",
-      "position": "RB",
-      "recorded_weeks": 6,
+      "player_id": 4383440,
+      "name": "Nate Adkins",
+      "position": "TE",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        1,
-        2,
-        3,
-        7,
-        11
+        10
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3499,12 +3491,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4383440,
-      "name": "Nate Adkins",
+      "player_id": 3127310,
+      "name": "Drew Sample",
       "position": "TE",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        10
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3592,20 +3584,6 @@
       "position": "WR",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 3127310,
-      "name": "Drew Sample",
-      "position": "TE",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
         11
       ],
       "scoring_team_conflicts": [],
@@ -4350,14 +4328,13 @@
       "player_id": 3930066,
       "name": "Van Jefferson",
       "position": "WR",
-      "recorded_weeks": 5,
+      "recorded_weeks": 6,
       "missing_scoring_weeks": [
         1,
         2,
         3,
         4,
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4381,10 +4358,9 @@
       "player_id": 4361577,
       "name": "Dyami Brown",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4395,10 +4371,9 @@
       "player_id": 3050481,
       "name": "Tanner Hudson",
       "position": "TE",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4422,10 +4397,9 @@
       "player_id": 4690923,
       "name": "Ben Sinnott",
       "position": "TE",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4494,6 +4468,19 @@
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         8
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 5085189,
+      "name": "Jack Endries",
+      "position": "TE",
+      "recorded_weeks": 10,
+      "missing_scoring_weeks": [
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4599,10 +4586,9 @@
       "player_id": 4427834,
       "name": "Erick All Jr.",
       "position": "TE",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4930,10 +4916,9 @@
       "player_id": 4432722,
       "name": "Athan Kaliakmanis",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4970,13 +4955,12 @@
       "player_id": 4690070,
       "name": "Mitchell Tinsley",
       "position": "WR",
-      "recorded_weeks": 6,
+      "recorded_weeks": 7,
       "missing_scoring_weeks": [
         1,
         2,
         3,
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5024,9 +5008,9 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4685246,
-      "name": "Kaytron Allen",
-      "position": "RB",
+      "player_id": 5092508,
+      "name": "Colbie Young",
+      "position": "WR",
       "recorded_weeks": 10,
       "missing_scoring_weeks": [
         6
@@ -5037,13 +5021,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 5085189,
-      "name": "Jack Endries",
-      "position": "TE",
-      "recorded_weeks": 9,
+      "player_id": 4685246,
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5256,10 +5239,9 @@
       "player_id": 4048228,
       "name": "John Bates",
       "position": "TE",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5627,10 +5609,9 @@
       "player_id": 4361088,
       "name": "Colson Yankoff",
       "position": "TE",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5670,10 +5651,9 @@
       "player_id": 3127586,
       "name": "Jeremy McNichols",
       "position": "RB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5704,10 +5684,9 @@
       "player_id": 4368003,
       "name": "Andrei Iosivas",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5786,10 +5765,9 @@
       "player_id": 4602667,
       "name": "Jaylin Lane",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -6043,20 +6021,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 5092508,
-      "name": "Colbie Young",
-      "position": "WR",
-      "recorded_weeks": 9,
-      "missing_scoring_weeks": [
-        6,
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 3059722,
       "name": "Zay Jones",
       "position": "WR",
@@ -6134,7 +6098,7 @@
       "player_id": 4683111,
       "name": "Jaden Bradley",
       "position": "WR",
-      "recorded_weeks": 2,
+      "recorded_weeks": 3,
       "missing_scoring_weeks": [
         1,
         2,
@@ -6143,8 +6107,7 @@
         5,
         6,
         7,
-        8,
-        11
+        8
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -6258,10 +6221,9 @@
       "player_id": 4429299,
       "name": "Tahj Brooks",
       "position": "RB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -6370,10 +6332,9 @@
       "player_id": 4426948,
       "name": "Luke McCaffrey",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -6636,13 +6597,12 @@
       "player_id": 4421446,
       "name": "Craig Reynolds",
       "position": "RB",
-      "recorded_weeks": 6,
+      "recorded_weeks": 7,
       "missing_scoring_weeks": [
         1,
         2,
         3,
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -6653,13 +6613,12 @@
       "player_id": 5151317,
       "name": "Robert Henry Jr.",
       "position": "RB",
-      "recorded_weeks": 6,
+      "recorded_weeks": 7,
       "missing_scoring_weeks": [
         1,
         2,
         3,
-        4,
-        11
+        4
       ],
       "scoring_team_conflicts": [
         7
@@ -6787,10 +6746,9 @@
       "player_id": 11252,
       "name": "Joe Flacco",
       "position": "QB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        6,
-        11
+        6
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -7613,10 +7571,9 @@
       "player_id": 4361100,
       "name": "Jack Westover",
       "position": "RB",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -8657,6 +8614,28 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4689334,
+      "name": "Malik Heath",
+      "position": "WR",
+      "recorded_weeks": 1,
+      "missing_scoring_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4691688,
       "name": "Robbie Ouzts",
       "position": "RB",
@@ -8700,7 +8679,7 @@
       "player_id": 4700712,
       "name": "Cam Grandy",
       "position": "TE",
-      "recorded_weeks": 3,
+      "recorded_weeks": 4,
       "missing_scoring_weeks": [
         1,
         2,
@@ -8708,8 +8687,7 @@
         4,
         5,
         6,
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -8977,10 +8955,9 @@
       "player_id": 5083297,
       "name": "Jacoby Jones",
       "position": "WR",
-      "recorded_weeks": 9,
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        7,
-        11
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",

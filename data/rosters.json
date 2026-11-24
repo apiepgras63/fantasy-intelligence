@@ -398,15 +398,6 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": 4570037,
-          "name": "Terrance Ferguson",
-          "position_id": 4,
-          "lineup_slot_id": 21,
-          "injury_status": "INJURY_RESERVE",
-          "pro_team_id": 14,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4869645,
           "name": "Caleb Douglas",
           "position_id": 3,
@@ -561,7 +552,7 @@
           "name": "Rachaad White",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 28,
           "acquisition_type": "DRAFT"
         },
@@ -933,7 +924,7 @@
           "name": "Seth McGowan",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "OUT",
           "pro_team_id": 11,
           "acquisition_type": "ADD"
         },
@@ -1338,7 +1329,7 @@
           "name": "Jacory Croskey-Merritt",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "INJURY_RESERVE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 28,
           "acquisition_type": "DRAFT"
         },
@@ -1434,7 +1425,7 @@
           "name": "Kyren Williams",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 14,
           "acquisition_type": "DRAFT"
         },
@@ -1779,7 +1770,7 @@
           "name": "Sam LaPorta",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 8,
           "acquisition_type": "DRAFT"
         },
@@ -1806,7 +1797,7 @@
           "name": "Jalen Coker",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 29,
           "acquisition_type": "DRAFT"
         },
@@ -1869,7 +1860,7 @@
           "name": "Audric Estime",
           "position_id": 2,
           "lineup_slot_id": 20,
-          "injury_status": "OUT",
+          "injury_status": "ACTIVE",
           "pro_team_id": 18,
           "acquisition_type": "ADD"
         },
@@ -1938,7 +1929,7 @@
           "name": "Dallas Goedert",
           "position_id": 4,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 21,
           "acquisition_type": "DRAFT"
         },
