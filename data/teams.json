@@ -1605,7 +1605,7 @@
           "11": 2
         },
         "misc": 0,
-        "moveToActive": 60,
+        "moveToActive": 61,
         "moveToIR": 4,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1895,7 +1895,7 @@
         },
         "misc": 0,
         "moveToActive": 46,
-        "moveToIR": 2,
+        "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
         "trades": 2
@@ -2184,7 +2184,7 @@
           "11": 3
         },
         "misc": 0,
-        "moveToActive": 55,
+        "moveToActive": 56,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -2456,7 +2456,10 @@
           "teamActions": {
             "7": "ACCEPTED",
             "9": "ACCEPTED",
-            "3": "VETOED"
+            "3": "VETOED",
+            "1": "APPROVED",
+            "8": "APPROVED",
+            "11": "APPROVED"
           },
           "teamId": 7,
           "type": "TRADE_ACCEPT"
@@ -2806,7 +2809,10 @@
           "teamActions": {
             "7": "ACCEPTED",
             "9": "ACCEPTED",
-            "3": "VETOED"
+            "3": "VETOED",
+            "1": "APPROVED",
+            "8": "APPROVED",
+            "11": "APPROVED"
           },
           "teamId": 7,
           "type": "TRADE_ACCEPT"
@@ -3369,8 +3375,8 @@
     {
       "abbrev": "CCT",
       "autoPilotStatus": {
-        "enabled": true,
-        "type": "MANUAL"
+        "enabled": false,
+        "type": "NONE"
       },
       "currentProjectedRank": 13,
       "divisionId": 0,
@@ -3453,7 +3459,7 @@
           "11": 3
         },
         "misc": 0,
-        "moveToActive": 23,
+        "moveToActive": 24,
         "moveToIR": 3,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -3600,7 +3606,7 @@
           "11": 2
         },
         "misc": 0,
-        "moveToActive": 64,
+        "moveToActive": 68,
         "moveToIR": 2,
         "paid": 0.0,
         "teamCharges": 0.0,

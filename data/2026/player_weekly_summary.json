@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-24T15:41:47.635226+00:00",
+  "updated_at_utc": "2026-11-25T03:40:19.273270+00:00",
   "player_count": 775,
   "players": [
     {
@@ -10058,7 +10058,7 @@
       "player_id": 4690143,
       "name": "LaJohntay Wester",
       "position_id": 3,
-      "team_id": 33,
+      "team_id": 0,
       "weeks": {
         "1": 3.5,
         "2": 2.4,
@@ -10080,7 +10080,7 @@
       "player_id": 4426535,
       "name": "Theo Wease Jr.",
       "position_id": 3,
-      "team_id": 24,
+      "team_id": 0,
       "weeks": {
         "5": 2.6,
         "6": 4.1,
@@ -10503,7 +10503,7 @@
       "player_id": 2972515,
       "name": "Cooper Rush",
       "position_id": 1,
-      "team_id": 27,
+      "team_id": 0,
       "weeks": {
         "1": 5.72,
         "2": -0.56,
@@ -11825,7 +11825,7 @@
       "player_id": 4421446,
       "name": "Craig Reynolds",
       "position_id": 2,
-      "team_id": 28,
+      "team_id": 0,
       "weeks": {
         "4": 0.4,
         "5": 0.0,
@@ -12509,7 +12509,7 @@
       "player_id": 3914151,
       "name": "Josiah Deguara",
       "position_id": 4,
-      "team_id": 24,
+      "team_id": 0,
       "weeks": {
         "4": 0.0,
         "5": 0.0,
@@ -12844,7 +12844,7 @@
       "player_id": 4039034,
       "name": "Shane Buechele",
       "position_id": 1,
-      "team_id": 2,
+      "team_id": 11,
       "weeks": {
         "10": 0.0,
         "11": 0.0
@@ -13828,7 +13828,7 @@
       "player_id": 4428512,
       "name": "Kedon Slovis",
       "position_id": 1,
-      "team_id": 33,
+      "team_id": 0,
       "weeks": {
         "9": 0.0,
         "10": 0.0,

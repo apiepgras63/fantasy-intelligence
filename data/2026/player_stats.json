@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-24T15:41:47.635226+00:00",
+  "updated_at_utc": "2026-11-25T03:40:19.273270+00:00",
   "player_count": 1064,
   "players": [
     {
@@ -43566,7 +43566,7 @@
       "player_id": 2972515,
       "name": "Cooper Rush",
       "position_id": 1,
-      "team_id": 27,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -63023,7 +63023,7 @@
       "name": "Dallas Goedert",
       "position_id": 4,
       "team_id": 21,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -74151,7 +74151,7 @@
       "player_id": 3914151,
       "name": "Josiah Deguara",
       "position_id": 4,
-      "team_id": 24,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -82947,7 +82947,7 @@
       "name": "Saquon Barkley",
       "position_id": 2,
       "team_id": 21,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -89154,7 +89154,7 @@
       "name": "Ben Skowronek",
       "position_id": 3,
       "team_id": 23,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -91524,7 +91524,7 @@
       "name": "Sean McKeon",
       "position_id": 4,
       "team_id": 11,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -95183,7 +95183,7 @@
       "player_id": 4039034,
       "name": "Shane Buechele",
       "position_id": 1,
-      "team_id": 2,
+      "team_id": 11,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -103086,7 +103086,7 @@
       "name": "Noah Gray",
       "position_id": 4,
       "team_id": 12,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -110499,7 +110499,7 @@
       "name": "J.K. Dobbins",
       "position_id": 2,
       "team_id": 7,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -111737,7 +111737,7 @@
       "name": "Jake Ferguson",
       "position_id": 4,
       "team_id": 6,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2025,
@@ -148444,7 +148444,7 @@
       "name": "Ben VanSumeren",
       "position_id": 2,
       "team_id": 12,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "INJURY_RESERVE",
       "stats": [
         {
           "season_id": 2025,
@@ -156933,7 +156933,7 @@
       "player_id": 4421446,
       "name": "Craig Reynolds",
       "position_id": 2,
-      "team_id": 28,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -162455,7 +162455,7 @@
       "player_id": 4426535,
       "name": "Theo Wease Jr.",
       "position_id": 3,
-      "team_id": 24,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -167295,7 +167295,7 @@
       "player_id": 4428512,
       "name": "Kedon Slovis",
       "position_id": 1,
-      "team_id": 33,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -178807,7 +178807,7 @@
       "name": "Sam LaPorta",
       "position_id": 4,
       "team_id": 8,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -223483,7 +223483,7 @@
       "name": "Tanner McKee",
       "position_id": 1,
       "team_id": 21,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -237894,7 +237894,7 @@
       "player_id": 4690143,
       "name": "LaJohntay Wester",
       "position_id": 3,
-      "team_id": 33,
+      "team_id": 0,
       "injury_status": "ACTIVE",
       "stats": [
         {
@@ -250755,7 +250755,7 @@
       "name": "Denzel Boston",
       "position_id": 3,
       "team_id": 5,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2026,

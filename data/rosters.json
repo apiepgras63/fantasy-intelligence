@@ -83,7 +83,7 @@
           "player_id": 4360569,
           "name": "Jordan Mason",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 16,
           "acquisition_type": "ADD"
@@ -128,7 +128,7 @@
           "player_id": 4430807,
           "name": "Bijan Robinson",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 1,
           "acquisition_type": "TRADE"
@@ -365,7 +365,7 @@
           "player_id": 4568490,
           "name": "RJ Harvey",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 21,
           "injury_status": "INJURY_RESERVE",
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
@@ -647,7 +647,7 @@
           "player_id": 4685382,
           "name": "Omarion Hampton",
           "position_id": 2,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 24,
           "acquisition_type": "DRAFT"
@@ -692,7 +692,7 @@
           "player_id": 4361050,
           "name": "Isaiah Likely",
           "position_id": 4,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 23,
           "injury_status": "ACTIVE",
           "pro_team_id": 19,
           "acquisition_type": "DRAFT"
@@ -1356,7 +1356,7 @@
           "name": "Denzel Boston",
           "position_id": 3,
           "lineup_slot_id": 20,
-          "injury_status": "ACTIVE",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 5,
           "acquisition_type": "DRAFT"
         },
@@ -1602,7 +1602,7 @@
           "name": "J.K. Dobbins",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "ACTIVE",
+          "injury_status": "OUT",
           "pro_team_id": 7,
           "acquisition_type": "DRAFT"
         },
@@ -1743,7 +1743,7 @@
           "name": "Saquon Barkley",
           "position_id": 2,
           "lineup_slot_id": 2,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 21,
           "acquisition_type": "DRAFT"
         },
@@ -1770,7 +1770,7 @@
           "name": "Sam LaPorta",
           "position_id": 4,
           "lineup_slot_id": 6,
-          "injury_status": "QUESTIONABLE",
+          "injury_status": "ACTIVE",
           "pro_team_id": 8,
           "acquisition_type": "DRAFT"
         },
@@ -1928,8 +1928,8 @@
           "player_id": 3121023,
           "name": "Dallas Goedert",
           "position_id": 4,
-          "lineup_slot_id": 6,
-          "injury_status": "QUESTIONABLE",
+          "lineup_slot_id": 20,
+          "injury_status": "ACTIVE",
           "pro_team_id": 21,
           "acquisition_type": "DRAFT"
         },
@@ -2036,7 +2036,7 @@
           "player_id": 4360248,
           "name": "Kyle Pitts Sr.",
           "position_id": 4,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 6,
           "injury_status": "ACTIVE",
           "pro_team_id": 1,
           "acquisition_type": "ADD"
