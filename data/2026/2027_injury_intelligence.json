@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-25T15:40:45.847130+00:00",
+  "updated_at_utc": "2026-11-26T03:38:58.430693+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -35762,7 +35762,18 @@
       "player_id": "-16034",
       "name": "Texans D/ST",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "-16033",
+      "name": "Ravens D/ST",
+      "missing_scoring_weeks": [
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35772,7 +35783,8 @@
       "player_id": "-16030",
       "name": "Jaguars D/ST",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35782,7 +35794,8 @@
       "player_id": "-16029",
       "name": "Panthers D/ST",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35792,7 +35805,8 @@
       "player_id": "-16028",
       "name": "Commanders D/ST",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35802,7 +35816,8 @@
       "player_id": "-16027",
       "name": "Buccaneers D/ST",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35812,7 +35827,8 @@
       "player_id": "-16026",
       "name": "Seahawks D/ST",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35822,7 +35838,8 @@
       "player_id": "-16025",
       "name": "49ers D/ST",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35832,7 +35849,8 @@
       "player_id": "-16024",
       "name": "Chargers D/ST",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35842,7 +35860,18 @@
       "player_id": "-16023",
       "name": "Steelers D/ST",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "-16022",
+      "name": "Cardinals D/ST",
+      "missing_scoring_weeks": [
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35852,7 +35881,18 @@
       "player_id": "-16021",
       "name": "Eagles D/ST",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "-16020",
+      "name": "Jets D/ST",
+      "missing_scoring_weeks": [
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35862,7 +35902,8 @@
       "player_id": "-16019",
       "name": "Giants D/ST",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35872,7 +35913,8 @@
       "player_id": "-16018",
       "name": "Saints D/ST",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35882,7 +35924,8 @@
       "player_id": "-16017",
       "name": "Patriots D/ST",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35892,7 +35935,8 @@
       "player_id": "-16016",
       "name": "Vikings D/ST",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35902,7 +35946,8 @@
       "player_id": "-16015",
       "name": "Dolphins D/ST",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35919,10 +35964,31 @@
       "needs_review": true
     },
     {
+      "player_id": "-16013",
+      "name": "Raiders D/ST",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "-16012",
       "name": "Chiefs D/ST",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "-16011",
+      "name": "Colts D/ST",
+      "missing_scoring_weeks": [
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35932,7 +35998,8 @@
       "player_id": "-16010",
       "name": "Titans D/ST",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35952,7 +36019,8 @@
       "player_id": "-16008",
       "name": "Lions D/ST",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35962,7 +36030,18 @@
       "player_id": "-16007",
       "name": "Broncos D/ST",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "-16006",
+      "name": "Cowboys D/ST",
+      "missing_scoring_weeks": [
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35972,7 +36051,8 @@
       "player_id": "-16005",
       "name": "Browns D/ST",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35982,7 +36062,8 @@
       "player_id": "-16004",
       "name": "Bengals D/ST",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -35992,7 +36073,8 @@
       "player_id": "-16003",
       "name": "Bears D/ST",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36002,7 +36084,8 @@
       "player_id": "-16002",
       "name": "Bills D/ST",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36012,7 +36095,8 @@
       "player_id": "-16001",
       "name": "Falcons D/ST",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36022,7 +36106,8 @@
       "player_id": "5529",
       "name": "Philip Rivers",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36032,7 +36117,8 @@
       "player_id": "8439",
       "name": "Aaron Rodgers",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36054,7 +36140,8 @@
       "name": "Nick Folk",
       "missing_scoring_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36074,7 +36161,8 @@
       "player_id": "11252",
       "name": "Joe Flacco",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36085,7 +36173,8 @@
       "name": "Josh Johnson",
       "missing_scoring_weeks": [
         1,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36120,7 +36209,8 @@
       "missing_scoring_weeks": [
         5,
         6,
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -36363,10 +36453,33 @@
       "needs_review": true
     },
     {
+      "player_id": "14880",
+      "name": "Kirk Cousins",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "15168",
       "name": "Case Keenum",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -36404,10 +36517,32 @@
       "missing_scoring_weeks": [
         1,
         2,
-        3
+        3,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "15818",
+      "name": "Keenan Allen",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
       "needs_review": true
     },
     {
@@ -36416,7 +36551,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36430,7 +36566,8 @@
       "player_id": "15847",
       "name": "Travis Kelce",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36450,7 +36587,9 @@
     {
       "player_id": "15864",
       "name": "Geno Smith",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "15864",
@@ -36692,7 +36831,8 @@
       "player_id": "16002",
       "name": "Kyle Juszczyk",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36731,7 +36871,8 @@
       "player_id": "16460",
       "name": "Adam Thielen",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36741,7 +36882,8 @@
       "player_id": "16728",
       "name": "Teddy Bridgewater",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36755,7 +36897,8 @@
         2,
         3,
         8,
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -36970,7 +37113,8 @@
       "player_id": "16733",
       "name": "Odell Beckham Jr.",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -36982,7 +37126,8 @@
       "player_id": "16737",
       "name": "Mike Evans",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -37199,7 +37344,8 @@
       "player_id": "16757",
       "name": "Derek Carr",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37217,7 +37363,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37230,7 +37377,8 @@
         1,
         2,
         3,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37257,7 +37405,8 @@
       "player_id": "17372",
       "name": "Chris Boswell",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37278,7 +37427,8 @@
       "player_id": "17427",
       "name": "Cairo Santos",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37299,7 +37449,8 @@
       "player_id": "2473037",
       "name": "Jason Myers",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37320,7 +37471,8 @@
       "player_id": "2515270",
       "name": "Michael Burton",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37334,7 +37486,8 @@
       "player_id": "2531358",
       "name": "Chris Manhertz",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37347,7 +37500,8 @@
       "player_id": "2573079",
       "name": "Carson Wentz",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37382,7 +37536,8 @@
       "player_id": "2576336",
       "name": "Ameer Abdullah",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37405,7 +37560,8 @@
         1,
         2,
         3,
-        4
+        4,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37418,7 +37574,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37433,7 +37590,8 @@
       "player_id": "2576925",
       "name": "Darren Waller",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37454,7 +37612,8 @@
       "player_id": "2576980",
       "name": "Marcus Mariota",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37465,10 +37624,33 @@
       "needs_review": true
     },
     {
+      "player_id": "2577417",
+      "name": "Dak Prescott",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "2578570",
       "name": "Jacoby Brissett",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37494,7 +37676,8 @@
         3,
         4,
         5,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37510,7 +37693,8 @@
       "player_id": "2969939",
       "name": "Jameis Winston",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37534,7 +37718,8 @@
         2,
         3,
         4,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37546,7 +37731,8 @@
       "player_id": "2971573",
       "name": "Ka'imi Fairbairn",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37570,7 +37756,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37583,7 +37770,8 @@
       "player_id": "2973405",
       "name": "Kalif Raymond",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37604,7 +37792,8 @@
       "player_id": "2975417",
       "name": "Patrick Ricard",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37617,7 +37806,8 @@
       "player_id": "2975674",
       "name": "Robert Tonyan",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37630,7 +37820,8 @@
       "player_id": "2975863",
       "name": "Eric Saubert",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37648,7 +37839,8 @@
       "player_id": "2976212",
       "name": "Stefon Diggs",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37665,11 +37857,22 @@
       "needs_review": true
     },
     {
+      "player_id": "2976499",
+      "name": "Amari Cooper",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "2976592",
       "name": "Sterling Shepard",
       "missing_scoring_weeks": [
         1,
-        2
+        2,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37683,7 +37886,8 @@
       "player_id": "2977187",
       "name": "Cooper Kupp",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37707,7 +37911,8 @@
         1,
         2,
         3,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37721,7 +37926,8 @@
       "player_id": "2985659",
       "name": "Wil Lutz",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37742,7 +37948,8 @@
       "player_id": "2991662",
       "name": "Mack Hollins",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37756,10 +37963,26 @@
       "needs_review": true
     },
     {
+      "player_id": "2998565",
+      "name": "Mo Alie-Cox",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3039707",
       "name": "Mitchell Trubisky",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37769,7 +37992,8 @@
       "player_id": "3040151",
       "name": "George Kittle",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37790,7 +38014,8 @@
       "player_id": "3042519",
       "name": "Aaron Jones Sr.",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37808,10 +38033,33 @@
       "needs_review": true
     },
     {
+      "player_id": "3043078",
+      "name": "Derrick Henry",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3043116",
       "name": "Demarcus Robinson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -37854,7 +38102,8 @@
         4,
         5,
         6,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37869,7 +38118,8 @@
       "player_id": "3043275",
       "name": "Austin Hooper",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37887,7 +38137,8 @@
       "player_id": "3044720",
       "name": "Joshua Dobbs",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37899,17 +38150,47 @@
       "player_id": "3045138",
       "name": "Mike Williams",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
+      "player_id": "3045147",
+      "name": "James Conner",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "3045523",
+      "name": "Kendrick Bourne",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3046439",
       "name": "Hunter Henry",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37930,7 +38211,8 @@
       "player_id": "3046779",
       "name": "Jared Goff",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37955,7 +38237,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37970,7 +38253,8 @@
       "player_id": "3050478",
       "name": "Jake Elliott",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -37991,7 +38275,8 @@
       "player_id": "3050481",
       "name": "Tanner Hudson",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38013,7 +38298,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38027,7 +38313,8 @@
       "player_id": "3051876",
       "name": "Evan Engram",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38045,12 +38332,35 @@
       "needs_review": true
     },
     {
+      "player_id": "3051889",
+      "name": "Laquon Treadwell",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3051909",
       "name": "Daniel Carlson",
       "missing_scoring_weeks": [
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38069,7 +38379,8 @@
       "player_id": "3052096",
       "name": "Johnny Mundt",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38084,7 +38395,8 @@
       "player_id": "3052587",
       "name": "Baker Mayfield",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -38298,6 +38610,20 @@
       "needs_review": true
     },
     {
+      "player_id": "3052897",
+      "name": "Durham Smythe",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        4
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3054212",
       "name": "Jonnu Smith",
       "missing_scoring_weeks": [
@@ -38316,7 +38642,8 @@
       "player_id": "3054850",
       "name": "Alvin Kamara",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38336,7 +38663,8 @@
       "player_id": "3055899",
       "name": "Harrison Butker",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38363,7 +38691,8 @@
         4,
         5,
         6,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38376,7 +38705,8 @@
       "player_id": "3059989",
       "name": "Nick Mullens",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38391,7 +38721,8 @@
         1,
         2,
         3,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38409,7 +38740,8 @@
       "player_id": "3115293",
       "name": "Kyle Allen",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38430,7 +38762,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -38440,7 +38773,8 @@
       "player_id": "3116164",
       "name": "Mike Gesicki",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38460,7 +38794,8 @@
       "player_id": "3116165",
       "name": "Chris Godwin Jr.",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38478,10 +38813,33 @@
       "needs_review": true
     },
     {
+      "player_id": "3116365",
+      "name": "Mark Andrews",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3116389",
       "name": "Samaje Perine",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38502,7 +38860,8 @@
       "player_id": "3116407",
       "name": "Mason Rudolph",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38516,7 +38875,8 @@
       "player_id": "3117251",
       "name": "Christian McCaffrey",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38537,7 +38897,8 @@
       "player_id": "3117256",
       "name": "Dalton Schultz",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38562,7 +38923,8 @@
         2,
         3,
         4,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38577,7 +38939,8 @@
         1,
         2,
         3,
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -38610,7 +38973,8 @@
       "player_id": "3121023",
       "name": "Dallas Goedert",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38626,10 +38990,21 @@
       "needs_review": true
     },
     {
+      "player_id": "3121410",
+      "name": "Parris Campbell",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "3121422",
       "name": "Terry McLaurin",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38649,7 +39024,8 @@
         2,
         3,
         4,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38661,7 +39037,8 @@
       "player_id": "3122840",
       "name": "Deshaun Watson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38681,7 +39058,8 @@
       "player_id": "3123075",
       "name": "Braxton Berrios",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38696,7 +39074,8 @@
       "player_id": "3123076",
       "name": "David Njoku",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38710,7 +39089,8 @@
       "player_id": "3124084",
       "name": "Joey Slye",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38728,10 +39108,50 @@
       "needs_review": true
     },
     {
+      "player_id": "3124679",
+      "name": "Jason Sanders",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "3125107",
+      "name": "Andrew Beck",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        4,
+        7,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3126486",
       "name": "Deebo Samuel Sr.",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38749,7 +39169,8 @@
       "player_id": "3126997",
       "name": "Tom Kennedy",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38774,7 +39195,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -38784,7 +39206,8 @@
       "player_id": "3127310",
       "name": "Drew Sample",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38801,7 +39224,8 @@
       "player_id": "3127586",
       "name": "Jeremy McNichols",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -38837,7 +39261,8 @@
       "player_id": "3128429",
       "name": "Courtland Sutton",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38857,7 +39282,9 @@
     {
       "player_id": "3134353",
       "name": "Tim Patrick",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "3134353",
@@ -39088,10 +39515,21 @@
       "needs_review": true
     },
     {
+      "player_id": "3138744",
+      "name": "Chris Myarick",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "3139477",
       "name": "Patrick Mahomes",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39128,7 +39566,8 @@
       "player_id": "3150744",
       "name": "Chase McLaughlin",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39146,10 +39585,30 @@
       "needs_review": true
     },
     {
+      "player_id": "3676833",
+      "name": "KaVontae Turpin",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3843945",
       "name": "Foster Moreau",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39168,7 +39627,8 @@
       "name": "David Sills V",
       "missing_scoring_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39181,7 +39641,8 @@
       "player_id": "3886598",
       "name": "Jauan Jennings",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39199,7 +39660,8 @@
       "player_id": "3892775",
       "name": "Jarrett Stidham",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39209,7 +39671,8 @@
       "player_id": "3895856",
       "name": "Christian Kirk",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39219,7 +39682,8 @@
       "player_id": "3911853",
       "name": "Adam Trautman",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39236,7 +39700,8 @@
       "player_id": "3912547",
       "name": "Sam Darnold",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39261,7 +39726,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39271,7 +39737,8 @@
       "player_id": "3915411",
       "name": "Ty Johnson",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39290,7 +39757,8 @@
       "player_id": "3915416",
       "name": "DJ Moore",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39309,7 +39777,8 @@
       "player_id": "3915486",
       "name": "Tyler Conklin",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39324,7 +39793,8 @@
       "player_id": "3915511",
       "name": "Joe Burrow",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39354,7 +39824,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39364,7 +39835,8 @@
       "player_id": "3916148",
       "name": "Tony Pollard",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39384,7 +39856,9 @@
     {
       "player_id": "3916387",
       "name": "Lamar Jackson",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "3916387",
@@ -39620,7 +40094,8 @@
       "player_id": "3916433",
       "name": "Jakobi Meyers",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39647,7 +40122,8 @@
         4,
         5,
         6,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39664,7 +40140,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -39674,7 +40151,8 @@
       "player_id": "3917232",
       "name": "Tyler Bass",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39695,7 +40173,8 @@
       "player_id": "3917315",
       "name": "Kyler Murray",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -39735,7 +40214,8 @@
       "player_id": "3917668",
       "name": "Alec Ingold",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39745,10 +40225,33 @@
       "needs_review": true
     },
     {
+      "player_id": "3917792",
+      "name": "Daniel Jones",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "3917914",
       "name": "Olamide Zaccheaus",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39768,7 +40271,8 @@
       "player_id": "3918298",
       "name": "Josh Allen",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39794,7 +40298,8 @@
         3,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39810,7 +40315,8 @@
       "player_id": "3921690",
       "name": "Josh Oliver",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39823,7 +40329,8 @@
       "player_id": "3924327",
       "name": "Drew Lock",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39838,7 +40345,8 @@
       "player_id": "3925357",
       "name": "Calvin Ridley",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39856,7 +40364,8 @@
       "player_id": "3926231",
       "name": "Britain Covey",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -40074,7 +40583,8 @@
       "player_id": "3929630",
       "name": "Saquon Barkley",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -40116,7 +40626,8 @@
       "player_id": "3929636",
       "name": "Irv Charles",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40131,7 +40642,8 @@
       "player_id": "3929645",
       "name": "Juwan Johnson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -40176,7 +40688,8 @@
       "name": "Nick Westbrook-Ikhine",
       "missing_scoring_weeks": [
         1,
-        2
+        2,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40190,7 +40703,8 @@
       "player_id": "3929914",
       "name": "Adam Prentice",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40214,7 +40728,8 @@
         2,
         3,
         4,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40228,7 +40743,8 @@
       "player_id": "3930086",
       "name": "Dawson Knox",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40256,17 +40772,41 @@
         5,
         6,
         7,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
+      "player_id": "3953687",
+      "name": "Brandon Aubrey",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4012556",
       "name": "C.J. Ham",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -40276,7 +40816,8 @@
       "player_id": "4032473",
       "name": "Rashid Shaheed",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40295,7 +40836,8 @@
       "player_id": "4034779",
       "name": "Ko Kieft",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40315,7 +40857,8 @@
         2,
         3,
         4,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -40325,7 +40868,8 @@
       "player_id": "4034948",
       "name": "Feleipe Franks",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40342,7 +40886,8 @@
       "player_id": "4034949",
       "name": "Eddy Pineiro",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40363,7 +40908,8 @@
       "player_id": "4035020",
       "name": "Charlie Woerner",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40386,7 +40932,8 @@
         3,
         4,
         5,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40395,10 +40942,28 @@
       "needs_review": true
     },
     {
+      "player_id": "4035537",
+      "name": "Kene Nwangwu",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4035538",
       "name": "David Montgomery",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -40614,7 +41179,8 @@
       "player_id": "4035656",
       "name": "Ben Skowronek",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40629,7 +41195,9 @@
     {
       "player_id": "4035671",
       "name": "Tyler Huntley",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4035671",
@@ -40843,7 +41411,8 @@
       "player_id": "4035687",
       "name": "Michael Pittman Jr.",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40857,7 +41426,8 @@
       "player_id": "4035693",
       "name": "Velus Jones Jr.",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40877,7 +41447,8 @@
         4,
         5,
         6,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40892,7 +41463,8 @@
       "player_id": "4036032",
       "name": "Brittain Brown",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -40902,7 +41474,8 @@
       "player_id": "4036131",
       "name": "Noah Fant",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40921,7 +41494,8 @@
       "player_id": "4036133",
       "name": "T.J. Hockenson",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40935,6 +41509,16 @@
         9,
         11
       ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4036275",
+      "name": "Sean McKeon",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
@@ -40959,10 +41543,21 @@
       "needs_review": true
     },
     {
+      "player_id": "4036419",
+      "name": "Skylar Thompson",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4037235",
       "name": "Greg Dortch",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40984,7 +41579,8 @@
       "name": "Travis Homer",
       "missing_scoring_weeks": [
         1,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40998,10 +41594,46 @@
       "needs_review": true
     },
     {
+      "player_id": "4038441",
+      "name": "Justice Hill",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4038524",
+      "name": "Gardner Minshew II",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        8,
+        9
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4038815",
       "name": "Rico Dowdle",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41019,7 +41651,8 @@
       "player_id": "4038941",
       "name": "Justin Herbert",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -41071,10 +41704,33 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "4039050",
+      "name": "Devin Duvernay",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
       "needs_review": true
     },
     {
@@ -41082,7 +41738,8 @@
       "name": "Lil'Jordan Humphrey",
       "missing_scoring_weeks": [
         4,
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -41120,7 +41777,8 @@
       "player_id": "4039160",
       "name": "Kylen Granson",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41132,7 +41790,8 @@
       "player_id": "4039505",
       "name": "Reggie Gilliam",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41145,7 +41804,8 @@
       "player_id": "4040612",
       "name": "Luke Farrell",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41164,7 +41824,8 @@
       "player_id": "4040655",
       "name": "Darnell Mooney",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41185,7 +41846,8 @@
       "player_id": "4040715",
       "name": "Jalen Hurts",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41201,7 +41863,8 @@
       "player_id": "4040761",
       "name": "Devin Singletary",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41225,11 +41888,29 @@
         4,
         5,
         6,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         8
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4045305",
+      "name": "Ian Thomas",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        4,
+        5,
+        7,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -41251,7 +41932,8 @@
       "player_id": "4047646",
       "name": "A.J. Brown",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -41477,7 +42159,8 @@
       "player_id": "4047650",
       "name": "DK Metcalf",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41498,7 +42181,8 @@
       "player_id": "4048228",
       "name": "John Bates",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41522,10 +42206,29 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4061956",
+      "name": "Ashton Dulin",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        4,
+        7,
+        8,
+        9,
+        10,
         11
       ],
       "needs_review": true
@@ -41538,7 +42241,8 @@
         2,
         5,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41554,7 +42258,8 @@
       "player_id": "4239934",
       "name": "AJ Dillon",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41566,10 +42271,27 @@
       "needs_review": true
     },
     {
+      "player_id": "4239944",
+      "name": "Hunter Long",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        4,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4239993",
       "name": "Tee Higgins",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41590,7 +42312,8 @@
       "player_id": "4239996",
       "name": "Travis Etienne Jr.",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41606,7 +42329,8 @@
       "player_id": "4240391",
       "name": "Tommy DeVito",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41620,7 +42344,8 @@
       "player_id": "4240472",
       "name": "Noah Gray",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -41669,7 +42394,8 @@
         3,
         4,
         9,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41680,10 +42406,21 @@
       "needs_review": true
     },
     {
+      "player_id": "4240603",
+      "name": "Malik Davis",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4240631",
       "name": "DeeJay Dallas",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41706,7 +42443,8 @@
         1,
         2,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41719,7 +42457,8 @@
       "player_id": "4240703",
       "name": "Kenny Pickett",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41733,7 +42472,8 @@
       "player_id": "4241263",
       "name": "Charlie Kolar",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41752,7 +42492,8 @@
       "name": "Hollywood Brown",
       "missing_scoring_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41767,7 +42508,8 @@
       "player_id": "4241374",
       "name": "Grant Calcaterra",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41776,10 +42518,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4241389",
+      "name": "CeeDee Lamb",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4241401",
       "name": "Trey Sermon",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -41788,7 +42553,9 @@
     {
       "player_id": "4241410",
       "name": "Jelani Woods",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4241410",
@@ -41826,7 +42593,8 @@
       "player_id": "4241416",
       "name": "Chuba Hubbard",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41847,7 +42615,8 @@
       "player_id": "4241424",
       "name": "Tylan Wallace",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41867,7 +42636,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41883,7 +42653,8 @@
       "player_id": "4241463",
       "name": "Jerry Jeudy",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41903,7 +42674,8 @@
       "player_id": "4241464",
       "name": "Mac Jones",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41918,7 +42690,8 @@
       "name": "Brian Robinson Jr.",
       "missing_scoring_weeks": [
         7,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41935,7 +42708,8 @@
       "player_id": "4241476",
       "name": "Tyrell Shavers",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41947,7 +42721,8 @@
       "player_id": "4241478",
       "name": "DeVonta Smith",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -42162,7 +42937,8 @@
       "player_id": "4241479",
       "name": "Tua Tagovailoa",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42180,7 +42956,8 @@
         4,
         5,
         6,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42202,7 +42979,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42214,7 +42992,8 @@
       "player_id": "4241820",
       "name": "Sam Ehlinger",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -42244,10 +43023,50 @@
       "needs_review": true
     },
     {
+      "player_id": "4241961",
+      "name": "Connor Heyward",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4241983",
+      "name": "Cody White",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4241985",
       "name": "J.K. Dobbins",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42265,9 +43084,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4242335",
+      "name": "Jonathan Taylor",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4242355",
       "name": "Jake Ferguson",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4242355",
@@ -42308,7 +43151,8 @@
       "player_id": "4242392",
       "name": "Brock Wright",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42326,7 +43170,8 @@
       "player_id": "4242431",
       "name": "Ty Chandler",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -42336,7 +43181,8 @@
       "player_id": "4242433",
       "name": "Joshua Palmer",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42349,10 +43195,21 @@
       "needs_review": true
     },
     {
+      "player_id": "4242442",
+      "name": "Princeton Fant",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4242512",
       "name": "Malik Willis",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42371,7 +43228,8 @@
       "player_id": "4242546",
       "name": "Davis Mills",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42416,7 +43274,8 @@
       "player_id": "4243176",
       "name": "Brady Russell",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42441,7 +43300,8 @@
         6,
         7,
         8,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42459,7 +43319,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -42469,7 +43330,8 @@
       "player_id": "4243331",
       "name": "Cade Otton",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42492,7 +43354,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42510,7 +43373,8 @@
       "player_id": "4243389",
       "name": "Calvin Austin III",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -42520,7 +43384,8 @@
       "player_id": "4244049",
       "name": "Quintin Morris",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42538,7 +43403,8 @@
       "player_id": "4245144",
       "name": "Tay Martin",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42559,7 +43425,8 @@
         1,
         2,
         3,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42596,7 +43463,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42606,10 +43474,43 @@
       "needs_review": true
     },
     {
+      "player_id": "4249030",
+      "name": "D.J. Montgomery",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "4249087",
+      "name": "Matt Gay",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4249417",
       "name": "Jalen Tolbert",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42625,7 +43526,8 @@
       "player_id": "4249624",
       "name": "Nick Muse",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42647,7 +43549,8 @@
         2,
         3,
         4,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42666,7 +43569,8 @@
         2,
         3,
         8,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42687,7 +43591,8 @@
         2,
         3,
         4,
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -42901,7 +43806,8 @@
       "player_id": "4258173",
       "name": "Nico Collins",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42920,7 +43826,8 @@
       "player_id": "4258595",
       "name": "Cole Kmet",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42938,7 +43845,8 @@
       "player_id": "4258620",
       "name": "Andre Szmyt",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42959,7 +43867,8 @@
       "player_id": "4259147",
       "name": "Jake Tonges",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -43211,7 +44120,8 @@
       "player_id": "4259545",
       "name": "D'Andre Swift",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43255,10 +44165,21 @@
       "needs_review": true
     },
     {
+      "player_id": "4260394",
+      "name": "Aidan O'Connell",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4262921",
       "name": "Justin Jefferson",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43271,6 +44192,19 @@
         9,
         10,
         11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4360078",
+      "name": "Alec Pierce",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2
       ],
       "needs_review": true
     },
@@ -43288,7 +44222,8 @@
       "player_id": "4360234",
       "name": "Evan McPherson",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43313,7 +44248,8 @@
         2,
         3,
         4,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43327,7 +44263,8 @@
       "player_id": "4360248",
       "name": "Kyle Pitts Sr.",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43349,7 +44286,8 @@
       "name": "Brayden Willis",
       "missing_scoring_weeks": [
         1,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43367,7 +44305,8 @@
       "player_id": "4360310",
       "name": "Trevor Lawrence",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43388,7 +44327,8 @@
       "player_id": "4360405",
       "name": "Jake Bobo",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -43398,7 +44338,8 @@
       "player_id": "4360423",
       "name": "Michael Penix Jr.",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43417,7 +44358,8 @@
       "player_id": "4360438",
       "name": "Brandon Aiyuk",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -43427,7 +44369,8 @@
       "player_id": "4360516",
       "name": "Tyrone Tracy Jr.",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43445,7 +44388,8 @@
       "player_id": "4360569",
       "name": "Jordan Mason",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43462,7 +44406,8 @@
       "player_id": "4360635",
       "name": "Chig Okonkwo",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43481,7 +44426,8 @@
       "player_id": "4360637",
       "name": "Jeshaun Jones",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -43695,7 +44641,8 @@
       "player_id": "4360689",
       "name": "Tyler Shough",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43721,7 +44668,8 @@
         3,
         4,
         5,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43731,10 +44679,51 @@
       "needs_review": true
     },
     {
+      "player_id": "4360739",
+      "name": "Simi Fehoko",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4360761",
+      "name": "Michael Wilson",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4360763",
       "name": "Brycen Tremayne",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43769,10 +44758,55 @@
       "needs_review": true
     },
     {
+      "player_id": "4360939",
+      "name": "Rashod Bateman",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4360967",
+      "name": "Brevyn Spann-Ford",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4360978",
       "name": "David Martin-Robinson",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43784,7 +44818,8 @@
       "player_id": "4361050",
       "name": "Isaiah Likely",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43805,7 +44840,8 @@
       "player_id": "4361088",
       "name": "Colson Yankoff",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43825,7 +44861,8 @@
       "player_id": "4361100",
       "name": "Jack Westover",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -43843,7 +44880,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -43853,7 +44891,8 @@
       "player_id": "4361259",
       "name": "Zach Wilson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -44081,10 +45120,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4361307",
+      "name": "Trey McBride",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4361370",
       "name": "Chris Olave",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44102,10 +45164,27 @@
       "needs_review": true
     },
     {
+      "player_id": "4361372",
+      "name": "Jeremy Ruckert",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        7,
+        10
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4361409",
       "name": "Jahan Dotson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44126,7 +45205,8 @@
       "player_id": "4361411",
       "name": "Pat Freiermuth",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44148,7 +45228,8 @@
       "name": "Will Levis",
       "missing_scoring_weeks": [
         1,
-        2
+        2,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44165,7 +45246,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44175,7 +45257,8 @@
       "player_id": "4361432",
       "name": "Romeo Doubs",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44192,7 +45275,8 @@
       "player_id": "4361438",
       "name": "Cole Turner",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44202,7 +45286,8 @@
       "player_id": "4361516",
       "name": "Daniel Bellinger",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44223,7 +45308,8 @@
       "player_id": "4361529",
       "name": "Isiah Pacheco",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44233,7 +45319,8 @@
       "player_id": "4361577",
       "name": "Dyami Brown",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -44271,10 +45358,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4361579",
+      "name": "Javonte Williams",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4361741",
       "name": "Brock Purdy",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44302,7 +45412,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44320,7 +45431,8 @@
         4,
         5,
         6,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44333,7 +45445,8 @@
       "player_id": "4362018",
       "name": "Blake Whiteheart",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44351,7 +45464,8 @@
       "player_id": "4362081",
       "name": "Cameron Dicker",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44372,7 +45486,8 @@
       "player_id": "4362238",
       "name": "Chase Brown",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44406,7 +45521,8 @@
       "player_id": "4362477",
       "name": "Derius Davis",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44428,7 +45544,8 @@
       "name": "Emari Demercado",
       "missing_scoring_weeks": [
         5,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44444,7 +45561,8 @@
       "player_id": "4362504",
       "name": "Brevin Jordan",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44457,10 +45575,24 @@
       "needs_review": true
     },
     {
+      "player_id": "4362523",
+      "name": "Will Mallory",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        6,
+        7
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4362619",
       "name": "Chris Rodriguez Jr.",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44481,7 +45613,8 @@
       "player_id": "4362628",
       "name": "Ja'Marr Chase",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44502,7 +45635,8 @@
       "player_id": "4362748",
       "name": "Tyler Badie",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44518,7 +45652,8 @@
       "player_id": "4362887",
       "name": "Justin Fields",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44532,7 +45667,8 @@
       "player_id": "4362921",
       "name": "Tyquan Thornton",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44544,10 +45680,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4363538",
+      "name": "Chad Ryland",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4363554",
       "name": "Thomas Odukoya",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44557,7 +45716,8 @@
       "player_id": "4365395",
       "name": "Julian Hill",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44567,7 +45727,8 @@
       "player_id": "4366031",
       "name": "Tank Dell",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44588,17 +45749,41 @@
         4,
         5,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
+      "player_id": "4366963",
+      "name": "Dylan Laube",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4367209",
       "name": "Greg Dulcich",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44618,7 +45803,8 @@
       "player_id": "4367567",
       "name": "Julius Chestnut",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44636,7 +45822,8 @@
       "player_id": "4368003",
       "name": "Andrei Iosivas",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -44674,7 +45861,8 @@
       "missing_scoring_weeks": [
         6,
         7,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44692,7 +45880,8 @@
         2,
         3,
         4,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44702,7 +45891,8 @@
       "player_id": "4369886",
       "name": "Chris Blair",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44721,7 +45911,8 @@
       "player_id": "4371733",
       "name": "Kenny Gainwell",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -44742,7 +45933,8 @@
       "player_id": "4372016",
       "name": "Jaylen Waddle",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -44969,7 +46161,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -44979,7 +46172,8 @@
       "player_id": "4372026",
       "name": "Cameron Latu",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45002,7 +46196,8 @@
         6,
         7,
         8,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45015,7 +46210,8 @@
       "player_id": "4372070",
       "name": "Ben VanSumeren",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -45048,10 +46244,27 @@
       "needs_review": true
     },
     {
+      "player_id": "4372096",
+      "name": "Luke Schoonmaker",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        3,
+        5,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4372414",
       "name": "Elijah Moore",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45065,7 +46278,8 @@
       "player_id": "4372505",
       "name": "Payne Durham",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45089,7 +46303,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45101,7 +46316,8 @@
       "player_id": "4372561",
       "name": "Isaac Guerendo",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -45111,7 +46327,8 @@
       "player_id": "4372716",
       "name": "Nikko Remigio",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45138,7 +46355,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45150,7 +46368,8 @@
       "player_id": "4372780",
       "name": "Tommy Tremble",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45171,7 +46390,8 @@
       "player_id": "4373273",
       "name": "British Brooks",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45180,10 +46400,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4373626",
+      "name": "Tyler Allgeier",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4373678",
       "name": "Khalil Shakir",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45204,7 +46447,8 @@
       "player_id": "4373684",
       "name": "Scott Matlock",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -45217,7 +46461,8 @@
         1,
         2,
         3,
-        4
+        4,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45233,7 +46478,8 @@
         1,
         2,
         3,
-        4
+        4,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45245,7 +46491,8 @@
       "player_id": "4374302",
       "name": "Amon-Ra St. Brown",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45266,7 +46513,8 @@
       "player_id": "4379399",
       "name": "James Cook III",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45284,20 +46532,62 @@
       "needs_review": true
     },
     {
+      "player_id": "4382466",
+      "name": "Jalen Nailor",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4383351",
       "name": "Trey Lance",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
+      "player_id": "4383396",
+      "name": "Hunter Luepke",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4383429",
       "name": "Jacob Saylors",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45317,7 +46607,8 @@
       "player_id": "4383440",
       "name": "Nate Adkins",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45334,7 +46625,8 @@
       "player_id": "4384852",
       "name": "Dohnte Meyers",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45355,7 +46647,8 @@
       "player_id": "4385690",
       "name": "Dalton Kincaid",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45403,7 +46696,8 @@
         5,
         6,
         7,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45416,7 +46710,9 @@
     {
       "player_id": "4401805",
       "name": "Dareke Young",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4401805",
@@ -45457,7 +46753,8 @@
         1,
         2,
         3,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45469,7 +46766,8 @@
       "player_id": "4424106",
       "name": "Gunner Olszewski",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -45479,7 +46777,8 @@
       "player_id": "4426335",
       "name": "Graham Mertz",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -45489,7 +46788,8 @@
       "player_id": "4426338",
       "name": "Bo Nix",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45510,7 +46810,8 @@
       "player_id": "4426339",
       "name": "Spencer Rattler",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -45520,7 +46821,8 @@
       "player_id": "4426348",
       "name": "Jayden Daniels",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45536,10 +46838,32 @@
       "needs_review": true
     },
     {
+      "player_id": "4426354",
+      "name": "George Pickens",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4426385",
       "name": "Zach Charbonnet",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45553,7 +46877,8 @@
       "player_id": "4426386",
       "name": "Roschon Johnson",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -45594,7 +46919,8 @@
       "player_id": "4426388",
       "name": "Jameson Williams",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45614,7 +46940,9 @@
     {
       "player_id": "4426485",
       "name": "Jonathan Mingo",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4426485",
@@ -45874,7 +47202,8 @@
       "player_id": "4426496",
       "name": "Cade Stover",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -45891,7 +47220,8 @@
       "player_id": "4426502",
       "name": "Drake London",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -46155,7 +47485,8 @@
         2,
         3,
         4,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46186,10 +47517,41 @@
       "needs_review": true
     },
     {
+      "player_id": "4426844",
+      "name": "Elijah Higgins",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4426875",
+      "name": "Sam Howell",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4426948",
       "name": "Luke McCaffrey",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46209,7 +47571,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46221,7 +47584,8 @@
       "player_id": "4427095",
       "name": "DeMario Douglas",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46242,7 +47606,8 @@
       "player_id": "4427238",
       "name": "Dillon Gabriel",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -46482,7 +47847,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46491,10 +47857,46 @@
       "needs_review": true
     },
     {
+      "player_id": "4427366",
+      "name": "Breece Hall",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4427728",
+      "name": "Bam Knight",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4427834",
       "name": "Erick All Jr.",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46520,7 +47922,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46538,7 +47941,8 @@
       "player_id": "4428209",
       "name": "Ricky Pearsall",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -46548,7 +47952,8 @@
       "player_id": "4428331",
       "name": "Rashee Rice",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46570,7 +47975,8 @@
         2,
         7,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46591,7 +47997,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -46624,7 +48031,8 @@
       "player_id": "4428532",
       "name": "Ainias Smith",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -46634,7 +48042,8 @@
       "player_id": "4428557",
       "name": "Tyjae Spears",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46649,10 +48058,43 @@
       "needs_review": true
     },
     {
+      "player_id": "4428718",
+      "name": "Tre Tucker",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4428811",
+      "name": "Xavier Weaver",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4428850",
       "name": "Dontayvion Wicks",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -46868,7 +48310,8 @@
       "player_id": "4428993",
       "name": "Haynes King",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -47099,7 +48542,8 @@
       "player_id": "4429013",
       "name": "Tank Bigsby",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47121,7 +48565,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47133,7 +48578,8 @@
       "player_id": "4429022",
       "name": "Kayshon Boutte",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -47197,7 +48643,8 @@
       "player_id": "4429025",
       "name": "Quentin Johnston",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47217,7 +48664,8 @@
       "player_id": "4429059",
       "name": "Woody Marks",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -47433,6 +48881,41 @@
       "needs_review": true
     },
     {
+      "player_id": "4429084",
+      "name": "Anthony Richardson Sr.",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        8,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4429086",
+      "name": "Michael Mayer",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4429096",
       "name": "Blake Corum",
       "missing_scoring_weeks": [
@@ -47454,6 +48937,19 @@
       "needs_review": true
     },
     {
+      "player_id": "4429105",
+      "name": "Arian Smith",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4429121",
       "name": "Kalel Mullings",
       "missing_scoring_weeks": [
@@ -47461,7 +48957,8 @@
         2,
         3,
         4,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47473,7 +48970,8 @@
       "player_id": "4429148",
       "name": "Theo Johnson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47490,7 +48988,8 @@
       "player_id": "4429160",
       "name": "De'Von Achane",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47511,7 +49010,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47523,7 +49023,8 @@
       "player_id": "4429205",
       "name": "Jordan Addison",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -47759,10 +49260,21 @@
       "needs_review": true
     },
     {
+      "player_id": "4429275",
+      "name": "Trey Benson",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
       "player_id": "4429299",
       "name": "Tahj Brooks",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47785,7 +49297,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -47813,7 +49326,8 @@
       "player_id": "4429501",
       "name": "Ray Davis",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47830,10 +49344,45 @@
       "needs_review": true
     },
     {
+      "player_id": "4429582",
+      "name": "Joe Fagnano",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        8,
+        9
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4429615",
+      "name": "Zay Flowers",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4429676",
       "name": "Tyler Goodson",
       "missing_scoring_weeks": [
-        1
+        1,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47850,7 +49399,8 @@
       "player_id": "4429684",
       "name": "Anthony Gould",
       "missing_scoring_weeks": [
-        1
+        1,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47868,7 +49418,8 @@
       "player_id": "4429795",
       "name": "Jahmyr Gibbs",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47889,7 +49440,8 @@
       "player_id": "4429805",
       "name": "Frank Gore Jr.",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47903,7 +49455,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -47913,7 +49466,8 @@
       "player_id": "4429835",
       "name": "George Holani",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -48159,7 +49713,8 @@
         3,
         4,
         5,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48171,7 +49726,8 @@
       "player_id": "4429955",
       "name": "Will Howard",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -48402,7 +49958,8 @@
       "player_id": "4430027",
       "name": "Sam LaPorta",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48423,7 +49980,8 @@
       "player_id": "4430034",
       "name": "Xavier Legette",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48674,7 +50232,8 @@
       "player_id": "4430431",
       "name": "Kurtis Rourke",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -48883,7 +50442,8 @@
       "player_id": "4430539",
       "name": "Brenton Strange",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48904,7 +50464,8 @@
       "player_id": "4430637",
       "name": "Ja'Lynn Polk",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -48914,7 +50475,8 @@
       "player_id": "4430656",
       "name": "Myles Price",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48935,7 +50497,8 @@
       "player_id": "4430681",
       "name": "Jared Wayne",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -49173,7 +50736,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49188,7 +50752,8 @@
       "missing_scoring_weeks": [
         2,
         3,
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -49418,7 +50983,8 @@
       "player_id": "4430802",
       "name": "Darnell Washington",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49439,7 +51005,8 @@
       "player_id": "4430807",
       "name": "Bijan Robinson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49460,7 +51027,8 @@
       "player_id": "4430834",
       "name": "Jalen McMillan",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -49668,10 +51236,23 @@
       "needs_review": true
     },
     {
+      "player_id": "4430841",
+      "name": "Carson Beck",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        10
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4430870",
       "name": "KeAndre Lambert-Smith",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49685,7 +51266,8 @@
       "player_id": "4430871",
       "name": "Sean Tucker",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49701,7 +51283,8 @@
       "player_id": "4430878",
       "name": "Jaxon Smith-Njigba",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49722,7 +51305,8 @@
       "player_id": "4430968",
       "name": "Kimani Vidal",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49742,7 +51326,8 @@
       "player_id": "4431142",
       "name": "Jimmy Holiday",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -49752,7 +51337,8 @@
       "player_id": "4431196",
       "name": "Jake Briningstool",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49770,7 +51356,8 @@
       "player_id": "4431210",
       "name": "Beaux Collins",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49782,7 +51369,8 @@
       "player_id": "4431268",
       "name": "Chimere Dike",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49803,7 +51391,8 @@
       "player_id": "4431280",
       "name": "Troy Franklin",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49823,7 +51412,8 @@
       "player_id": "4431299",
       "name": "Rome Odunze",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49844,7 +51434,8 @@
       "player_id": "4431325",
       "name": "Taylen Green",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -49896,7 +51487,8 @@
         5,
         6,
         7,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49910,7 +51502,8 @@
       "player_id": "4431431",
       "name": "Corey Kiner",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -49931,7 +51524,8 @@
       "player_id": "4431452",
       "name": "Drake Maye",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -50170,10 +51764,31 @@
       "needs_review": true
     },
     {
+      "player_id": "4431459",
+      "name": "Tyler Warren",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4431465",
       "name": "Behren Morton",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -50183,7 +51798,8 @@
       "player_id": "4431466",
       "name": "Jordan Watkins",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50216,7 +51832,8 @@
       "player_id": "4431492",
       "name": "Roman Wilson",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50233,7 +51850,8 @@
       "player_id": "4431545",
       "name": "Will Shipley",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50257,7 +51875,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -50267,7 +51886,8 @@
       "player_id": "4431574",
       "name": "Eli Stowers",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50281,7 +51901,8 @@
       "player_id": "4431588",
       "name": "Ja'Tavion Sanders",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -50512,7 +52133,8 @@
       "player_id": "4431611",
       "name": "Caleb Williams",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50530,10 +52152,28 @@
       "player_id": "4432208",
       "name": "Caleb Lohner",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "4432260",
+      "name": "Matt Hibner",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        3,
+        4,
+        8,
+        9,
+        11
+      ],
       "needs_review": true
     },
     {
@@ -50557,7 +52197,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50569,7 +52210,8 @@
       "player_id": "4432577",
       "name": "C.J. Stroud",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50590,7 +52232,8 @@
       "player_id": "4432620",
       "name": "Parker Washington",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -50610,7 +52253,9 @@
     {
       "player_id": "4432665",
       "name": "Brock Bowers",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4432665",
@@ -50871,7 +52516,8 @@
       "player_id": "4432708",
       "name": "Marvin Harrison Jr.",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [
         {
@@ -51088,7 +52734,8 @@
       "player_id": "4432710",
       "name": "TreVeyon Henderson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51105,7 +52752,8 @@
       "player_id": "4432722",
       "name": "Athan Kaliakmanis",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -51316,7 +52964,8 @@
       "player_id": "4432731",
       "name": "Moliki Matavao",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -51326,7 +52975,8 @@
       "player_id": "4432734",
       "name": "Jalen Milroe",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -51336,7 +52986,8 @@
       "player_id": "4432762",
       "name": "Shedeur Sanders",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51350,7 +53001,8 @@
       "player_id": "4432773",
       "name": "Brian Thomas Jr.",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51369,7 +53021,9 @@
     {
       "player_id": "4432775",
       "name": "Dont'e Thornton Jr.",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4432775",
@@ -51599,7 +53253,8 @@
       "player_id": "4433959",
       "name": "Ben Yurosek",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51614,7 +53269,8 @@
       "player_id": "4433970",
       "name": "J.J. McCarthy",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51631,7 +53287,8 @@
       "player_id": "4433971",
       "name": "Kyle McCord",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51644,7 +53301,8 @@
       "player_id": "4434153",
       "name": "Tyson Bagent",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51658,7 +53316,8 @@
       "player_id": "4565185",
       "name": "Tai Felton",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51675,7 +53334,8 @@
       "player_id": "4565859",
       "name": "Joe Royer",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -51685,7 +53345,8 @@
       "player_id": "4566158",
       "name": "Ben Sauls",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -51712,7 +53373,8 @@
       "player_id": "4567048",
       "name": "Kenneth Walker III",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51731,7 +53393,8 @@
       "player_id": "4567096",
       "name": "John Metchie III",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51751,7 +53414,8 @@
       "player_id": "4567104",
       "name": "Will Reichard",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51772,7 +53436,8 @@
       "player_id": "4567156",
       "name": "Treylon Burks",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -51793,7 +53458,8 @@
       "missing_scoring_weeks": [
         2,
         3,
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -52024,7 +53690,8 @@
       "player_id": "4567750",
       "name": "Emeka Egbuka",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52043,7 +53710,8 @@
       "player_id": "4568024",
       "name": "Josh Williams",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52055,7 +53723,8 @@
       "player_id": "4568263",
       "name": "Ryan Fitzgerald",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52076,7 +53745,8 @@
       "player_id": "4568490",
       "name": "RJ Harvey",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52093,7 +53763,8 @@
       "player_id": "4569173",
       "name": "Rhamondre Stevenson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52113,7 +53784,9 @@
     {
       "player_id": "4569371",
       "name": "Isaiah Williams",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4569371",
@@ -52156,7 +53829,8 @@
       "player_id": "4569372",
       "name": "Dalevon Campbell",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -52183,7 +53857,8 @@
       "player_id": "4569547",
       "name": "Nick Kallerup",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -52193,7 +53868,8 @@
       "player_id": "4569559",
       "name": "Devaughn Vele",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52214,7 +53890,8 @@
       "player_id": "4569587",
       "name": "Wan'Dale Robinson",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -52415,7 +54092,8 @@
       "player_id": "4569603",
       "name": "Malik Washington",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52440,11 +54118,33 @@
         2,
         3,
         4,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         9
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4569618",
+      "name": "Garrett Wilson",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -52454,7 +54154,8 @@
       "missing_scoring_weeks": [
         3,
         4,
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -52491,7 +54192,8 @@
       "player_id": "4569923",
       "name": "Andy Borregales",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52512,7 +54214,8 @@
       "player_id": "4569987",
       "name": "Jaylen Warren",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52550,7 +54253,8 @@
         2,
         3,
         4,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52562,7 +54266,8 @@
       "player_id": "4570409",
       "name": "David Bell",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -52579,11 +54284,34 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         3
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4571557",
+      "name": "Spencer Shrader",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -52612,7 +54340,8 @@
       "player_id": "4572786",
       "name": "Dennis Houston",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -52625,7 +54354,8 @@
         1,
         2,
         3,
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -52858,7 +54588,8 @@
       "player_id": "4573697",
       "name": "Mason Tipton",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -52868,7 +54599,8 @@
       "player_id": "4573699",
       "name": "Jackson Hawes",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52888,7 +54620,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52904,7 +54637,8 @@
       "player_id": "4575131",
       "name": "Jacory Croskey-Merritt",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52921,7 +54655,8 @@
       "player_id": "4575665",
       "name": "Jacob Cowing",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52941,7 +54676,8 @@
       "player_id": "4576297",
       "name": "AJ Barner",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52968,7 +54704,8 @@
         4,
         5,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52982,7 +54719,8 @@
       "player_id": "4586312",
       "name": "Jaylin Noel",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53000,7 +54738,8 @@
       "player_id": "4590292",
       "name": "Thomas Fidone II",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53012,7 +54751,8 @@
       "player_id": "4595342",
       "name": "Oronde Gadsden",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53032,7 +54772,8 @@
       "player_id": "4595348",
       "name": "Malik Nabers",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53053,7 +54794,8 @@
       "player_id": "4596334",
       "name": "Keaton Mitchell",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -53097,7 +54839,8 @@
       "player_id": "4596448",
       "name": "Bucky Irving",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53118,7 +54861,8 @@
       "player_id": "4596472",
       "name": "Jalon Daniels",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53134,7 +54878,8 @@
       "player_id": "4596602",
       "name": "Brashard Smith",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53144,10 +54889,29 @@
       "needs_review": true
     },
     {
+      "player_id": "4597500",
+      "name": "Adonai Mitchell",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4597703",
       "name": "Tory Horton",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53167,7 +54931,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53184,7 +54949,8 @@
       "player_id": "4600597",
       "name": "Montorie Foster Jr.",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53196,7 +54962,8 @@
       "player_id": "4600981",
       "name": "Pat Bryant",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53213,7 +54980,8 @@
       "player_id": "4601080",
       "name": "Raheim Sanders",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53229,7 +54997,8 @@
       "player_id": "4602667",
       "name": "Jaylin Lane",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53246,11 +55015,28 @@
       "missing_scoring_weeks": [
         6,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         3
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4603186",
+      "name": "Jack Bech",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        9,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -53266,7 +55052,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53291,7 +55078,8 @@
       "player_id": "4608686",
       "name": "Kyle Monangai",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -53506,7 +55294,8 @@
       "player_id": "4608810",
       "name": "Tez Johnson",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53527,7 +55316,8 @@
       "player_id": "4612826",
       "name": "Ladd McConkey",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -53744,7 +55534,8 @@
       "player_id": "4613104",
       "name": "Malachi Corley",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53765,7 +55556,8 @@
       "player_id": "4613202",
       "name": "Kyle Williams",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53786,7 +55578,8 @@
       "player_id": "4635008",
       "name": "Keon Coleman",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53827,7 +55620,8 @@
       "player_id": "4678006",
       "name": "Elijah Arroyo",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53840,7 +55634,8 @@
       "player_id": "4678008",
       "name": "Jonathon Brooks",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53854,7 +55649,8 @@
       "name": "Malik McClain",
       "missing_scoring_weeks": [
         1,
-        2
+        2,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53868,7 +55664,8 @@
       "player_id": "4682648",
       "name": "Malachi Fields",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53889,7 +55686,8 @@
       "player_id": "4682745",
       "name": "Jaylen Wright",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53908,7 +55706,8 @@
       "player_id": "4683062",
       "name": "Xavier Worthy",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53936,7 +55735,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53945,10 +55745,31 @@
       "needs_review": true
     },
     {
+      "player_id": "4683151",
+      "name": "Deion Burks",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4683153",
       "name": "Skyler Bell",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -53985,7 +55806,8 @@
       "name": "Lewis Bond",
       "missing_scoring_weeks": [
         1,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -53997,7 +55819,8 @@
       "player_id": "4683243",
       "name": "Mitchell Evans",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54019,7 +55842,8 @@
       "name": "Tanner Arkin",
       "missing_scoring_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -54028,7 +55852,9 @@
     {
       "player_id": "4683423",
       "name": "Riley Leonard",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4683423",
@@ -54280,7 +56106,8 @@
       "player_id": "4685116",
       "name": "DJ Herman",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54294,7 +56121,8 @@
       "player_id": "4685201",
       "name": "Tanner McKee",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54308,7 +56136,8 @@
       "player_id": "4685246",
       "name": "Kaytron Allen",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54323,10 +56152,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4685247",
+      "name": "Braelon Allen",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4685261",
       "name": "Germie Bernard",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54346,7 +56198,8 @@
       "player_id": "4685278",
       "name": "Luther Burden III",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -54572,7 +56425,8 @@
         4,
         5,
         7,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54586,7 +56440,8 @@
       "player_id": "4685307",
       "name": "Kevin Coleman Jr.",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54606,7 +56461,8 @@
       "player_id": "4685350",
       "name": "Trevor Etienne",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54623,7 +56479,8 @@
       "player_id": "4685382",
       "name": "Omarion Hampton",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54644,7 +56501,8 @@
       "player_id": "4685397",
       "name": "Jordan James",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54669,7 +56527,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54678,10 +56537,23 @@
       "needs_review": true
     },
     {
+      "player_id": "4685413",
+      "name": "Cade Klubnik",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        10
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4685415",
       "name": "Travis Hunter",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54702,7 +56574,8 @@
       "player_id": "4685441",
       "name": "Kendrick Law",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -54712,7 +56585,8 @@
       "player_id": "4685472",
       "name": "Tetairoa McMillan",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54738,7 +56612,8 @@
         3,
         4,
         5,
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -54951,7 +56826,8 @@
       "player_id": "4685504",
       "name": "Sam Roush",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -54968,7 +56844,8 @@
       "player_id": "4685512",
       "name": "Jadarian Price",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55215,7 +57092,9 @@
     {
       "player_id": "4685526",
       "name": "Adam Randall",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4685526",
@@ -55467,7 +57346,8 @@
       "player_id": "4685540",
       "name": "Carsen Ryan",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55479,7 +57359,8 @@
       "player_id": "4685553",
       "name": "Brenen Thompson",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -55536,7 +57417,8 @@
       "player_id": "4685555",
       "name": "Nicholas Singleton",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -55770,7 +57652,8 @@
       "player_id": "4685702",
       "name": "Quinshon Judkins",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55790,7 +57673,8 @@
       "player_id": "4685720",
       "name": "Bryce Young",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55811,7 +57695,8 @@
       "player_id": "4686104",
       "name": "Johnny Wilson",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -55821,7 +57706,8 @@
       "player_id": "4686248",
       "name": "Nate Boerkircher",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55840,7 +57726,8 @@
       "player_id": "4686361",
       "name": "Cam Little",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55861,7 +57748,8 @@
       "player_id": "4686422",
       "name": "Xavier Hutchinson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55881,7 +57769,9 @@
     {
       "player_id": "4686468",
       "name": "Seth McGowan",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4686468",
@@ -55925,7 +57815,8 @@
       "player_id": "4686472",
       "name": "Marvin Mims Jr.",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55944,7 +57835,8 @@
       "player_id": "4686612",
       "name": "Tre' Harris",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55961,10 +57853,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4686658",
+      "name": "Mike Washington Jr.",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4686728",
       "name": "Gunnar Helm",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55984,7 +57899,8 @@
       "player_id": "4688380",
       "name": "Cam Ward",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56005,7 +57921,8 @@
       "player_id": "4688552",
       "name": "Keleki Latu",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56021,10 +57938,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4688813",
+      "name": "Josh Downs",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4689114",
       "name": "Jaxson Dart",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56046,7 +57986,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56056,7 +57997,8 @@
       "player_id": "4689936",
       "name": "Jake Bates",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56074,13 +58016,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4690013",
+      "name": "Rasheen Ali",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4690070",
       "name": "Mitchell Tinsley",
       "missing_scoring_weeks": [
         1,
         2,
         3,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56091,10 +58053,33 @@
       "needs_review": true
     },
     {
+      "player_id": "4690143",
+      "name": "LaJohntay Wester",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4690923",
       "name": "Ben Sinnott",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56109,7 +58094,8 @@
       "player_id": "4691688",
       "name": "Robbie Ouzts",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56126,7 +58112,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56145,7 +58132,8 @@
         4,
         5,
         6,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56155,10 +58143,28 @@
       "needs_review": true
     },
     {
+      "player_id": "4692835",
+      "name": "Jalen Brooks",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4693370",
       "name": "Riley Nowakowski",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56183,7 +58189,8 @@
         7,
         8,
         9,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56195,7 +58202,8 @@
       "player_id": "4695193",
       "name": "Efton Chism III",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56212,10 +58220,32 @@
       "needs_review": true
     },
     {
+      "player_id": "4695404",
+      "name": "Isaiah Davis",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4695705",
       "name": "Marlin Klein",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56228,7 +58258,8 @@
       "player_id": "4695883",
       "name": "Jalen Coker",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [
         {
@@ -56271,7 +58302,8 @@
       "player_id": "4696044",
       "name": "Kaelon Black",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56289,10 +58321,38 @@
       "needs_review": true
     },
     {
+      "player_id": "4696700",
+      "name": "Tip Reiman",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [],
+      "needs_review": true
+    },
+    {
+      "player_id": "4696882",
+      "name": "Devontez Walker",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4696981",
       "name": "Cam Skattebo",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56308,10 +58368,30 @@
       "needs_review": true
     },
     {
+      "player_id": "4697745",
+      "name": "Tyler Loop",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4697815",
       "name": "Rachaad White",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56332,7 +58412,8 @@
       "name": "Chris Collier",
       "missing_scoring_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56342,7 +58423,8 @@
       "player_id": "4698253",
       "name": "Lan Larison",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56357,7 +58439,8 @@
       "player_id": "4698597",
       "name": "Barion Brown",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56384,7 +58467,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56403,7 +58487,8 @@
         4,
         5,
         6,
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56434,7 +58519,8 @@
       "player_id": "4702555",
       "name": "Jonah Coleman",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56451,7 +58537,8 @@
       "player_id": "4702559",
       "name": "Oscar Delp",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56469,7 +58556,8 @@
       "player_id": "4708049",
       "name": "Gavin Bartholomew",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56494,7 +58582,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56508,7 +58597,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56526,7 +58616,8 @@
       "player_id": "4710714",
       "name": "De'Zhaun Stribling",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56556,7 +58647,8 @@
       "player_id": "4711533",
       "name": "Ollie Gordon II",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56577,7 +58669,8 @@
       "name": "Dillon Bell",
       "missing_scoring_weeks": [
         1,
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -56595,7 +58688,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56607,7 +58701,8 @@
       "player_id": "4714379",
       "name": "Seydou Traore",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56622,7 +58717,8 @@
       "player_id": "4714771",
       "name": "Drew Allar",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -56831,7 +58927,8 @@
       "player_id": "4715355",
       "name": "Darius Cooper",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56853,7 +58950,8 @@
       "name": "Jaleel McLaughlin",
       "missing_scoring_weeks": [
         1,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56866,10 +58964,29 @@
       "needs_review": true
     },
     {
+      "player_id": "4722908",
+      "name": "Drew Ogletree",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4723086",
       "name": "Colston Loveland",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -56889,7 +59006,9 @@
     {
       "player_id": "4723820",
       "name": "Omar Cooper Jr.",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "4723820",
@@ -57143,10 +59262,43 @@
       "needs_review": true
     },
     {
+      "player_id": "4808759",
+      "name": "Camden Brown",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        9,
+        10
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4808766",
+      "name": "Mason Taylor",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4808839",
       "name": "Isaiah Bond",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57182,7 +59334,8 @@
       "player_id": "4831959",
       "name": "Eli Raridon",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57202,7 +59355,8 @@
       "player_id": "4832800",
       "name": "Denzel Boston",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57223,7 +59377,8 @@
       "player_id": "4832846",
       "name": "Demond Claiborne",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57238,7 +59393,8 @@
       "player_id": "4832955",
       "name": "Emmett Johnson",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57266,6 +59422,34 @@
       "needs_review": true
     },
     {
+      "player_id": "4837248",
+      "name": "Fernando Mendoza",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        5,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4869132",
+      "name": "Reggie Virgil",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        5,
+        8,
+        9
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4869461",
       "name": "Trey Smack",
       "missing_scoring_weeks": [
@@ -57290,7 +59474,8 @@
       "player_id": "4869645",
       "name": "Caleb Douglas",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57308,7 +59493,8 @@
       "player_id": "4869748",
       "name": "Zavion Thomas",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57328,7 +59514,8 @@
       "player_id": "4869961",
       "name": "Chris Bell",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [
         {
@@ -57547,7 +59734,8 @@
       "player_id": "4870612",
       "name": "Zachariah Branch",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57566,7 +59754,8 @@
       "player_id": "4870653",
       "name": "KC Concepcion",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57587,7 +59776,8 @@
       "player_id": "4870795",
       "name": "Makai Lemon",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57605,10 +59795,44 @@
       "needs_review": true
     },
     {
+      "player_id": "4870808",
+      "name": "Jeremiyah Love",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4870847",
+      "name": "Ja'Kobi Lane",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        6,
+        7,
+        8,
+        10
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4871023",
       "name": "Carnell Tate",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -57823,6 +60047,19 @@
       "needs_review": true
     },
     {
+      "player_id": "4874509",
+      "name": "DJ Giddens",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        8,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "4876006",
       "name": "Zaire Mitchell-Paden",
       "missing_scoring_weeks": [
@@ -57835,11 +60072,31 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         10
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4876132",
+      "name": "Josh Cuevas",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
       ],
       "needs_review": true
     },
@@ -57850,7 +60107,8 @@
         1,
         2,
         3,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57862,7 +60120,8 @@
       "player_id": "4877034",
       "name": "Jaren Kanak",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -57872,7 +60131,8 @@
       "player_id": "4877706",
       "name": "Jayden Higgins",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -57882,7 +60142,8 @@
       "player_id": "4878695",
       "name": "Max Bredeson",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57896,7 +60157,8 @@
       "player_id": "4879194",
       "name": "Josh Cameron",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57917,7 +60179,8 @@
       "player_id": "4879250",
       "name": "Cole Payton",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [
         {
@@ -57950,7 +60213,8 @@
       "player_id": "4879276",
       "name": "Bryce Lance",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57971,7 +60235,8 @@
       "player_id": "4880236",
       "name": "Will Kacmarek",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57989,7 +60254,8 @@
       "player_id": "4880281",
       "name": "Jordyn Tyson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58003,7 +60269,8 @@
       "player_id": "4882093",
       "name": "Bhayshul Tuten",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58024,7 +60291,8 @@
       "player_id": "4883647",
       "name": "Elic Ayomanor",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58045,7 +60313,8 @@
       "player_id": "4887558",
       "name": "Emanuel Wilson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {
@@ -58284,7 +60553,8 @@
       "player_id": "4889929",
       "name": "Quinn Ewers",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58296,7 +60566,8 @@
       "player_id": "4890373",
       "name": "Bauer Sharp",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58306,6 +60577,28 @@
         5,
         6,
         7,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "4890973",
+      "name": "Ashton Jeanty",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
         11
       ],
       "needs_review": true
@@ -58322,7 +60615,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58334,7 +60628,8 @@
       "player_id": "4911851",
       "name": "LeQuint Allen Jr.",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58354,7 +60649,8 @@
       "player_id": "4912052",
       "name": "Justin Joly",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -58364,7 +60660,8 @@
       "player_id": "4912218",
       "name": "Cyrus Allen",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58383,7 +60680,8 @@
       "player_id": "4912274",
       "name": "Sione Vaki",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58404,7 +60702,8 @@
       "player_id": "4916349",
       "name": "Nikola Kalinic",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -58414,7 +60713,8 @@
       "player_id": "4917427",
       "name": "Tanner Koziol",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58428,7 +60728,8 @@
       "player_id": "5065495",
       "name": "Kaden Davis",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58440,7 +60741,8 @@
       "player_id": "5081335",
       "name": "Drew Stevens",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58461,7 +60763,8 @@
       "player_id": "5081338",
       "name": "Kaden Wetjen",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -58504,7 +60807,8 @@
       "player_id": "5081397",
       "name": "Dylan Sampson",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58520,7 +60824,8 @@
       "player_id": "5081432",
       "name": "Antonio Williams",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58541,7 +60846,8 @@
       "player_id": "5081508",
       "name": "Eli Heidenreich",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [
         {
@@ -58753,7 +61059,8 @@
       "player_id": "5081999",
       "name": "CJ Donaldson",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58787,7 +61094,8 @@
       "player_id": "5082424",
       "name": "Dominic Zvada",
       "missing_scoring_weeks": [
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58808,7 +61116,8 @@
       "player_id": "5082630",
       "name": "Jalen Royals",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58829,7 +61138,8 @@
       "player_id": "5083076",
       "name": "Harold Fannin Jr.",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58850,17 +61160,63 @@
       "player_id": "5083297",
       "name": "Jacoby Jones",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
       "needs_review": true
     },
     {
+      "player_id": "5083315",
+      "name": "Kenyon Sadiq",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
+      "player_id": "5083754",
+      "name": "Ryan Flournoy",
+      "missing_scoring_weeks": [
+        12
+      ],
+      "injury_evidence": [],
+      "boxscore_listed_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "needs_review": true
+    },
+    {
       "player_id": "5085024",
       "name": "CJ Williams",
       "missing_scoring_weeks": [
-        7
+        7,
+        12
       ],
       "injury_evidence": [
         {
@@ -59091,7 +61447,8 @@
       "player_id": "5085189",
       "name": "Jack Endries",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59105,7 +61462,9 @@
     {
       "player_id": "5088338",
       "name": "Elijah Sarratt",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "5088338",
@@ -59139,7 +61498,8 @@
       "player_id": "5091739",
       "name": "Chris Brazzell II",
       "missing_scoring_weeks": [
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -59149,7 +61509,8 @@
       "player_id": "5092508",
       "name": "Colbie Young",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59167,7 +61528,8 @@
         2,
         3,
         4,
-        5
+        5,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59184,7 +61546,8 @@
       "player_id": "5097554",
       "name": "Kameron Johnson",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59204,7 +61567,8 @@
       "player_id": "5123663",
       "name": "Isaac TeSlaa",
       "missing_scoring_weeks": [
-        6
+        6,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59223,7 +61587,9 @@
     {
       "player_id": "5150247",
       "name": "Malik Benson",
-      "missing_scoring_weeks": [],
+      "missing_scoring_weeks": [
+        12
+      ],
       "injury_evidence": [
         {
           "player_id": "5150247",
@@ -59463,7 +61829,8 @@
         1,
         2,
         3,
-        4
+        4,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59483,7 +61850,8 @@
         6,
         7,
         8,
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59495,7 +61863,8 @@
       "player_id": "5155825",
       "name": "Carter Runyon",
       "missing_scoring_weeks": [
-        9
+        9,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59508,7 +61877,8 @@
       "name": "Dallen Bentley",
       "missing_scoring_weeks": [
         2,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -59518,7 +61888,8 @@
       "player_id": "5160110",
       "name": "Jahdae Walker",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59542,7 +61913,8 @@
         5,
         6,
         7,
-        8
+        8,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59556,7 +61928,8 @@
       "player_id": "5220680",
       "name": "Ted Hurst III",
       "missing_scoring_weeks": [
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59578,7 +61951,8 @@
       "missing_scoring_weeks": [
         1,
         2,
-        10
+        10,
+        12
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59590,7 +61964,8 @@
       "player_id": "5344782",
       "name": "Jack Strand",
       "missing_scoring_weeks": [
-        11
+        11,
+        12
       ],
       "injury_evidence": [
         {

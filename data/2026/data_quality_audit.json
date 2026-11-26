@@ -1,14 +1,296 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-25T15:40:27.857638+00:00",
+  "updated_at_utc": "2026-11-26T03:38:44.388909+00:00",
   "total_players": 1064,
-  "total_stored_stat_entries": 11321,
-  "valid_weekly_scoring_entries": 7208,
+  "total_stored_stat_entries": 11367,
+  "valid_weekly_scoring_entries": 7254,
   "other_stat_entries": 4113,
   "duplicate_player_week_records": [],
   "scores_on_scheduled_byes": [],
-  "scoring_records_without_final_games": [],
+  "scoring_records_without_final_games": [
+    {
+      "player_id": -16014,
+      "name": "Rams D/ST",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": -16009,
+      "name": "Packers D/ST",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 12483,
+      "name": "Matthew Stafford",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 14163,
+      "name": "Tyrod Taylor",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 16339,
+      "name": "Brandon McManus",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 16800,
+      "name": "Davante Adams",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 2573401,
+      "name": "Tyler Higbee",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 3054212,
+      "name": "Jonnu Smith",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 3149687,
+      "name": "Chris Brooks",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4036378,
+      "name": "Jordan Love",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4047365,
+      "name": "Josh Jacobs",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4242557,
+      "name": "Colby Parkinson",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4243003,
+      "name": "Ronnie Rivers",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4248528,
+      "name": "Christian Watson",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4259305,
+      "name": "Bo Melton",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4259553,
+      "name": "Stetson Bennett IV",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4259619,
+      "name": "Blake Grupe",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4360086,
+      "name": "Josh Whyle",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4360797,
+      "name": "Tutu Atwell",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4362249,
+      "name": "Jayden Reed",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4386544,
+      "name": "Xavier Smith",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4426515,
+      "name": "Puka Nacua",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4426553,
+      "name": "Davis Allen",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4428085,
+      "name": "Luke Musgrave",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4429023,
+      "name": "MarShawn Lloyd",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4429096,
+      "name": "Blake Corum",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4429466,
+      "name": "Drake Dabney",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4430191,
+      "name": "Skyy Moore",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4430737,
+      "name": "Kyren Williams",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4431342,
+      "name": "Brennan Presley",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4431346,
+      "name": "Mark Redman",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4431487,
+      "name": "Savion Williams",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4432338,
+      "name": "Luke Lachey",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4566192,
+      "name": "Joshua Karty",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4569382,
+      "name": "Jordan Whittington",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4570037,
+      "name": "Terrance Ferguson",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4572680,
+      "name": "Tucker Kraft",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4605951,
+      "name": "CJ Daniels",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4635009,
+      "name": "J. Michael Sturdivant",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4685522,
+      "name": "Ty Simpson",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4701936,
+      "name": "Matthew Golden",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4710855,
+      "name": "Konata Mumpfield",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4819231,
+      "name": "Kaleb Johnson",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4833029,
+      "name": "Max Klare",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 4869461,
+      "name": "Trey Smack",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    },
+    {
+      "player_id": 5082269,
+      "name": "Dean Connors",
+      "week": 12,
+      "game_status": "STATUS_IN_PROGRESS"
+    }
+  ],
   "unknown_team_ids": [
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0"
+    },
     {
       "player_id": 9614,
       "name": "Marcedes Lewis",
@@ -177,6 +459,11 @@
     {
       "player_id": 2980453,
       "name": "Jamaal Williams",
+      "team_id": "0"
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
       "team_id": "0"
     },
     {
@@ -1300,11 +1587,6 @@
       "team_id": "0"
     },
     {
-      "player_id": 4428512,
-      "name": "Kedon Slovis",
-      "team_id": "0"
-    },
-    {
       "player_id": 4428678,
       "name": "Jamari Thrash",
       "team_id": "0"
@@ -1367,11 +1649,6 @@
     {
       "player_id": 4430684,
       "name": "Treyton Welch",
-      "team_id": "0"
-    },
-    {
-      "player_id": 4431342,
-      "name": "Brennan Presley",
       "team_id": "0"
     },
     {
@@ -1670,16 +1947,16 @@
     "source_0_split_0": 2004,
     "source_1_split_0": 1592,
     "source_1_split_2": 467,
-    "source_0_split_1": 7208,
+    "source_0_split_1": 7254,
     "source_1_split_1": 50
   },
   "summary": {
     "duplicate_player_week_count": 0,
     "scores_on_scheduled_byes_count": 0,
-    "nonfinal_game_score_count": 0,
+    "nonfinal_game_score_count": 46,
     "unknown_team_id_count": 331,
     "other_stat_entry_count": 4113,
-    "original_bye_flags_before_correction": 233,
+    "original_bye_flags_before_correction": 246,
     "scoring_team_conflicts_needing_review": 8
   },
   "limitations": [
@@ -1688,6 +1965,76 @@
     "Historical injury absences and actual games played remain unverified."
   ],
   "original_bye_flags_before_correction": [
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 1,
+      "points": 12.54
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 2,
+      "points": 3.98
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 3,
+      "points": 22.68
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 4,
+      "points": 21.96
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 5,
+      "points": 22.0
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 6,
+      "points": 16.02
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 7,
+      "points": 13.08
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 8,
+      "points": 4.88
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 10,
+      "points": 15.62
+    },
+    {
+      "player_id": 8439,
+      "name": "Aaron Rodgers",
+      "team_id": "0",
+      "week": 11,
+      "points": 15.98
+    },
     {
       "player_id": 10621,
       "name": "Nick Folk",
@@ -1873,6 +2220,55 @@
     {
       "player_id": 2972515,
       "name": "Cooper Rush",
+      "team_id": "0",
+      "week": 11,
+      "points": 0.0
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 4,
+      "points": 0.0
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 5,
+      "points": 0.0
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 6,
+      "points": 0.0
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 7,
+      "points": 0.0
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 9,
+      "points": 1.3
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
+      "team_id": "0",
+      "week": 10,
+      "points": 2.5
+    },
+    {
+      "player_id": 2983509,
+      "name": "Dare Ogunbowale",
       "team_id": "0",
       "week": 11,
       "points": 0.0
@@ -2795,27 +3191,6 @@
       "points": 0.0
     },
     {
-      "player_id": 4428512,
-      "name": "Kedon Slovis",
-      "team_id": "0",
-      "week": 9,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428512,
-      "name": "Kedon Slovis",
-      "team_id": "0",
-      "week": 10,
-      "points": 0.0
-    },
-    {
-      "player_id": 4428512,
-      "name": "Kedon Slovis",
-      "team_id": "0",
-      "week": 11,
-      "points": 0.0
-    },
-    {
       "player_id": 4430684,
       "name": "Treyton Welch",
       "team_id": "0",
@@ -2862,13 +3237,6 @@
       "name": "Treyton Welch",
       "team_id": "0",
       "week": 7,
-      "points": 0.0
-    },
-    {
-      "player_id": 4431342,
-      "name": "Brennan Presley",
-      "team_id": "0",
-      "week": 10,
       "points": 0.0
     },
     {
@@ -3322,10 +3690,10 @@
   ],
   "bye_classification_correction": {
     "season": "2026",
-    "updated_at_utc": "2026-11-25T15:40:27.857638+00:00",
+    "updated_at_utc": "2026-11-26T03:38:44.388909+00:00",
     "method": "Confirmed team byes are assigned only to D/ST entries with verified NFL team IDs. Individual player byes remain unverified without historical team assignments.",
-    "unknown_team_weeks": 3641,
-    "historical_team_unverified_weeks": 7711,
+    "unknown_team_weeks": 3972,
+    "historical_team_unverified_weeks": 8412,
     "confirmed_dst_byes": 26,
     "scoring_team_conflicts": 8
   }
