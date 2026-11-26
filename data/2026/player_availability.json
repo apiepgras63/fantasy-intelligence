@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-26T03:38:44.388909+00:00",
+  "updated_at_utc": "2026-11-26T15:39:32.482662+00:00",
   "weeks_examined": [
     1,
     2,
@@ -2592,7 +2592,7 @@
         },
         "12": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -3272,7 +3272,7 @@
         },
         "12": {
           "scoring_record": true,
-          "team_game_status": "not_final",
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -11022,7 +11022,7 @@
       "name": "Tyler Higbee",
       "position_id": 4,
       "team_id": 14,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -60518,7 +60518,7 @@
       "name": "Christian Watson",
       "position_id": 3,
       "team_id": 9,
-      "latest_injury_status": "OUT",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,

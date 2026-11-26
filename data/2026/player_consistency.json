@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-26T03:38:44.388909+00:00",
+  "updated_at_utc": "2026-11-26T15:39:32.482662+00:00",
   "player_count": 775,
   "methodology": {
     "sample": "Weeks with recorded fantasy points",
@@ -608,11 +608,11 @@
       "position_id": 1,
       "team_id": 9,
       "weeks_with_records": 11,
-      "total_points": 204.68,
-      "average": 18.61,
+      "total_points": 204.44,
+      "average": 18.59,
       "median": 18.48,
-      "standard_deviation": 7.25,
-      "lowest_recorded_week": 8.86,
+      "standard_deviation": 7.28,
+      "lowest_recorded_week": 8.62,
       "highest_recorded_week": 36.18,
       "lower_quartile_score": 13.08,
       "upper_quartile_score": 20.24,
@@ -630,7 +630,7 @@
         "8": 21.52,
         "9": 36.18,
         "10": 10.8,
-        "12": 8.86
+        "12": 8.62
       }
     },
     {
@@ -881,11 +881,11 @@
       "position_id": 1,
       "team_id": 14,
       "weeks_with_records": 11,
-      "total_points": 165.66,
-      "average": 15.06,
+      "total_points": 166.22,
+      "average": 15.11,
       "median": 16.88,
-      "standard_deviation": 8.05,
-      "lowest_recorded_week": 3.04,
+      "standard_deviation": 7.97,
+      "lowest_recorded_week": 3.6,
       "highest_recorded_week": 27.32,
       "lower_quartile_score": 8.28,
       "upper_quartile_score": 19.76,
@@ -903,7 +903,7 @@
         "8": 8.28,
         "9": 11.22,
         "10": 19.76,
-        "12": 3.04
+        "12": 3.6
       }
     },
     {
@@ -1095,6 +1095,38 @@
       }
     },
     {
+      "player_id": 4430737,
+      "name": "Kyren Williams",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 14,
+      "weeks_with_records": 11,
+      "total_points": 180.8,
+      "average": 16.44,
+      "median": 15.7,
+      "standard_deviation": 7.93,
+      "lowest_recorded_week": 5.2,
+      "highest_recorded_week": 36.7,
+      "lower_quartile_score": 9.7,
+      "upper_quartile_score": 18.1,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 7,
+      "threshold_hit_rate_pct": 63.6,
+      "weekly_points": {
+        "1": 15.5,
+        "2": 15.7,
+        "3": 21.8,
+        "4": 36.7,
+        "5": 19.6,
+        "6": 9.7,
+        "7": 18.1,
+        "8": 12.9,
+        "9": 9.1,
+        "10": 5.2,
+        "12": 16.5
+      }
+    },
+    {
       "player_id": 4701936,
       "name": "Matthew Golden",
       "position": "WR",
@@ -1124,38 +1156,6 @@
         "9": 32.4,
         "10": 12.0,
         "12": 4.9
-      }
-    },
-    {
-      "player_id": 4430737,
-      "name": "Kyren Williams",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 14,
-      "weeks_with_records": 11,
-      "total_points": 178.8,
-      "average": 16.25,
-      "median": 15.5,
-      "standard_deviation": 7.95,
-      "lowest_recorded_week": 5.2,
-      "highest_recorded_week": 36.7,
-      "lower_quartile_score": 9.7,
-      "upper_quartile_score": 18.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 6,
-      "threshold_hit_rate_pct": 54.5,
-      "weekly_points": {
-        "1": 15.5,
-        "2": 15.7,
-        "3": 21.8,
-        "4": 36.7,
-        "5": 19.6,
-        "6": 9.7,
-        "7": 18.1,
-        "8": 12.9,
-        "9": 9.1,
-        "10": 5.2,
-        "12": 14.5
       }
     },
     {
@@ -1635,14 +1635,14 @@
       "position_id": 2,
       "team_id": 14,
       "weeks_with_records": 11,
-      "total_points": 131.0,
-      "average": 11.91,
+      "total_points": 144.0,
+      "average": 13.09,
       "median": 13.3,
-      "standard_deviation": 5.55,
+      "standard_deviation": 7.3,
       "lowest_recorded_week": 3.1,
-      "highest_recorded_week": 20.9,
+      "highest_recorded_week": 28.5,
       "lower_quartile_score": 5.4,
-      "upper_quartile_score": 15.5,
+      "upper_quartile_score": 16.2,
       "position_threshold": 15,
       "weeks_meeting_threshold": 4,
       "threshold_hit_rate_pct": 36.4,
@@ -1657,7 +1657,7 @@
         "8": 13.3,
         "9": 11.8,
         "10": 20.9,
-        "12": 15.5
+        "12": 28.5
       }
     },
     {
@@ -3407,13 +3407,13 @@
       "position_id": 4,
       "team_id": 9,
       "weeks_with_records": 11,
-      "total_points": 94.9,
-      "average": 8.63,
+      "total_points": 96.7,
+      "average": 8.79,
       "median": 8.7,
-      "standard_deviation": 5.58,
-      "lowest_recorded_week": 1.6,
+      "standard_deviation": 5.4,
+      "lowest_recorded_week": 1.9,
       "highest_recorded_week": 17.3,
-      "lower_quartile_score": 2.9,
+      "lower_quartile_score": 3.4,
       "upper_quartile_score": 11.6,
       "position_threshold": 10,
       "weeks_meeting_threshold": 4,
@@ -3429,7 +3429,7 @@
         "8": 17.3,
         "9": 1.9,
         "10": 2.9,
-        "12": 1.6
+        "12": 3.4
       }
     },
     {
@@ -4025,6 +4025,32 @@
       }
     },
     {
+      "player_id": 16339,
+      "name": "Brandon McManus",
+      "position": "K",
+      "position_id": 5,
+      "team_id": 14,
+      "weeks_with_records": 5,
+      "total_points": 47.0,
+      "average": 9.4,
+      "median": 8.0,
+      "standard_deviation": 4.32,
+      "lowest_recorded_week": 5.0,
+      "highest_recorded_week": 17.0,
+      "lower_quartile_score": 6.0,
+      "upper_quartile_score": 11.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 2,
+      "threshold_hit_rate_pct": 40.0,
+      "weekly_points": {
+        "7": 5.0,
+        "8": 6.0,
+        "9": 8.0,
+        "10": 11.0,
+        "12": 17.0
+      }
+    },
+    {
       "player_id": 5081335,
       "name": "Drew Stevens",
       "position": "K",
@@ -4085,32 +4111,6 @@
         "9": 7.0,
         "10": 8.0,
         "11": 6.0
-      }
-    },
-    {
-      "player_id": 16339,
-      "name": "Brandon McManus",
-      "position": "K",
-      "position_id": 5,
-      "team_id": 14,
-      "weeks_with_records": 5,
-      "total_points": 40.0,
-      "average": 8.0,
-      "median": 8.0,
-      "standard_deviation": 2.28,
-      "lowest_recorded_week": 5.0,
-      "highest_recorded_week": 11.0,
-      "lower_quartile_score": 6.0,
-      "upper_quartile_score": 10.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 2,
-      "threshold_hit_rate_pct": 40.0,
-      "weekly_points": {
-        "7": 5.0,
-        "8": 6.0,
-        "9": 8.0,
-        "10": 11.0,
-        "12": 10.0
       }
     },
     {
@@ -4860,48 +4860,16 @@
       }
     },
     {
-      "player_id": -16009,
-      "name": "Packers D/ST",
-      "position": "D/ST",
-      "position_id": 16,
-      "team_id": 9,
-      "weeks_with_records": 11,
-      "total_points": 76.0,
-      "average": 6.91,
-      "median": 7.0,
-      "standard_deviation": 6.11,
-      "lowest_recorded_week": -6.0,
-      "highest_recorded_week": 19.0,
-      "lower_quartile_score": 4.0,
-      "upper_quartile_score": 10.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 4,
-      "threshold_hit_rate_pct": 36.4,
-      "weekly_points": {
-        "1": 4.0,
-        "2": 7.0,
-        "3": -6.0,
-        "4": 10.0,
-        "5": 19.0,
-        "6": 8.0,
-        "7": 2.0,
-        "8": 12.0,
-        "9": 11.0,
-        "10": 4.0,
-        "12": 5.0
-      }
-    },
-    {
       "player_id": -16014,
       "name": "Rams D/ST",
       "position": "D/ST",
       "position_id": 16,
       "team_id": 14,
       "weeks_with_records": 11,
-      "total_points": 74.0,
-      "average": 6.73,
+      "total_points": 76.0,
+      "average": 6.91,
       "median": 7.0,
-      "standard_deviation": 5.24,
+      "standard_deviation": 5.38,
       "lowest_recorded_week": -1.0,
       "highest_recorded_week": 16.0,
       "lower_quartile_score": 1.0,
@@ -4920,7 +4888,39 @@
         "8": 11.0,
         "9": 11.0,
         "10": 16.0,
-        "12": 10.0
+        "12": 12.0
+      }
+    },
+    {
+      "player_id": -16009,
+      "name": "Packers D/ST",
+      "position": "D/ST",
+      "position_id": 16,
+      "team_id": 9,
+      "weeks_with_records": 11,
+      "total_points": 73.0,
+      "average": 6.64,
+      "median": 7.0,
+      "standard_deviation": 6.26,
+      "lowest_recorded_week": -6.0,
+      "highest_recorded_week": 19.0,
+      "lower_quartile_score": 2.0,
+      "upper_quartile_score": 10.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
+      "weekly_points": {
+        "1": 4.0,
+        "2": 7.0,
+        "3": -6.0,
+        "4": 10.0,
+        "5": 19.0,
+        "6": 8.0,
+        "7": 2.0,
+        "8": 12.0,
+        "9": 11.0,
+        "10": 4.0,
+        "12": 2.0
       }
     },
     {
@@ -9073,10 +9073,10 @@
       "position_id": 2,
       "team_id": 9,
       "weeks_with_records": 11,
-      "total_points": 30.6,
-      "average": 2.78,
+      "total_points": 31.6,
+      "average": 2.87,
       "median": 2.6,
-      "standard_deviation": 3.51,
+      "standard_deviation": 3.53,
       "lowest_recorded_week": -0.2,
       "highest_recorded_week": 12.8,
       "lower_quartile_score": 0.0,
@@ -9095,7 +9095,7 @@
         "8": 0.0,
         "9": 12.8,
         "10": 4.2,
-        "12": 3.2
+        "12": 4.2
       }
     },
     {
@@ -10276,12 +10276,12 @@
       "position_id": 2,
       "team_id": 9,
       "weeks_with_records": 11,
-      "total_points": 16.7,
-      "average": 1.52,
+      "total_points": 20.3,
+      "average": 1.85,
       "median": 1.3,
-      "standard_deviation": 1.62,
+      "standard_deviation": 2.16,
       "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 4.5,
+      "highest_recorded_week": 6.6,
       "lower_quartile_score": 0.0,
       "upper_quartile_score": 2.9,
       "position_threshold": 15,
@@ -10298,7 +10298,7 @@
         "8": 0.0,
         "9": 0.0,
         "10": 1.3,
-        "12": 3.0
+        "12": 6.6
       }
     },
     {
@@ -14000,6 +14000,38 @@
       }
     },
     {
+      "player_id": 4259305,
+      "name": "Bo Melton",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 9,
+      "weeks_with_records": 11,
+      "total_points": 12.7,
+      "average": 1.15,
+      "median": 0.0,
+      "standard_deviation": 1.78,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 5.0,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 1.4,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 2.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 5.0,
+        "6": 0.0,
+        "7": 1.4,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 4.3
+      }
+    },
+    {
       "player_id": 4426535,
       "name": "Theo Wease Jr.",
       "position": "WR",
@@ -14675,38 +14707,6 @@
         "8": 1.3,
         "9": 1.6,
         "10": 2.9
-      }
-    },
-    {
-      "player_id": 4259305,
-      "name": "Bo Melton",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 9,
-      "weeks_with_records": 11,
-      "total_points": 8.7,
-      "average": 0.79,
-      "median": 0.0,
-      "standard_deviation": 1.48,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 5.0,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.3,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 2.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 5.0,
-        "6": 0.0,
-        "7": 1.4,
-        "8": 0.0,
-        "9": 0.0,
-        "10": 0.0,
-        "12": 0.3
       }
     },
     {

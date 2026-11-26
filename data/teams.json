@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795596713431,
+    "standingsUpdateDate": 1795680112531,
     "teamsJoined": 14,
     "transactionScoringPeriod": 12,
-    "waiverLastExecutionDate": 1795596712868,
+    "waiverLastExecutionDate": 1795680112180,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -1514,7 +1514,8 @@
       "2026-11-18T08:29:54.415+00:00": 8,
       "2026-11-19T08:49:01.868+00:00": 1,
       "2026-11-21T08:11:06.029+00:00": 1,
-      "2026-11-25T08:51:52.868+00:00": 8
+      "2026-11-25T08:51:52.868+00:00": 8,
+      "2026-11-26T08:01:52.180+00:00": 1
     }
   },
   "teams": [
@@ -1661,7 +1662,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 13
+      "waiverRank": 12
     },
     {
       "abbrev": "BL",
@@ -1750,7 +1751,7 @@
           "7": 2
         },
         "misc": 0,
-        "moveToActive": 22,
+        "moveToActive": 26,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -1804,7 +1805,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 9
+      "waiverRank": 8
     },
     {
       "abbrev": "TUG",
@@ -2001,7 +2002,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 14
+      "waiverRank": 13
     },
     {
       "abbrev": "MGGA",
@@ -2146,7 +2147,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 6
+      "waiverRank": 5
     },
     {
       "abbrev": "RSB",
@@ -2292,7 +2293,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 11
+      "waiverRank": 10
     },
     {
       "abbrev": "TBT",
@@ -2436,7 +2437,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 5
+      "waiverRank": 4
     },
     {
       "abbrev": "TiR",
@@ -2582,7 +2583,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 10
+      "waiverRank": 9
     },
     {
       "abbrev": "LTC",
@@ -2728,7 +2729,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 8
+      "waiverRank": 7
     },
     {
       "abbrev": "KTT",
@@ -2871,7 +2872,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 7
+      "waiverRank": 6
     },
     {
       "abbrev": "THs",
@@ -3015,11 +3016,11 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 4
+      "waiverRank": 3
     },
     {
       "abbrev": "SAS",
-      "currentProjectedRank": 12,
+      "currentProjectedRank": 11,
       "divisionId": 0,
       "draftDayProjectedRank": 4,
       "draftStrategy": {
@@ -3159,7 +3160,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 2
+      "waiverRank": 1
     },
     {
       "abbrev": "UT",
@@ -3236,18 +3237,19 @@
       "tradeBlock": {},
       "transactionCounter": {
         "acquisitionBudgetSpent": 0,
-        "acquisitions": 11,
-        "drops": 13,
+        "acquisitions": 12,
+        "drops": 14,
         "matchupAcquisitionTotals": {
           "2": 1,
           "5": 2,
           "6": 2,
           "7": 1,
           "9": 2,
-          "10": 3
+          "10": 3,
+          "12": 1
         },
         "misc": 0,
-        "moveToActive": 39,
+        "moveToActive": 40,
         "moveToIR": 1,
         "paid": 0.0,
         "teamCharges": 0.0,
@@ -3301,7 +3303,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 1
+      "waiverRank": 14
     },
     {
       "abbrev": "CCT",
@@ -3494,11 +3496,11 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 3
+      "waiverRank": 2
     },
     {
       "abbrev": "RMH",
-      "currentProjectedRank": 11,
+      "currentProjectedRank": 12,
       "divisionId": 0,
       "draftDayProjectedRank": 3,
       "eliminated": false,
@@ -3642,7 +3644,7 @@
         "125": 0.0,
         "63": 0.0
       },
-      "waiverRank": 12
+      "waiverRank": 11
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-26T03:38:44.388909+00:00",
+  "updated_at_utc": "2026-11-26T15:39:32.482662+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -350,6 +350,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4430737,
+      "name": "Kyren Williams",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4701936,
       "name": "Matthew Golden",
       "position": "WR",
@@ -369,19 +382,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4430737,
-      "name": "Kyren Williams",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -497,13 +497,12 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4259545,
-      "name": "D'Andre Swift",
-      "position": "RB",
-      "recorded_weeks": 10,
+      "player_id": 12483,
+      "name": "Matthew Stafford",
+      "position": "QB",
+      "recorded_weeks": 11,
       "missing_scoring_weeks": [
-        10,
-        12
+        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -511,12 +510,13 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 12483,
-      "name": "Matthew Stafford",
-      "position": "QB",
-      "recorded_weeks": 11,
+      "player_id": 4259545,
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "recorded_weeks": 10,
       "missing_scoring_weeks": [
-        11
+        10,
+        12
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -703,6 +703,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4429096,
+      "name": "Blake Corum",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4426338,
       "name": "Bo Nix",
       "position": "QB",
@@ -821,19 +834,6 @@
       "missing_scoring_weeks": [
         6,
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4429096,
-      "name": "Blake Corum",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1464,6 +1464,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4572680,
+      "name": "Tucker Kraft",
+      "position": "TE",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4569603,
       "name": "Malik Washington",
       "position": "WR",
@@ -1527,19 +1540,6 @@
       "missing_scoring_weeks": [
         5,
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4572680,
-      "name": "Tucker Kraft",
-      "position": "TE",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2278,8 +2278,8 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16009,
-      "name": "Packers D/ST",
+      "player_id": -16014,
+      "name": "Rams D/ST",
       "position": "D/ST",
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
@@ -2389,19 +2389,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16014,
-      "name": "Rams D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 3917315,
       "name": "Kyler Murray",
       "position": "QB",
@@ -2451,6 +2438,19 @@
       "missing_scoring_weeks": [
         9,
         12
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": -16009,
+      "name": "Packers D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3568,6 +3568,25 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 16339,
+      "name": "Brandon McManus",
+      "position": "K",
+      "recorded_weeks": 5,
+      "missing_scoring_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4686728,
       "name": "Gunnar Helm",
       "position": "TE",
@@ -3955,25 +3974,6 @@
       "position": "WR",
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
-        11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 16339,
-      "name": "Brandon McManus",
-      "position": "K",
-      "recorded_weeks": 5,
-      "missing_scoring_weeks": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
         11
       ],
       "scoring_team_conflicts": [],
@@ -4406,6 +4406,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4819231,
+      "name": "Kaleb Johnson",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4685307,
       "name": "Kevin Coleman Jr.",
       "position": "WR",
@@ -4455,19 +4468,6 @@
       "missing_scoring_weeks": [
         9,
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4819231,
-      "name": "Kaleb Johnson",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5154,6 +5154,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 3149687,
+      "name": "Chris Brooks",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 5082630,
       "name": "Jalen Royals",
       "position": "WR",
@@ -5500,19 +5513,6 @@
         4,
         7,
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 3149687,
-      "name": "Chris Brooks",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -5967,6 +5967,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4259305,
+      "name": "Bo Melton",
+      "position": "WR",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        11
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4241372,
       "name": "Hollywood Brown",
       "position": "WR",
@@ -6407,19 +6420,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4259305,
-      "name": "Bo Melton",
-      "position": "WR",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        11
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",

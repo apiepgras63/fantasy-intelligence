@@ -170,7 +170,7 @@
           "player_id": 4242335,
           "name": "Jonathan Taylor",
           "position_id": 2,
-          "lineup_slot_id": 2,
+          "lineup_slot_id": 23,
           "injury_status": "ACTIVE",
           "pro_team_id": 11,
           "acquisition_type": "DRAFT"
@@ -179,7 +179,7 @@
           "player_id": 4431459,
           "name": "Tyler Warren",
           "position_id": 4,
-          "lineup_slot_id": 23,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 11,
           "acquisition_type": "DRAFT"
@@ -206,7 +206,7 @@
           "player_id": 4685702,
           "name": "Quinshon Judkins",
           "position_id": 2,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 5,
           "acquisition_type": "DRAFT"
@@ -242,7 +242,7 @@
           "player_id": 4373678,
           "name": "Khalil Shakir",
           "position_id": 3,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 4,
           "injury_status": "ACTIVE",
           "pro_team_id": 2,
           "acquisition_type": "DRAFT"
@@ -251,7 +251,7 @@
           "player_id": -16008,
           "name": "Lions D/ST",
           "position_id": 16,
-          "lineup_slot_id": 16,
+          "lineup_slot_id": 20,
           "injury_status": null,
           "pro_team_id": 8,
           "acquisition_type": "DRAFT"
@@ -287,7 +287,7 @@
           "player_id": -16005,
           "name": "Browns D/ST",
           "position_id": 16,
-          "lineup_slot_id": 20,
+          "lineup_slot_id": 16,
           "injury_status": null,
           "pro_team_id": 5,
           "acquisition_type": "ADD"
@@ -296,7 +296,7 @@
           "player_id": 5083754,
           "name": "Ryan Flournoy",
           "position_id": 3,
-          "lineup_slot_id": 4,
+          "lineup_slot_id": 20,
           "injury_status": "ACTIVE",
           "pro_team_id": 6,
           "acquisition_type": "ADD"
@@ -984,7 +984,7 @@
           "name": "Christian Watson",
           "position_id": 3,
           "lineup_slot_id": 4,
-          "injury_status": "OUT",
+          "injury_status": "QUESTIONABLE",
           "pro_team_id": 9,
           "acquisition_type": "DRAFT"
         },
@@ -1874,21 +1874,21 @@
           "acquisition_type": "ADD"
         },
         {
-          "player_id": -16033,
-          "name": "Ravens D/ST",
-          "position_id": 16,
-          "lineup_slot_id": 16,
-          "injury_status": null,
-          "pro_team_id": 33,
-          "acquisition_type": "ADD"
-        },
-        {
           "player_id": 4035538,
           "name": "David Montgomery",
           "position_id": 2,
           "lineup_slot_id": 2,
           "injury_status": "ACTIVE",
           "pro_team_id": 34,
+          "acquisition_type": "ADD"
+        },
+        {
+          "player_id": -16028,
+          "name": "Commanders D/ST",
+          "position_id": 16,
+          "lineup_slot_id": 16,
+          "injury_status": null,
+          "pro_team_id": 28,
           "acquisition_type": "ADD"
         }
       ]
