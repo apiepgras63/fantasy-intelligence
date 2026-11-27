@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-26T15:39:32.482662+00:00",
+  "updated_at_utc": "2026-11-27T03:39:28.480027+00:00",
   "weeks_examined": [
     1,
     2,
@@ -1530,11 +1530,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -1639,8 +1639,8 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
-          "team_game_status": "not_final",
+          "scoring_record": true,
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -2754,11 +2754,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -2863,7 +2863,7 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "not_final",
           "bye_week": false,
           "participation": "unverified",
@@ -3298,11 +3298,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -3407,8 +3407,8 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
-          "team_game_status": "not_final",
+          "scoring_record": true,
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -3571,11 +3571,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -3679,8 +3678,8 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
-          "team_game_status": "not_final",
+          "scoring_record": true,
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -3978,11 +3977,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -4087,8 +4086,8 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
-          "team_game_status": "not_final",
+          "scoring_record": true,
+          "team_game_status": "final",
           "bye_week": false,
           "participation": "unverified",
           "injury_absence": "unverified",
@@ -4114,11 +4113,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -4223,7 +4222,7 @@
           "classification_reason": "D/ST team has a scheduled NFL game."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "not_final",
           "bye_week": false,
           "participation": "unverified",
@@ -6274,7 +6273,7 @@
       "name": "Case Keenum",
       "position_id": 1,
       "team_id": 3,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -6285,11 +6284,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -6394,7 +6393,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -6419,13 +6418,13 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
-        3,
-        12
+        3
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -6530,7 +6529,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -6961,13 +6960,13 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -7072,7 +7071,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -7099,11 +7098,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -7208,7 +7207,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -8184,11 +8183,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -8293,7 +8292,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -9132,14 +9131,14 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -9244,7 +9243,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -9543,11 +9542,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -9652,7 +9651,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -12376,7 +12375,7 @@
       "name": "Darren Waller",
       "position_id": 4,
       "team_id": 29,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -12795,11 +12794,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -12903,7 +12901,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -13331,7 +13329,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -13339,8 +13338,7 @@
         3,
         4,
         5,
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -13445,7 +13443,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -14151,11 +14149,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -14260,7 +14258,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -14684,7 +14682,7 @@
       "name": "Stefon Diggs",
       "position_id": 3,
       "team_id": 28,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -17275,11 +17273,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -17384,7 +17382,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -18360,11 +18358,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -18469,7 +18467,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -18902,11 +18900,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -19011,7 +19009,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -20393,11 +20391,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -20502,7 +20500,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -21208,11 +21206,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -21317,7 +21315,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -22157,11 +22155,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -22266,7 +22264,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -24179,7 +24177,7 @@
       "name": "Dalton Schultz",
       "position_id": 4,
       "team_id": 34,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -24322,15 +24320,15 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
         4,
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -24435,7 +24433,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -24992,7 +24990,7 @@
       "name": "Dallas Goedert",
       "position_id": 4,
       "team_id": 21,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -25003,11 +25001,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -25112,7 +25110,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -25275,11 +25273,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -25383,7 +25380,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -25812,15 +25809,15 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
         4,
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -25925,7 +25922,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -27579,11 +27576,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -27688,7 +27685,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -29476,11 +29473,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -29585,7 +29582,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -30155,11 +30152,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -30263,7 +30259,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -32998,11 +32994,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -33107,7 +33103,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -33134,11 +33130,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -33243,7 +33239,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -33270,11 +33266,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -33379,7 +33375,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -35168,11 +35164,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -35277,7 +35273,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -36253,11 +36249,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -36362,7 +36358,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -37338,11 +37334,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -37447,7 +37443,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -37598,7 +37594,7 @@
       "name": "Saquon Barkley",
       "position_id": 2,
       "team_id": 21,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -37609,11 +37605,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -37718,7 +37714,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -38560,11 +38556,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -38669,7 +38665,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -39094,7 +39090,8 @@
       "weeks_with_scoring_records": [
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -39104,8 +39101,7 @@
         5,
         6,
         7,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -39210,7 +39206,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -39238,11 +39234,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -39346,7 +39341,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -40446,7 +40441,7 @@
       "name": "Feleipe Franks",
       "position_id": 4,
       "team_id": 29,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -42072,7 +42067,7 @@
       "name": "Ben Skowronek",
       "position_id": 3,
       "team_id": 23,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "INJURY_RESERVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -42479,7 +42474,7 @@
       "name": "Michael Pittman Jr.",
       "position_id": 3,
       "team_id": 23,
-      "latest_injury_status": "INJURY_RESERVE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -43168,11 +43163,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -43277,7 +43272,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -44524,11 +44519,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -44633,7 +44628,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -46832,11 +46827,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -46941,7 +46936,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -50208,7 +50203,7 @@
       "name": "Hunter Long",
       "position_id": 4,
       "team_id": 22,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -51157,7 +51152,7 @@
       "name": "Noah Gray",
       "position_id": 4,
       "team_id": 12,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -51168,11 +51163,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -51277,7 +51272,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -51711,11 +51706,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -51819,7 +51813,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -52920,7 +52914,7 @@
       "name": "Grant Calcaterra",
       "position_id": 4,
       "team_id": 21,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -52931,11 +52925,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -53040,7 +53034,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -53068,11 +53062,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -53176,7 +53169,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -54291,11 +54284,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -54400,7 +54393,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -54416,7 +54409,7 @@
       "name": "DeVonta Smith",
       "position_id": 3,
       "team_id": 21,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -54427,11 +54420,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -54536,7 +54529,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -54693,7 +54686,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -54702,8 +54696,7 @@
         4,
         5,
         6,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -54808,7 +54801,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -55922,11 +55915,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -56030,7 +56022,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -56057,11 +56049,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -56166,7 +56158,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -56329,11 +56321,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -56438,7 +56430,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -56466,11 +56458,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -56574,7 +56565,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -58218,7 +58209,8 @@
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -58229,8 +58221,7 @@
         6,
         7,
         8,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -58335,7 +58326,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -59852,11 +59843,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -59961,7 +59952,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -62558,15 +62549,15 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
         4,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -62671,7 +62662,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -62969,11 +62960,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -63078,7 +63069,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -63783,11 +63774,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -63892,7 +63883,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -65542,15 +65533,15 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
         4,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -65655,7 +65646,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -67443,7 +67434,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -67451,8 +67443,7 @@
         3,
         4,
         5,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -67557,7 +67548,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -68387,7 +68378,7 @@
       "name": "Rashod Bateman",
       "position_id": 3,
       "team_id": 33,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -68535,11 +68526,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -68643,7 +68633,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -71251,11 +71241,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -71360,7 +71350,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -71524,11 +71514,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -71632,7 +71621,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -72600,7 +72589,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -72609,8 +72599,7 @@
         4,
         5,
         6,
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -72715,7 +72704,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -72731,7 +72720,7 @@
       "name": "Blake Whiteheart",
       "position_id": 4,
       "team_id": 5,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -75441,7 +75430,7 @@
       "name": "Tyler Badie",
       "position_id": 2,
       "team_id": 7,
-      "latest_injury_status": "INJURY_RESERVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -75588,11 +75577,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -75697,7 +75686,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -75724,11 +75713,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -75833,7 +75822,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -76131,11 +76120,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -76240,7 +76229,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -78847,11 +78836,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -78956,7 +78945,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -79119,11 +79108,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -79227,7 +79215,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -79254,11 +79242,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -79363,7 +79351,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -79517,7 +79505,8 @@
       "team_id": 6,
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -79529,8 +79518,7 @@
         7,
         8,
         9,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -79635,7 +79623,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -80194,7 +80182,7 @@
       "name": "Tommy Tremble",
       "position_id": 4,
       "team_id": 29,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -81153,11 +81141,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -81262,7 +81250,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -81832,11 +81820,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -81941,7 +81929,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -81968,11 +81956,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -82077,7 +82065,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -82647,11 +82635,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -82755,7 +82742,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -82782,11 +82769,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -82891,7 +82878,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -83314,7 +83301,7 @@
       "name": "Dalton Kincaid",
       "position_id": 4,
       "team_id": 2,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -83325,11 +83312,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -83434,7 +83421,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -85091,11 +85078,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -85199,7 +85185,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -85497,11 +85483,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -85606,7 +85592,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -85633,11 +85619,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -85742,7 +85728,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -86445,11 +86431,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -86553,7 +86538,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -87532,11 +87517,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -87640,7 +87624,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -90108,11 +90092,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -90217,7 +90201,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -91330,11 +91314,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -91439,7 +91423,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -92277,11 +92261,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -92386,7 +92370,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -94308,7 +94292,8 @@
       "weeks_with_scoring_records": [
         1,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         2,
@@ -94318,8 +94303,7 @@
         6,
         7,
         8,
-        9,
-        12
+        9
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -94424,7 +94408,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -95266,11 +95250,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -95375,7 +95359,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -95527,7 +95511,7 @@
       "name": "Zay Flowers",
       "position_id": 3,
       "team_id": 33,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -95674,11 +95658,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        1,
-        12
+        1
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -95783,7 +95767,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -95946,11 +95930,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -96055,7 +96039,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -96082,11 +96066,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -96191,7 +96175,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -96762,11 +96746,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -96871,7 +96855,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -98254,13 +98238,13 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         2,
         3,
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -98365,7 +98349,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -99616,11 +99600,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -99725,7 +99709,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -99752,11 +99736,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -99861,7 +99845,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -100296,11 +100280,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -100405,7 +100389,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -102603,11 +102587,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -102712,7 +102696,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -102875,11 +102859,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -102984,7 +102968,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -103136,7 +103120,7 @@
       "name": "Caleb Williams",
       "position_id": 1,
       "team_id": 3,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -103147,11 +103131,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -103256,7 +103240,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -103684,7 +103668,8 @@
       "weeks_with_scoring_records": [
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -103694,8 +103679,7 @@
         5,
         6,
         7,
-        8,
-        12
+        8
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -103800,7 +103784,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -103952,7 +103936,7 @@
       "name": "Parker Washington",
       "position_id": 3,
       "team_id": 30,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -104224,7 +104208,7 @@
       "name": "Marvin Harrison Jr.",
       "position_id": 3,
       "team_id": 34,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -105731,11 +105715,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -105840,7 +105824,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -105856,7 +105840,7 @@
       "name": "Tai Felton",
       "position_id": 3,
       "team_id": 16,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -106546,11 +106530,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -106655,7 +106639,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -107484,7 +107468,7 @@
       "name": "Garrett Nussmeier",
       "position_id": 1,
       "team_id": 12,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         4,
@@ -107493,13 +107477,13 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         2,
         3,
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -107604,7 +107588,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -108435,7 +108419,7 @@
       "name": "Isaiah Williams",
       "position_id": 3,
       "team_id": 20,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -108843,7 +108827,7 @@
       "name": "Nick Kallerup",
       "position_id": 4,
       "team_id": 26,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -111842,11 +111826,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -111951,7 +111935,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -114150,11 +114134,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -114259,7 +114243,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -115502,7 +115486,8 @@
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -115513,8 +115498,7 @@
         6,
         7,
         8,
-        9,
-        12
+        9
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -115619,7 +115603,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -115917,11 +115901,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -116026,7 +116010,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -116732,11 +116716,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -116841,7 +116825,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -117819,11 +117803,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -117928,7 +117912,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -118216,7 +118200,7 @@
       "name": "Skyler Bell",
       "position_id": 3,
       "team_id": 2,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -118227,11 +118211,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -118336,7 +118320,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -118488,7 +118472,7 @@
       "name": "Mitchell Evans",
       "position_id": 4,
       "team_id": 29,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -119583,11 +119567,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -119692,7 +119676,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -120127,11 +120111,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -120236,7 +120220,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -120257,7 +120241,8 @@
         6,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -120266,8 +120251,7 @@
         4,
         5,
         7,
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -120372,7 +120356,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -121071,7 +121055,8 @@
       "weeks_with_scoring_records": [
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -121081,8 +121066,7 @@
         5,
         6,
         7,
-        8,
-        12
+        8
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -121187,7 +121171,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -121486,11 +121470,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -121595,7 +121579,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -121888,7 +121872,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -121896,8 +121881,7 @@
         3,
         4,
         5,
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -122002,7 +121986,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -122029,11 +122013,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -122138,7 +122122,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -123253,11 +123237,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -123362,7 +123346,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -124748,11 +124732,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        7,
-        12
+        7
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -124857,7 +124841,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -124885,11 +124869,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -124993,7 +124976,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -125427,11 +125410,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -125536,7 +125519,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -131541,11 +131524,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -131650,7 +131633,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -131802,7 +131785,7 @@
       "name": "Drew Ogletree",
       "position_id": 4,
       "team_id": 11,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -131938,7 +131921,7 @@
       "name": "Colston Loveland",
       "position_id": 4,
       "team_id": 3,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -131949,11 +131932,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -132058,7 +132041,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -132492,11 +132475,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -132600,7 +132582,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -133578,11 +133560,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -133687,7 +133669,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -134394,11 +134376,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -134503,7 +134485,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -134938,11 +134920,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -135047,7 +135029,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -137099,7 +137081,7 @@
       "name": "Cole Payton",
       "position_id": 1,
       "team_id": 21,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "OUT",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -137110,11 +137092,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -137219,7 +137201,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -139148,11 +139130,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -139257,7 +139239,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -139284,11 +139266,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -139393,7 +139375,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -139420,11 +139402,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -139529,7 +139511,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -139692,11 +139674,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -139801,7 +139783,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -140905,7 +140887,7 @@
       "name": "Jalen Royals",
       "position_id": 3,
       "team_id": 12,
-      "latest_injury_status": "ACTIVE",
+      "latest_injury_status": "QUESTIONABLE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -140916,11 +140898,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -141025,7 +141007,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -141041,7 +141023,7 @@
       "name": "Harold Fannin Jr.",
       "position_id": 4,
       "team_id": 5,
-      "latest_injury_status": "QUESTIONABLE",
+      "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         1,
         2,
@@ -141461,11 +141443,10 @@
         8,
         9,
         10,
-        11
-      ],
-      "weeks_without_scoring_records": [
+        11,
         12
       ],
+      "weeks_without_scoring_records": [],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
       "weekly_classification": {
@@ -141569,7 +141550,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -142407,15 +142388,15 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
         2,
         3,
         4,
-        5,
-        12
+        5
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -142520,7 +142501,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -142683,11 +142664,11 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        6,
-        12
+        6
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -142792,7 +142773,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -143083,7 +143064,8 @@
       "latest_injury_status": "ACTIVE",
       "weeks_with_scoring_records": [
         10,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
         1,
@@ -143094,8 +143076,7 @@
         6,
         7,
         8,
-        9,
-        12
+        9
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -143200,7 +143181,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
@@ -143499,11 +143480,11 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "weeks_without_scoring_records": [
-        10,
-        12
+        10
       ],
       "confirmed_games_played": null,
       "confirmed_injury_absences": null,
@@ -143608,7 +143589,7 @@
           "classification_reason": "Current team ID cannot establish historical team assignment or bye."
         },
         "12": {
-          "scoring_record": false,
+          "scoring_record": true,
           "team_game_status": "historical_team_unverified",
           "bye_week": null,
           "participation": "unverified",
