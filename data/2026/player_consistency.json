@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T03:39:28.480027+00:00",
+  "updated_at_utc": "2026-11-27T15:38:52.012144+00:00",
   "player_count": 775,
   "methodology": {
     "sample": "Weeks with recorded fantasy points",
@@ -483,6 +483,38 @@
       }
     },
     {
+      "player_id": 4379399,
+      "name": "James Cook III",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 2,
+      "weeks_with_records": 11,
+      "total_points": 206.8,
+      "average": 18.8,
+      "median": 19.4,
+      "standard_deviation": 3.73,
+      "lowest_recorded_week": 9.9,
+      "highest_recorded_week": 24.3,
+      "lower_quartile_score": 16.7,
+      "upper_quartile_score": 20.9,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 10,
+      "threshold_hit_rate_pct": 90.9,
+      "weekly_points": {
+        "1": 9.9,
+        "2": 20.9,
+        "3": 19.4,
+        "4": 16.3,
+        "5": 22.8,
+        "6": 24.3,
+        "8": 18.1,
+        "9": 16.7,
+        "10": 21.7,
+        "11": 17.2,
+        "12": 19.5
+      }
+    },
+    {
       "player_id": 3046779,
       "name": "Jared Goff",
       "position": "QB",
@@ -521,11 +553,11 @@
       "position_id": 1,
       "team_id": 2,
       "weeks_with_records": 11,
-      "total_points": 237.8,
-      "average": 21.62,
+      "total_points": 238.72,
+      "average": 21.7,
       "median": 18.52,
-      "standard_deviation": 10.59,
-      "lowest_recorded_week": 2.62,
+      "standard_deviation": 10.45,
+      "lowest_recorded_week": 3.54,
       "highest_recorded_week": 40.82,
       "lower_quartile_score": 12.86,
       "upper_quartile_score": 26.56,
@@ -543,7 +575,7 @@
         "9": 12.86,
         "10": 22.34,
         "11": 12.16,
-        "12": 2.62
+        "12": 3.54
       }
     },
     {
@@ -608,38 +640,6 @@
         "9": 36.18,
         "10": 10.8,
         "12": 8.62
-      }
-    },
-    {
-      "player_id": 4379399,
-      "name": "James Cook III",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 2,
-      "weeks_with_records": 11,
-      "total_points": 204.3,
-      "average": 18.57,
-      "median": 18.1,
-      "standard_deviation": 3.75,
-      "lowest_recorded_week": 9.9,
-      "highest_recorded_week": 24.3,
-      "lower_quartile_score": 16.7,
-      "upper_quartile_score": 20.9,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 10,
-      "threshold_hit_rate_pct": 90.9,
-      "weekly_points": {
-        "1": 9.9,
-        "2": 20.9,
-        "3": 19.4,
-        "4": 16.3,
-        "5": 22.8,
-        "6": 24.3,
-        "8": 18.1,
-        "9": 16.7,
-        "10": 21.7,
-        "11": 17.2,
-        "12": 17.0
       }
     },
     {
@@ -890,11 +890,11 @@
       "position_id": 1,
       "team_id": 12,
       "weeks_with_records": 11,
-      "total_points": 207.36,
-      "average": 18.85,
+      "total_points": 209.52,
+      "average": 19.05,
       "median": 17.0,
-      "standard_deviation": 9.1,
-      "lowest_recorded_week": 5.0,
+      "standard_deviation": 8.82,
+      "lowest_recorded_week": 6.0,
       "highest_recorded_week": 35.42,
       "lower_quartile_score": 10.48,
       "upper_quartile_score": 24.96,
@@ -912,7 +912,7 @@
         "9": 16.48,
         "10": 35.42,
         "11": 24.96,
-        "12": 5.0
+        "12": 7.16
       }
     },
     {
@@ -1741,17 +1741,17 @@
       "position_id": 5,
       "team_id": 2,
       "weeks_with_records": 11,
-      "total_points": 116.0,
-      "average": 10.55,
+      "total_points": 126.0,
+      "average": 11.45,
       "median": 13.0,
-      "standard_deviation": 5.16,
-      "lowest_recorded_week": 1.0,
+      "standard_deviation": 4.19,
+      "lowest_recorded_week": 5.0,
       "highest_recorded_week": 17.0,
-      "lower_quartile_score": 6.0,
+      "lower_quartile_score": 7.0,
       "upper_quartile_score": 13.0,
       "position_threshold": 10,
-      "weeks_meeting_threshold": 6,
-      "threshold_hit_rate_pct": 54.5,
+      "weeks_meeting_threshold": 7,
+      "threshold_hit_rate_pct": 63.6,
       "weekly_points": {
         "1": 13.0,
         "2": 5.0,
@@ -1763,7 +1763,7 @@
         "9": 13.0,
         "10": 7.0,
         "11": 17.0,
-        "12": 1.0
+        "12": 11.0
       }
     },
     {
@@ -3367,17 +3367,17 @@
       "position_id": 2,
       "team_id": 12,
       "weeks_with_records": 11,
-      "total_points": 135.0,
-      "average": 12.27,
+      "total_points": 139.8,
+      "average": 12.71,
       "median": 8.8,
-      "standard_deviation": 10.71,
+      "standard_deviation": 10.9,
       "lowest_recorded_week": 1.7,
       "highest_recorded_week": 35.1,
       "lower_quartile_score": 3.7,
-      "upper_quartile_score": 14.8,
+      "upper_quartile_score": 19.6,
       "position_threshold": 15,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 27.3,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
       "weekly_points": {
         "1": 8.8,
         "2": 5.5,
@@ -3389,7 +3389,7 @@
         "9": 9.4,
         "10": 35.1,
         "11": 24.3,
-        "12": 14.8
+        "12": 19.6
       }
     },
     {
@@ -4212,17 +4212,17 @@
       "position_id": 16,
       "team_id": 12,
       "weeks_with_records": 11,
-      "total_points": 76.0,
-      "average": 6.91,
+      "total_points": 78.0,
+      "average": 7.09,
       "median": 8.0,
-      "standard_deviation": 5.16,
+      "standard_deviation": 5.26,
       "lowest_recorded_week": -1.0,
       "highest_recorded_week": 14.0,
       "lower_quartile_score": 1.0,
-      "upper_quartile_score": 9.0,
+      "upper_quartile_score": 11.0,
       "position_threshold": 10,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 27.3,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
       "weekly_points": {
         "1": 14.0,
         "2": 1.0,
@@ -4234,7 +4234,7 @@
         "9": 12.0,
         "10": 9.0,
         "11": 8.0,
-        "12": 9.0
+        "12": 11.0
       }
     },
     {
@@ -5118,10 +5118,10 @@
       "position_id": 3,
       "team_id": 2,
       "weeks_with_records": 11,
-      "total_points": 103.4,
-      "average": 9.4,
+      "total_points": 105.5,
+      "average": 9.59,
       "median": 6.6,
-      "standard_deviation": 8.89,
+      "standard_deviation": 8.73,
       "lowest_recorded_week": -0.1,
       "highest_recorded_week": 23.1,
       "lower_quartile_score": 0.0,
@@ -5140,7 +5140,7 @@
         "9": 6.6,
         "10": 19.4,
         "11": 23.1,
-        "12": 1.4
+        "12": 3.5
       }
     },
     {
@@ -5547,10 +5547,10 @@
       "position_id": 5,
       "team_id": 12,
       "weeks_with_records": 11,
-      "total_points": 80.0,
-      "average": 7.27,
+      "total_points": 79.0,
+      "average": 7.18,
       "median": 6.0,
-      "standard_deviation": 3.98,
+      "standard_deviation": 4.06,
       "lowest_recorded_week": 3.0,
       "highest_recorded_week": 16.0,
       "lower_quartile_score": 4.0,
@@ -5569,7 +5569,7 @@
         "9": 4.0,
         "10": 5.0,
         "11": 12.0,
-        "12": 4.0
+        "12": 3.0
       }
     },
     {
@@ -5877,6 +5877,38 @@
       }
     },
     {
+      "player_id": 4385690,
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 2,
+      "weeks_with_records": 11,
+      "total_points": 96.0,
+      "average": 8.73,
+      "median": 5.8,
+      "standard_deviation": 7.33,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 22.5,
+      "lower_quartile_score": 3.3,
+      "upper_quartile_score": 10.8,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
+      "weekly_points": {
+        "1": 18.0,
+        "2": 22.5,
+        "3": 3.8,
+        "4": 1.7,
+        "5": 3.7,
+        "6": 10.8,
+        "8": 18.6,
+        "9": 5.8,
+        "10": 7.8,
+        "11": 0.0,
+        "12": 3.3
+      }
+    },
+    {
       "player_id": 4373626,
       "name": "Tyler Allgeier",
       "position": "RB",
@@ -5906,38 +5938,6 @@
         "9": 6.6,
         "10": 1.4,
         "11": 2.3
-      }
-    },
-    {
-      "player_id": 4385690,
-      "name": "Dalton Kincaid",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 2,
-      "weeks_with_records": 11,
-      "total_points": 94.3,
-      "average": 8.57,
-      "median": 5.8,
-      "standard_deviation": 7.46,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 22.5,
-      "lower_quartile_score": 1.7,
-      "upper_quartile_score": 10.8,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 4,
-      "threshold_hit_rate_pct": 36.4,
-      "weekly_points": {
-        "1": 18.0,
-        "2": 22.5,
-        "3": 3.8,
-        "4": 1.7,
-        "5": 3.7,
-        "6": 10.8,
-        "8": 18.6,
-        "9": 5.8,
-        "10": 7.8,
-        "11": 0.0,
-        "12": 1.6
       }
     },
     {
@@ -6460,6 +6460,38 @@
       }
     },
     {
+      "player_id": 4240472,
+      "name": "Noah Gray",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 12,
+      "weeks_with_records": 11,
+      "total_points": 51.4,
+      "average": 4.67,
+      "median": 5.1,
+      "standard_deviation": 2.99,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 9.5,
+      "lower_quartile_score": 1.6,
+      "upper_quartile_score": 6.9,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 1.5,
+        "2": 0.0,
+        "3": 6.9,
+        "4": 3.7,
+        "6": 8.3,
+        "7": 7.4,
+        "8": 9.5,
+        "9": 2.1,
+        "10": 1.6,
+        "11": 5.1,
+        "12": 5.3
+      }
+    },
+    {
       "player_id": 2973405,
       "name": "Kalif Raymond",
       "position": "WR",
@@ -6558,10 +6590,10 @@
       "position_id": 16,
       "team_id": 2,
       "weeks_with_records": 11,
-      "total_points": 68.0,
-      "average": 6.18,
+      "total_points": 67.0,
+      "average": 6.09,
       "median": 5.0,
-      "standard_deviation": 5.83,
+      "standard_deviation": 5.82,
       "lowest_recorded_week": -3.0,
       "highest_recorded_week": 16.0,
       "lower_quartile_score": 1.0,
@@ -6580,7 +6612,7 @@
         "9": 15.0,
         "10": 10.0,
         "11": 10.0,
-        "12": 7.0
+        "12": 6.0
       }
     },
     {
@@ -7898,38 +7930,6 @@
       }
     },
     {
-      "player_id": 4240472,
-      "name": "Noah Gray",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 12,
-      "weeks_with_records": 11,
-      "total_points": 48.5,
-      "average": 4.41,
-      "median": 3.7,
-      "standard_deviation": 3.05,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 9.5,
-      "lower_quartile_score": 1.6,
-      "upper_quartile_score": 6.9,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 1.5,
-        "2": 0.0,
-        "3": 6.9,
-        "4": 3.7,
-        "6": 8.3,
-        "7": 7.4,
-        "8": 9.5,
-        "9": 2.1,
-        "10": 1.6,
-        "11": 5.1,
-        "12": 2.4
-      }
-    },
-    {
       "player_id": 4686658,
       "name": "Mike Washington Jr.",
       "position": "RB",
@@ -8970,6 +8970,38 @@
         "9": 0.0,
         "10": 8.9,
         "12": 3.4
+      }
+    },
+    {
+      "player_id": 4912218,
+      "name": "Cyrus Allen",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 12,
+      "weeks_with_records": 11,
+      "total_points": 32.9,
+      "average": 2.99,
+      "median": 2.8,
+      "standard_deviation": 3.65,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 12.4,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 4.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 4.7,
+        "7": 2.8,
+        "8": 4.0,
+        "9": 0.0,
+        "10": 12.4,
+        "11": 6.1,
+        "12": 2.9
       }
     },
     {
@@ -12095,38 +12127,6 @@
         "9": 0.0,
         "10": 0.0,
         "11": 0.0
-      }
-    },
-    {
-      "player_id": 4912218,
-      "name": "Cyrus Allen",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 12,
-      "weeks_with_records": 11,
-      "total_points": 30.0,
-      "average": 2.73,
-      "median": 0.0,
-      "standard_deviation": 3.75,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 12.4,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 4.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "6": 4.7,
-        "7": 2.8,
-        "8": 4.0,
-        "9": 0.0,
-        "10": 12.4,
-        "11": 6.1,
-        "12": 0.0
       }
     },
     {
@@ -22353,7 +22353,7 @@
       "name": "Malik Heath",
       "position": "WR",
       "position_id": 3,
-      "team_id": 28,
+      "team_id": 0,
       "weeks_with_records": 1,
       "total_points": 0.0,
       "average": 0.0,

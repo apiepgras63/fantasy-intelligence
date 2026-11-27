@@ -1485,10 +1485,10 @@
       2024,
       2025
     ],
-    "standingsUpdateDate": 1795680112531,
+    "standingsUpdateDate": 1795766812576,
     "teamsJoined": 14,
     "transactionScoringPeriod": 12,
-    "waiverLastExecutionDate": 1795680112180,
+    "waiverLastExecutionDate": 1795766812211,
     "waiverProcessStatus": {
       "2026-08-23T07:03:06.755+00:00": 2,
       "2026-09-16T07:17:44.258+00:00": 4,
@@ -2101,7 +2101,7 @@
     },
     {
       "abbrev": "RSB",
-      "currentProjectedRank": 6,
+      "currentProjectedRank": 7,
       "divisionId": 0,
       "draftDayProjectedRank": 7,
       "draftStrategy": {
@@ -2683,7 +2683,7 @@
     },
     {
       "abbrev": "KTT",
-      "currentProjectedRank": 7,
+      "currentProjectedRank": 6,
       "divisionId": 0,
       "draftDayProjectedRank": 6,
       "draftStrategy": {
@@ -2971,7 +2971,7 @@
     },
     {
       "abbrev": "SAS",
-      "currentProjectedRank": 11,
+      "currentProjectedRank": 12,
       "divisionId": 0,
       "draftDayProjectedRank": 4,
       "draftStrategy": {
@@ -3401,7 +3401,7 @@
     },
     {
       "abbrev": "RMH",
-      "currentProjectedRank": 12,
+      "currentProjectedRank": 11,
       "divisionId": 0,
       "draftDayProjectedRank": 3,
       "eliminated": false,

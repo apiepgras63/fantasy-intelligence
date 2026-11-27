@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T03:39:28.480027+00:00",
+  "updated_at_utc": "2026-11-27T15:38:52.012144+00:00",
   "status": "requires_independent_verification",
   "note": "Missing fantasy scoring records are not proof of injury, inactivity, or a missed NFL game.",
   "players": [
@@ -127,6 +127,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4379399,
+      "name": "James Cook III",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4432577,
       "name": "C.J. Stroud",
       "position": "QB",
@@ -147,19 +160,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4379399,
-      "name": "James Cook III",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -736,6 +736,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4832955,
+      "name": "Emmett Johnson",
+      "position": "RB",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        5
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 3122840,
       "name": "Deshaun Watson",
       "position": "QB",
@@ -805,19 +818,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 4832955,
-      "name": "Emmett Johnson",
-      "position": "RB",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        5
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 4258173,
       "name": "Nico Collins",
       "position": "WR",
@@ -825,6 +825,19 @@
       "missing_scoring_weeks": [
         8,
         12
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 3917232,
+      "name": "Tyler Bass",
+      "position": "K",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -959,19 +972,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 3917232,
-      "name": "Tyler Bass",
-      "position": "K",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1117,6 +1117,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 3915416,
+      "name": "DJ Moore",
+      "position": "WR",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4373678,
       "name": "Khalil Shakir",
       "position": "WR",
@@ -1193,19 +1206,6 @@
       "missing_scoring_weeks": [
         6,
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 3915416,
-      "name": "DJ Moore",
-      "position": "WR",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -1419,6 +1419,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4385690,
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        7
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4685382,
       "name": "Omarion Hampton",
       "position": "RB",
@@ -1548,19 +1561,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4385690,
-      "name": "Dalton Kincaid",
-      "position": "TE",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2019,19 +2019,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": 3055899,
-      "name": "Harrison Butker",
-      "position": "K",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        5
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 2969939,
       "name": "Jameis Winston",
       "position": "QB",
@@ -2066,6 +2053,19 @@
       "missing_scoring_weeks": [
         10,
         12
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": 3055899,
+      "name": "Harrison Butker",
+      "position": "K",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2133,6 +2133,19 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         10
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": -16012,
+      "name": "Chiefs D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2227,19 +2240,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         11
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": -16012,
-      "name": "Chiefs D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -2536,19 +2536,6 @@
       "review_priority": "normal"
     },
     {
-      "player_id": -16002,
-      "name": "Bills D/ST",
-      "position": "D/ST",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        7
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
       "player_id": 4576297,
       "name": "AJ Barner",
       "position": "TE",
@@ -2584,6 +2571,19 @@
       "missing_scoring_weeks": [
         10,
         12
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
+      "player_id": -16002,
+      "name": "Bills D/ST",
+      "position": "D/ST",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        7
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -3284,6 +3284,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4240472,
+      "name": "Noah Gray",
+      "position": "TE",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        5
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": -16020,
       "name": "Jets D/ST",
       "position": "D/ST",
@@ -3376,19 +3389,6 @@
       "recorded_weeks": 11,
       "missing_scoring_weeks": [
         12
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4240472,
-      "name": "Noah Gray",
-      "position": "TE",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",
@@ -4244,6 +4244,19 @@
       "review_priority": "normal"
     },
     {
+      "player_id": 4912218,
+      "name": "Cyrus Allen",
+      "position": "WR",
+      "recorded_weeks": 11,
+      "missing_scoring_weeks": [
+        5
+      ],
+      "scoring_team_conflicts": [],
+      "historical_injury_status": "unverified",
+      "games_played": null,
+      "review_priority": "normal"
+    },
+    {
       "player_id": 4427728,
       "name": "Bam Knight",
       "position": "RB",
@@ -4404,19 +4417,6 @@
         3,
         4,
         10
-      ],
-      "scoring_team_conflicts": [],
-      "historical_injury_status": "unverified",
-      "games_played": null,
-      "review_priority": "normal"
-    },
-    {
-      "player_id": 4912218,
-      "name": "Cyrus Allen",
-      "position": "WR",
-      "recorded_weeks": 11,
-      "missing_scoring_weeks": [
-        5
       ],
       "scoring_team_conflicts": [],
       "historical_injury_status": "unverified",

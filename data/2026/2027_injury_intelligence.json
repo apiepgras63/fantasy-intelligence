@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T03:39:46.171914+00:00",
+  "updated_at_utc": "2026-11-27T15:39:08.062233+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -36407,6 +36407,226 @@
       },
       "source": "ESPN game injury data",
       "event_id": "401873080"
+    },
+    {
+      "player_id": "4379778",
+      "name": "Christian Benford",
+      "week": 12,
+      "team_id": "2",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Groin",
+        "location": "Groin",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "5076951",
+      "name": "Jalon Kilgore",
+      "week": 12,
+      "team_id": "2",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "4869533",
+      "name": "Jude Bowry",
+      "week": 12,
+      "team_id": "2",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "3915487",
+      "name": "Mike Danna",
+      "week": 12,
+      "team_id": "2",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "3127294",
+      "name": "Greg Gaines",
+      "week": 12,
+      "team_id": "2",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "4242459",
+      "name": "Trey Smith",
+      "week": 12,
+      "team_id": "12",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "detail": "Sprain",
+        "side": "Not Specified",
+        "returnDate": "2026-12-03"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "5082630",
+      "name": "Jalen Royals",
+      "week": 12,
+      "team_id": "12",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Ankle",
+        "location": "Leg",
+        "detail": "Sprain",
+        "side": "Not Specified",
+        "returnDate": "2026-12-03"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "4567747",
+      "name": "Garrett Nussmeier",
+      "week": 12,
+      "team_id": "12",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-03"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "4602984",
+      "name": "Diego Pounds",
+      "week": 12,
+      "team_id": "12",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-03"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
+    },
+    {
+      "player_id": "5278708",
+      "name": "Melvin Smith Jr.",
+      "week": 12,
+      "team_id": "12",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-03"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873082"
     }
   ],
   "manual_injury_records": [],
@@ -37237,7 +37457,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -39332,7 +39553,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40205,7 +40427,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40393,7 +40616,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40412,7 +40636,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40807,7 +41032,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40926,7 +41152,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -41419,7 +41646,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -42210,7 +42438,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -43019,7 +43248,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -43317,7 +43547,8 @@
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47030,7 +47261,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47117,7 +47349,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47229,7 +47462,8 @@
         6,
         8,
         9,
-        10
+        10,
+        12
       ],
       "needs_review": true
     },
@@ -48522,7 +48756,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -49896,7 +50131,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -51902,7 +52138,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -54254,6 +54491,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873067"
+        },
+        {
+          "player_id": "4567747",
+          "name": "Garrett Nussmeier",
+          "week": 12,
+          "team_id": "12",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-03"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873082"
         }
       ],
       "boxscore_listed_weeks": [],
@@ -55629,7 +55888,8 @@
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -56162,7 +56422,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -56290,7 +56551,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -57382,7 +57644,8 @@
       "boxscore_listed_weeks": [
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -59981,7 +60244,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -61245,7 +61509,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -61689,7 +61954,30 @@
       "missing_scoring_weeks": [
         5
       ],
-      "injury_evidence": [],
+      "injury_evidence": [
+        {
+          "player_id": "5082630",
+          "name": "Jalen Royals",
+          "week": 12,
+          "team_id": "12",
+          "status": "Questionable",
+          "type": "questionable",
+          "details": {
+            "fantasyStatus": {
+              "description": "QUESTIONABLE",
+              "abbreviation": "QUESTIONABLE",
+              "displayDescription": "Questionable"
+            },
+            "type": "Ankle",
+            "location": "Leg",
+            "detail": "Sprain",
+            "side": "Not Specified",
+            "returnDate": "2026-12-03"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873082"
+        }
+      ],
       "boxscore_listed_weeks": [
         1,
         2,
@@ -61700,7 +61988,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -62085,7 +62374,8 @@
         8,
         9,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
