@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T15:39:08.062233+00:00",
+  "updated_at_utc": "2026-11-28T03:34:34.279231+00:00",
   "game_injury_records": [
     {
       "player_id": "4245171",
@@ -36627,6 +36627,224 @@
       },
       "source": "ESPN game injury data",
       "event_id": "401873082"
+    },
+    {
+      "player_id": "4567979",
+      "name": "Brandin Echols",
+      "week": 12,
+      "team_id": "23",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Quadriceps",
+        "location": "Leg",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4431590",
+      "name": "Jack Sawyer",
+      "week": 12,
+      "team_id": "23",
+      "status": "Questionable",
+      "type": "questionable",
+      "details": {
+        "fantasyStatus": {
+          "description": "QUESTIONABLE",
+          "abbreviation": "QUESTIONABLE",
+          "displayDescription": "Questionable"
+        },
+        "type": "Knee",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "3116689",
+      "name": "Cole Holcomb",
+      "week": 12,
+      "team_id": "23",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Heel",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "5081338",
+      "name": "Kaden Wetjen",
+      "week": 12,
+      "team_id": "23",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4714771",
+      "name": "Drew Allar",
+      "week": 12,
+      "team_id": "23",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4241820",
+      "name": "Sam Ehlinger",
+      "week": 12,
+      "team_id": "7",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4039007",
+      "name": "Taylor Rapp",
+      "week": 12,
+      "team_id": "7",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Quadriceps",
+        "location": "Leg",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "5085625",
+      "name": "Gavin Ortega",
+      "week": 12,
+      "team_id": "7",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4868598",
+      "name": "Kage Casey",
+      "week": 12,
+      "team_id": "7",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
+    },
+    {
+      "player_id": "4039057",
+      "name": "Lil'Jordan Humphrey",
+      "week": 12,
+      "team_id": "7",
+      "status": "Out",
+      "type": "out",
+      "details": {
+        "fantasyStatus": {
+          "description": "INACTIVE",
+          "abbreviation": "INACTIVE",
+          "displayDescription": "Inactive"
+        },
+        "type": "Coach's Decision",
+        "location": "Other",
+        "detail": "Not Specified",
+        "side": "Not Specified",
+        "returnDate": "2026-12-06"
+      },
+      "source": "ESPN game injury data",
+      "event_id": "401873083"
     }
   ],
   "manual_injury_records": [],
@@ -36733,8 +36951,7 @@
       "player_id": "-16023",
       "name": "Steelers D/ST",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -36900,8 +37117,7 @@
       "player_id": "-16007",
       "name": "Broncos D/ST",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -37750,8 +37966,7 @@
       "player_id": "16460",
       "name": "Adam Thielen",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -38282,8 +38497,7 @@
       "player_id": "17372",
       "name": "Chris Boswell",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38296,7 +38510,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -38685,8 +38900,7 @@
       "player_id": "2975674",
       "name": "Robert Tonyan",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38805,8 +39019,7 @@
       "player_id": "2985659",
       "name": "Wil Lutz",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -38819,7 +39032,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -39191,8 +39405,7 @@
       "player_id": "3051876",
       "name": "Evan Engram",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -39205,7 +39418,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -39736,14 +39950,14 @@
       "player_id": "3116407",
       "name": "Mason Rudolph",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         2,
         5,
-        10
+        10,
+        12
       ],
       "needs_review": true
     },
@@ -40147,8 +40361,7 @@
       "player_id": "3128429",
       "name": "Courtland Sutton",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40161,7 +40374,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -40528,8 +40742,7 @@
       "player_id": "3892775",
       "name": "Jarrett Stidham",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -40550,8 +40763,7 @@
       "player_id": "3911853",
       "name": "Adam Trautman",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -40560,7 +40772,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -41593,8 +41806,7 @@
       "player_id": "3929914",
       "name": "Adam Prentice",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -41606,7 +41818,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -41801,8 +42014,7 @@
         3,
         4,
         5,
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42048,8 +42260,7 @@
       "player_id": "4035656",
       "name": "Ben Skowronek",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42280,14 +42491,14 @@
       "player_id": "4035687",
       "name": "Michael Pittman Jr.",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         1,
         3,
-        4
+        4,
+        12
       ],
       "needs_review": true
     },
@@ -42448,8 +42659,7 @@
       "name": "Travis Homer",
       "missing_scoring_weeks": [
         1,
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42501,8 +42711,7 @@
       "player_id": "4038815",
       "name": "Rico Dowdle",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -42512,7 +42721,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -42607,8 +42817,7 @@
       "name": "Lil'Jordan Humphrey",
       "missing_scoring_weeks": [
         4,
-        10,
-        12
+        10
       ],
       "injury_evidence": [
         {
@@ -42632,6 +42841,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873075"
+        },
+        {
+          "player_id": "4039057",
+          "name": "Lil'Jordan Humphrey",
+          "week": 12,
+          "team_id": "7",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-06"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873083"
         }
       ],
       "boxscore_listed_weeks": [
@@ -43027,8 +43258,7 @@
       "player_id": "4047650",
       "name": "DK Metcalf",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -43041,7 +43271,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -43848,8 +44079,7 @@
       "player_id": "4241820",
       "name": "Sam Ehlinger",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [
         {
@@ -43873,6 +44103,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873075"
+        },
+        {
+          "player_id": "4241820",
+          "name": "Sam Ehlinger",
+          "week": 12,
+          "team_id": "7",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-06"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873083"
         }
       ],
       "boxscore_listed_weeks": [],
@@ -43921,8 +44173,7 @@
       "player_id": "4241985",
       "name": "J.K. Dobbins",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46072,8 +46323,7 @@
       "player_id": "4361411",
       "name": "Pat Freiermuth",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46086,7 +46336,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -46478,8 +46729,7 @@
       "player_id": "4362748",
       "name": "Tyler Badie",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -46487,7 +46737,8 @@
         3,
         4,
         5,
-        6
+        6,
+        12
       ],
       "needs_review": true
     },
@@ -46773,8 +47024,7 @@
       "player_id": "4372016",
       "name": "Jaylen Waddle",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [
         {
@@ -46986,7 +47236,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47410,8 +47661,7 @@
       "player_id": "4383440",
       "name": "Nate Adkins",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47420,7 +47670,8 @@
         3,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47500,14 +47751,14 @@
         5,
         6,
         7,
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -47592,8 +47843,7 @@
       "player_id": "4426338",
       "name": "Bo Nix",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -47606,7 +47856,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -48716,8 +48967,7 @@
       "missing_scoring_weeks": [
         1,
         2,
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -48727,7 +48977,8 @@
         6,
         7,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -50517,8 +50768,7 @@
       "player_id": "4429955",
       "name": "Will Howard",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [
         {
@@ -51775,8 +52025,7 @@
       "player_id": "4430802",
       "name": "Darnell Washington",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52182,8 +52431,7 @@
       "player_id": "4431280",
       "name": "Troy Franklin",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52195,7 +52443,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -52624,8 +52873,7 @@
       "player_id": "4431492",
       "name": "Roman Wilson",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -52634,7 +52882,8 @@
         3,
         4,
         5,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -52966,8 +53215,7 @@
       "player_id": "4432208",
       "name": "Caleb Lohner",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -54577,8 +54825,7 @@
       "player_id": "4568490",
       "name": "RJ Harvey",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55046,8 +55293,7 @@
       "player_id": "4569987",
       "name": "Jaylen Warren",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55060,7 +55306,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -55793,8 +56040,7 @@
       "player_id": "4600981",
       "name": "Pat Bryant",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -55803,7 +56049,8 @@
         3,
         4,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -57007,8 +57254,7 @@
       "player_id": "4685261",
       "name": "Germie Bernard",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -57020,7 +57266,8 @@
         7,
         8,
         10,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -58663,8 +58910,7 @@
       "player_id": "4686472",
       "name": "Marvin Mims Jr.",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58675,7 +58921,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -58988,8 +59235,7 @@
       "player_id": "4693370",
       "name": "Riley Nowakowski",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -58997,7 +59243,8 @@
         5,
         6,
         8,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -59014,12 +59261,12 @@
         7,
         8,
         9,
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -59345,8 +59592,7 @@
       "player_id": "4702555",
       "name": "Jonah Coleman",
       "missing_scoring_weeks": [
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [
@@ -59355,7 +59601,8 @@
         7,
         8,
         9,
-        11
+        11,
+        12
       ],
       "needs_review": true
     },
@@ -59544,8 +59791,7 @@
       "player_id": "4714771",
       "name": "Drew Allar",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [
         {
@@ -59745,6 +59991,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873064"
+        },
+        {
+          "player_id": "4714771",
+          "name": "Drew Allar",
+          "week": 12,
+          "team_id": "23",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-06"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873083"
         }
       ],
       "boxscore_listed_weeks": [],
@@ -61599,8 +61867,7 @@
       "player_id": "5081338",
       "name": "Kaden Wetjen",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [
         {
@@ -61624,6 +61891,28 @@
           },
           "source": "ESPN game injury data",
           "event_id": "401873076"
+        },
+        {
+          "player_id": "5081338",
+          "name": "Kaden Wetjen",
+          "week": 12,
+          "team_id": "23",
+          "status": "Out",
+          "type": "out",
+          "details": {
+            "fantasyStatus": {
+              "description": "INACTIVE",
+              "abbreviation": "INACTIVE",
+              "displayDescription": "Inactive"
+            },
+            "type": "Coach's Decision",
+            "location": "Other",
+            "detail": "Not Specified",
+            "side": "Not Specified",
+            "returnDate": "2026-12-06"
+          },
+          "source": "ESPN game injury data",
+          "event_id": "401873083"
         }
       ],
       "boxscore_listed_weeks": [
@@ -61682,8 +61971,7 @@
       "player_id": "5081508",
       "name": "Eli Heidenreich",
       "missing_scoring_weeks": [
-        9,
-        12
+        9
       ],
       "injury_evidence": [
         {
@@ -62713,8 +63001,7 @@
       "name": "Dallen Bentley",
       "missing_scoring_weeks": [
         2,
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [],
@@ -62787,8 +63074,7 @@
       "missing_scoring_weeks": [
         1,
         2,
-        10,
-        12
+        10
       ],
       "injury_evidence": [],
       "boxscore_listed_weeks": [

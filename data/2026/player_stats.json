@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T15:38:52.012144+00:00",
+  "updated_at_utc": "2026-11-28T03:34:15.406107+00:00",
   "player_count": 1064,
   "players": [
     {
@@ -8462,6 +8462,66 @@
             "190": 0.0,
             "191": 0.0,
             "192": 1.0,
+            "193": 0.0,
+            "194": 0.0,
+            "195": 0.0,
+            "210": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 26.0,
+          "stats": {
+            "89": 0.0,
+            "90": 1.0,
+            "91": 0.0,
+            "92": 0.0,
+            "94": 2.0,
+            "95": 2.0,
+            "96": 1.0,
+            "99": 2.0,
+            "100": 4.0,
+            "103": 1.0,
+            "104": 1.0,
+            "105": 2.0,
+            "107": 30.0,
+            "108": 41.0,
+            "109": 71.0,
+            "110": 23.0,
+            "111": 14.0,
+            "112": 7.0,
+            "113": 7.0,
+            "114": 44.0,
+            "115": 30.0,
+            "116": 4.0,
+            "117": 1.0,
+            "118": 3.0,
+            "119": 1.0,
+            "120": 3.0,
+            "121": 0.0,
+            "122": 0.0,
+            "123": 0.0,
+            "124": 0.0,
+            "127": 205.0,
+            "128": 0.0,
+            "129": 0.0,
+            "130": 1.0,
+            "131": 0.0,
+            "132": 0.0,
+            "133": 0.0,
+            "134": 0.0,
+            "135": 0.0,
+            "136": 0.0,
+            "155": 1.0,
+            "187": 3.0,
+            "188": 0.0,
+            "189": 1.0,
+            "190": 0.0,
+            "191": 0.0,
+            "192": 0.0,
             "193": 0.0,
             "194": 0.0,
             "195": 0.0,
@@ -22353,6 +22413,60 @@
             "195": 0.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 8.0,
+          "stats": {
+            "89": 0.0,
+            "90": 0.0,
+            "91": 0.0,
+            "92": 1.0,
+            "96": 1.0,
+            "98": 1.0,
+            "99": 1.0,
+            "100": 2.0,
+            "106": 1.0,
+            "107": 52.0,
+            "108": 21.0,
+            "109": 73.0,
+            "110": 24.0,
+            "111": 14.0,
+            "112": 4.0,
+            "113": 2.0,
+            "114": 141.0,
+            "116": 14.0,
+            "117": 5.0,
+            "120": 15.0,
+            "121": 0.0,
+            "122": 0.0,
+            "123": 0.0,
+            "124": 0.0,
+            "127": 247.0,
+            "128": 0.0,
+            "129": 0.0,
+            "130": 1.0,
+            "131": 0.0,
+            "132": 0.0,
+            "133": 0.0,
+            "134": 0.0,
+            "135": 0.0,
+            "136": 0.0,
+            "156": 1.0,
+            "187": 15.0,
+            "188": 0.0,
+            "189": 0.0,
+            "190": 0.0,
+            "191": 1.0,
+            "192": 0.0,
+            "193": 0.0,
+            "194": 0.0,
+            "195": 0.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -34786,6 +34900,14 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -36984,6 +37106,38 @@
             "232": 4.0,
             "233": 2.0,
             "234": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 10.0,
+          "stats": {
+            "77": 1.0,
+            "78": 1.0,
+            "80": 1.0,
+            "81": 1.0,
+            "83": 2.0,
+            "84": 2.0,
+            "86": 3.0,
+            "87": 3.0,
+            "155": 1.0,
+            "158": 9.0,
+            "210": 1.0,
+            "214": 80.0,
+            "216": 80.0,
+            "217": 16.0,
+            "218": 8.0,
+            "219": 4.0,
+            "220": 3.0,
+            "221": 1.0,
+            "229": 16.0,
+            "230": 8.0,
+            "231": 4.0,
+            "232": 3.0,
+            "233": 1.0
           }
         }
       ]
@@ -45504,6 +45658,17 @@
             "156": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "155": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -47897,6 +48062,44 @@
             "231": 1.0,
             "232": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 3.0,
+          "stats": {
+            "75": 1.0,
+            "76": 1.0,
+            "77": 1.0,
+            "78": 1.0,
+            "83": 1.0,
+            "84": 2.0,
+            "85": 1.0,
+            "156": 1.0,
+            "158": 3.0,
+            "199": 1.0,
+            "200": 1.0,
+            "210": 1.0,
+            "214": 44.0,
+            "215": 53.0,
+            "216": 97.0,
+            "217": 8.0,
+            "218": 4.0,
+            "219": 2.0,
+            "220": 1.0,
+            "223": 10.0,
+            "224": 5.0,
+            "225": 2.0,
+            "226": 2.0,
+            "227": 1.0,
+            "229": 19.0,
+            "230": 9.0,
+            "231": 4.0,
+            "232": 3.0,
+            "233": 1.0
+          }
         }
       ]
     },
@@ -49761,7 +49964,7 @@
       "name": "Derrick Henry",
       "position_id": 2,
       "team_id": 33,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -55139,6 +55342,18 @@
             "155": 1.0,
             "210": 1.0,
             "213": 5.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "58": 2.0,
+            "156": 1.0,
+            "210": 1.0
           }
         }
       ]
@@ -62343,6 +62558,36 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 9.68,
+          "stats": {
+            "0": 15.0,
+            "1": 9.0,
+            "2": 6.0,
+            "3": 142.0,
+            "4": 1.0,
+            "5": 28.0,
+            "6": 14.0,
+            "7": 7.0,
+            "8": 5.0,
+            "9": 2.0,
+            "10": 1.0,
+            "11": 1.0,
+            "13": 1.0,
+            "21": 60.0,
+            "22": 142.0,
+            "64": 1.0,
+            "155": 1.0,
+            "158": 6.0,
+            "177": 1.0,
+            "210": 1.0,
+            "211": 4.0
+          }
         }
       ]
     },
@@ -63044,7 +63289,7 @@
       "name": "Dalton Schultz",
       "position_id": 4,
       "team_id": 34,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -69675,6 +69920,23 @@
             "155": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.4,
+          "stats": {
+            "41": 1.0,
+            "42": 4.0,
+            "53": 1.0,
+            "58": 8.0,
+            "60": 4.0,
+            "61": 4.0,
+            "156": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -74002,6 +74264,14 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -74558,6 +74828,27 @@
             "155": 1.0,
             "158": 6.0,
             "183": 1.0,
+            "210": 1.0,
+            "213": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 3.7,
+          "stats": {
+            "41": 2.0,
+            "42": 17.0,
+            "47": 3.0,
+            "48": 1.0,
+            "53": 2.0,
+            "58": 2.0,
+            "59": 14.0,
+            "60": 8.5,
+            "61": 17.0,
+            "156": 1.0,
             "210": 1.0,
             "213": 1.0
           }
@@ -78604,7 +78895,7 @@
       "name": "Jakobi Meyers",
       "position_id": 3,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -79921,7 +80212,7 @@
       "name": "Kyler Murray",
       "position_id": 1,
       "team_id": 16,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -83090,7 +83381,7 @@
       "name": "Drew Lock",
       "position_id": 1,
       "team_id": 26,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -84851,7 +85142,7 @@
       "name": "Juwan Johnson",
       "position_id": 4,
       "team_id": 18,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -85733,6 +86024,22 @@
             "39": 3.0,
             "40": 3.0,
             "155": 1.0,
+            "210": 1.0,
+            "212": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.4,
+          "stats": {
+            "23": 1.0,
+            "24": 4.0,
+            "39": 4.0,
+            "40": 4.0,
+            "156": 1.0,
             "210": 1.0,
             "212": 1.0
           }
@@ -89609,6 +89916,14 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -90700,6 +91015,14 @@
             "156": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -91324,6 +91647,25 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.7,
+          "stats": {
+            "41": 1.0,
+            "42": 7.0,
+            "47": 1.0,
+            "53": 1.0,
+            "58": 2.0,
+            "60": 7.0,
+            "61": 7.0,
+            "155": 1.0,
+            "210": 1.0,
+            "213": 1.0
+          }
         }
       ]
     },
@@ -92010,7 +92352,7 @@
       "name": "Noah Fant",
       "position_id": 4,
       "team_id": 18,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -94409,6 +94751,17 @@
             "156": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "155": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -95772,6 +96125,43 @@
             "212": 1.0,
             "213": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 6.4,
+          "stats": {
+            "23": 11.0,
+            "24": 71.0,
+            "27": 14.0,
+            "28": 7.0,
+            "29": 3.0,
+            "30": 2.0,
+            "31": 1.0,
+            "33": 2.0,
+            "34": 1.0,
+            "39": 6.455,
+            "40": 71.0,
+            "41": 1.0,
+            "42": 3.0,
+            "53": 1.0,
+            "58": 1.0,
+            "59": 3.0,
+            "60": 3.0,
+            "61": 3.0,
+            "65": 1.0,
+            "66": 1.0,
+            "68": 1.0,
+            "69": 1.0,
+            "70": 1.0,
+            "72": 1.0,
+            "73": 1.0,
+            "155": 1.0,
+            "210": 1.0,
+            "212": 4.0
+          }
         }
       ]
     },
@@ -95780,7 +96170,7 @@
       "name": "Justin Herbert",
       "position_id": 1,
       "team_id": 24,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -96983,7 +97373,7 @@
       "name": "Lil'Jordan Humphrey",
       "position_id": 3,
       "team_id": 7,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -97172,6 +97562,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -100629,7 +101027,7 @@
       "name": "A.J. Brown",
       "position_id": 3,
       "team_id": 17,
-      "injury_status": "DOUBTFUL",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -101394,6 +101792,31 @@
             "61": 2.0,
             "156": 1.0,
             "210": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 12.6,
+          "stats": {
+            "41": 3.0,
+            "42": 36.0,
+            "43": 1.0,
+            "47": 7.0,
+            "48": 3.0,
+            "49": 1.0,
+            "50": 1.0,
+            "53": 3.0,
+            "58": 4.0,
+            "60": 12.0,
+            "61": 36.0,
+            "155": 1.0,
+            "158": 6.0,
+            "185": 1.0,
+            "210": 1.0,
+            "213": 1.0
           }
         }
       ]
@@ -103181,7 +103604,7 @@
       "name": "Tee Higgins",
       "position_id": 3,
       "team_id": 4,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -111164,7 +111587,7 @@
       "name": "Sam Ehlinger",
       "position_id": 1,
       "team_id": 7,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -111269,6 +111692,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -112465,6 +112896,14 @@
             "155": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -133694,7 +134133,7 @@
       "name": "Isaiah Likely",
       "position_id": 4,
       "team_id": 19,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -136108,7 +136547,7 @@
       "name": "Jahan Dotson",
       "position_id": 3,
       "team_id": 1,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -136964,6 +137403,24 @@
             "210": 1.0,
             "212": 1.0,
             "213": 2.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.1,
+          "stats": {
+            "41": 1.0,
+            "42": 1.0,
+            "53": 1.0,
+            "58": 1.0,
+            "59": 4.0,
+            "60": 1.0,
+            "61": 1.0,
+            "155": 1.0,
+            "210": 1.0
           }
         }
       ]
@@ -139263,7 +139720,7 @@
       "name": "Brock Purdy",
       "position_id": 1,
       "team_id": 25,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -143069,7 +143526,7 @@
       "name": "Brevin Jordan",
       "position_id": 4,
       "team_id": 34,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -143270,7 +143727,7 @@
       "name": "Will Mallory",
       "position_id": 4,
       "team_id": 11,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -144673,7 +145130,7 @@
       "name": "Tyler Badie",
       "position_id": 2,
       "team_id": 7,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -144988,6 +145445,27 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.1,
+          "stats": {
+            "23": 1.0,
+            "24": 11.0,
+            "27": 2.0,
+            "28": 1.0,
+            "39": 11.0,
+            "40": 11.0,
+            "114": 94.0,
+            "116": 9.0,
+            "117": 3.0,
+            "156": 1.0,
+            "210": 1.0,
+            "212": 1.0
+          }
         }
       ]
     },
@@ -149721,6 +150199,33 @@
             "60": 20.333,
             "61": 61.0,
             "155": 1.0,
+            "210": 1.0,
+            "213": 3.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 10.3,
+          "stats": {
+            "41": 5.0,
+            "42": 53.0,
+            "47": 10.0,
+            "48": 5.0,
+            "49": 2.0,
+            "50": 2.0,
+            "51": 1.0,
+            "53": 5.0,
+            "54": 1.0,
+            "58": 8.0,
+            "59": 13.0,
+            "60": 10.6,
+            "61": 53.0,
+            "108": 1.0,
+            "109": 1.0,
+            "156": 1.0,
             "210": 1.0,
             "213": 3.0
           }
@@ -157410,6 +157915,25 @@
             "155": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.6,
+          "stats": {
+            "41": 1.0,
+            "42": 6.0,
+            "47": 1.0,
+            "53": 1.0,
+            "58": 2.0,
+            "59": 1.0,
+            "60": 6.0,
+            "61": 6.0,
+            "156": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -158692,6 +159216,27 @@
             "117": 2.0,
             "155": 1.0,
             "210": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 2.7,
+          "stats": {
+            "23": 7.0,
+            "24": 27.0,
+            "27": 5.0,
+            "28": 2.0,
+            "29": 1.0,
+            "30": 1.0,
+            "33": 1.0,
+            "39": 3.857,
+            "40": 27.0,
+            "156": 1.0,
+            "210": 1.0,
+            "212": 2.0
           }
         }
       ]
@@ -160233,6 +160778,45 @@
             "175": 1.0,
             "210": 1.0,
             "211": 12.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.46,
+          "stats": {
+            "0": 40.0,
+            "1": 22.0,
+            "2": 18.0,
+            "3": 169.0,
+            "5": 33.0,
+            "6": 16.0,
+            "7": 8.0,
+            "8": 6.0,
+            "9": 3.0,
+            "10": 1.0,
+            "11": 4.0,
+            "12": 2.0,
+            "13": 3.0,
+            "14": 1.0,
+            "20": 2.0,
+            "21": 55.0,
+            "22": 169.0,
+            "23": 1.0,
+            "24": 7.0,
+            "27": 1.0,
+            "39": 7.0,
+            "40": 7.0,
+            "64": 3.0,
+            "68": 1.0,
+            "72": 1.0,
+            "73": 3.0,
+            "156": 1.0,
+            "210": 1.0,
+            "211": 8.0,
+            "212": 1.0
           }
         }
       ]
@@ -164835,7 +165419,7 @@
       "name": "Davis Allen",
       "position_id": 4,
       "team_id": 14,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2025,
@@ -168788,6 +169372,19 @@
             "156": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "114": 22.0,
+            "116": 2.0,
+            "155": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -172105,7 +172702,7 @@
       "name": "Kayshon Boutte",
       "position_id": 3,
       "team_id": 34,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -173533,7 +174130,7 @@
       "name": "Woody Marks",
       "position_id": 2,
       "team_id": 34,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -176565,7 +177162,7 @@
       "name": "Jordan Addison",
       "position_id": 3,
       "team_id": 16,
-      "injury_status": "DOUBTFUL",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -181245,6 +181842,14 @@
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
           "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
         }
       ]
     },
@@ -183017,7 +183622,7 @@
       "name": "Myles Price",
       "position_id": 3,
       "team_id": 16,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -183419,7 +184024,7 @@
       "name": "Jared Wayne",
       "position_id": 3,
       "team_id": 15,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -184945,6 +185550,17 @@
             "210": 1.0,
             "213": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "155": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -185795,7 +186411,7 @@
       "name": "Carson Beck",
       "position_id": 1,
       "team_id": 22,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -186635,7 +187251,7 @@
       "name": "Jaxon Smith-Njigba",
       "position_id": 3,
       "team_id": 26,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -189128,6 +189744,24 @@
           "stats": {
             "58": 2.0,
             "155": 1.0,
+            "210": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 1.1,
+          "stats": {
+            "41": 1.0,
+            "42": 1.0,
+            "53": 1.0,
+            "58": 1.0,
+            "59": 7.0,
+            "60": 1.0,
+            "61": 1.0,
+            "156": 1.0,
             "210": 1.0
           }
         }
@@ -191882,7 +192516,7 @@
       "name": "Jordan Watkins",
       "position_id": 3,
       "team_id": 25,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -192923,6 +193557,29 @@
             "60": 14.333,
             "61": 43.0,
             "156": 1.0,
+            "210": 1.0,
+            "213": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 4.7,
+          "stats": {
+            "41": 1.0,
+            "42": 37.0,
+            "47": 7.0,
+            "48": 3.0,
+            "49": 1.0,
+            "50": 1.0,
+            "53": 1.0,
+            "58": 1.0,
+            "59": 1.0,
+            "60": 37.0,
+            "61": 37.0,
+            "155": 1.0,
             "210": 1.0,
             "213": 1.0
           }
@@ -194656,6 +195313,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -197893,7 +198558,7 @@
       "name": "Jalen Milroe",
       "position_id": 1,
       "team_id": 26,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -202544,7 +203209,7 @@
       "name": "Treylon Burks",
       "position_id": 3,
       "team_id": 28,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "ACTIVE",
       "stats": [
         {
           "season_id": 2025,
@@ -204599,6 +205264,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -209781,6 +210454,32 @@
             "156": 1.0,
             "210": 1.0,
             "212": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 5.6,
+          "stats": {
+            "23": 20.0,
+            "24": 46.0,
+            "27": 9.0,
+            "28": 4.0,
+            "29": 2.0,
+            "30": 1.0,
+            "33": 4.0,
+            "34": 2.0,
+            "39": 2.3,
+            "40": 46.0,
+            "41": 1.0,
+            "53": 1.0,
+            "58": 2.0,
+            "59": 2.0,
+            "155": 1.0,
+            "210": 1.0,
+            "212": 2.0
           }
         }
       ]
@@ -215319,7 +216018,7 @@
       "name": "Keaton Mitchell",
       "position_id": 2,
       "team_id": 24,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -218705,6 +219404,29 @@
             "210": 1.0,
             "213": 2.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 8.2,
+          "stats": {
+            "41": 4.0,
+            "42": 42.0,
+            "47": 8.0,
+            "48": 4.0,
+            "49": 2.0,
+            "50": 1.0,
+            "53": 4.0,
+            "58": 7.0,
+            "59": 2.0,
+            "60": 10.5,
+            "61": 42.0,
+            "156": 1.0,
+            "210": 1.0,
+            "213": 3.0
+          }
         }
       ]
     },
@@ -220645,7 +221367,7 @@
       "name": "Tez Johnson",
       "position_id": 3,
       "team_id": 27,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -227915,6 +228637,30 @@
             "210": 1.0,
             "213": 3.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 6.8,
+          "stats": {
+            "41": 1.0,
+            "42": 58.0,
+            "47": 11.0,
+            "48": 5.0,
+            "49": 2.0,
+            "50": 2.0,
+            "51": 1.0,
+            "53": 1.0,
+            "58": 2.0,
+            "59": 53.0,
+            "60": 58.0,
+            "61": 58.0,
+            "155": 1.0,
+            "210": 1.0,
+            "213": 1.0
+          }
         }
       ]
     },
@@ -232812,7 +233558,7 @@
       "name": "Brenen Thompson",
       "position_id": 3,
       "team_id": 24,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2026,
@@ -236721,6 +237467,24 @@
             "210": 1.0,
             "212": 1.0,
             "213": 1.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": -0.2,
+          "stats": {
+            "23": 1.0,
+            "24": -2.0,
+            "39": -2.0,
+            "40": -2.0,
+            "114": 47.0,
+            "116": 4.0,
+            "117": 1.0,
+            "156": 1.0,
+            "210": 1.0
           }
         }
       ]
@@ -242483,6 +243247,19 @@
             "156": 1.0,
             "210": 1.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "108": 1.0,
+            "109": 1.0,
+            "155": 1.0,
+            "210": 1.0
+          }
         }
       ]
     },
@@ -242525,6 +243302,22 @@
             "185": 1.0,
             "210": 1.0,
             "213": 2.0
+          }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {
+            "114": 22.0,
+            "115": 30.0,
+            "116": 2.0,
+            "118": 3.0,
+            "119": 1.0,
+            "155": 1.0,
+            "210": 1.0
           }
         }
       ]
@@ -248332,6 +249125,41 @@
             "210": 1.0,
             "212": 8.0
           }
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 15.2,
+          "stats": {
+            "23": 15.0,
+            "24": 26.0,
+            "27": 5.0,
+            "28": 2.0,
+            "29": 1.0,
+            "30": 1.0,
+            "33": 3.0,
+            "34": 1.0,
+            "39": 1.733,
+            "40": 26.0,
+            "41": 8.0,
+            "42": 46.0,
+            "47": 9.0,
+            "48": 4.0,
+            "49": 2.0,
+            "50": 1.0,
+            "53": 8.0,
+            "54": 1.0,
+            "58": 10.0,
+            "59": 71.0,
+            "60": 5.75,
+            "61": 46.0,
+            "156": 1.0,
+            "210": 1.0,
+            "212": 2.0,
+            "213": 1.0
+          }
         }
       ]
     },
@@ -250547,7 +251375,7 @@
       "name": "Drew Allar",
       "position_id": 1,
       "team_id": 23,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -250640,6 +251468,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -251288,7 +252124,7 @@
       "name": "Drew Ogletree",
       "position_id": 4,
       "team_id": 11,
-      "injury_status": "ACTIVE",
+      "injury_status": "QUESTIONABLE",
       "stats": [
         {
           "season_id": 2025,
@@ -251570,7 +252406,7 @@
       "name": "Colston Loveland",
       "position_id": 4,
       "team_id": 3,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "DOUBTFUL",
       "stats": [
         {
           "season_id": 2025,
@@ -252016,7 +252852,7 @@
       "name": "Omar Cooper Jr.",
       "position_id": 3,
       "team_id": 20,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -257189,7 +258025,7 @@
       "name": "Zachariah Branch",
       "position_id": 3,
       "team_id": 1,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -261887,7 +262723,7 @@
       "name": "Bhayshul Tuten",
       "position_id": 2,
       "team_id": 30,
-      "injury_status": "QUESTIONABLE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2025,
@@ -266561,7 +267397,7 @@
       "name": "Kaden Wetjen",
       "position_id": 3,
       "team_id": 23,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -266776,6 +267612,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -267537,7 +268381,7 @@
       "name": "Eli Heidenreich",
       "position_id": 2,
       "team_id": 23,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -267657,6 +268501,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -272529,7 +273381,7 @@
       "name": "Dallen Bentley",
       "position_id": 4,
       "team_id": 7,
-      "injury_status": "ACTIVE",
+      "injury_status": "OUT",
       "stats": [
         {
           "season_id": 2026,
@@ -272606,6 +273458,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,
@@ -273576,6 +274436,14 @@
         {
           "season_id": 2026,
           "week": 11,
+          "stat_source_id": 0,
+          "stat_split_type_id": 1,
+          "fantasy_points": 0.0,
+          "stats": {}
+        },
+        {
+          "season_id": 2026,
+          "week": 12,
           "stat_source_id": 0,
           "stat_split_type_id": 1,
           "fantasy_points": 0.0,

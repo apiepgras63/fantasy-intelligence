@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T15:38:52.012144+00:00",
+  "updated_at_utc": "2026-11-28T03:34:15.406107+00:00",
   "player_count": 775,
   "players": [
     {
@@ -850,6 +850,28 @@
       "average_per_record": 16.1
     },
     {
+      "player_id": 4569987,
+      "name": "Jaylen Warren",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks": {
+        "1": 10.3,
+        "2": 9.7,
+        "3": 20.6,
+        "4": 15.6,
+        "5": 36.8,
+        "6": 9.8,
+        "7": 16.7,
+        "8": 21.3,
+        "10": 9.1,
+        "11": 4.9,
+        "12": 5.6
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 160.4,
+      "average_per_record": 14.58
+    },
+    {
       "player_id": 4432620,
       "name": "Parker Washington",
       "position_id": 3,
@@ -955,27 +977,6 @@
       "weeks_with_records": 11,
       "total_fantasy_points": 155.3,
       "average_per_record": 14.12
-    },
-    {
-      "player_id": 4569987,
-      "name": "Jaylen Warren",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks": {
-        "1": 10.3,
-        "2": 9.7,
-        "3": 20.6,
-        "4": 15.6,
-        "5": 36.8,
-        "6": 9.8,
-        "7": 16.7,
-        "8": 21.3,
-        "10": 9.1,
-        "11": 4.9
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 154.8,
-      "average_per_record": 15.48
     },
     {
       "player_id": 4426348,
@@ -1207,11 +1208,12 @@
         "7": 26.18,
         "8": 19.28,
         "9": 15.68,
-        "11": 11.5
+        "11": 11.5,
+        "12": 1.46
       },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 142.3,
-      "average_per_record": 14.23
+      "weeks_with_records": 11,
+      "total_fantasy_points": 143.76,
+      "average_per_record": 13.07
     },
     {
       "player_id": 4688380,
@@ -1687,6 +1689,28 @@
       "average_per_record": 10.27
     },
     {
+      "player_id": 4702555,
+      "name": "Jonah Coleman",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks": {
+        "1": 0.0,
+        "2": 14.8,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 8.9,
+        "8": 20.4,
+        "9": 18.8,
+        "11": 34.9,
+        "12": 15.2
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 113.0,
+      "average_per_record": 10.27
+    },
+    {
       "player_id": 16737,
       "name": "Mike Evans",
       "position_id": 3,
@@ -1837,6 +1861,28 @@
       "average_per_record": 10.75
     },
     {
+      "player_id": 4047650,
+      "name": "DK Metcalf",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks": {
+        "1": 8.0,
+        "2": 6.7,
+        "3": 12.1,
+        "4": 16.5,
+        "5": 5.3,
+        "6": 20.3,
+        "7": 7.6,
+        "8": 1.4,
+        "10": 15.4,
+        "11": 1.2,
+        "12": 12.6
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 107.1,
+      "average_per_record": 9.74
+    },
+    {
       "player_id": 3042519,
       "name": "Aaron Jones Sr.",
       "position_id": 2,
@@ -1963,6 +2009,28 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 105.04,
       "average_per_record": 10.5
+    },
+    {
+      "player_id": 17372,
+      "name": "Chris Boswell",
+      "position_id": 5,
+      "team_id": 23,
+      "weeks": {
+        "1": 8.0,
+        "2": 4.0,
+        "3": 13.0,
+        "4": 3.0,
+        "5": 13.0,
+        "6": 17.0,
+        "7": 11.0,
+        "8": 8.0,
+        "10": 5.0,
+        "11": 13.0,
+        "12": 10.0
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 105.0,
+      "average_per_record": 9.55
     },
     {
       "player_id": 2971573,
@@ -2182,6 +2250,50 @@
       "average_per_record": 9.27
     },
     {
+      "player_id": 4372016,
+      "name": "Jaylen Waddle",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks": {
+        "1": 1.2,
+        "2": 21.8,
+        "3": 6.4,
+        "4": 14.5,
+        "5": 4.8,
+        "6": 6.4,
+        "7": 8.8,
+        "8": 14.9,
+        "9": 3.2,
+        "11": 9.1,
+        "12": 10.3
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 101.4,
+      "average_per_record": 9.22
+    },
+    {
+      "player_id": 4361411,
+      "name": "Pat Freiermuth",
+      "position_id": 4,
+      "team_id": 23,
+      "weeks": {
+        "1": 15.6,
+        "2": 7.4,
+        "3": 5.1,
+        "4": 10.7,
+        "5": 21.5,
+        "6": 3.1,
+        "7": 4.0,
+        "8": 11.6,
+        "10": 11.5,
+        "11": 9.0,
+        "12": 1.1
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 100.6,
+      "average_per_record": 9.15
+    },
+    {
       "player_id": 4870653,
       "name": "KC Concepcion",
       "position_id": 3,
@@ -2203,25 +2315,26 @@
       "average_per_record": 10.01
     },
     {
-      "player_id": 4361411,
-      "name": "Pat Freiermuth",
-      "position_id": 4,
+      "player_id": -16023,
+      "name": "Steelers D/ST",
+      "position_id": 16,
       "team_id": 23,
       "weeks": {
-        "1": 15.6,
-        "2": 7.4,
-        "3": 5.1,
-        "4": 10.7,
-        "5": 21.5,
-        "6": 3.1,
-        "7": 4.0,
-        "8": 11.6,
-        "10": 11.5,
-        "11": 9.0
+        "1": 19.0,
+        "2": 8.0,
+        "3": 4.0,
+        "4": 5.0,
+        "5": 1.0,
+        "6": 11.0,
+        "7": 9.0,
+        "8": 16.0,
+        "10": -7.0,
+        "11": 7.0,
+        "12": 26.0
       },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 99.5,
-      "average_per_record": 9.95
+      "weeks_with_records": 11,
+      "total_fantasy_points": 99.0,
+      "average_per_record": 9.0
     },
     {
       "player_id": 15818,
@@ -2261,27 +2374,6 @@
         "8": 16.6,
         "9": 15.2,
         "10": 1.4
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 97.8,
-      "average_per_record": 9.78
-    },
-    {
-      "player_id": 4702555,
-      "name": "Jonah Coleman",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks": {
-        "1": 0.0,
-        "2": 14.8,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 8.9,
-        "8": 20.4,
-        "9": 18.8,
-        "11": 34.9
       },
       "weeks_with_records": 10,
       "total_fantasy_points": 97.8,
@@ -2416,27 +2508,6 @@
       "average_per_record": 9.6
     },
     {
-      "player_id": 17372,
-      "name": "Chris Boswell",
-      "position_id": 5,
-      "team_id": 23,
-      "weeks": {
-        "1": 8.0,
-        "2": 4.0,
-        "3": 13.0,
-        "4": 3.0,
-        "5": 13.0,
-        "6": 17.0,
-        "7": 11.0,
-        "8": 8.0,
-        "10": 5.0,
-        "11": 13.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 95.0,
-      "average_per_record": 9.5
-    },
-    {
       "player_id": 17427,
       "name": "Cairo Santos",
       "position_id": 5,
@@ -2560,27 +2631,6 @@
         "9": 10.5,
         "10": 6.4,
         "11": 12.5
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 94.5,
-      "average_per_record": 9.45
-    },
-    {
-      "player_id": 4047650,
-      "name": "DK Metcalf",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks": {
-        "1": 8.0,
-        "2": 6.7,
-        "3": 12.1,
-        "4": 16.5,
-        "5": 5.3,
-        "6": 20.3,
-        "7": 7.6,
-        "8": 1.4,
-        "10": 15.4,
-        "11": 1.2
       },
       "weeks_with_records": 10,
       "total_fantasy_points": 94.5,
@@ -2755,27 +2805,6 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 92.0,
       "average_per_record": 9.2
-    },
-    {
-      "player_id": 4372016,
-      "name": "Jaylen Waddle",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks": {
-        "1": 1.2,
-        "2": 21.8,
-        "3": 6.4,
-        "4": 14.5,
-        "5": 4.8,
-        "6": 6.4,
-        "7": 8.8,
-        "8": 14.9,
-        "9": 3.2,
-        "11": 9.1
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 91.1,
-      "average_per_record": 9.11
     },
     {
       "player_id": 4870795,
@@ -3057,6 +3086,28 @@
       "average_per_record": 8.51
     },
     {
+      "player_id": 4685261,
+      "name": "Germie Bernard",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks": {
+        "1": 0.0,
+        "2": 7.5,
+        "3": 2.4,
+        "4": 3.1,
+        "5": 14.4,
+        "6": 25.7,
+        "7": 5.7,
+        "8": 8.0,
+        "10": 1.0,
+        "11": 10.0,
+        "12": 6.8
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 84.6,
+      "average_per_record": 7.69
+    },
+    {
       "player_id": 3046439,
       "name": "Hunter Henry",
       "position_id": 4,
@@ -3139,6 +3190,28 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 83.0,
       "average_per_record": 8.3
+    },
+    {
+      "player_id": 2985659,
+      "name": "Wil Lutz",
+      "position_id": 5,
+      "team_id": 7,
+      "weeks": {
+        "1": 4.0,
+        "2": 9.0,
+        "3": 1.0,
+        "4": 8.0,
+        "5": 10.0,
+        "6": 7.0,
+        "7": 14.0,
+        "8": 9.0,
+        "9": 9.0,
+        "11": 8.0,
+        "12": 3.0
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 82.0,
+      "average_per_record": 7.45
     },
     {
       "player_id": 4567750,
@@ -3356,27 +3429,6 @@
       "average_per_record": 7.19
     },
     {
-      "player_id": 2985659,
-      "name": "Wil Lutz",
-      "position_id": 5,
-      "team_id": 7,
-      "weeks": {
-        "1": 4.0,
-        "2": 9.0,
-        "3": 1.0,
-        "4": 8.0,
-        "5": 10.0,
-        "6": 7.0,
-        "7": 14.0,
-        "8": 9.0,
-        "9": 9.0,
-        "11": 8.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 79.0,
-      "average_per_record": 7.9
-    },
-    {
       "player_id": 3055899,
       "name": "Harrison Butker",
       "position_id": 5,
@@ -3550,27 +3602,6 @@
       "average_per_record": 7.8
     },
     {
-      "player_id": 4685261,
-      "name": "Germie Bernard",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks": {
-        "1": 0.0,
-        "2": 7.5,
-        "3": 2.4,
-        "4": 3.1,
-        "5": 14.4,
-        "6": 25.7,
-        "7": 5.7,
-        "8": 8.0,
-        "10": 1.0,
-        "11": 10.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 77.8,
-      "average_per_record": 7.78
-    },
-    {
       "player_id": 4360939,
       "name": "Rashod Bateman",
       "position_id": 3,
@@ -3674,6 +3705,28 @@
         "9": 11.0,
         "10": 16.0,
         "12": 12.0
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 76.0,
+      "average_per_record": 6.91
+    },
+    {
+      "player_id": -16007,
+      "name": "Broncos D/ST",
+      "position_id": 16,
+      "team_id": 7,
+      "weeks": {
+        "1": 2.0,
+        "2": 9.0,
+        "3": 9.0,
+        "4": 1.0,
+        "5": 14.0,
+        "6": 11.0,
+        "7": 3.0,
+        "8": 1.0,
+        "9": 6.0,
+        "11": 12.0,
+        "12": 8.0
       },
       "weeks_with_records": 11,
       "total_fantasy_points": 76.0,
@@ -3847,27 +3900,6 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 73.5,
       "average_per_record": 7.35
-    },
-    {
-      "player_id": -16023,
-      "name": "Steelers D/ST",
-      "position_id": 16,
-      "team_id": 23,
-      "weeks": {
-        "1": 19.0,
-        "2": 8.0,
-        "3": 4.0,
-        "4": 5.0,
-        "5": 1.0,
-        "6": 11.0,
-        "7": 9.0,
-        "8": 16.0,
-        "10": -7.0,
-        "11": 7.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 73.0,
-      "average_per_record": 7.3
     },
     {
       "player_id": -16009,
@@ -4056,11 +4088,12 @@
         "7": 7.4,
         "8": 12.4,
         "10": 1.5,
-        "11": 5.2
+        "11": 5.2,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 69.1,
-      "average_per_record": 6.91
+      "average_per_record": 6.28
     },
     {
       "player_id": 4372780,
@@ -4103,27 +4136,6 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 68.2,
       "average_per_record": 6.82
-    },
-    {
-      "player_id": -16007,
-      "name": "Broncos D/ST",
-      "position_id": 16,
-      "team_id": 7,
-      "weeks": {
-        "1": 2.0,
-        "2": 9.0,
-        "3": 9.0,
-        "4": 1.0,
-        "5": 14.0,
-        "6": 11.0,
-        "7": 3.0,
-        "8": 1.0,
-        "9": 6.0,
-        "11": 12.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 68.0,
-      "average_per_record": 6.8
     },
     {
       "player_id": 4576297,
@@ -4182,11 +4194,12 @@
         "7": 14.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 67.4,
-      "average_per_record": 6.74
+      "average_per_record": 6.13
     },
     {
       "player_id": -16002,
@@ -4310,11 +4323,34 @@
         "7": 7.5,
         "8": 9.3,
         "9": 15.5,
-        "11": 0.0
+        "11": 0.0,
+        "12": 1.4
       },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 63.6,
-      "average_per_record": 6.36
+      "weeks_with_records": 11,
+      "total_fantasy_points": 65.0,
+      "average_per_record": 5.91
+    },
+    {
+      "player_id": 4038815,
+      "name": "Rico Dowdle",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks": {
+        "1": 4.1,
+        "2": 6.4,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 7.9,
+        "7": 14.6,
+        "8": 11.6,
+        "10": 5.4,
+        "11": 7.4,
+        "12": 6.4
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 63.8,
+      "average_per_record": 5.8
     },
     {
       "player_id": 4723820,
@@ -4353,11 +4389,12 @@
         "7": 8.3,
         "8": 1.3,
         "9": 3.2,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 62.5,
-      "average_per_record": 6.25
+      "average_per_record": 5.68
     },
     {
       "player_id": 4597500,
@@ -4486,6 +4523,28 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 61.9,
       "average_per_record": 6.19
+    },
+    {
+      "player_id": 4600981,
+      "name": "Pat Bryant",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks": {
+        "1": 8.2,
+        "2": 1.6,
+        "3": 14.4,
+        "4": 7.7,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 15.6,
+        "11": 6.2,
+        "12": 8.2
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 61.9,
+      "average_per_record": 5.63
     },
     {
       "player_id": 4429023,
@@ -4720,27 +4779,6 @@
       "average_per_record": 5.8
     },
     {
-      "player_id": 4038815,
-      "name": "Rico Dowdle",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks": {
-        "1": 4.1,
-        "2": 6.4,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 7.9,
-        "7": 14.6,
-        "8": 11.6,
-        "10": 5.4,
-        "11": 7.4
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 57.4,
-      "average_per_record": 5.74
-    },
-    {
       "player_id": 4808766,
       "name": "Mason Taylor",
       "position_id": 4,
@@ -4845,6 +4883,28 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 57.0,
       "average_per_record": 5.7
+    },
+    {
+      "player_id": 4431492,
+      "name": "Roman Wilson",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks": {
+        "1": 5.6,
+        "2": 7.8,
+        "3": 15.0,
+        "4": 16.4,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 7.3,
+        "12": 4.7
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 56.8,
+      "average_per_record": 5.16
     },
     {
       "player_id": 3915411,
@@ -5102,27 +5162,6 @@
       "average_per_record": 5.39
     },
     {
-      "player_id": 4600981,
-      "name": "Pat Bryant",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks": {
-        "1": 8.2,
-        "2": 1.6,
-        "3": 14.4,
-        "4": 7.7,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "9": 15.6,
-        "11": 6.2
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 53.7,
-      "average_per_record": 5.37
-    },
-    {
       "player_id": 4428850,
       "name": "Dontayvion Wicks",
       "position_id": 3,
@@ -5181,11 +5220,12 @@
         "7": 1.2,
         "8": 0.0,
         "9": 7.3,
-        "11": 13.4
+        "11": 13.4,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 53.3,
-      "average_per_record": 5.33
+      "average_per_record": 4.85
     },
     {
       "player_id": 4241474,
@@ -5228,27 +5268,6 @@
       "weeks_with_records": 11,
       "total_fantasy_points": 52.3,
       "average_per_record": 4.75
-    },
-    {
-      "player_id": 4431492,
-      "name": "Roman Wilson",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks": {
-        "1": 5.6,
-        "2": 7.8,
-        "3": 15.0,
-        "4": 16.4,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.0,
-        "11": 7.3
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 52.1,
-      "average_per_record": 5.21
     },
     {
       "player_id": 4596334,
@@ -6859,6 +6878,28 @@
       "average_per_record": 3.19
     },
     {
+      "player_id": 4383440,
+      "name": "Nate Adkins",
+      "position_id": 4,
+      "team_id": 7,
+      "weeks": {
+        "1": 0.0,
+        "2": 12.8,
+        "3": 7.8,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 8.4,
+        "9": 0.0,
+        "11": 1.3,
+        "12": 1.6
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 31.9,
+      "average_per_record": 2.9
+    },
+    {
       "player_id": 4426386,
       "name": "Roschon Johnson",
       "position_id": 2,
@@ -6985,27 +7026,6 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 30.9,
       "average_per_record": 3.09
-    },
-    {
-      "player_id": 4383440,
-      "name": "Nate Adkins",
-      "position_id": 4,
-      "team_id": 7,
-      "weeks": {
-        "1": 0.0,
-        "2": 12.8,
-        "3": 7.8,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 8.4,
-        "9": 0.0,
-        "11": 1.3
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 30.3,
-      "average_per_record": 3.03
     },
     {
       "player_id": 3127310,
@@ -7408,11 +7428,12 @@
         "7": 7.6,
         "8": 4.9,
         "9": 1.5,
-        "11": 5.7
+        "11": 5.7,
+        "12": -0.2
       },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 25.9,
-      "average_per_record": 2.59
+      "weeks_with_records": 11,
+      "total_fantasy_points": 25.7,
+      "average_per_record": 2.34
     },
     {
       "player_id": 4685415,
@@ -7818,6 +7839,28 @@
       "average_per_record": 2.05
     },
     {
+      "player_id": 3911853,
+      "name": "Adam Trautman",
+      "position_id": 4,
+      "team_id": 7,
+      "weeks": {
+        "1": 3.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 5.0,
+        "9": 3.5,
+        "11": 7.1,
+        "12": 3.7
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 22.3,
+      "average_per_record": 2.03
+    },
+    {
       "player_id": 4249836,
       "name": "Pierre Strong Jr.",
       "position_id": 2,
@@ -7966,6 +8009,28 @@
       "average_per_record": 2.06
     },
     {
+      "player_id": 4431280,
+      "name": "Troy Franklin",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks": {
+        "1": 0.5,
+        "2": 3.7,
+        "3": 3.1,
+        "4": 0.0,
+        "5": 3.6,
+        "6": 1.2,
+        "7": 0.0,
+        "8": 1.3,
+        "9": 6.1,
+        "11": 0.0,
+        "12": 1.1
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 20.6,
+      "average_per_record": 1.87
+    },
+    {
       "player_id": 3149687,
       "name": "Chris Brooks",
       "position_id": 2,
@@ -8066,27 +8131,6 @@
       "average_per_record": 3.94
     },
     {
-      "player_id": 4431280,
-      "name": "Troy Franklin",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks": {
-        "1": 0.5,
-        "2": 3.7,
-        "3": 3.1,
-        "4": 0.0,
-        "5": 3.6,
-        "6": 1.2,
-        "7": 0.0,
-        "8": 1.3,
-        "9": 6.1,
-        "11": 0.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 19.5,
-      "average_per_record": 1.95
-    },
-    {
       "player_id": 4570037,
       "name": "Terrance Ferguson",
       "position_id": 4,
@@ -8129,27 +8173,6 @@
       "weeks_with_records": 11,
       "total_fantasy_points": 18.8,
       "average_per_record": 1.71
-    },
-    {
-      "player_id": 3911853,
-      "name": "Adam Trautman",
-      "position_id": 4,
-      "team_id": 7,
-      "weeks": {
-        "1": 3.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 5.0,
-        "9": 3.5,
-        "11": 7.1
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 18.6,
-      "average_per_record": 1.86
     },
     {
       "player_id": 4722893,
@@ -8196,11 +8219,56 @@
       "position_id": 3,
       "team_id": 23,
       "weeks": {
-        "11": 18.1
+        "11": 18.1,
+        "12": 0.0
       },
-      "weeks_with_records": 1,
+      "weeks_with_records": 2,
       "total_fantasy_points": 18.1,
-      "average_per_record": 18.1
+      "average_per_record": 9.05
+    },
+    {
+      "player_id": 4362748,
+      "name": "Tyler Badie",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks": {
+        "1": 0.0,
+        "2": 4.9,
+        "3": 2.4,
+        "4": 7.9,
+        "5": 1.1,
+        "6": 0.6,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 1.1
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 18.0,
+      "average_per_record": 1.64
+    },
+    {
+      "player_id": 4035687,
+      "name": "Michael Pittman Jr.",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks": {
+        "1": 8.8,
+        "2": 0.0,
+        "3": 3.6,
+        "4": 3.5,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 1.7
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 17.6,
+      "average_per_record": 1.6
     },
     {
       "player_id": 4635009,
@@ -8306,27 +8374,6 @@
       "weeks_with_records": 11,
       "total_fantasy_points": 17.1,
       "average_per_record": 1.55
-    },
-    {
-      "player_id": 4362748,
-      "name": "Tyler Badie",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks": {
-        "1": 0.0,
-        "2": 4.9,
-        "3": 2.4,
-        "4": 7.9,
-        "5": 1.1,
-        "6": 0.6,
-        "7": 0.0,
-        "8": 0.0,
-        "9": 0.0,
-        "11": 0.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 16.9,
-      "average_per_record": 1.69
     },
     {
       "player_id": 16731,
@@ -8489,27 +8536,6 @@
       "weeks_with_records": 11,
       "total_fantasy_points": 16.2,
       "average_per_record": 1.47
-    },
-    {
-      "player_id": 4035687,
-      "name": "Michael Pittman Jr.",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks": {
-        "1": 8.8,
-        "2": 0.0,
-        "3": 3.6,
-        "4": 3.5,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.0,
-        "11": 0.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 15.9,
-      "average_per_record": 1.59
     },
     {
       "player_id": 4690923,
@@ -8955,11 +8981,12 @@
         "7": 0.0,
         "8": 0.0,
         "10": 1.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 13.2,
-      "average_per_record": 1.32
+      "average_per_record": 1.2
     },
     {
       "player_id": 2998565,
@@ -9431,6 +9458,28 @@
       "weeks_with_records": 7,
       "total_fantasy_points": 11.0,
       "average_per_record": 1.57
+    },
+    {
+      "player_id": 3116407,
+      "name": "Mason Rudolph",
+      "position_id": 1,
+      "team_id": 23,
+      "weeks": {
+        "1": 0.0,
+        "2": 0.3,
+        "3": 0.0,
+        "4": 0.0,
+        "5": -0.2,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.98,
+        "11": 0.0,
+        "12": 9.68
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 10.76,
+      "average_per_record": 0.98
     },
     {
       "player_id": 11394,
@@ -10399,11 +10448,12 @@
         "7": 0.0,
         "8": 0.0,
         "10": 5.5,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 8,
+      "weeks_with_records": 9,
       "total_fantasy_points": 6.1,
-      "average_per_record": 0.76
+      "average_per_record": 0.68
     },
     {
       "player_id": 4722908,
@@ -10565,11 +10615,12 @@
         "7": 1.5,
         "8": 2.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 9,
+      "weeks_with_records": 10,
       "total_fantasy_points": 5.3,
-      "average_per_record": 0.59
+      "average_per_record": 0.53
     },
     {
       "player_id": 15835,
@@ -10836,6 +10887,28 @@
       "average_per_record": 1.4
     },
     {
+      "player_id": 3929914,
+      "name": "Adam Prentice",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks": {
+        "1": 0.0,
+        "2": 1.2,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.3,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 2.0,
+        "9": 0.0,
+        "11": 0.3,
+        "12": 0.4
+      },
+      "weeks_with_records": 11,
+      "total_fantasy_points": 4.2,
+      "average_per_record": 0.38
+    },
+    {
       "player_id": 4832846,
       "name": "Demond Claiborne",
       "position_id": 2,
@@ -10957,27 +11030,6 @@
       "weeks_with_records": 7,
       "total_fantasy_points": 3.8,
       "average_per_record": 0.54
-    },
-    {
-      "player_id": 3929914,
-      "name": "Adam Prentice",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks": {
-        "1": 0.0,
-        "2": 1.2,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.3,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 2.0,
-        "9": 0.0,
-        "11": 0.3
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 3.8,
-      "average_per_record": 0.38
     },
     {
       "player_id": 4035693,
@@ -11180,6 +11232,21 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 3.0,
       "average_per_record": 0.3
+    },
+    {
+      "player_id": 4391845,
+      "name": "Cody Schrader",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks": {
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.3,
+        "12": 2.7
+      },
+      "weeks_with_records": 4,
+      "total_fantasy_points": 3.0,
+      "average_per_record": 0.75
     },
     {
       "player_id": 4808759,
@@ -11441,11 +11508,12 @@
         "7": 0.0,
         "8": 1.9,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 5,
+      "weeks_with_records": 6,
       "total_fantasy_points": 1.9,
-      "average_per_record": 0.38
+      "average_per_record": 0.32
     },
     {
       "player_id": 4248425,
@@ -11675,11 +11743,12 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 9,
+      "weeks_with_records": 10,
       "total_fantasy_points": 1.5,
-      "average_per_record": 0.17
+      "average_per_record": 0.15
     },
     {
       "player_id": 4372505,
@@ -11832,11 +11901,12 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 1.2,
-      "average_per_record": 0.12
+      "average_per_record": 0.11
     },
     {
       "player_id": 4685555,
@@ -11878,27 +11948,6 @@
       },
       "weeks_with_records": 10,
       "total_fantasy_points": 1.1,
-      "average_per_record": 0.11
-    },
-    {
-      "player_id": 3116407,
-      "name": "Mason Rudolph",
-      "position_id": 1,
-      "team_id": 23,
-      "weeks": {
-        "1": 0.0,
-        "2": 0.3,
-        "3": 0.0,
-        "4": 0.0,
-        "5": -0.2,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.98,
-        "11": 0.0
-      },
-      "weeks_with_records": 10,
-      "total_fantasy_points": 1.08,
       "average_per_record": 0.11
     },
     {
@@ -12051,20 +12100,6 @@
       "weeks_with_records": 10,
       "total_fantasy_points": 0.32,
       "average_per_record": 0.03
-    },
-    {
-      "player_id": 4391845,
-      "name": "Cody Schrader",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks": {
-        "8": 0.0,
-        "9": 0.0,
-        "11": 0.3
-      },
-      "weeks_with_records": 3,
-      "total_fantasy_points": 0.3,
-      "average_per_record": 0.1
     },
     {
       "player_id": 4429121,
@@ -12268,9 +12303,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -12660,9 +12696,10 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -13176,9 +13213,10 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -14193,9 +14231,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -14448,9 +14487,10 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15090,9 +15130,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15230,9 +15271,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15466,9 +15508,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15487,9 +15530,10 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15625,9 +15669,10 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 9,
+      "weeks_with_records": 10,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },
@@ -15644,9 +15689,10 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       },
-      "weeks_with_records": 8,
+      "weeks_with_records": 9,
       "total_fantasy_points": 0.0,
       "average_per_record": 0.0
     },

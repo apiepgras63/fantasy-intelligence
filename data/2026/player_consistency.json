@@ -1,6 +1,6 @@
 {
   "season": "2026",
-  "updated_at_utc": "2026-11-27T15:38:52.012144+00:00",
+  "updated_at_utc": "2026-11-28T03:34:15.406107+00:00",
   "player_count": 775,
   "methodology": {
     "sample": "Weeks with recorded fantasy points",
@@ -640,28 +640,6 @@
         "9": 36.18,
         "10": 10.8,
         "12": 8.62
-      }
-    },
-    {
-      "player_id": 4694237,
-      "name": "Max Hurleman",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 1,
-      "total_points": 18.1,
-      "average": 18.1,
-      "median": 18.1,
-      "standard_deviation": 0,
-      "lowest_recorded_week": 18.1,
-      "highest_recorded_week": 18.1,
-      "lower_quartile_score": 18.1,
-      "upper_quartile_score": 18.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 100.0,
-      "weekly_points": {
-        "11": 18.1
       }
     },
     {
@@ -1454,37 +1432,6 @@
       }
     },
     {
-      "player_id": 4426338,
-      "name": "Bo Nix",
-      "position": "QB",
-      "position_id": 1,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 142.3,
-      "average": 14.23,
-      "median": 13.84,
-      "standard_deviation": 6.99,
-      "lowest_recorded_week": 4.48,
-      "highest_recorded_week": 26.18,
-      "lower_quartile_score": 7.92,
-      "upper_quartile_score": 15.68,
-      "position_threshold": 20,
-      "weeks_meeting_threshold": 2,
-      "threshold_hit_rate_pct": 20.0,
-      "weekly_points": {
-        "1": 5.44,
-        "2": 14.12,
-        "3": 24.14,
-        "4": 13.56,
-        "5": 7.92,
-        "6": 4.48,
-        "7": 26.18,
-        "8": 19.28,
-        "9": 15.68,
-        "11": 11.5
-      }
-    },
-    {
       "player_id": 4688380,
       "name": "Cam Ward",
       "position": "QB",
@@ -1513,6 +1460,38 @@
         "8": 26.26,
         "10": 19.14,
         "11": 22.22
+      }
+    },
+    {
+      "player_id": 4426338,
+      "name": "Bo Nix",
+      "position": "QB",
+      "position_id": 1,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 143.76,
+      "average": 13.07,
+      "median": 13.56,
+      "standard_deviation": 7.61,
+      "lowest_recorded_week": 1.46,
+      "highest_recorded_week": 26.18,
+      "lower_quartile_score": 5.44,
+      "upper_quartile_score": 15.68,
+      "position_threshold": 20,
+      "weeks_meeting_threshold": 2,
+      "threshold_hit_rate_pct": 18.2,
+      "weekly_points": {
+        "1": 5.44,
+        "2": 14.12,
+        "3": 24.14,
+        "4": 13.56,
+        "5": 7.92,
+        "6": 4.48,
+        "7": 26.18,
+        "8": 19.28,
+        "9": 15.68,
+        "11": 11.5,
+        "12": 1.46
       }
     },
     {
@@ -1764,37 +1743,6 @@
         "10": 7.0,
         "11": 17.0,
         "12": 11.0
-      }
-    },
-    {
-      "player_id": 4569987,
-      "name": "Jaylen Warren",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 154.8,
-      "average": 15.48,
-      "median": 12.95,
-      "standard_deviation": 8.73,
-      "lowest_recorded_week": 4.9,
-      "highest_recorded_week": 36.8,
-      "lower_quartile_score": 9.7,
-      "upper_quartile_score": 16.7,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 5,
-      "threshold_hit_rate_pct": 50.0,
-      "weekly_points": {
-        "1": 10.3,
-        "2": 9.7,
-        "3": 20.6,
-        "4": 15.6,
-        "5": 36.8,
-        "6": 9.8,
-        "7": 16.7,
-        "8": 21.3,
-        "10": 9.1,
-        "11": 4.9
       }
     },
     {
@@ -2613,6 +2561,38 @@
       }
     },
     {
+      "player_id": 4569987,
+      "name": "Jaylen Warren",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 160.4,
+      "average": 14.58,
+      "median": 10.3,
+      "standard_deviation": 8.79,
+      "lowest_recorded_week": 4.9,
+      "highest_recorded_week": 36.8,
+      "lower_quartile_score": 9.1,
+      "upper_quartile_score": 16.7,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 5,
+      "threshold_hit_rate_pct": 45.5,
+      "weekly_points": {
+        "1": 10.3,
+        "2": 9.7,
+        "3": 20.6,
+        "4": 15.6,
+        "5": 36.8,
+        "6": 9.8,
+        "7": 16.7,
+        "8": 21.3,
+        "10": 9.1,
+        "11": 4.9,
+        "12": 5.6
+      }
+    },
+    {
       "player_id": 3116164,
       "name": "Mike Gesicki",
       "position": "TE",
@@ -2672,6 +2652,38 @@
         "9": 17.0,
         "10": 7.0,
         "11": 6.0
+      }
+    },
+    {
+      "player_id": 17372,
+      "name": "Chris Boswell",
+      "position": "K",
+      "position_id": 5,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 105.0,
+      "average": 9.55,
+      "median": 10.0,
+      "standard_deviation": 4.19,
+      "lowest_recorded_week": 3.0,
+      "highest_recorded_week": 17.0,
+      "lower_quartile_score": 5.0,
+      "upper_quartile_score": 13.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 6,
+      "threshold_hit_rate_pct": 54.5,
+      "weekly_points": {
+        "1": 8.0,
+        "2": 4.0,
+        "3": 13.0,
+        "4": 3.0,
+        "5": 13.0,
+        "6": 17.0,
+        "7": 11.0,
+        "8": 8.0,
+        "10": 5.0,
+        "11": 13.0,
+        "12": 10.0
       }
     },
     {
@@ -2826,37 +2838,6 @@
       }
     },
     {
-      "player_id": 4361411,
-      "name": "Pat Freiermuth",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 99.5,
-      "average": 9.95,
-      "median": 9.85,
-      "standard_deviation": 5.33,
-      "lowest_recorded_week": 3.1,
-      "highest_recorded_week": 21.5,
-      "lower_quartile_score": 5.1,
-      "upper_quartile_score": 11.5,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 5,
-      "threshold_hit_rate_pct": 50.0,
-      "weekly_points": {
-        "1": 15.6,
-        "2": 7.4,
-        "3": 5.1,
-        "4": 10.7,
-        "5": 21.5,
-        "6": 3.1,
-        "7": 4.0,
-        "8": 11.6,
-        "10": 11.5,
-        "11": 9.0
-      }
-    },
-    {
       "player_id": 4373678,
       "name": "Khalil Shakir",
       "position": "WR",
@@ -2917,37 +2898,6 @@
         "8": 17.52,
         "9": 0.0,
         "10": 0.0
-      }
-    },
-    {
-      "player_id": 17372,
-      "name": "Chris Boswell",
-      "position": "K",
-      "position_id": 5,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 95.0,
-      "average": 9.5,
-      "median": 9.5,
-      "standard_deviation": 4.39,
-      "lowest_recorded_week": 3.0,
-      "highest_recorded_week": 17.0,
-      "lower_quartile_score": 5.0,
-      "upper_quartile_score": 13.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 5,
-      "threshold_hit_rate_pct": 50.0,
-      "weekly_points": {
-        "1": 8.0,
-        "2": 4.0,
-        "3": 13.0,
-        "4": 3.0,
-        "5": 13.0,
-        "6": 17.0,
-        "7": 11.0,
-        "8": 8.0,
-        "10": 5.0,
-        "11": 13.0
       }
     },
     {
@@ -3109,6 +3059,29 @@
       }
     },
     {
+      "player_id": 4694237,
+      "name": "Max Hurleman",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 2,
+      "total_points": 18.1,
+      "average": 9.05,
+      "median": 9.05,
+      "standard_deviation": 9.05,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 18.1,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 50.0,
+      "weekly_points": {
+        "11": 18.1,
+        "12": 0.0
+      }
+    },
+    {
       "player_id": 4571557,
       "name": "Spencer Shrader",
       "position": "K",
@@ -3138,6 +3111,38 @@
         "9": 16.0,
         "10": 8.0,
         "11": 1.0
+      }
+    },
+    {
+      "player_id": 4361411,
+      "name": "Pat Freiermuth",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 100.6,
+      "average": 9.15,
+      "median": 9.0,
+      "standard_deviation": 5.68,
+      "lowest_recorded_week": 1.1,
+      "highest_recorded_week": 21.5,
+      "lower_quartile_score": 4.0,
+      "upper_quartile_score": 11.5,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 5,
+      "threshold_hit_rate_pct": 45.5,
+      "weekly_points": {
+        "1": 15.6,
+        "2": 7.4,
+        "3": 5.1,
+        "4": 10.7,
+        "5": 21.5,
+        "6": 3.1,
+        "7": 4.0,
+        "8": 11.6,
+        "10": 11.5,
+        "11": 9.0,
+        "12": 1.1
       }
     },
     {
@@ -3330,6 +3335,38 @@
       }
     },
     {
+      "player_id": 4702555,
+      "name": "Jonah Coleman",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 113.0,
+      "average": 10.27,
+      "median": 8.9,
+      "standard_deviation": 11.1,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 34.9,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 15.2,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 14.8,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 8.9,
+        "8": 20.4,
+        "9": 18.8,
+        "11": 34.9,
+        "12": 15.2
+      }
+    },
+    {
       "player_id": 4871023,
       "name": "Carnell Tate",
       "position": "WR",
@@ -3390,6 +3427,38 @@
         "10": 35.1,
         "11": 24.3,
         "12": 19.6
+      }
+    },
+    {
+      "player_id": 4372016,
+      "name": "Jaylen Waddle",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 101.4,
+      "average": 9.22,
+      "median": 8.8,
+      "standard_deviation": 5.69,
+      "lowest_recorded_week": 1.2,
+      "highest_recorded_week": 21.8,
+      "lower_quartile_score": 4.8,
+      "upper_quartile_score": 10.3,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 1.2,
+        "2": 21.8,
+        "3": 6.4,
+        "4": 14.5,
+        "5": 4.8,
+        "6": 6.4,
+        "7": 8.8,
+        "8": 14.9,
+        "9": 3.2,
+        "11": 9.1,
+        "12": 10.3
       }
     },
     {
@@ -3642,37 +3711,6 @@
         "9": 11.7,
         "10": 14.8,
         "11": 19.0
-      }
-    },
-    {
-      "player_id": 2985659,
-      "name": "Wil Lutz",
-      "position": "K",
-      "position_id": 5,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 79.0,
-      "average": 7.9,
-      "median": 8.5,
-      "standard_deviation": 3.3,
-      "lowest_recorded_week": 1.0,
-      "highest_recorded_week": 14.0,
-      "lower_quartile_score": 7.0,
-      "upper_quartile_score": 9.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 2,
-      "threshold_hit_rate_pct": 20.0,
-      "weekly_points": {
-        "1": 4.0,
-        "2": 9.0,
-        "3": 1.0,
-        "4": 8.0,
-        "5": 10.0,
-        "6": 7.0,
-        "7": 14.0,
-        "8": 9.0,
-        "9": 9.0,
-        "11": 8.0
       }
     },
     {
@@ -4085,6 +4123,38 @@
       }
     },
     {
+      "player_id": 4047650,
+      "name": "DK Metcalf",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 107.1,
+      "average": 9.74,
+      "median": 8.0,
+      "standard_deviation": 5.89,
+      "lowest_recorded_week": 1.2,
+      "highest_recorded_week": 20.3,
+      "lower_quartile_score": 5.3,
+      "upper_quartile_score": 12.6,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 3,
+      "threshold_hit_rate_pct": 27.3,
+      "weekly_points": {
+        "1": 8.0,
+        "2": 6.7,
+        "3": 12.1,
+        "4": 16.5,
+        "5": 5.3,
+        "6": 20.3,
+        "7": 7.6,
+        "8": 1.4,
+        "10": 15.4,
+        "11": 1.2,
+        "12": 12.6
+      }
+    },
+    {
       "player_id": 16339,
       "name": "Brandon McManus",
       "position": "K",
@@ -4206,6 +4276,70 @@
       }
     },
     {
+      "player_id": -16023,
+      "name": "Steelers D/ST",
+      "position": "D/ST",
+      "position_id": 16,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 99.0,
+      "average": 9.0,
+      "median": 8.0,
+      "standard_deviation": 8.57,
+      "lowest_recorded_week": -7.0,
+      "highest_recorded_week": 26.0,
+      "lower_quartile_score": 4.0,
+      "upper_quartile_score": 11.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 4,
+      "threshold_hit_rate_pct": 36.4,
+      "weekly_points": {
+        "1": 19.0,
+        "2": 8.0,
+        "3": 4.0,
+        "4": 5.0,
+        "5": 1.0,
+        "6": 11.0,
+        "7": 9.0,
+        "8": 16.0,
+        "10": -7.0,
+        "11": 7.0,
+        "12": 26.0
+      }
+    },
+    {
+      "player_id": 2985659,
+      "name": "Wil Lutz",
+      "position": "K",
+      "position_id": 5,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 82.0,
+      "average": 7.45,
+      "median": 8.0,
+      "standard_deviation": 3.45,
+      "lowest_recorded_week": 1.0,
+      "highest_recorded_week": 14.0,
+      "lower_quartile_score": 4.0,
+      "upper_quartile_score": 9.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 2,
+      "threshold_hit_rate_pct": 18.2,
+      "weekly_points": {
+        "1": 4.0,
+        "2": 9.0,
+        "3": 1.0,
+        "4": 8.0,
+        "5": 10.0,
+        "6": 7.0,
+        "7": 14.0,
+        "8": 9.0,
+        "9": 9.0,
+        "11": 8.0,
+        "12": 3.0
+      }
+    },
+    {
       "player_id": -16012,
       "name": "Chiefs D/ST",
       "position": "D/ST",
@@ -4235,6 +4369,38 @@
         "10": 9.0,
         "11": 8.0,
         "12": 11.0
+      }
+    },
+    {
+      "player_id": -16007,
+      "name": "Broncos D/ST",
+      "position": "D/ST",
+      "position_id": 16,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 76.0,
+      "average": 6.91,
+      "median": 8.0,
+      "standard_deviation": 4.4,
+      "lowest_recorded_week": 1.0,
+      "highest_recorded_week": 14.0,
+      "lower_quartile_score": 2.0,
+      "upper_quartile_score": 9.0,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 3,
+      "threshold_hit_rate_pct": 27.3,
+      "weekly_points": {
+        "1": 2.0,
+        "2": 9.0,
+        "3": 9.0,
+        "4": 1.0,
+        "5": 14.0,
+        "6": 11.0,
+        "7": 3.0,
+        "8": 1.0,
+        "9": 6.0,
+        "11": 12.0,
+        "12": 8.0
       }
     },
     {
@@ -4300,37 +4466,6 @@
       }
     },
     {
-      "player_id": 4047650,
-      "name": "DK Metcalf",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 94.5,
-      "average": 9.45,
-      "median": 7.8,
-      "standard_deviation": 6.11,
-      "lowest_recorded_week": 1.2,
-      "highest_recorded_week": 20.3,
-      "lower_quartile_score": 5.3,
-      "upper_quartile_score": 12.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 30.0,
-      "weekly_points": {
-        "1": 8.0,
-        "2": 6.7,
-        "3": 12.1,
-        "4": 16.5,
-        "5": 5.3,
-        "6": 20.3,
-        "7": 7.6,
-        "8": 1.4,
-        "10": 15.4,
-        "11": 1.2
-      }
-    },
-    {
       "player_id": 4695883,
       "name": "Jalen Coker",
       "position": "WR",
@@ -4359,37 +4494,6 @@
         "9": 6.6,
         "10": 0.3,
         "11": 8.7
-      }
-    },
-    {
-      "player_id": 4372016,
-      "name": "Jaylen Waddle",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 91.1,
-      "average": 9.11,
-      "median": 7.6,
-      "standard_deviation": 5.95,
-      "lowest_recorded_week": 1.2,
-      "highest_recorded_week": 21.8,
-      "lower_quartile_score": 4.8,
-      "upper_quartile_score": 9.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 1.2,
-        "2": 21.8,
-        "3": 6.4,
-        "4": 14.5,
-        "5": 4.8,
-        "6": 6.4,
-        "7": 8.8,
-        "8": 14.9,
-        "9": 3.2,
-        "11": 9.1
       }
     },
     {
@@ -4454,68 +4558,6 @@
         "10": 19.1,
         "11": 2.1,
         "12": 0.0
-      }
-    },
-    {
-      "player_id": -16023,
-      "name": "Steelers D/ST",
-      "position": "D/ST",
-      "position_id": 16,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 73.0,
-      "average": 7.3,
-      "median": 7.5,
-      "standard_deviation": 7.0,
-      "lowest_recorded_week": -7.0,
-      "highest_recorded_week": 19.0,
-      "lower_quartile_score": 4.0,
-      "upper_quartile_score": 9.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 30.0,
-      "weekly_points": {
-        "1": 19.0,
-        "2": 8.0,
-        "3": 4.0,
-        "4": 5.0,
-        "5": 1.0,
-        "6": 11.0,
-        "7": 9.0,
-        "8": 16.0,
-        "10": -7.0,
-        "11": 7.0
-      }
-    },
-    {
-      "player_id": -16007,
-      "name": "Broncos D/ST",
-      "position": "D/ST",
-      "position_id": 16,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 68.0,
-      "average": 6.8,
-      "median": 7.5,
-      "standard_deviation": 4.6,
-      "lowest_recorded_week": 1.0,
-      "highest_recorded_week": 14.0,
-      "lower_quartile_score": 2.0,
-      "upper_quartile_score": 9.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 30.0,
-      "weekly_points": {
-        "1": 2.0,
-        "2": 9.0,
-        "3": 9.0,
-        "4": 1.0,
-        "5": 14.0,
-        "6": 11.0,
-        "7": 3.0,
-        "8": 1.0,
-        "9": 6.0,
-        "11": 12.0
       }
     },
     {
@@ -4988,6 +5030,38 @@
       }
     },
     {
+      "player_id": 4685261,
+      "name": "Germie Bernard",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 84.6,
+      "average": 7.69,
+      "median": 6.8,
+      "standard_deviation": 6.96,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 25.7,
+      "lower_quartile_score": 2.4,
+      "upper_quartile_score": 8.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 7.5,
+        "3": 2.4,
+        "4": 3.1,
+        "5": 14.4,
+        "6": 25.7,
+        "7": 5.7,
+        "8": 8.0,
+        "10": 1.0,
+        "11": 10.0,
+        "12": 6.8
+      }
+    },
+    {
       "player_id": 3046439,
       "name": "Hunter Henry",
       "position": "TE",
@@ -5144,37 +5218,6 @@
       }
     },
     {
-      "player_id": 4685261,
-      "name": "Germie Bernard",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 77.8,
-      "average": 7.78,
-      "median": 6.6,
-      "standard_deviation": 7.29,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 25.7,
-      "lower_quartile_score": 2.4,
-      "upper_quartile_score": 8.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 7.5,
-        "3": 2.4,
-        "4": 3.1,
-        "5": 14.4,
-        "6": 25.7,
-        "7": 5.7,
-        "8": 8.0,
-        "10": 1.0,
-        "11": 10.0
-      }
-    },
-    {
       "player_id": 4697815,
       "name": "Rachaad White",
       "position": "RB",
@@ -5226,37 +5269,6 @@
       "weekly_points": {
         "9": 6.0,
         "10": 7.0
-      }
-    },
-    {
-      "player_id": 3128429,
-      "name": "Courtland Sutton",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 63.6,
-      "average": 6.36,
-      "median": 6.5,
-      "standard_deviation": 4.35,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 15.5,
-      "lower_quartile_score": 3.1,
-      "upper_quartile_score": 7.6,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 3.1,
-        "2": 5.5,
-        "3": 7.6,
-        "4": 1.4,
-        "5": 9.8,
-        "6": 3.9,
-        "7": 7.5,
-        "8": 9.3,
-        "9": 15.5,
-        "11": 0.0
       }
     },
     {
@@ -5322,6 +5334,38 @@
       }
     },
     {
+      "player_id": 4038815,
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 63.8,
+      "average": 5.8,
+      "median": 6.4,
+      "standard_deviation": 4.5,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 14.6,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 7.4,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 4.1,
+        "2": 6.4,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 7.9,
+        "7": 14.6,
+        "8": 11.6,
+        "10": 5.4,
+        "11": 7.4,
+        "12": 6.4
+      }
+    },
+    {
       "player_id": 4038441,
       "name": "Justice Hill",
       "position": "RB",
@@ -5354,37 +5398,6 @@
       }
     },
     {
-      "player_id": 4430802,
-      "name": "Darnell Washington",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 69.1,
-      "average": 6.91,
-      "median": 6.3,
-      "standard_deviation": 4.18,
-      "lowest_recorded_week": 1.5,
-      "highest_recorded_week": 12.5,
-      "lower_quartile_score": 3.2,
-      "upper_quartile_score": 9.7,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 30.0,
-      "weekly_points": {
-        "1": 3.8,
-        "2": 1.7,
-        "3": 9.7,
-        "4": 11.7,
-        "5": 3.2,
-        "6": 12.5,
-        "7": 7.4,
-        "8": 12.4,
-        "10": 1.5,
-        "11": 5.2
-      }
-    },
-    {
       "player_id": 4429086,
       "name": "Michael Mayer",
       "position": "TE",
@@ -5414,6 +5427,38 @@
         "9": 4.7,
         "10": 3.8,
         "11": 1.4
+      }
+    },
+    {
+      "player_id": 4600981,
+      "name": "Pat Bryant",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 61.9,
+      "average": 5.63,
+      "median": 6.2,
+      "standard_deviation": 5.54,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 15.6,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 8.2,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 8.2,
+        "2": 1.6,
+        "3": 14.4,
+        "4": 7.7,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 15.6,
+        "11": 6.2,
+        "12": 8.2
       }
     },
     {
@@ -5815,37 +5860,6 @@
       }
     },
     {
-      "player_id": 4038815,
-      "name": "Rico Dowdle",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 57.4,
-      "average": 5.74,
-      "median": 5.9,
-      "standard_deviation": 4.72,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 14.6,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 7.4,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 4.1,
-        "2": 6.4,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 7.9,
-        "7": 14.6,
-        "8": 11.6,
-        "10": 5.4,
-        "11": 7.4
-      }
-    },
-    {
       "player_id": 2977187,
       "name": "Cooper Kupp",
       "position": "WR",
@@ -6214,6 +6228,38 @@
       }
     },
     {
+      "player_id": 3128429,
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 65.0,
+      "average": 5.91,
+      "median": 5.5,
+      "standard_deviation": 4.39,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 15.5,
+      "lower_quartile_score": 1.4,
+      "upper_quartile_score": 7.6,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 3.1,
+        "2": 5.5,
+        "3": 7.6,
+        "4": 1.4,
+        "5": 9.8,
+        "6": 3.9,
+        "7": 7.5,
+        "8": 9.3,
+        "9": 15.5,
+        "11": 0.0,
+        "12": 1.4
+      }
+    },
+    {
       "player_id": 3068267,
       "name": "Austin Ekeler",
       "position": "RB",
@@ -6426,6 +6472,38 @@
         "9": 0.0,
         "10": 0.0,
         "11": 0.0
+      }
+    },
+    {
+      "player_id": 4430802,
+      "name": "Darnell Washington",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 69.1,
+      "average": 6.28,
+      "median": 5.2,
+      "standard_deviation": 4.46,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 12.5,
+      "lower_quartile_score": 1.7,
+      "upper_quartile_score": 9.7,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 3,
+      "threshold_hit_rate_pct": 27.3,
+      "weekly_points": {
+        "1": 3.8,
+        "2": 1.7,
+        "3": 9.7,
+        "4": 11.7,
+        "5": 3.2,
+        "6": 12.5,
+        "7": 7.4,
+        "8": 12.4,
+        "10": 1.5,
+        "11": 5.2,
+        "12": 0.0
       }
     },
     {
@@ -6804,37 +6882,6 @@
       }
     },
     {
-      "player_id": 4241985,
-      "name": "J.K. Dobbins",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 62.5,
-      "average": 6.25,
-      "median": 4.95,
-      "standard_deviation": 4.79,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 15.4,
-      "lower_quartile_score": 3.2,
-      "upper_quartile_score": 7.2,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 3.6,
-        "2": 3.6,
-        "3": 6.3,
-        "4": 7.2,
-        "5": 15.4,
-        "6": 13.6,
-        "7": 8.3,
-        "8": 1.3,
-        "9": 3.2,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4567156,
       "name": "Treylon Burks",
       "position": "WR",
@@ -7020,6 +7067,38 @@
         "10": 2.1,
         "11": 3.7,
         "12": 0.0
+      }
+    },
+    {
+      "player_id": 4431492,
+      "name": "Roman Wilson",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 56.8,
+      "average": 5.16,
+      "median": 4.7,
+      "standard_deviation": 5.79,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 16.4,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 7.3,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 2,
+      "threshold_hit_rate_pct": 18.2,
+      "weekly_points": {
+        "1": 5.6,
+        "2": 7.8,
+        "3": 15.0,
+        "4": 16.4,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 7.3,
+        "12": 4.7
       }
     },
     {
@@ -7366,68 +7445,6 @@
       }
     },
     {
-      "player_id": 4702555,
-      "name": "Jonah Coleman",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 97.8,
-      "average": 9.78,
-      "median": 4.45,
-      "standard_deviation": 11.53,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 34.9,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 14.8,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 3,
-      "threshold_hit_rate_pct": 30.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 14.8,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 8.9,
-        "8": 20.4,
-        "9": 18.8,
-        "11": 34.9
-      }
-    },
-    {
-      "player_id": 4568490,
-      "name": "RJ Harvey",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 67.4,
-      "average": 6.74,
-      "median": 4.4,
-      "standard_deviation": 7.13,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 19.3,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 10.7,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 8.1,
-        "2": 0.0,
-        "3": 10.7,
-        "4": 19.3,
-        "5": 0.7,
-        "6": 14.6,
-        "7": 14.0,
-        "8": 0.0,
-        "9": 0.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4428850,
       "name": "Dontayvion Wicks",
       "position": "WR",
@@ -7741,37 +7758,6 @@
       }
     },
     {
-      "player_id": 4600981,
-      "name": "Pat Bryant",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 53.7,
-      "average": 5.37,
-      "median": 3.9,
-      "standard_deviation": 5.74,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 15.6,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 7.7,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
-      "weekly_points": {
-        "1": 8.2,
-        "2": 1.6,
-        "3": 14.4,
-        "4": 7.7,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "9": 15.6,
-        "11": 6.2
-      }
-    },
-    {
       "player_id": 3045523,
       "name": "Kendrick Bourne",
       "position": "WR",
@@ -7959,6 +7945,38 @@
         "9": -0.3,
         "10": 3.7,
         "11": 4.2
+      }
+    },
+    {
+      "player_id": 4241985,
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 62.5,
+      "average": 5.68,
+      "median": 3.6,
+      "standard_deviation": 4.91,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 15.4,
+      "lower_quartile_score": 1.3,
+      "upper_quartile_score": 7.2,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 3.6,
+        "2": 3.6,
+        "3": 6.3,
+        "4": 7.2,
+        "5": 15.4,
+        "6": 13.6,
+        "7": 8.3,
+        "8": 1.3,
+        "9": 3.2,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -8687,37 +8705,6 @@
       }
     },
     {
-      "player_id": 3051876,
-      "name": "Evan Engram",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 53.3,
-      "average": 5.33,
-      "median": 3.0,
-      "standard_deviation": 5.15,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 14.3,
-      "lower_quartile_score": 1.2,
-      "upper_quartile_score": 7.3,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 2,
-      "threshold_hit_rate_pct": 20.0,
-      "weekly_points": {
-        "1": 14.3,
-        "2": 2.7,
-        "3": 0.0,
-        "4": 1.6,
-        "5": 9.5,
-        "6": 3.3,
-        "7": 1.2,
-        "8": 0.0,
-        "9": 7.3,
-        "11": 13.4
-      }
-    },
-    {
       "player_id": -16020,
       "name": "Jets D/ST",
       "position": "D/ST",
@@ -8910,37 +8897,6 @@
       }
     },
     {
-      "player_id": 4431492,
-      "name": "Roman Wilson",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 52.1,
-      "average": 5.21,
-      "median": 2.8,
-      "standard_deviation": 6.07,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 16.4,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 7.3,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 2,
-      "threshold_hit_rate_pct": 20.0,
-      "weekly_points": {
-        "1": 5.6,
-        "2": 7.8,
-        "3": 15.0,
-        "4": 16.4,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.0,
-        "11": 7.3
-      }
-    },
-    {
       "player_id": 4426553,
       "name": "Davis Allen",
       "position": "TE",
@@ -9089,6 +9045,38 @@
         "9": 0.0,
         "10": 0.0,
         "11": 15.4
+      }
+    },
+    {
+      "player_id": 3051876,
+      "name": "Evan Engram",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 53.3,
+      "average": 4.85,
+      "median": 2.7,
+      "standard_deviation": 5.15,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 14.3,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 7.3,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 2,
+      "threshold_hit_rate_pct": 18.2,
+      "weekly_points": {
+        "1": 14.3,
+        "2": 2.7,
+        "3": 0.0,
+        "4": 1.6,
+        "5": 9.5,
+        "6": 3.3,
+        "7": 1.2,
+        "8": 0.0,
+        "9": 7.3,
+        "11": 13.4,
+        "12": 0.0
       }
     },
     {
@@ -9460,37 +9448,6 @@
         "9": 0.0,
         "10": 0.0,
         "11": 1.8
-      }
-    },
-    {
-      "player_id": 4686472,
-      "name": "Marvin Mims Jr.",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 25.9,
-      "average": 2.59,
-      "median": 2.2,
-      "standard_deviation": 2.62,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 7.6,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 3.3,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 2.9,
-        "6": 3.3,
-        "7": 7.6,
-        "8": 4.9,
-        "9": 1.5,
-        "11": 5.7
       }
     },
     {
@@ -10029,6 +9986,38 @@
       }
     },
     {
+      "player_id": 4686472,
+      "name": "Marvin Mims Jr.",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 25.7,
+      "average": 2.34,
+      "median": 1.5,
+      "standard_deviation": 2.63,
+      "lowest_recorded_week": -0.2,
+      "highest_recorded_week": 7.6,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 3.3,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 2.9,
+        "6": 3.3,
+        "7": 7.6,
+        "8": 4.9,
+        "9": 1.5,
+        "11": 5.7,
+        "12": -0.2
+      }
+    },
+    {
       "player_id": -16010,
       "name": "Titans D/ST",
       "position": "D/ST",
@@ -10464,37 +10453,6 @@
       }
     },
     {
-      "player_id": 4431280,
-      "name": "Troy Franklin",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 19.5,
-      "average": 1.95,
-      "median": 1.25,
-      "standard_deviation": 1.97,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 6.1,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 3.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.5,
-        "2": 3.7,
-        "3": 3.1,
-        "4": 0.0,
-        "5": 3.6,
-        "6": 1.2,
-        "7": 0.0,
-        "8": 1.3,
-        "9": 6.1,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 16002,
       "name": "Kyle Juszczyk",
       "position": "RB",
@@ -10586,6 +10544,38 @@
         "10": 0.0,
         "11": 0.0,
         "12": 0.0
+      }
+    },
+    {
+      "player_id": 4431280,
+      "name": "Troy Franklin",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 20.6,
+      "average": 1.87,
+      "median": 1.2,
+      "standard_deviation": 1.89,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 6.1,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 3.1,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.5,
+        "2": 3.7,
+        "3": 3.1,
+        "4": 0.0,
+        "5": 3.6,
+        "6": 1.2,
+        "7": 0.0,
+        "8": 1.3,
+        "9": 6.1,
+        "11": 0.0,
+        "12": 1.1
       }
     },
     {
@@ -11093,6 +11083,38 @@
       }
     },
     {
+      "player_id": 4568490,
+      "name": "RJ Harvey",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 67.4,
+      "average": 6.13,
+      "median": 0.7,
+      "standard_deviation": 7.07,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 19.3,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 10.7,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 1,
+      "threshold_hit_rate_pct": 9.1,
+      "weekly_points": {
+        "1": 8.1,
+        "2": 0.0,
+        "3": 10.7,
+        "4": 19.3,
+        "5": 0.7,
+        "6": 14.6,
+        "7": 14.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
       "player_id": 4708049,
       "name": "Gavin Bartholomew",
       "position": "TE",
@@ -11208,6 +11230,38 @@
       }
     },
     {
+      "player_id": 4362748,
+      "name": "Tyler Badie",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 18.0,
+      "average": 1.64,
+      "median": 0.6,
+      "standard_deviation": 2.44,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 7.9,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 1.1,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 4.9,
+        "3": 2.4,
+        "4": 7.9,
+        "5": 1.1,
+        "6": 0.6,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 1.1
+      }
+    },
+    {
       "player_id": 3886598,
       "name": "Jauan Jennings",
       "position": "WR",
@@ -11272,37 +11326,6 @@
       }
     },
     {
-      "player_id": 4362748,
-      "name": "Tyler Badie",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 16.9,
-      "average": 1.69,
-      "median": 0.3,
-      "standard_deviation": 2.55,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 7.9,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 1.1,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 4.9,
-        "3": 2.4,
-        "4": 7.9,
-        "5": 1.1,
-        "6": 0.6,
-        "7": 0.0,
-        "8": 0.0,
-        "9": 0.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4605841,
       "name": "Nate Carter",
       "position": "RB",
@@ -11324,6 +11347,31 @@
         "10": 0.6,
         "11": 0.3,
         "12": 0.0
+      }
+    },
+    {
+      "player_id": 4391845,
+      "name": "Cody Schrader",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 7,
+      "weeks_with_records": 4,
+      "total_points": 3.0,
+      "average": 0.75,
+      "median": 0.15,
+      "standard_deviation": 1.13,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 2.7,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.3,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.3,
+        "12": 2.7
       }
     },
     {
@@ -11956,18 +12004,18 @@
       "position": "TE",
       "position_id": 4,
       "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 30.3,
-      "average": 3.03,
+      "weeks_with_records": 11,
+      "total_points": 31.9,
+      "average": 2.9,
       "median": 0.0,
-      "standard_deviation": 4.53,
+      "standard_deviation": 4.34,
       "lowest_recorded_week": 0.0,
       "highest_recorded_week": 12.8,
       "lower_quartile_score": 0.0,
-      "upper_quartile_score": 1.3,
+      "upper_quartile_score": 1.6,
       "position_threshold": 10,
       "weeks_meeting_threshold": 1,
-      "threshold_hit_rate_pct": 10.0,
+      "threshold_hit_rate_pct": 9.1,
       "weekly_points": {
         "1": 0.0,
         "2": 12.8,
@@ -11978,7 +12026,8 @@
         "7": 0.0,
         "8": 8.4,
         "9": 0.0,
-        "11": 1.3
+        "11": 1.3,
+        "12": 1.6
       }
     },
     {
@@ -12921,6 +12970,38 @@
       }
     },
     {
+      "player_id": 3911853,
+      "name": "Adam Trautman",
+      "position": "TE",
+      "position_id": 4,
+      "team_id": 7,
+      "weeks_with_records": 11,
+      "total_points": 22.3,
+      "average": 2.03,
+      "median": 0.0,
+      "standard_deviation": 2.43,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 7.1,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 3.5,
+      "position_threshold": 10,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 3.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 5.0,
+        "9": 3.5,
+        "11": 7.1,
+        "12": 3.7
+      }
+    },
+    {
       "player_id": 4430871,
       "name": "Sean Tucker",
       "position": "RB",
@@ -12949,37 +13030,6 @@
         "8": 0.0,
         "9": 0.0,
         "11": 0.0
-      }
-    },
-    {
-      "player_id": 3911853,
-      "name": "Adam Trautman",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 18.6,
-      "average": 1.86,
-      "median": 0.0,
-      "standard_deviation": 2.49,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 7.1,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 3.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 3.0,
-        "2": 0.0,
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 5.0,
-        "9": 3.5,
-        "11": 7.1
       }
     },
     {
@@ -13200,15 +13250,15 @@
       "position": "WR",
       "position_id": 3,
       "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 15.9,
-      "average": 1.59,
+      "weeks_with_records": 11,
+      "total_points": 17.6,
+      "average": 1.6,
       "median": 0.0,
-      "standard_deviation": 2.78,
+      "standard_deviation": 2.65,
       "lowest_recorded_week": 0.0,
       "highest_recorded_week": 8.8,
       "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
+      "upper_quartile_score": 1.7,
       "position_threshold": 15,
       "weeks_meeting_threshold": 0,
       "threshold_hit_rate_pct": 0.0,
@@ -13222,7 +13272,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 1.7
       }
     },
     {
@@ -13773,37 +13824,6 @@
       }
     },
     {
-      "player_id": 4035656,
-      "name": "Ben Skowronek",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 13.2,
-      "average": 1.32,
-      "median": 0.0,
-      "standard_deviation": 2.73,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 9.3,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 1.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 1.2,
-        "3": 9.3,
-        "4": 1.7,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 1.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4372414,
       "name": "Elijah Moore",
       "position": "WR",
@@ -13980,6 +14000,38 @@
         "9": 6.0,
         "10": 0.0,
         "11": 0.0
+      }
+    },
+    {
+      "player_id": 4035656,
+      "name": "Ben Skowronek",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 13.2,
+      "average": 1.2,
+      "median": 0.0,
+      "standard_deviation": 2.63,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 9.3,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 1.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 1.2,
+        "3": 9.3,
+        "4": 1.7,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 1.0,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -14445,6 +14497,38 @@
         "9": 0.0,
         "10": 0.0,
         "11": 7.4
+      }
+    },
+    {
+      "player_id": 3116407,
+      "name": "Mason Rudolph",
+      "position": "QB",
+      "position_id": 1,
+      "team_id": 23,
+      "weeks_with_records": 11,
+      "total_points": 10.76,
+      "average": 0.98,
+      "median": 0.0,
+      "standard_deviation": 2.77,
+      "lowest_recorded_week": -0.2,
+      "highest_recorded_week": 9.68,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 20,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.3,
+        "3": 0.0,
+        "4": 0.0,
+        "5": -0.2,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.98,
+        "11": 0.0,
+        "12": 9.68
       }
     },
     {
@@ -14942,35 +15026,6 @@
       }
     },
     {
-      "player_id": 4428119,
-      "name": "Lew Nichols",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks_with_records": 8,
-      "total_points": 6.1,
-      "average": 0.76,
-      "median": 0.0,
-      "standard_deviation": 1.8,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 5.5,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "3": 0.0,
-        "4": 0.0,
-        "5": 0.6,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 5.5,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4702559,
       "name": "Oscar Delp",
       "position": "TE",
@@ -15363,6 +15418,36 @@
       }
     },
     {
+      "player_id": 4428119,
+      "name": "Lew Nichols",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks_with_records": 9,
+      "total_points": 6.1,
+      "average": 0.68,
+      "median": 0.0,
+      "standard_deviation": 1.72,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 5.5,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.6,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 5.5,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
       "player_id": 4691889,
       "name": "Greg Desrosiers Jr.",
       "position": "RB",
@@ -15730,36 +15815,6 @@
       }
     },
     {
-      "player_id": 4039057,
-      "name": "Lil'Jordan Humphrey",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 7,
-      "weeks_with_records": 9,
-      "total_points": 5.3,
-      "average": 0.59,
-      "median": 0.0,
-      "standard_deviation": 0.84,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 2.0,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 1.5,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.0,
-        "3": 0.0,
-        "5": 1.8,
-        "6": 0.0,
-        "7": 1.5,
-        "8": 2.0,
-        "9": 0.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 15835,
       "name": "Zach Ertz",
       "position": "TE",
@@ -15942,6 +15997,37 @@
         "9": 0.0,
         "10": 0.0,
         "11": 0.0
+      }
+    },
+    {
+      "player_id": 4039057,
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 7,
+      "weeks_with_records": 10,
+      "total_points": 5.3,
+      "average": 0.53,
+      "median": 0.0,
+      "standard_deviation": 0.82,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 2.0,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "5": 1.8,
+        "6": 0.0,
+        "7": 1.5,
+        "8": 2.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -16400,11 +16486,11 @@
       "position": "RB",
       "position_id": 2,
       "team_id": 7,
-      "weeks_with_records": 10,
-      "total_points": 3.8,
+      "weeks_with_records": 11,
+      "total_points": 4.2,
       "average": 0.38,
       "median": 0.0,
-      "standard_deviation": 0.65,
+      "standard_deviation": 0.62,
       "lowest_recorded_week": 0.0,
       "highest_recorded_week": 2.0,
       "lower_quartile_score": 0.0,
@@ -16422,33 +16508,8 @@
         "7": 0.0,
         "8": 2.0,
         "9": 0.0,
-        "11": 0.3
-      }
-    },
-    {
-      "player_id": 4035198,
-      "name": "Brandon Johnson",
-      "position": "WR",
-      "position_id": 3,
-      "team_id": 23,
-      "weeks_with_records": 5,
-      "total_points": 1.9,
-      "average": 0.38,
-      "median": 0.0,
-      "standard_deviation": 0.76,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 1.9,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "6": 0.0,
-        "7": 0.0,
-        "8": 1.9,
-        "10": 0.0,
-        "11": 0.0
+        "11": 0.3,
+        "12": 0.4
       }
     },
     {
@@ -16597,6 +16658,33 @@
         "9": 2.32,
         "10": 0.0,
         "11": 0.0
+      }
+    },
+    {
+      "player_id": 4035198,
+      "name": "Brandon Johnson",
+      "position": "WR",
+      "position_id": 3,
+      "team_id": 23,
+      "weeks_with_records": 6,
+      "total_points": 1.9,
+      "average": 0.32,
+      "median": 0.0,
+      "standard_deviation": 0.71,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 1.9,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 1.9,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -17268,36 +17356,6 @@
       }
     },
     {
-      "player_id": 4037457,
-      "name": "Travis Homer",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 23,
-      "weeks_with_records": 9,
-      "total_points": 1.5,
-      "average": 0.17,
-      "median": 0.0,
-      "standard_deviation": 0.51,
-      "lowest_recorded_week": -0.1,
-      "highest_recorded_week": 1.6,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "2": 1.6,
-        "3": 0.0,
-        "4": -0.1,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4244049,
       "name": "Quintin Morris",
       "position": "TE",
@@ -17381,6 +17439,37 @@
         "9": 1.6,
         "10": 0.0,
         "11": 0.0
+      }
+    },
+    {
+      "player_id": 4037457,
+      "name": "Travis Homer",
+      "position": "RB",
+      "position_id": 2,
+      "team_id": 23,
+      "weeks_with_records": 10,
+      "total_points": 1.5,
+      "average": 0.15,
+      "median": 0.0,
+      "standard_deviation": 0.48,
+      "lowest_recorded_week": -0.1,
+      "highest_recorded_week": 1.6,
+      "lower_quartile_score": 0.0,
+      "upper_quartile_score": 0.0,
+      "position_threshold": 15,
+      "weeks_meeting_threshold": 0,
+      "threshold_hit_rate_pct": 0.0,
+      "weekly_points": {
+        "2": 1.6,
+        "3": 0.0,
+        "4": -0.1,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -17542,37 +17631,6 @@
       }
     },
     {
-      "player_id": 2975674,
-      "name": "Robert Tonyan",
-      "position": "TE",
-      "position_id": 4,
-      "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 1.2,
-      "average": 0.12,
-      "median": 0.0,
-      "standard_deviation": 0.36,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 1.2,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "position_threshold": 10,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "1": 0.0,
-        "2": 0.0,
-        "3": 1.2,
-        "4": 0.0,
-        "5": 0.0,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 0.0,
-        "10": 0.0,
-        "11": 0.0
-      }
-    },
-    {
       "player_id": 4685555,
       "name": "Nicholas Singleton",
       "position": "RB",
@@ -17635,58 +17693,35 @@
       }
     },
     {
-      "player_id": 3116407,
-      "name": "Mason Rudolph",
-      "position": "QB",
-      "position_id": 1,
+      "player_id": 2975674,
+      "name": "Robert Tonyan",
+      "position": "TE",
+      "position_id": 4,
       "team_id": 23,
-      "weeks_with_records": 10,
-      "total_points": 1.08,
+      "weeks_with_records": 11,
+      "total_points": 1.2,
       "average": 0.11,
       "median": 0.0,
-      "standard_deviation": 0.31,
-      "lowest_recorded_week": -0.2,
-      "highest_recorded_week": 0.98,
+      "standard_deviation": 0.34,
+      "lowest_recorded_week": 0.0,
+      "highest_recorded_week": 1.2,
       "lower_quartile_score": 0.0,
       "upper_quartile_score": 0.0,
-      "position_threshold": 20,
+      "position_threshold": 10,
       "weeks_meeting_threshold": 0,
       "threshold_hit_rate_pct": 0.0,
       "weekly_points": {
         "1": 0.0,
-        "2": 0.3,
-        "3": 0.0,
+        "2": 0.0,
+        "3": 1.2,
         "4": 0.0,
-        "5": -0.2,
+        "5": 0.0,
         "6": 0.0,
         "7": 0.0,
         "8": 0.0,
-        "10": 0.98,
-        "11": 0.0
-      }
-    },
-    {
-      "player_id": 4391845,
-      "name": "Cody Schrader",
-      "position": "RB",
-      "position_id": 2,
-      "team_id": 7,
-      "weeks_with_records": 3,
-      "total_points": 0.3,
-      "average": 0.1,
-      "median": 0.0,
-      "standard_deviation": 0.14,
-      "lowest_recorded_week": 0.0,
-      "highest_recorded_week": 0.3,
-      "lower_quartile_score": 0.0,
-      "upper_quartile_score": 0.0,
-      "position_threshold": 15,
-      "weeks_meeting_threshold": 0,
-      "threshold_hit_rate_pct": 0.0,
-      "weekly_points": {
-        "8": 0.0,
-        "9": 0.0,
-        "11": 0.3
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -18155,7 +18190,7 @@
       "position": "WR",
       "position_id": 3,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -18177,7 +18212,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -18747,7 +18783,7 @@
       "position": "QB",
       "position_id": 1,
       "team_id": 7,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -18769,7 +18805,8 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -19533,7 +19570,7 @@
       "position": "QB",
       "position_id": 1,
       "team_id": 7,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -19555,7 +19592,8 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -21060,7 +21098,7 @@
       "position": "QB",
       "position_id": 1,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -21082,7 +21120,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -21445,7 +21484,7 @@
       "position": "TE",
       "position_id": 4,
       "team_id": 7,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -21467,7 +21506,8 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -22407,7 +22447,7 @@
       "position": "RB",
       "position_id": 2,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -22429,7 +22469,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -22617,7 +22658,7 @@
       "position": "QB",
       "position_id": 1,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -22639,7 +22680,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -22973,7 +23015,7 @@
       "position": "WR",
       "position_id": 3,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -22995,7 +23037,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -23004,7 +23047,7 @@
       "position": "RB",
       "position_id": 2,
       "team_id": 23,
-      "weeks_with_records": 10,
+      "weeks_with_records": 11,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -23026,7 +23069,8 @@
         "7": 0.0,
         "8": 0.0,
         "10": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -23213,7 +23257,7 @@
       "position": "TE",
       "position_id": 4,
       "team_id": 7,
-      "weeks_with_records": 9,
+      "weeks_with_records": 10,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -23234,7 +23278,8 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
@@ -23243,7 +23288,7 @@
       "position": "WR",
       "position_id": 3,
       "team_id": 7,
-      "weeks_with_records": 8,
+      "weeks_with_records": 9,
       "total_points": 0.0,
       "average": 0.0,
       "median": 0.0,
@@ -23263,7 +23308,8 @@
         "7": 0.0,
         "8": 0.0,
         "9": 0.0,
-        "11": 0.0
+        "11": 0.0,
+        "12": 0.0
       }
     },
     {
